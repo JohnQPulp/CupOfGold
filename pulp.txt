@@ -2042,10 +2042,10 @@ His mother wrote poetry which was a kind of summary of the sermons. Her verses w
 
 
 ————————————————————————————————————
-
+n:t-jf=Father Flower
 
 James Flower had been reared in an atmosphere of—
-n:t-jm=Mother Flower; n:t-jf=Father Flower
+n:t-jm=Mother Flower
 
 "I must be walking to my publisher's now, Helen!"
 s=t-jf
@@ -3038,7 +3038,7 @@ The man cowered and almost dropped his weapon. "Yes, sir. I'll send your word, s
 s=t-hal
 
 He blew a little silver call, and when a servant in green lace came to the door, he said:
-s=;n:t-ser=?
+n:t-ser=?;s=
 
 "A young gentleman to see His Excellency."
 s=t-ser
@@ -3155,7 +3155,7 @@ s=e
 
 
 The methodic twanging of the harp had ceased, and now the curtain of the door was thrust aside and a slender girl entered the room.
-s=;n:c=Elizabeth
+n:c=Elizabeth;s=
 
 It was difficult to see her in this dark place.
 
@@ -3431,7 +3431,7 @@ s=h
 s=t-sailor
 
 And on that night, Henry found the buccaneer drinking in a hovel on the beach.
-s=h;n:grippo=Grippo
+n:grippo=Grippo;s=h
 
 The man was nearly black; two fat wrinkles cut each cheek as though a silken cord were pulled tight against the flesh until it disappeared.
 
