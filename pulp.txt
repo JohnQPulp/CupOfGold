@@ -946,10 +946,13 @@ s=
 "I have five pounds for you, son. It's little enough; I suppose I might give you a small matter more, but not enough to help much. And here is a letter recommending you to my brother, Sir Edward."
 s=r
 
-"He went out before the king was murdered, and for some reason — perhaps because he was quiet — old Cromwell has let him stay. If he is there when you come to Jamaica, you may present this letter;"
+"He went out before the king was murdered, and for some reason — perhaps because he was quiet — old Cromwell has let him stay."
 
 
-"but it's a cold, strange man who takes great pride in his rich acquaintance, and might be a little annoyed with a poor relative. And so I do not know that good will come of this letter."
+"If he is there when you come to Jamaica, you may present this letter; but it's a cold, strange man who takes great pride in his rich acquaintance, and might be a little annoyed with a poor relative."
+
+
+"And so I do not know that good will come of this letter."
 
 
 "He would dislike you unless you were able to see nothing funny in a man who looks like me, only strides about with a silver sword and plumes on his head. I laughed once, and he has not been a near brother to me since."
@@ -1252,10 +1255,7 @@ For more than a century Britain had watched with impatience while Spain and Port
 It was a bitter thing to England there imprisoned by the sea. But finally Drake had burst the barrier and sailed the forbidden oceans in his little *Golden Hind*.
 
 
-The great red ships of Spain considered Drake only a tiny, stinging fly, an annoying thing to be killed for its buzzing;
-
-
-but when the fly had gutted their floating castles, burned a town or two, and even set a trap for the sacred treasure train across the isthmus, they were forced to alter their conception.
+The great red ships of Spain considered Drake only a tiny, stinging fly, an annoying thing to be killed for its buzzing; but when the fly had gutted their floating castles, burned a town or two, and even set a trap for the sacred treasure train across the isthmus, they were forced to alter their conception.
 
 
 The fly was a hornet, a scorpion, a viper, a dragon. They named him El Draque, and a fear of the English grew up in the New World.
@@ -1285,13 +1285,10 @@ The outsailing ships were crowded with colonists; gamblers, touts, pimps, dissen
 The slave ships of Portugal and the Netherlands could not move black flesh from Africa fast enough to supply the increasing demands of those who clamored for workers.
 
 
-Then felons were gathered out of the prisons, and vagrants from the streets of London; beggars who stood all day before the church doors; those suspected of witchcraft or treason or leprosy or papism;
+Then felons were gathered out of the prisons, and vagrants from the streets of London; beggars who stood all day before the church doors; those suspected of witchcraft or treason or leprosy or papism; and all these were sent to work the plantations under orders of indenture.
 
 
-and all these were sent to work the plantations under orders of indenture. It was a brilliant plan;
-
-
-the labor needed was supplied, and the crown actually received money for the worthless bodies of those it once fed and clothed and hanged.
+It was a brilliant plan; the labor needed was supplied, and the crown actually received money for the worthless bodies of those it once fed and clothed and hanged.
 
 
 More could be made of this. Whole sheaves of orders of indenture, ready sealed by the government, with blank spaces for names, were sold to certain captains of ships.
@@ -1492,10 +1489,7 @@ s=t
 Breakfast over, they went into the street, busy with the trade of carters and orange boys and peddling old women.
 s=
 
-The town was crying its thousand wares, and it seemed that delicate things from the far, unearthly corners of the world had been brought by the ships and dumped like clods on the dusty counters of Cardiff: lemons; cases of coffee and tea and cocoa; bright Eastern rugs;
-
-
-and the weird medicines of India to make you see things that are not, and to feel pleasures that fly away again.
+The town was crying its thousand wares, and it seemed that delicate things from the far, unearthly corners of the world had been brought by the ships and dumped like clods on the dusty counters of Cardiff: lemons; cases of coffee and tea and cocoa; bright Eastern rugs; and the weird medicines of India to make you see things that are not, and to feel pleasures that fly away again.
 
 
 Standing in the streets were barrels and earthen jugs of wine from the banks of the Loire and the Peruvian slopes.
@@ -1945,10 +1939,7 @@ Henry saw it with eyes that looked out on enchantment.
 They passed that island, and another and another, until, at last, in the blackness of a tropic early morning, the ship came in to Barbados. Its anchors splashed into the sea and went tugging down with the hawser flying behind them.
 
 
-On the shores there was lettuce green jungle as on the little islands, and farther back, plantations with straight laid rows and white houses with red roofs;
-
-
-farther still, the red soil showing like wounds through the jungle of the hills; and far behind, mountains that rose sharp and hard with the appearance of strong gray teeth.
+On the shores there was lettuce green jungle as on the little islands, and farther back, plantations with straight laid rows and white houses with red roofs; farther still, the red soil showing like wounds through the jungle of the hills; and far behind, mountains that rose sharp and hard with the appearance of strong gray teeth.
 
 
 Small dugout boats came to them, bearing rich fruits and piles of trussed up fowls. They came to sell, and to buy or steal that which the ship carried.
@@ -2191,10 +2182,13 @@ It was so placed that no slave could look out of his hovel without seeing the bl
 He was accustomed to stand and gaze at it, head cocked to one side, as an artist might look at his new finished work.
 
 
-The planter and the boy seated themselves. The slaves were herded into the square. And Henry saw a naked black figure squirm and writhe at the end of a rope while the Negroes rocked themselves back and forth on the ground and moaned;
+The planter and the boy seated themselves.
 
 
-while the white slaves gritted their teeth and cursed harshly to keep from shrieking. The Caribs squatted on their hams and watched with no particular interest and no fear.
+The slaves were herded into the square. And Henry saw a naked black figure squirm and writhe at the end of a rope while the Negroes rocked themselves back and forth on the ground and moaned; while the white slaves gritted their teeth and cursed harshly to keep from shrieking.
+
+
+The Caribs squatted on their hams and watched with no particular interest and no fear.
 
 
 Thus they might squat and watch the fire which cooked their food.
@@ -2617,10 +2611,7 @@ And Paulette knew — had she not been told? — that in their homes they lay in
 This was the blessed state she dared to hope for. And her body was not enough, she knew.
 
 
-Often it failed in its soft potency. If she fed him full of love, he did not come again to her bower for a time;
-
-
-and when she refused him to make his passion mount, either he went sullenly away or laughed and flung her roughly on the low, palm couch.
+Often it failed in its soft potency. If she fed him full of love, he did not come again to her bower for a time; and when she refused him to make his passion mount, either he went sullenly away or laughed and flung her roughly on the low, palm couch.
 
 
 She must cast about for some compelling force, some very powerful means to make him marry her.
@@ -2638,10 +2629,7 @@ In her mind she saw him fondle the wheel with the strong, dear touch of lover's 
 She must make him love Paulette more than the ships, more than the sea, or anything on earth, so that he would marry her.
 
 
-Then she could walk haughtily among the huts and spit at the slaves; then she need never think of grubbing in the earth or bearing strong black children;
-
-
-then she would have red cloth to wear, and a silver chain to go about her neck.
+Then she could walk haughtily among the huts and spit at the slaves; then she need never think of grubbing in the earth or bearing strong black children; then she would have red cloth to wear, and a silver chain to go about her neck.
 
 
 It was even possible that once in a long while her dinner might be brought to her while she lay in bed, pretending to be ill.
@@ -3319,10 +3307,7 @@ Port Royal bore the same resemblance to a city as the Palace of the Lieutenant-G
 The streets were only narrow alleys lined with dirty wooden houses.
 
 
-And each house had a balcony above the street where people sat and stared at Henry as he passed;
-
-
-stared not with interest, but wearily, as men in sickness watch flies crawling on the ceiling.
+And each house had a balcony above the street where people sat and stared at Henry as he passed; stared not with interest, but wearily, as men in sickness watch flies crawling on the ceiling.
 
 
 One street seemed to have no inhabitants save only women — black women, and white, and gray women, with fever written on their hollow cheeks.
@@ -3565,19 +3550,13 @@ There was a way of smoking meat by burning small bits of fat and flesh in the fi
 This made the meat more savory than usual. It was called the "boucan" process, and from it the pirates were named.
 
 
-But after a time these hunters came out of the woods in little, careful groups;
-
-
-then bands formed, and then whole fleets of eight or ten vessels.
+But after a time these hunters came out of the woods in little, careful groups; then bands formed, and then whole fleets of eight or ten vessels.
 
 
 And finally thousands assembled in Tortuga, and from that spot of safety buzzed about the flanks of Spain.
 
 
-And Spain could not combat them. Did she hang ten, a hundred joined their ranks;
-
-
-so she fortified her towns and sent her treasures on the sea under the protection of warships filled with soldiers.
+And Spain could not combat them. Did she hang ten, a hundred joined their ranks; so she fortified her towns and sent her treasures on the sea under the protection of warships filled with soldiers.
 
 
 The numberless vessels of the Spanish colonies were nearly all driven from the sea by the fierce buccaneers.
@@ -3955,10 +3934,7 @@ These things he had experienced, and there was not even content.
 The nameless craving in him grew and flexed its claws against his heart.
 
 
-He had thought the adulation of the Brotherhood might salve the wound of his desire;
-
-
-that when the pirates saw the results of his planning and marveled at them, he would be pleased and flattered.
+He had thought the adulation of the Brotherhood might salve the wound of his desire; that when the pirates saw the results of his planning and marveled at them, he would be pleased and flattered.
 
 
 And this thing happened. The men fairly fawned on him, and he found that he despised them for it and considered them fools to be taken with such simple things.
@@ -3973,10 +3949,7 @@ The craving of his heart must lie crouched within him.
 All his fears and sorrows and conceits, his failures and little weaknesses, must be concealed.
 
 
-These, his followers, had gathered to the cry of his success;
-
-
-they would leave him at the first small sign of weakness.
+These, his followers, had gathered to the cry of his success; they would leave him at the first small sign of weakness.
 
 
 While he was engaged in winning plunder, a little rumor had come stealthily across the isthmus, had floated among the islands and stolen aboard the ships.
@@ -3994,19 +3967,13 @@ Thus said the whispering. The voice grew and grew until men in the taverns drank
 Young seamen whispered of her in the dog watch. "There is a woman in the Cup of Gold and all men fall before her as heathen kneel before the sun."
 
 
-They spoke softly of her in the streets of Goaves. No one had seen her;
+They spoke softly of her in the streets of Goaves. No one had seen her; no one could tell the tint of her cheeks or the color of her hair.
 
 
-no one could tell the tint of her cheeks or the color of her hair.
+Yet, in a few years, every man in the wide, wild Main had drunk to the Red Saint, had dreamed of her; many had prayed to La Santa Roja.
 
 
-Yet, in a few years, every man in the wide, wild Main had drunk to the Red Saint, had dreamed of her;
-
-
-many had prayed to La Santa Roja. She became to every man the quest of his heart, bearing the image of some fair young girl left on a European beach to be gloriously colored by the years.
-
-
-And Panama was to every man the nest of his desire. It was a curious thing.
+She became to every man the quest of his heart, bearing the image of some fair young girl left on a European beach to be gloriously colored by the years. And Panama was to every man the nest of his desire. It was a curious thing.
 
 
 In time, no speech among gathered men could end without mention of La Santa Roja.
@@ -4579,10 +4546,10 @@ s=h
 "And I wonder, now, whether they have been fortifying themselves. Perhaps they, too, thought it a joke. Go, now, Coeur de Gris, and speak to no man of this. I make you my ambassador."
 
 
-"Let the men throw their gold away. Encourage gambling — here — now — on the ship. Give them an example at"
+"Let the men throw their gold away. Encourage gambling — here — now — on the ship. Give them an example at the taverns — an expensive example. Then they will be driven to go out with me."
 
 
-"the taverns — an expensive example. Then they will be driven to go out with me. I must have an army this time, my friend, and even then we may all die. Perhaps that is the chief joy of life — to risk it."
+"I must have an army this time, my friend, and even then we may all die. Perhaps that is the chief joy of life — to risk it."
 
 
 "Do my work well, Coeur de Gris, and it may be one day you will be richer than you can think."
@@ -4696,10 +4663,7 @@ Old Robert's face had grown more set. Around his mouth lived less a smile and mo
 Ah! the years had been lonely, barren things, with nothing left in their arms for him.
 
 
-He knew the meaning, now, of Gwenliana's words — that age brought nothing with it save a cold, restless waiting;
-
-
-a dull expectancy of a state that might not be imagined with any assurance.
+He knew the meaning, now, of Gwenliana's words — that age brought nothing with it save a cold, restless waiting; a dull expectancy of a state that might not be imagined with any assurance.
 
 
 Perhaps he waited for the time when Henry would come to him again. But that could scarcely be so.
@@ -4762,10 +4726,7 @@ s=w
 "For up here, Robert, that furtive hope the valley men call faith becomes a questionable thing."
 
 
-"Oh, without doubt, if there were a great many about me, and they all intoning endlessly the chant, 'There is a wise, kind God;"
-
-
-"surely we shall go on living after death,' then I might be preparing for the coming life."
+"Oh, without doubt, if there were a great many about me, and they all intoning endlessly the chant, 'There is a wise, kind God; surely we shall go on living after death,' then I might be preparing for the coming life."
 
 
 "But here, alone, halfway up the sky, I am afraid that death would interrupt my musing."
@@ -4828,13 +4789,13 @@ s=r
 "How often do men stand on hill tops with their arms outstretched, how often kneel in prayer and cross themselves. I pulled a bloom and threw it into the air, and the petals showered down about me."
 
 
-"It seemed that this act gathered up and told the whole story of my life in a gesture. Then the loveliness of white petals on black earth absorbed me, and I"
+"It seemed that this act gathered up and told the whole story of my life in a gesture. Then the loveliness of white petals on black earth absorbed me, and I forgot my symbol."
 
 
-"forgot my symbol. I threw another and another, until the ground was snowed with rose leaves. Suddenly I looked up and saw a dozen men standing about laughing at me. They had come by from church. 'Hee!'"
+"I threw another and another, until the ground was snowed with rose leaves. Suddenly I looked up and saw a dozen men standing about laughing at me. They had come by from church."
 
 
-"they said, 'Robert has lost his mind. Hee! his sense is slipping out of him. Ho! he is a child again, throwing rose petals.'"
+"'Hee!' they said, 'Robert has lost his mind. Hee! his sense is slipping out of him. Ho! he is a child again, throwing rose petals.'"
 
 
 "It seemed a crazed God who could allow this thing."
@@ -8137,10 +8098,7 @@ Now Ysobel came from the patio and stood beside him.
 "You must have been worth that much to me. I stated the price."
 
 
-"Wouldn't they skip well on the water!"
-
-
-she said. "How they would skip! Do you know, I can throw like a boy, with my arm bent."
+"Wouldn't they skip well on the water!" she said. "How they would skip! Do you know, I can throw like a boy, with my arm bent."
 
 
 "It was said you were capable," he announced.
@@ -8380,10 +8338,7 @@ Great ladies, dressed in the silken stuffs of China, were there because, after a
 Sailors were there because he was a sailor; little boys because he was a pirate; young girls because he was a hero; business men because he was rich; gangs of slaves because they had a holiday.
 
 
-There were prostitutes with berry juice squeezed on their lips, and with restless eyes searching the faces of unaccompanied men;
-
-
-and there were girl children whose hearts mothered the sacred little hope that the great man might just possibly look in their direction and find the understanding he must crave.
+There were prostitutes with berry juice squeezed on their lips, and with restless eyes searching the faces of unaccompanied men; and there were girl children whose hearts mothered the sacred little hope that the great man might just possibly look in their direction and find the understanding he must crave.
 
 
 In the crowd were sailors whose pride lay in the fact that they had heard Captain Morgan curse; tailors who had fitted breeches to his legs.
@@ -8920,10 +8875,7 @@ On a table beside the two men were bottles and glasses.
 "I ordered him to come in here tonight," said the King. "These sailors and pirates sometimes have a tale or two worth repeating."
 
 
-"You'll be disappointed in him. He is — lumpish, I think is the word. You get the impression that a great mass is planted before you;"
-
-
-"and he moves as though he pushed this own invisible cage ahead of him."
+"You'll be disappointed in him. He is — lumpish, I think is the word. You get the impression that a great mass is planted before you; and he moves as though he pushed this own invisible cage ahead of him."
 
 
 "You might create a title," John Evelyn suggested. "It seems wasteful to let a million get away without even trying."
@@ -9022,10 +8974,10 @@ The King leaned forward in his chair. "Which did you take? Tell me quickly."
 "I would have done that," cried the King. "You are right. I would have done just that. It was clever, sir. A toast, Captain — to foresight."
 
 
-"Your generalship, sir, runs to other matters than warfare, I see. You have never been defeated in battle, they say;"
+"Your generalship, sir, runs to other matters than warfare, I see. You have never been defeated in battle, they say; but tell me, Captain, were you ever defeated in love?"
 
 
-"but tell me, Captain, were you ever defeated in love? It is a good scene — an unusual scene — when a man admits himself bested in love."
+"It is a good scene — an unusual scene — when a man admits himself bested in love."
 
 
 "The admission is so utterly contrary to every masculine instinct. Another glass, sir, and tell us about your defeat."
