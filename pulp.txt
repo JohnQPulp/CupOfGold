@@ -788,7 +788,7 @@ Everywhere the sad, soundless ghosts flitted about their haunting. Henry walked 
 
 
 On the path there in the dark, Henry's mind went back to the first speech of Merlin. Should he see Elizabeth before he went sailing away?
-
+n:liz=Elizabeth
 
 He did not like her; sometimes he thought he had discovered hatred for her, and this he nursed and warmed only to feel it grow to a desire to see her.
 
@@ -4022,7 +4022,7 @@ At last Henry shook his head, as though to disengage it of cloying thoughts.
 
 
 He drew a pistol from his belt and gave it to the messenger.
-
+n:gov=Governor Don Juan Perez de Guzman
 
 "Take this to Don Juan Perez de Guzman, and say that this is a sample of the weapons we have used in laying Puerto Bello in the dust. But my other weapons are the strong hearts of my followers."
 s=h
@@ -5186,43 +5186,43 @@ Don Juan heard mass after mass, spoke to the frenzied people, and suggested a pr
 
 
 Horrible stories began to grow up — how the buccaneers were not men at all, but animal things with heads like crocodiles and lions' claws.
-
+n:dp=Don Pedro
 
 Grave men discussed such possibilities in the streets.
-
+n:dg=Don Guierrmo
 
 "The blessing of the day, Don Pedro."
-
+s=dg
 
 "The Virgin's blessing, Don Guierrmo."
-
+s=dp
 
 "What is your thought of these robbers?"
-
+s=dg
 
 "Ah! horrible, Don Guierrmo; horrible. They are said to be demons!"
-
+s=dp
 
 "But do you think it possible, as I have heard, that Morgan himself has three arms and wields a sword in each?"
-
+s=dg
 
 "Who can say, my friend! The devil has even greater powers than these, surely. Who can tell the limit of the Power of Evil? It is sacrilegious to consider it."
-
+s=dp
 
 And later:
-
+s=
 
 "You say you had it of Don Guierrmo? Surely he would not tell a questionable thing — a man of his wealth."
-
+n:du=Another Guy;s=du
 
 "I repeat only what he said — that Morgan could fire bullets from his fingertips — that he breathed out sulphurous flames. Don Guierrmo was certain of it."
-
+s=dp
 
 "I must tell my wife of this, Don Pedro."
-
+s=du
 
 So the tales grew until the people were half mad.
-
+s=
 
 Stories of cruelty in other captured cities were recalled, and the merchants who had shrugged before, turned pale on remembering.
 
@@ -5234,25 +5234,25 @@ At last, under pressure, Don Juan dragged himself from church long enough to sen
 
 
 A young officer craved audience.
-
+n:po=Officer
 
 "Well, young man," the Governor began, "what is your wish?"
-
+s=gov
 
 "If we had bulls, sir — if we had great numbers of wild bulls," the officer cried excitedly.
-
+s=po
 
 "Get them! Have the whole country scoured for bulls! Let the men gather a thousand of them! But what are we going to do with them?"
-
+s=gov
 
 "We should stampede them on the enemy, sir."
-
+s=po
 
 "Marvelous plan! Genius of an officer! Ah, my dear friend — a thousand bulls? A thousand? I jested. Have them gather ten thousand of the wildest bulls."
-
+s=gov
 
 The Governor ordered out his soldiers — two thousand of the King's troops — reviewed them, and then returned to kneel in the Cathedral.
-
+s=
 
 Don Juan was not afraid of fighting, but, like a prudent general, he was strengthening secondary defense.
 
@@ -5411,25 +5411,25 @@ They waited impatiently for his communication.
 
 
 There was the short, serious Captain Sawkins, whose eyes burned with the fervor of Puritanism.
-
+n:saw=Captain Sawkins; a:grippo=old
 
 He justified his murders with Scripture and offered prayers of thanksgiving from a gun carriage after a successful rape.
-
+n:r1=Holbert or Tegna or Sullivan or Meyther
 
 Black Grippo was there, an old man now, and sagging under his unimportant infamies.
-
+n:r2=A Different Guy
 
 He had come, finally, to regard his God as a patient policeman whom one might possibly outwit.
-
+n:r3=A Third Guy
 
 Lately he had reasoned that he might flee his sins by a general confession and reconfirmation in his mother church, and this he intended to do when one more expedition should provide him with a golden candlestick to bear to the confessing priest by way of peace offering.
-
+n:r4=Fourth Guy
 
 Holbert and Tegna, Sullivan and Meyther, sat on stools surrounding Captain Morgan.
-
+n:bur1=The Burgundian
 
 In a dark corner were two whom the whole Brotherhood knew as inseparables.
-
+n:bur2=The Other Burgundian
 
 They were called simply The Burgundian and The Other Burgundian.
 
@@ -5468,40 +5468,40 @@ Then he came to the rewards to the first man to sight an enemy; the first to kil
 
 
 "Now, sign," demanded Captain Morgan, and the men shuffled to the table and inscribed their names or marks.
-
+s=h
 
 When they were seated again, Sawkins spoke out.
-
+s=
 
 "The rewards are four times as great as custom demands. Why is that?"
-
+s=saw
 
 Sawkins' training had made him abhor waste.
-
+s=
 
 "The men will need bravery," Henry Morgan said calmly.
-
+s=h
 
 "They will need urging — for we go to Panama."
 
 
 "Panama!" It was almost a groan that answered him.
-
+s=saw
 
 "Yes, Panama. You have signed articles — and I hang deserters. Look to the spirits of your men."
-
+s=h
 
 "You know something of the wealth of Panama — enough to whet their tongues; and I know the dangers well enough to be sure they are surmountable."
 
 
 "But — Panama—" Sawkins began.
-
+s=saw
 
 "I hang deserters," Captain Morgan said, and he left the cabin.
-
+s=h
 
 Coeur de Gris remained to listen. He would report the temper of the men.
-
+s=
 
 There was long silence.
 
@@ -5510,55 +5510,55 @@ Every man was recalling the things he had heard about Panama.
 
 
 "It is dangerous," said Sawkins, at last, "dangerous, but goodly rich. And the captain swore he knew the plan of the city and all the dangers of the fight."
-
+s=saw
 
 These words brought sudden reassurance. If Captain Morgan knew, then they need not fear. Morgan was infallible.
-
+s=
 
 The room filled with nervous, quick conversation.
 
 
 "Money? They walk on it. I have heard that the Cathedral—"
-
+s=r1
 
 "But the jungle is impassable."
-
+s=r2
 
 "They have good wine in Panama. I tasted some that came from there."
-
+s=r1
 
 And all at once, every man seemed to think of the Red Saint.
-
+s=
 
 "Why, that woman is there — La Santa Roja."
-
+s=r1
 
 "Yes, that is right. She is there. Who do you suppose will get her?"
-
+s=r2
 
 "The captain's not a man for women at all. I think it will be Coeur de Gris, here. He is the most favored of us."
-
+s=r1
 
 "Well enough. Coeur de Gris is fated to die on the poniard of some man's jealousy. I would not mind killing him, because if I did not, someone else would. No, it might be my dagger."
-
+s=r2
 
 "What would you do with a woman like that? A rope's end wouldn't be the thing, I guess."
-
+s=r1
 
 "Well, to tell the truth, I have always found those fat doubloons the most perfect instruments of rape. They glitter so."
-
+s=r2
 
 "No, no. But see this. Nearly all women will repurchase their diamonds with their virtue. When you have the second, it is an easy thing to reacquire the first."
-
+s=r1
 
 "What does old One-arm say about it — The Other Burgundian? Hey! will you be taking the Red Saint for your fat friend there?"
-
+s=r2
 
 The Other Burgundian bowed.
-
+s=
 
 "There would be no need," he said.
-
+s=bur2
 
 "My friend is very capable. Why, I could tell a tale—" He turned to The Burgundian.
 
@@ -5567,10 +5567,10 @@ The Other Burgundian bowed.
 
 
 The Burgundian seemed trying to get through the wall, but he did manage a nod.
-
+n:bur1=Emil, The Burgundian
 
 "Then I will tell you gentlemen a story," The Other Burgundian began.
-
+s=bur2
 
 "There were four friends in Burgundy; three who squeezed a little sour milk from the dugs of art, and one who had possessions."
 
@@ -5633,7 +5633,7 @@ The Burgundian seemed trying to get through the wall, but he did manage a nod.
 
 
 ### II
-
+s=
 
 An army of flatboats was floating on the River Chagres, each one taxed to the limit of its buoyancy with the men of the Free Brotherhood.
 
@@ -5864,46 +5864,46 @@ Henry Morgan saw his staggering walk, and glanced at the trail ahead with indeci
 
 
 "Perhaps we should be resting here," he said. "The men are exhausted."
-
+s=h
 
 "But no. We must go on and go on," Coeur de Gris replied.
-
+s=f
 
 "If we stop here, the men will only be weaker when we start again."
 
 
 Henry Morgan mused: "I wonder why you are so avid in my mission. You move forward when even I begin to doubt myself. What is it that you expect to find in Panama, Coeur de Gris?"
-
+s=h
 
 "I expect to find nothing," the young man said. "Are you trying to trap me into a statement of disloyalty? I know the prize is yours before we arrive. I admit it, sir."
-
+s=f
 
 "But, you see, I am like a great, round stone set in motion down a hill, so much reason have I for going to Panama. You, sir, set me in motion."
 
 
 "It is strange that I should so want Panama," Henry said.
-
+s=h
 
 The flushed face of the lieutenant turned on him in anger.
-
+s=
 
 "You do not want Panama. It is the woman you want, not Panama."
-
+s=f
 
 His voice was as bitter as his words, and now he was pressing his palms against his temples.
-
+s=
 
 "It is true," the captain murmured. "It is true that I want the woman; but that is still more strange."
-
+s=h
 
 "Strange?" Wild resentment broke out in Coeur de Gris. He shouted, "Strange? Why is it strange to be lusting after a woman who is known to be beautiful? Would you call each one of these men strange, or every male thing on earth strange?"
-
+s=f
 
 "Or are you endowed with a godlike lust? Do you bear the body of a Titan? Strange! Yes, surely, my Captain; copulation and its contemplation are things completely unique among men!"
 
 
 Henry Morgan was bewildered, but there was a little terror in him also.
-
+s=
 
 He seemed to have witnessed the walking of a loathsome, unbelievable ghost.
 
@@ -5912,7 +5912,7 @@ Could it be that these men felt as he did?
 
 
 "But I think there is more than lust," he said.
-
+s=h
 
 "You cannot understand my yearning. It is as though I strove for some undreamed peace. This woman is the harbor of all my questing."
 
@@ -5930,7 +5930,7 @@ Could it be that these men felt as he did?
 
 
 Coeur de Gris was grasping his aching temples between his hands. "I do not understand!" he cried scornfully.
-
+s=f
 
 "Do you think I do not understand? I know; to your mind your feelings are new things, discoveries of fresh importance. Your failures are unprecedented."
 
@@ -5942,7 +5942,7 @@ Coeur de Gris was grasping his aching temples between his hands. "I do not under
 
 
 Captain Morgan had flushed under the lash of words.
-
+s=
 
 He did not believe it. It was monstrous to think that these men could feel as he did.
 
@@ -5951,13 +5951,13 @@ Such a comparison made him, somehow, unworthy.
 
 
 "You wonder why I say these things?" Coeur de Gris continued.
-
+s=f
 
 "I will tell you. The pain has made me mad, and I am going to die."
 
 
 He walked on silently for a little distance, then suddenly he screamed and fell heavily to the ground.
-
+s=
 
 For a full minute Captain Morgan looked at him. Then a great, harsh wave seemed to break forth in his chest.
 
@@ -5969,10 +5969,10 @@ Now he had dropped to his knees beside the silent figure.
 
 
 "Water!" he cried to the nearest buccaneer, and when the fellow only stared at him: "Water! bring water — water!"
-
+s=h
 
 His hand was hysterically jerking at a pistol in his belt. They brought him water in a hat.
-
+s=
 
 All the pirates saw their cold captain kneeling on the ground, stroking the damp, shining hair of Coeur de Gris.
 
@@ -5981,16 +5981,16 @@ The young man's eyes opened slowly and he tried to rise.
 
 
 "I am sorry, sir. The pain in my head, you know — The sun sucked out my wits. But you must get up, sir! The men will lose respect for you if they see you kneeling here."
-
+s=f
 
 "Lie still, boy! Lie quietly! You must not move yet. I am afraid. In a moment I thought you were dead, and all the world shriveled. Lie quietly!"
-
+s=h
 
 "Now I am glad. You must not move. Now we will take the Cup of Gold together, and it shall be a chalice of two handles."
 
 
 He lifted Coeur de Gris and carried him to the shade of a huge tree.
-
+s=
 
 The buccaneers rested on the ground while their lieutenant regained his strength.
 
@@ -5999,13 +5999,13 @@ Coeur de Gris was leaning back against the tree. He was smiling at the captain w
 
 
 "Am I like the Cockney?" Henry Morgan asked a little wistfully; "like the Cockney with fits?"
-
+s=h
 
 Coeur de Gris laughed.
-
+s=
 
 "You know nothing at all about the man. You might be proud to resemble him. I will tell you, for I know that to you he is only a figure of wood to take orders."
-
+s=f
 
 "The man's name is Jones. All his life he has wanted to be a preacher of the Gospel. He thought his fits were visitations of the Holy Ghost, testing him for some divine mission."
 
@@ -6032,19 +6032,19 @@ Coeur de Gris laughed.
 
 
 "But his fits—" said Henry Morgan. "His horrible fits — I have seen them."
-
+s=h
 
 Again the young man laughed.
-
+s=
 
 "The fits? Ah, the fits are a gift — an heirloom."
-
+s=f
 
 "And you think he feels?"
-
+s=h
 
 "Yes, perhaps he does."
-
+s=f
 
 "Remember, he married her to save her name, and kept her with him when he found what that name was."
 
@@ -6059,7 +6059,7 @@ Again the young man laughed.
 
 
 ### III
-
+s=
 
 Onward the buccaneers drove themselves toward Panama. They had eaten leather and bitter jungle roots, rodents and snakes and monkeys.
 
@@ -6077,16 +6077,16 @@ And the word "gold," though it had lost its meaning of reality, was more importa
 
 
 On the eighth morning a scout came to Captain Morgan.
-
+n:scout=Scout
 
 "The way is blocked, sir."
-
+s=scout
 
 "They have thrown up a little earthwork in front of us and mounted cannons."
 
 
 At a command, the head of the wriggling column swung to the left and began to gnaw its way through thicker underbrush.
-
+s=
 
 In the evening they came to the top of a small, round hill, and there below them was Panama laved in the golden light of the western sun.
 
@@ -6119,7 +6119,7 @@ He spoke to their fears.
 
 
 "It is nine days' journey back to the river mouth where the ships lie — nine days, and no food at all. You could not get to the ships even if you wanted to run away. And here is Panama."
-
+s=h
 
 "While you were sleeping like hogs, the scouts were busy. Before this city, four thousand soldiers are drawn up, with wings of cavalry. These are not countrymen with guns and knives, but drilled soldiers in red coats."
 
@@ -6128,34 +6128,34 @@ He spoke to their fears.
 
 
 A laugh followed his last words. Many of these men had lived in the jungle and had made their livelihood with hunting wild cattle.
-
+s=
 
 The captain rubbed their avarice:
 
 
 "Gold and jewels past hope of counting are in the city. Every man of you will be rich if we succeed."
-
+s=h
 
 Their hunger:
-
+s=
 
 "Think of the roasted meats, the barrels of wine in the cellars, the spiced puddings. Imagine them!"
-
+s=h
 
 Their lust:
-
+s=
 
 "Women slaves there are in the city, and thousands of other women, God knows! Your difficulty will be only in judging which to choose from the multitude that will fall to us."
-
+s=h
 
 "These are not grubby field women, but great ladies who lie in silken beds. How will your skins feel in beds like those, do you suppose?"
 
 
 And last, because he knew them very well, he raised the standard of their vanity.
-
+s=
 
 "The names of those who take part in this fight will climb the stairs of history. This is no pillage, but glorious war."
-
+s=h
 
 "Imagine to yourselves the people of Tortuga pointing to you and saying, 'That man was in the fight at Panama. That man is a hero, and rich.'"
 
@@ -6164,19 +6164,19 @@ And last, because he knew them very well, he raised the standard of their vanity
 
 
 A hoarse cheer arose. The French kissed their hands to Henry Morgan; the Caribs chattered and rolled their eyes.
-
+s=
 
 The gourmand Zeerovers looked dully at the white city.
 
 
 "One thing more," said the captain.
-
+s=h
 
 "The troops will be drawn up in a line, if I know these Spanish captains. They like to make as great a show as possible. Your orders are to fire at their center, all of you; and when that center is weakened, then charge and split them."
 
 
 They moved out on the plain, a dense cloud of men.
-
+s=
 
 Two hundred marksmen walked in advance, while the rest were grouped behind.
 
@@ -6200,16 +6200,16 @@ In one moment every sword glanced in the sunlight, then was made to disappear by
 
 
 Don Juan groaned with admiration.
-
+n:rod=rodriguez
 
 "Look at them, my friends; look at Rodriguez, my beloved captain. Ah, Rodriguez! is it really I who have taught you these things? Can it be that this is the Rodriguez I held in my arms a little time ago?"
-
+s=gov
 
 "He was a baby then, but now he is a man and a hero. See the line, the sureness, the precision. See Rodriguez with his troop, my friends. How may these beasts of buccaneers overcome horsemen like mine?"
 
 
 Rodriguez, at the head of his troop, seemed to hear the Governor's praise. His shoulders stiffened.
-
+s=
 
 He rose in his stirrups and gave the signal for the charge. The bugles sang excitedly.
 
@@ -6254,25 +6254,25 @@ Every officer shouted commands at the top of his voice.
 
 
 The young lieutenant who had brought up the cattle finally made himself heard.
-
+n:lu=Lieutenant
 
 "Turn loose the bulls — the bulls," he cried, over and over, until the others were shouting it also.
-
+s=lu
 
 The Indians who held the bulls tore out the nose rings and began prodding the great beasts forward with their goads.
-
+s=
 
 Slowly the herd moved out across the plain. Then a red monster broke into a slow run, and immediately the whole band was running.
 
 
 "They will trample these robbers into the grass," said a Spanish officer wisely.
-
+s=po
 
 "Where they pass, we shall find buttons, pieces of weapons — nothing more — on the bloody ground."
 
 
 The bulls galloped slowly toward the rough line of the buccaneers.
-
+s=
 
 Suddenly the two hundred marksmen knelt and fired — fired quickly, like men hunting game.
 
@@ -6323,13 +6323,13 @@ The men would crowd through the entrance — cries and a scream or two.
 
 
 An old woman leaned from a window and looked with curiosity at the invaders. Then disappointment showed in her face.
-
+n:oldw=Old Woman
 
 "Hi!" she screamed to a window across the way. "Look at this, will you! These thieves look very much like our own Spaniards. They are not devils at all, but only men."
-
+s=oldw
 
 She seemed to resent their humanity. She withdrew her head as though she renounced them for being only men.
-
+s=
 
 In the afternoon a fire broke out. Tall flames lanced into the sky. A section caught, a street; half the city was burning.
 
@@ -6338,22 +6338,22 @@ Henry Morgan went to the Palace of the Governor to establish his quarters, and t
 
 
 "I am the Governor," he said brokenly. "My people looked to me to defend them against this scourge. I have failed — but perhaps I can manage to kill you."
-
+s=gov
 
 Henry Morgan looked at the ground. Something about this hysterical man unnerved him.
-
+s=
 
 "I did not set the fire," he said. "Some of your own slaves did that out of revenge, I think."
-
+s=h
 
 Don Juan moved forward with his drawn rapier. "Defend yourself!" he cried.
-
+s=gov
 
 Captain Morgan did not change his position.
-
+s=
 
 The sword dropped from the Governor's hand. "I am a coward — a coward," he cried.
-
+s=gov
 
 "Why did I not strike without speaking? Why did you not oppose me? Ah, I am a coward! I waited too long."
 
@@ -6368,7 +6368,7 @@ The sword dropped from the Governor's hand. "I am a coward — a coward," he cri
 
 
 He walked away toward the gate and the open country.
-
+s=
 
 Henry Morgan watched him drunkenly lurching out of the city.
 
@@ -6398,31 +6398,31 @@ Henry Morgan sat in a tall chair carved in the likeness of many serpents.
 
 
 "Have you found La Santa Roja?"
-
+s=h
 
 "No, sir. The women of the town are more like devils."
-
+n:tort=Soldier;s=tort
 
 Prisoners were brought in to be put to the torture with a thumbscrew taken from the Spanish prison.
 
 
 "Kneel! Your wealth?" Silence. "Turn, Joe!"
-
+s=tort
 
 "Mercy! Mercy! I will lead you; I swear it. A cistern near my house."
-
+n:pris1=Prisoner;s=pris1
 
 Another—
-
+s=
 
 "Kneel! Your wealth? Turn, Joe!"
-
+s=tort
 
 "I will lead you."
-
+n:pris2=Prisoner;s=pris2
 
 As regular, ruthless, and unfeeling they were as master slaughterers in a cow pen.
-
+s=
 
 "Have you found La Santa Roja? I will hang all of you if she is harmed."
 
@@ -6440,37 +6440,37 @@ And Captain Morgan, wearily:
 
 
 "Have you found the Red Saint?"
-
+s=h
 
 "We have not found her, sir, but we are seeking and inquiring over the whole city. Perhaps in the daylight, sir—"
-
+s=tort
 
 "Where is Coeur de Gris?"
-
+s=h
 
 "I think he is drunk, sir, but—" He looked away from Henry Morgan.
-
+s=tort
 
 "But what? What do you mean?" the captain cried.
-
+s=h
 
 "Nothing; I mean nothing at all, sir. It is almost certain that he is drunk. Only it takes such gallons of wine to make him drunk, and perhaps he has found a friend in the meantime."
-
+s=tort
 
 "Did you see him with anyone?"
-
+s=h
 
 "Yes, sir, I saw him with a woman, and she was drunk. I could swear that Coeur de Gris was drunk, too."
-
+s=tort
 
 "Did you think the woman might have been La Santa Roja?"
-
+s=h
 
 "Oh, no, sir; I am sure it was not she. Only one of the women of the town, sir."
-
+s=tort
 
 There was a clash of golden service thrown on the pile.
-
+s=
 
 ### IV
 
@@ -6524,13 +6524,13 @@ A monkey no larger than a rabbit picked over the gravel of the path, looking for
 
 
 On one of the stone seats of the garden a woman was sitting.
-
+n:la=?
 
 She pulled a yellow flower to bits while she sang fragments of a tender, silly song—"I would pluck the flower of the day for you, my love, where it grows in the dawning."
-
+s=la
 
 Her eyes were black, but opaque. They were the rich, sheening, shallow black of a dead fly's wings, and under the lids there were sharp little lines.
-
+s=
 
 She could draw up the under lids of her eyes so that they shone with laughter, though her mouth remained harsh and placid.
 
@@ -6554,7 +6554,7 @@ He stopped in front of the woman and raised his black paws above his head as tho
 
 
 The woman spoke softly to him. "You have learned your lesson well, Chico. Your teacher was a Castilian with a fearful mustache. I am well acquainted with him."
-
+s=la
 
 "Do you know, Chico, he wants what he considers my honor. He will not be satisfied until he has added my honor to his own, and then he will be almost boastful."
 
@@ -6563,13 +6563,13 @@ The woman spoke softly to him. "You have learned your lesson well, Chico. Your t
 
 
 She dropped a piece of her flower to the tiny beast, whereupon he seized it, put it in his mouth, and spat in disgust.
-
+s=
 
 "Chico! Chico! you forget your teacher! That is all wrong. You will get no woman's honor by it. Place the flower over your heart, kiss my hand with a loud snapping sound, and then stride off like a fierce sheep out searching for wolves."
 
 
 She laughed and glanced again toward the doorway. Although there was no sound, she rose and walked quickly toward the Hall of Audience.
-
+s=
 
 Henry Morgan had turned slightly in his chair, and his turning allowed the sunlight to beat upon his eyelids.
 
@@ -6578,28 +6578,28 @@ Suddenly he sat up and stared about him. He looked with satisfaction at the heap
 
 
 "And have you ruined our poor city enough for your satisfaction?" she asked.
-
+s=la
 
 "I did not burn the city," Henry said quickly. "Some of your Spanish slaves set the torch."
-
+s=h
 
 The words had been forced from him. He remembered that he was surprised. "Who are you?" he demanded.
 
 
 She moved a step into the hail. "My name is Ysobel. It was said that you sought me."
-
+s=la
 
 "Sought you?"
-
+n:la=Ysobel; s=h
 
 "Yes. I have been called La Santa Roja by certain young idiots," she said.
-
+s=la
 
 "You — the Red Saint?"
-
+s=h
 
 He had prepared a picture in his mind, a picture of a young girl with blue, seraphic eyes that would fall before the steady stare of a mouse.
-
+s=
 
 These eyes did not fall. Under their soft black surfaces they seemed to be laughing at him, making light of him.
 
@@ -6611,10 +6611,10 @@ And her skin was white — not pink at all.
 
 
 "You are the Red Saint?"
-
+s=h
 
 He was not prepared for this change of idea. He was staggered at such a revolt against his preconceptions.
-
+s=
 
 But, said his mind, twelve hundred men and more had broken their way through the jungle, had dashed on the city like a brutal wave.
 
@@ -6644,13 +6644,13 @@ Morgan closed his eyes, and the figure of a slender little girl with golden hair
 
 
 "You are like Elizabeth," he said, in the dull monotone of one dreaming.
-
+s=h
 
 "You are like, and yet there is no likeness. Perhaps you master the power she was just learning to handle. I think I love you, but I do not know. I am not sure."
 
 
 His eyes had been half closed, and when he opened them there was a real woman before him, not the wraithlike Elizabeth.
-
+s=
 
 And she was gazing at him with curiosity, and perhaps, he thought, with some affection.
 
@@ -6662,19 +6662,19 @@ She must be fascinated. He reached into his memory for the speeches he had built
 
 
 "You must marry me, Elizabeth — Ysobel. I think I love you, Ysobel. You must come away with me and live with me and be my wife, under the protection of my name and of my hand."
-
+s=h
 
 "But I am already married," she interposed; "quite satisfactorily married."
-
+s=la
 
 He had even foreseen this.
-
+s=
 
 During the nights of the march he had planned this campaign as carefully as he might have planned a battle.
 
 
 "But is it right that two, meeting and flaming white fire, should go apart for stark eternity, should trudge off into bleak infinity; that each of these two should bear black embers of a flame that has not burned itself to death?"
-
+s=h
 
 "Is there anything under heaven to forbid us this burning? Heaven has given the deathless oil; each of us carries a little torch for the other."
 
@@ -6713,10 +6713,10 @@ During the nights of the march he had planned this campaign as carefully as he m
 
 
 When he had started to speak she listened carefully to his words, and then a little pain had flitted across her face; but when he had done there was only amusement in her eyes — that and the lurking ridicule under their surfaces. Ysobel laughed softly.
-
+s=
 
 "You forget only one thing, sir," she said. "I do not burn."
-
+s=la
 
 "I wonder if I shall ever burn again. You do not carry a torch for me — and I hoped you did. I came this morning to see if you did."
 
@@ -6731,19 +6731,19 @@ When he had started to speak she listened carefully to his words, and then a lit
 
 
 She was silent. Henry looked at the floor. His amazement had raised a fog of dullness in his brain.
-
+s=
 
 "I took Panama for you," he said plaintively.
-
+s=h
 
 "Ah — yesterday I hoped you did. Yesterday I dreamed you had, but today — I am sorry."
-
+s=la
 
 She spoke softly and very sadly.
-
+s=
 
 "When I heard of you and your blustering up and down the ocean, I thought of you, somehow, as the one realist on an earth of vacillation."
-
+s=la
 
 "I dreamed that you would come to me one day, armed with a transcendent, silent lust, and force my body with brutality. I craved a wordless, reasonless brutality."
 
@@ -6773,10 +6773,10 @@ She spoke softly and very sadly.
 
 
 She searched his face closely, as though looking once more for a quality which had been lost.
-
+s=
 
 "I thought richly of you once, you grew to be a brazen figure of the night."
-
+s=la
 
 "And now — I find you a babbler, a speaker of sweet, considered words, and rather clumsy about it."
 
@@ -6803,13 +6803,13 @@ She searched his face closely, as though looking once more for a quality which h
 
 
 Henry Morgan had sunk his head, seemingly in shame. Now he started toward her.
-
+s=
 
 "But I will force you then," he cried.
-
+s=h
 
 "It is too late — I would perforce think of you standing there, declaiming your considered words."
-
+s=la
 
 "While you wrenched at my clothing, I would picture you fawning before me, blurting out your words."
 
@@ -6821,10 +6821,10 @@ Henry Morgan had sunk his head, seemingly in shame. Now he started toward her.
 
 
 "I love you," he said miserably.
-
+s=h
 
 "You speak as though it were some new, tremendous thing."
-
+s=la
 
 "Many men have loved me; hundreds have said they did."
 
@@ -6836,61 +6836,61 @@ Henry Morgan had sunk his head, seemingly in shame. Now he started toward her.
 
 
 "I — I do not know."
-
+s=h
 
 "But am I to be a slave — a prisoner?"
+s=la
 
-
-"Yes; I must take you away with me. The men would laugh at me, else."
-
-
-"It would ruin discipline."
-
+"Yes; I must take you away with me. The men would laugh at me, else. It would ruin discipline."
+s=h
 
 "If I must be a slave," she said, "if I must go away from my own country, I hope I shall be your slave — yours or the property of a charming young buccaneer I met last night."
-
+s=la
 
 "But I do not think you will take me, Captain Morgan. No; I do not think you will force me to go, for I will, perhaps, twist the knife I have already in your breast."
 
 
 Henry Morgan was aroused.
-
+s=
 
 "Who was this young buccaneer?" he asked crossly.
-
+s=h
 
 "Ah, you perceive the knife," said Ysobel. "And how do I know the fellow?"
-
+s=la
 
 "But he was charming, and I should like to see him again."
 
 
 The captain's eyes were flaming with rage.
-
+s=
 
 "You will be locked up," he said harshly. "You will remain in a cell until the time when we go again to Chagres."
-
+s=h
 
 "And we shall see whether this knife you speak of is sharp enough to keep you here in Panama."
 
 
-As she followed him across the garden to her jail, her clear laughter rang out. "Captain Morgan, it has just occurred to me — I have begun to see that a great many different kinds of men make the same kind of husband."
+As she followed him across the garden to her jail, her clear laughter rang out.
+s=
 
+"Captain Morgan, it has just occurred to me — I have begun to see that a great many different kinds of men make the same kind of husband."
+s=la
 
 "Get to your cell," he ordered her.
-
+s=
 
 "Oh — and Captain Morgan, you will find an old woman on the steps of the palace."
-
+s=la
 
 "My duenna, she is. Send her to me, please. And now, goodbye for the time, sir; I must get to my devotions. The sin to be dissolved, Captain Morgan, is truthfulness."
-
+n:du=Duenna
 
 "It is a bad thing for the soul, truthfulness."
 
 
 He went slowly back to his chair in the Hall of Audience. He was filled with a kind of shame for his manhood. It was as though she had plucked his rapier from its scabbard and scratched his face with it while he stood helpless before her.
-
+s=
 
 She had beaten him without apparent effort. Now he quailed before the knowledge of his men's laughter when they discovered his embarrassment. There would be snickering when his back was turned.
 
@@ -6913,14 +6913,14 @@ Over and over, a shrill Ave Maria; the tone of a fearful, pleading sinner — *O
 No mockery at all, but brokenhearted repentance reading its poor testimony on the dropping beads.
 
 
-A shrill woman's voice, piercing, insistent — it seemed to be digging at a tremendous, hopeless sin.
+A shrill woman's voice, piercing, insistent — it seemed to be digging at a tremendous, hopeless sin. She had said it was the sin of truthfulness.
 
 
-She had said it was the sin of truthfulness. "I have been honest in my being, and that is a black lie on the soul. Forgive my body its humanity. Forgive my mind which knows its limitations. Pardon my soul for being anchored this little time to both. *Ora pro nobis.*"
-
+"I have been honest in my being, and that is a black lie on the soul. Forgive my body its humanity. Forgive my mind which knows its limitations. Pardon my soul for being anchored this little time to both. *Ora pro nobis.*"
+s=la
 
 The mad, endless rosary cankered in Henry's brain.
-
+s=
 
 At last he seized his rapier and his hat and ran from the hall into the street.
 
@@ -6971,7 +6971,7 @@ A few buccaneers were poking about in the ashes, looking for melted plate which 
 
 
 Turning a corner, Henry came upon the little Cockney Jones, and saw him quickly thrust something into his pocket.
-
+n:cock=Cockney Jones
 
 A flame of rage arose in Captain Morgan. Coeur de Gris had said that there was no difference between this epileptic dwarf and Henry Morgan.
 
@@ -6983,40 +6983,40 @@ The cruel desire made the captain's lips grow thin and white.
 
 
 "What have you in your pocket?"
-
+s=h
 
 "Nothing — nothing, sir."
-
+s=cock
 
 "Let me see what you have in your pocket." The captain was pointing a heavy pistol.
-
+s=h
 
 "It's nothing, sir — only a little crucifix! I found it."
-
+s=cock
 
 He drew out a golden cross studded with diamonds, and on it a Christ of ivory.
-
+s=
 
 "You see, it's for my wife," the Cockney explained.
-
+s=cock
 
 "Ah! for your Spanish wife!"
-
+s=h
 
 "She's half Negro, sir."
-
+s=cock
 
 "You know the penalty for concealing spoil?"
-
+s=h
 
 Jones looked at the pistol and his face grayed.
-
+s=
 
 "You would not — Oh, sir, you would not—" he began chokingly.
-
+s=cock
 
 Then he seemed to be clutched by invisible, huge fingers.
-
+s=
 
 His arms dropped stiffly to his sides, his lips sagged open, and a dull, imbecilic light came into his eyes.
 
@@ -7091,10 +7091,10 @@ One foot forward, her left arm held behind her for balance, the pin pointed befo
 
 
 "En garde!" she cried. Then the captain rushed at her.
-
+s=la
 
 His arms encircled her shoulders and his hands were tearing at her clothing.
-
+s=
 
 Ysobel stood quite still, but one hand darted about with its pin — striking, striking — like a small white serpent.
 
@@ -7103,22 +7103,22 @@ Little spots of blood appeared on Henry's cheeks, on his throat.
 
 
 "Your eyes next, Captain," she said quietly, and stabbed him thrice on the cheekbone.
-
+s=la
 
 Henry released her and stepped away, wiping his bloody face with the back of his hand. Ysobel laughed at him.
-
+s=
 
 A man may beat — may subject to every violation — a woman who cries and runs away, but he is helpless before one who stands her ground and only laughs.
 
 
 "I heard a shot," she said. "I thought perhaps you had killed someone to justify your manhood. But your manhood will suffer now, will it not?"
-
+s=la
 
 "Word of this encounter will get about somehow; you know how such things travel. It will be told that you were beaten with a pin in the hands of a woman."
 
 
 Her tone was gloating and cruel.
-
+s=
 
 Henry's hand slipped to his side, and the lean rapier crept from its sheath like a frozen serpent.
 
@@ -7127,25 +7127,22 @@ The light licked viciously along its lank blade. At last the needle point came o
 
 
 Ysobel grew sick with terror. "I am a sinner," she said. Then a dawning relief came into her face.
-
+s=la
 
 She motioned the aged duenna to her and spoke in rapid, clattering Spanish.
+s=
 
-
-"It is true," said the old woman.
-
-
-"It is true."
-
+"It is true," said the old woman. "It is true."
+s=du
 
 At the end of her speaking, Ysobel thriftily drew aside the webby lace of her mantilla that it might not be spotted with blood.
-
+s=
 
 The duenna began interpreting.
 
 
 "Sir, my mistress says that a true Catholic who dies at the hand of an infidel goes to heaven. This is true."
-
+s=du
 
 "Further, she says that a Catholic woman who dies protecting her holy marriage vow goes straightway to heaven. This also is true."
 
@@ -7157,13 +7154,13 @@ The duenna began interpreting.
 
 
 Ysobel spoke to her again.
-
+s=
 
 "My mistress bids you strike; more, she urges it, pleads for the blow. The angels are hovering about her head. She sees the great light, and the holy music is sounding in her ears."
-
+s=du
 
 The rapier point lowered. Henry Morgan turned away and gazed out into the sunlit garden.
-
+s=
 
 Little Chico came galloping along the path and sat down in the open doorway.
 
@@ -7295,22 +7292,22 @@ He looked at the heap of treasure.
 
 
 "We are rich," he said without enthusiasm.
-
+s=f
 
 "Where have you been, Coeur de Gris?"
-
+s=h
 
 "Been? Why, I have been drunk. It is good to be drunk after fighting."
-
+s=f
 
 He smiled wryly and licked his lips. "It is not so good to stop being drunk. That is like childbirth — necessary, but unpleasant and unornamental."
 
 
 "I wanted you by my side," said Henry Morgan.
-
+s=h
 
 "You wanted me? I was informed that you wanted no one — that you were quite complete and happy in yourself — and so I got a little drunker."
-
+s=f
 
 "You see, sir, I did not want to remember your reason for being alone."
 
@@ -7319,19 +7316,19 @@ He paused. "It was told me, sir, that the Red Saint is here."
 
 
 Coeur de Gris laughed at his own ill-concealed emotion. He changed his manner with an effort of will.
-
+s=
 
 His tone became jocular.
 
 
 "Tell me the truth, sir. It is a small gift to a man to know what he has missed. Many people have no other gift during their whole lives."
-
+s=f
 
 "Tell me, sir, has the sweet enemy fallen? Has the castle of flesh capitulated? Does the standard of Morgan float over the pink tower?"
 
 
 Henry's face had flushed. The pistol in his hand rose quietly, steadied by an inexorable madness.
-
+s=
 
 There was a sharp crash and a white billow of smoke.
 
@@ -7361,7 +7358,7 @@ Coeur de Gris laughed hysterically.
 
 
 "My mother will hate you," he cried ruefully. "She will practice all her ancient curses upon you. My mother—" he choked over his breath.
-
+s=f
 
 "Do not tell her. Make some gleaming lie. Build my poor life up to a golden minaret. Do not let it stop like a half-finished tower. But, no — you need build only a foundation."
 
@@ -7373,31 +7370,34 @@ His throat filled with blood. "Why did you do it, sir?"
 
 
 The captain looked up from his pistol.
-
+s=
 
 "Do it?"
-
+s=h
 
 He saw the bloody lips, the torn breast; he started up from his chair and then fell back again.
-
+s=
 
 Misery was writing lines about his eyes. "I do not know," he said.
-
+s=h
 
 "I must have known, but I have forgotten."
 
 
 Coeur de Gris went slowly to his knees.
+s=
+
+He steadied himself with his knuckles on the floor.
 
 
-He steadied himself with his knuckles on the floor. "It is my knees, sir; they will not bear me any more," he apologized.
-
+"It is my knees, sir; they will not bear me any more," he apologized.
+s=f
 
 He seemed to be listening for the throbbing sound again. Suddenly his voice rose in bitter complaint.
-
+s=
 
 "It is a legend that dying men think of their deeds done. No — No — I think of what I have not done — of what I might have done in the years that are dying with me."
-
+s=f
 
 "I think of the lips of women I have never seen — of the wine that is sleeping in a grape seed — of the quick, warm caress of my mother in Goaves."
 
@@ -7406,13 +7406,13 @@ He seemed to be listening for the throbbing sound again. Suddenly his voice rose
 
 
 Henry Morgan was staring at the pistol again.
-
+s=
 
 "I do not know," he muttered sullenly. "I must have known, but I have forgotten. I killed a dog once — and I have just killed Jones. I do not know why."
-
+s=h
 
 "You are a great man, Captain," Coeur de Gris said bitterly.
-
+s=f
 
 "Great men may leave their reasons for the creative bands of their apologists. But I — why, sir, I am nothing any more — nothing."
 
@@ -7421,7 +7421,7 @@ Henry Morgan was staring at the pistol again.
 
 
 His wrists weakened and he fell to his side and lay there coughing at the obstruction in his throat.
-
+s=
 
 Then, for a time, there was no sound in the room save his uneven gasping for breath.
 
@@ -7454,55 +7454,55 @@ Then he went back to his serpent chair.
 
 
 "I raised my hand like this—" he said, pointing the pistol at Coeur de Gris.
-
+s=h
 
 "I raised my hand like this. I must have. Coeur de Gris is dead. Like this, I raised it — like this — and pointed — How did I do it?"
 
 
 He bowed his head, then raised it with a chuckle.
-
+s=
 
 "Coeur de Gris!" he said; "Coeur de Gris! I wanted to tell you about La Santa Roja. She rides horses, you know. She has no womanly modesty at all — none at all — and her looks are only moderate."
-
+s=h
 
 He peered at the propped figure before him. The eyes of Coeur de Gris had been only half closed, but now the lids slipped down and the eyes began to sink back in his head.
-
+s=
 
 On his face was the frozen distortion of his last bitter laughter.
 
 
 "Coeur de Gris!" the captain shouted.
-
+s=h
 
 He went quickly to the body and laid his hand on its forehead.
-
+s=
 
 "This is a dead thing," he said musingly. "This is only a dead thing. It will bring flies and sickness. I must have it taken away at once. It will bring the flies into this room."
-
+s=h
 
 "Coeur de Gris! we have been fooled. The woman fences like a man, and she rides horses astride. So much labor lost for us!"
 
 
 "That's what we get for believing everything we hear — eh, Coeur de Gris? — But this is only a dead thing, and the flies will come to it."
-
+n:men2=Soldier
 
 He was interrupted by a tramp of feet on the stairs.
-
+n:men1=Soldier; s=
 
 A band of his men entered, driving in their midst a poor frightened Spaniard — a mud-draggled, terrified Spaniard.
-
+n:span=Spaniard
 
 The lace had been torn from his neck, and a little stream of blood ran from one sleeve.
 
 
 "Here is a Spaniard, sir," the leader said. "He came to the city bearing a white flag. Shall we respect the white flag, sir? He has silver on his saddle. Shall we kill him, sir? Perhaps he is a spy."
-
+s=men1
 
 Henry Morgan ignored the speech. Instead he pointed to the body in the chair.
-
+s=
 
 "That is only a dead thing," he announced. "That is not Coeur de Gris. I sent Coeur de Gris away. He will be back soon."
-
+s=h
 
 "But that is — I raised my hand like this — do you see? — like this. I know exactly how I did it; I have tried it again and again. But that is a dead thing. It will bring the flies to us."
 
@@ -7511,124 +7511,124 @@ He cried, "Oh, take it away and bury it in the earth!"
 
 
 A buccaneer moved to lift the body.
-
+s=
 
 "Don't touch him! Don't dare to touch him! Leave him where he is. He is smiling. Do you see him smile? But the flies — No, leave him. I will care for him myself."
-
+s=h
 
 "This Spaniard, sir; what shall we do with him? Shall we kill him?"
-
+s=men1
 
 "What Spaniard?"
-
+s=h
 
 "Why, this one before you, sir." He shoved the man forward. Henry seemed to awaken from a deep dream.
-
+s=men1
 
 "What do you want?" he asked harshly.
-
+s=h
 
 The Spaniard struggled with his fright.
-
+s=
 
 "It — it is my wish and the wish of my padrone to have speech with one Captain Morgan, if he will have the goodness. I am a messenger, Señor — not a spy, as these — these gentlemen suggest."
-
+s=span
 
 "What is your message?" Henry's voice had become weary.
-
+s=h
 
 The messenger took reassurance from his changed tone.
-
+s=
 
 "I come from one man very rich, Señor. You have his wife."
-
+s=span
 
 "I have his wife?"
-
+s=h
 
 "She was taken in the city, Señor."
-
+s=span
 
 "Her name?"
-
+s=h
 
 "She is the Doña Ysobel Espinoza, Valdez y los Gabilanes, Señor. The simple people of the city have called her La Santa Roja."
-
+n:Ysobel=Doña Ysobel Espinoza; s=span
 
 Henry Morgan regarded him for a long time. "Yes, I have her," he said finally.
-
+s=h
 
 "She is in a cell. What does her husband wish?"
 
 
 "He offers ransom, Señor. He has reason to wish his wife with him again."
-
+s=span
 
 "What ransom does he offer?"
-
+s=h
 
 "What would Your Excellency suggest?"
-
+s=span
 
 "Twenty thousand pieces of eight," Henry said quickly. The messenger was staggered.
-
+s=h
 
 "Twenty thous — *viente mil*—" He translated fully to comprehend the enormity of the amount.
-
+s=span
 
 "I perceive that Your Excellency also wants the woman."
 
 
 Henry Morgan looked at the body of Coeur de Gris.
-
+s=
 
 "No," he said; "I want the money."
-
+s=h
 
 Now the messenger was relieved.
-
+s=
 
 He had been prepared to think this great man a great idiot.
 
 
 "I will do what may be done, Señor. I will come back to you in four days."
-
+s=span
 
 "In three!"
-
+s=h
 
 "But if I do not arrive, Señor?"
-
+s=span
 
 "If you do not arrive, I shall take the Red Saint away with me and sell her in the slave docks."
-
+s=h
 
 "I shall strive, Señor."
-
+s=span
 
 "Give him courtesy!" the captain commanded.
-
+s=h
 
 "Do not mistreat him in any way. He is to bring us gold."
 
 
 As they were leaving, one man turned back and let his eyes lovingly caress the treasure.
-
+s=
 
 "When is the division to be, sir?"
-
+s=men2
 
 "In Chagres, fool! Do you think I would divide it now?"
-
+s=h
 
 "But, sir, we would like to be having a bit of it in our hands — for the feel of it, sir. We have fought hard, sir."
-
+s=men2
 
 "Get out! You'll have none of it in your hands until we come to the ships again. Do you think I want to have you throwing it to the women here? Let the Goaves women get it from you."
-
+s=h
 
 The men went out of the Hall of Audience grumbling a little.
-
+s=
 
 ### VI
 
@@ -7655,34 +7655,37 @@ In a corner of the warehouse sat The Burgundian and his one-armed protector.
 
 
 "See, Emil! That one there — Consider to yourself her hips now!"
-
+s=bur1
 
 "I see her, 'Toine, and it is good of you. Do not think I do not appreciate your trouble for my pleasure. But I am silly enough to have an ideal, even in copulation. This proves to me that I am still an artist, if not a gentleman."
-
+s=bur2
 
 "But see, Emil. Notice for a moment the fullness of her bosom."
-
+n:bur1=Antoine, The Burgundian; s=bur1
 
 "No, 'Toine; I see nothing that endangers my rose pearl. I will keep it by me a while yet."
-
+s=bur2
 
 "But really, my friend, I think you lose your sense of beauty. Where is that careful eye we used to fear so on our canvases?"
-
+s=bur1
 
 "The eye is here, 'Toine. It is still here. It is your own little eye which makes nymphs of brown mares."
-
+s=bur2
 
 "Then — Then, Emil, since you persist in your blindness, perhaps you would condescend to loan me your rose pearl. There — I thank you. I shall return it presently."
-
+s=bur1
 
 Grippo was seated in the middle of the floor, sullenly counting the buttons on his sleeve.
-
+s=
 
 "—eight, nine — There were ten. Some bastard has stolen my button. Ah, this world of thieves! It is too much. I would kill for that button. It was my favorite button."
+s=grippo
+
+"One, two, three — Why there are ten. One, two, three, four—"
 
 
-"One, two, three — Why there are ten. One, two, three, four—" About him the dancers rocked and the air was reeking with the shrill cries of the flutes.
-
+About him the dancers rocked and the air was reeking with the shrill cries of the flutes.
+s=
 
 Captain Sawkins glowered at the dancers. He firmly believed that to dance was to go to hell by a short route.
 
@@ -7748,10 +7751,10 @@ Her voice was like the crumpling of paper.
 
 
 "My lady wishes to speak with you," she said.
-
+s=du
 
 Henry rose and walked heavily after her toward the cell.
-
+s=
 
 A candle was burning before the holy picture on the wall.
 
@@ -7772,46 +7775,43 @@ Ysobel sat under the picture. When Henry entered she went quickly to him.
 
 
 "It is said I am to be ransomed."
-
+s=la
 
 "Your husband sent a messenger."
-
+s=h
 
 "My husband! I am to go back to him? to his scented hands?"
-
+s=la
 
 "Yes."
-
+s=h
 
 She pointed to a chair and forced Henry to seat himself. "You did not understand me," she said.
-
+s=la
 
 "You could not understand me. You must know something of the life I have traveled. I must tell you this thing, and then you will understand me, and then—"
 
 
-She awaited his interest.
-
-
-Henry was silent.
+She awaited his interest. Henry was silent.
 
 
 "Don't you wish to hear this thing?" she asked.
-
+s=la
 
 "Yes."
-
+s=h
 
 "Well, it is short. My life has been short. But I want you to understand me, and then—"
-
+s=la
 
 She looked sharply into his face.
-
+s=
 
 Henry's mouth was pinched as though in pain. His eyes contemplated bewilderment. He made no reply to her pause.
 
 
 "It was this way, you see," she began. "I was born here in Panama, but my parents sent me to Spain when I was a small child. I lived in a convent in Cordova."
-
+s=la
 
 "I wore gray dresses and lay in watch before the Virgin on my nights given to adoration. Sometimes I went to sleep when I should have been praying. I have suffered for that laxness."
 
@@ -7871,58 +7871,58 @@ Henry's mouth was pinched as though in pain. His eyes contemplated bewilderment.
 
 
 Her eyes were on fire.
-
+s=
 
 "I walked back to Cordova, and my feet were torn. I did penance until my body was torn, but I could not drive out all the devil. I was exorcised, but the devil was deep in me. Can you understand that, Captain?"
-
+s=la
 
 She looked into Henry's face and saw that he had not been listening.
-
+s=
 
 She stood beside him and moved her fingers in his graying hair.
 
 
 "You are changed," she said.
-
+s=la
 
 "Some light is gone out of you. What fear has fallen on you?"
 
 
 He stirred from his reverie.
-
+s=
 
 "I do not know."
-
+s=h
 
 "I was told that you killed your friend. Is it that which burdens you?"
-
+s=la
 
 "I killed him."
-
+s=h
 
 "And do you mourn for him?"
-
+s=la
 
 "Perhaps. I do not know. I think I mourn for some other thing which is dead. He might have been a vital half of me, which, dying, leaves me half a man."
-
+s=h
 
 "Today I have been like a bound slave on a white slab of marble with the gathered vivisectors about me. I was supposed to be a healthy slave, but the scalpels found me sick with a disease called mediocrity."
 
 
 "I am sorry," she said.
-
+s=la
 
 "You are sorry? Why are you sorry?"
-
+s=h
 
 "I think I am sorry because of your lost light, because the brave, brutal child in you is dead — the boastful child who mocked and thought his mockery shook the throne of God; the confident child who graciously permitted the world to accompany him through space."
-
+s=la
 
 "This child is dead, and I am sorry. I would go with you, now, if I thought it possible to warm the child to life again."
 
 
 Henry said, "It is strange. Two days ago I planned to tear a continent out of the set order and crown it with a capital of gold for you. In my mind, I built up an empire for you, and planned the diadem you should wear."
-
+s=h
 
 "And now I dimly remember the person who thought these things. He is an enigmatic stranger on a staggering globe."
 
@@ -7952,7 +7952,7 @@ Henry said, "It is strange. Two days ago I planned to tear a continent out of th
 
 
 "You will take no more cups of gold," she said. "You will turn no more vain dreams into unsatisfactory conquests."
-
+s=la
 
 "I am sorry for you, Captain Morgan. And you were not right about the slave."
 
@@ -7970,10 +7970,10 @@ Henry said, "It is strange. Two days ago I planned to tear a continent out of th
 
 
 "You will go back to your husband, I suppose."
-
+s=h
 
 "Yes, I will go back."
-
+s=la
 
 "You have made me old, Señor. You have pricked the dream on which my heavy spirit floated."
 
@@ -7982,10 +7982,10 @@ Henry said, "It is strange. Two days ago I planned to tear a continent out of th
 
 
 Henry flushed quickly.
-
+s=
 
 "I am trying to do something of that sort now," he said. "It does not seem worth the while to lie any more, and that is only one more proof of dead youth."
-
+s=h
 
 "But now, goodbye, Ysobel. I wish I loved you now as I thought I did yesterday."
 
@@ -7994,13 +7994,13 @@ Henry flushed quickly.
 
 
 She smiled and raised her eyes to the holy picture on the wall. "Peace go with you, dear fool," she murmured. "Ah, I too have lost my youth."
-
+s=la
 
 "I am old — old — for I cannot console myself with the thought of what you have missed."
 
 
 ### VII
-
+s=
 
 Henry Morgan stood in the doorway of the Hall of Audience and watched a little troupe of Spaniards ride through the streets toward the palace. The troupe was surrounded on all sides by a mob of buccaneers.
 
@@ -8021,28 +8021,31 @@ The cavalcade drew up before the palace. The messenger leaped from his horse and
 
 
 "I have here the ransom," he said.
-
+s=span
 
 He looked worried and tired. The weight of his mission was riding heavily on his spirit.
-
+s=
 
 At his command the soldiers carried the leather bags into the Hall of Audience, and only when they were all deposited with the rest of the treasure did the anxiety leave his face.
 
 
 "Ah," he said, "it is good. It is the treasure. Twenty thousand pieces of eight — not one lost by the wayside. I invite you to count them, Señor."
-
+s=span
 
 He whipped a little dust from his foot. "If my men could have refreshments, Señor; wine—" he suggested.
 
 
 "Yes. Yes."
+s=h
 
+Henry motioned to one of his followers.
+s=
 
-Henry motioned to one of his followers. "See that these men have food and drink. Be courteous, as you love life."
-
+"See that these men have food and drink. Be courteous, as you love life."
+s=h
 
 Then he went to the bags to count the ransom.
-
+s=
 
 He made little towers of shining coins and moved the towers about on the floor. Money was bright, he thought.
 
@@ -8078,43 +8081,43 @@ Now Ysobel came from the patio and stood beside him.
 
 
 "What an amount of money," she said.
-
+s=la
 
 "Is that my ransom?"
 
 
 "Yes; it is the gold which purchases you."
-
+s=h
 
 "But what a very great deal! Am I worth that much, do you think?"
-
+s=la
 
 "To your husband you are. He paid it for you." He moved ten towers into a line.
-
+s=h
 
 "And to you — how much? How many of these golden chips?"
-
+s=la
 
 "You must have been worth that much to me. I stated the price."
-
+s=h
 
 "Wouldn't they skip well on the water!" she said. "How they would skip! Do you know, I can throw like a boy, with my arm bent."
-
+s=la
 
 "It was said you were capable," he announced.
-
+s=h
 
 "But am I really worth that much?"
-
+s=la
 
 "The money is here, and you are to go. It has bought you. A thing must be worth what is paid for it, or there could be no trade."
-
+s=h
 
 "It is good," she said. "It is comforting to know one's value to a real. Have you any idea of your worth, Captain?"
-
+s=la
 
 Henry Morgan said, "If I were ever captured and a ransom demanded for me, I would not be worth a copper penny. These dogs of mine would laugh and shrug."
-
+s=h
 
 "A new captain would raise to lead them, and I — well, I would be subject to the pleasure of my captors, and I think I could foretell their pleasure."
 
@@ -8126,43 +8129,43 @@ Henry Morgan said, "If I were ever captured and a ransom demanded for me, I woul
 
 
 "But what is there about me that is worth all this gold?" she insisted.
-
+s=la
 
 "Is it my arms, do you suppose? My hair? Or is it that I am the embodiment of my husband's vanity?"
 
 
 "I do not know," said Henry. "With the revaluation of myself, the whole economic system of emotions and persons has changed. Today, were I to demand a ransom, perhaps you would not be flattered."
-
+s=h
 
 "Do you so hate me, Captain Morgan?"
-
+s=la
 
 "No, I do not hate you; but you are one of the stars of my firmament which has proven to be a meteor."
-
+s=h
 
 "That is not gallant, sir. That is quite different from your speech of a few days past," she observed spitefully.
-
+s=la
 
 "No. It is not gallant. I think that hereafter I shall be gallant for two reasons only — money and advancement. I tried to be gallant for the pure, joyous looks of things."
-
+s=h
 
 "You see, I was honest with myself before and I am honest with myself now. These two honesties are antithetical."
 
 
 "You are bitter."
-
+s=la
 
 "No; I am not even bitter. The food that bitterness feeds on is gone out of me."
-
+s=h
 
 "I am going now," she said softly and wistfully. "Have you nothing more to say to me about myself? Nothing more to ask of me?"
-
+s=la
 
 "Nothing," he answered, and immediately went to piling the coins again.
-
+s=h
 
 The messenger entered from the street.
-
+s=
 
 He had drunk deeply, for the removed burden of his mission had made him joyous.
 
@@ -8171,10 +8174,10 @@ He bowed to Ysobel and to Henry Morgan; bowed warily, with an eye to his balance
 
 
 "We must go, Señor," he announced loudly. "The way is long."
-
+s=span
 
 He led Ysobel to the white mare and helped her into the saddle.
-
+s=
 
 Then, at his signal, the column moved off down the street.
 
@@ -8198,16 +8201,16 @@ The messenger put his hand on Henry's shoulder.
 
 
 "We know how to understand each other, we men of responsibilities," he said drunkenly.
-
+s=span
 
 "It is not as though we were children to have secrets. We are men, brave men and strong. We may confide in each other. You may tell me the thing nearest your heart if you wish, Señor."
 
 
 Henry shook the hand from his shoulder. "I have nothing to tell you," he said brusquely.
-
+s=h
 
 "Ah; but then I will tell you something. Perhaps you wondered why the husband of this woman was willing to pay such a vast sum for her. She is only a woman, you say."
-
+s=span
 
 "There are many women to be had more cheaply — some for a real or two. Her husband is a fool, you say. But I would not have you think that of my master. He is no fool."
 
@@ -8225,7 +8228,7 @@ He laughed at the cleverness of his reasoning. "We understand each other, Señor
 
 
 He clambered into his saddle and rode away still laughing. Henry Morgan saw him join the undulating cavalcade; and now there was a ruby with the pearl in the silver setting.
-
+s=
 
 Captain Morgan went back to the treasure.
 
@@ -8363,7 +8366,7 @@ Certain tavern keepers had broached casks of wine on the beach from which they g
 
 
 Their gain would come later, with the thirst they only whetted.
-
+n:govm=Governor Moddyford
 
 On a small pier waited the party of the Governor; handsome young men in laces and silver buckles, with a squad of pikemen to give them an official appearance.
 
@@ -8399,13 +8402,13 @@ At the pier, hands were extended to grasp Henry's before he was out of the boat.
 
 
 And immediately he had stepped up, the pikemen formed about the official party and with weapons lowered forced a rough passage among the fighting, craning spectators.
-
+n:cav=Cavalier
 
 Henry glanced with apprehension at the soldiers who surrounded him. "Am I under arrest?" he asked of the cavalier who walked beside him.
-
+s=h
 
 "Under arrest!" The man laughed. "No! We couldn't arrest you if we would. The mob would tear us to pieces."
-
+s=cav
 
 "And if we did succeed in the arrest, they would rip out the stones of the jail with their fingers to free you."
 
@@ -8417,22 +8420,22 @@ Henry glanced with apprehension at the soldiers who surrounded him. "Am I under 
 
 
 They arrived at the mansion of the Governor.
-
+s=
 
 "Captain Morgan," said Governor Moddyford, when they were alone, "I don't know whether my news is good or bad."
-
+s=govm
 
 "Word of your conquest has come to the ears of the King. Both of us are ordered to England."
 
 
 "But I had a commission—" Henry began.
-
+s=h
 
 The fat head and shoulders of the Governor shook a sad negative.
-
+s=
 
 "Now I wouldn't mention the commission, Captain, if I were you, even though I myself did issue it. There are clauses in your commission which might get us both criticized."
-
+s=govm
 
 "As it is, we may be hanged: but I don't know — I don't know. Of course, there is peace between Spain and England — but no good feeling, none at all."
 
@@ -8444,13 +8447,13 @@ The fat head and shoulders of the Governor shook a sad negative.
 
 
 He looked keenly into Henry's eyes.
-
+s=
 
 "I hope, sir, that you can spare those few thousands when the time comes."
-
+s=govm
 
 Said Henry, officially, "I have tried to serve the spirit of my sovereign's wish, not the outward play of his politics."
-
+s=h
 
 And then, "Surely, Sir Charles; I have enough to buy the King's favor though it cost half a million."
 
@@ -8459,7 +8462,7 @@ And then, "Surely, Sir Charles; I have enough to buy the King's favor though it 
 
 
 "There is another thing, Captain," said the Governor uneasily. "Your uncle was killed some time ago. His daughter is here in my house."
-
+s=govm
 
 "Sir Edward was nearly penniless when he died. Of course, you understand, we would like to have her stay here with us always, but I do not think she is quite happy."
 
@@ -8471,7 +8474,7 @@ And then, "Surely, Sir Charles; I have enough to buy the King's favor though it 
 
 
 Henry smiled. "My uncle would have died nobly."
-
+s=h
 
 "I am sure this uncle of mine made every move in his life — yes, even to the paring of his nails — as though the complete peerage were looking on, ready to make critical comments."
 
@@ -8489,10 +8492,10 @@ Henry spoke laughingly. "I hated my uncle. I think he frightened me. He was one 
 
 
 "It is whispered that he groaned once. I traced the rumor and found that some servant had been hiding behind a curtain. He doubtless told of it."
-
+s=govm
 
 "Too bad! Too bad! What a cruel shame it is to ruin a perfect life with an exhalation."
-
+s=h
 
 "But now I am not afraid of him any more. If he groaned there was humanity in him, and weakness. I despise him, but I love him for it."
 
@@ -8504,16 +8507,16 @@ Henry spoke laughingly. "I hated my uncle. I think he frightened me. He was one 
 
 
 Moddyford came to a subject he had been wanting to broach.
-
+s=
 
 "I have heard that you met the Red Saint in Panama and released her for a ransom. How did that happen? She was said to be the pearl of the earth."
-
+s=govm
 
 Henry reddened.
-
+s=
 
 "Oh, well," he said, "it seemed to me that the legend flattered her. She was nice looking, surely; and I don't say some men would not have been struck with her."
-
+s=h
 
 "But she was not the kind of woman I admire for myself."
 
@@ -8525,25 +8528,25 @@ Henry reddened.
 
 
 "But as a mistress — Surely, as a mistress?"
-
+s=govm
 
 "Well, you see, I received seventy-five thousand pieces of eight for her. To my mind that is worth more than any woman who was ever born."
-
+s=h
 
 "That much ransom? How did she happen to bring so much?"
-
+s=govm
 
 "Why, on investigation, I found that she was an heiress. And as I say, she was nice looking, but still — the legend flattered her."
-
+s=h
 
 ————————————————————————————————————
-
+s=
 
 Meanwhile, in another room Lady Moddyford was earnestly talking to Elizabeth.
-
+n:ladm=Lady Moddyford
 
 "I find I must speak to you as a mother, my dear, a mother who is looking to your future."
-
+s=ladm
 
 "There is absolutely no doubt that your cousin will look out for you; but would you be happy that way? — just hanging to his purse-strings, I mean?"
 
@@ -8558,16 +8561,16 @@ Meanwhile, in another room Lady Moddyford was earnestly talking to Elizabeth.
 
 
 "But what are you suggesting, Lady Moddyford?" Elizabeth put in meekly. "Isn't it some kind of crime to marry one's cousin?"
-
+s=c
 
 "Not a bit of it, my dear. There is nothing in church or state to forbid it, and I, myself, would favor such a marriage."
-
+s=ladm
 
 "Sir Charles and your cousin have been ordered to England. Sir Charles thinks a knighthood might be arranged. Then you would be Lady Morgan, and you would be rich."
 
 
 Elizabeth mused: "I only saw him once, for a moment, and then I don't think I quite liked him. He was excited and red."
-
+s=c
 
 "But he was very respectful and gentle. I think he wanted to be friends with me, but my father — you know how Papa was."
 
@@ -8576,34 +8579,34 @@ Elizabeth mused: "I only saw him once, for a moment, and then I don't think I qu
 
 
 "My dear, any man makes a good husband if he is properly looked after."
-
+s=ladm
 
 "Yes, it might be the best way out. I am tired of being pitied for my poverty."
-
+s=c
 
 "But with this new popularity, do you think he would notice me? He might be too proud to marry a penniless cousin."
 
 
 "Dear Elizabeth," Lady Moddyford said firmly, "don't you know by now that almost any woman can marry almost any man as long as some other woman doesn't interfere?"
-
+s=ladm
 
 "And I shall arrange matters so that no one will get in your way. You may trust me for that."
 
 
 Elizabeth had made up her mind. "I know; I shall play for him. I have heard how music affects these fierce men."
-
+s=c
 
 "I shall play him my new pieces — 'The Elves' Concourse,' and 'God Bears the Weary Soul to Rest.'"
 
 
 "No," broke in Lady Moddyford. "No, I wouldn't do that if I were you. He might not like fine music. There are better ways."
-
+s=ladm
 
 "But you said those pieces were very pretty; you said it yourself. And haven't I read how music soothes men until they can hardly bear it?"
-
+s=c
 
 "Very well, my dear; play for him, then, if you will. Perhaps he — But play for him."
-
+s=ladm
 
 "Such things may run in the family — the love of music, I mean. Of course, you know, you must admire him and at the same time be a little afraid of him."
 
@@ -8630,49 +8633,49 @@ She sighed, "I don't know what we should do without protection. I don't know whe
 
 
 The next morning Lady Moddyford brought them together, and, as soon as she gracefully could, left them alone.
-
+s=
 
 Elizabeth looked fearfully at her cousin.
 
 
 "You have done great, terrible things on the ocean, Captain Morgan — enough to freeze one thinking about them," she said falteringly.
-
+s=c
 
 "The deeds were not great, nor very dreadful. Nothing is as good or as bad as the telling of it."
-
+s=h
 
 And he thought, "I was wrong about her — very wrong. She is not supercilious at all."
-
+s=
 
 "It must have been her father — the devil — who gave me a wrong impression of her. She is quite nice."
 
 
 "I am sure yours were great, if your modesty would let you admit it," she was saying demurely. "Do you know, I used to tremble at the tales they told of you, and hope that you were not in need or trouble."
-
+s=c
 
 "Did you? Why did you? I didn't think you ever noticed me."
-
+s=h
 
 Her eyes had filled with tears. "I have had trouble, too."
-
+s=c
 
 "I know. They told me about your trouble, and I was sorry for you, little cousin Elizabeth."
-
+s=h
 
 "I hope you will let me help you in your trouble. Won't you sit here beside me, Elizabeth?"
 
 
 She looked shyly at him. "I'll play for you, if you like," she said.
-
+s=c
 
 "Ye-es — yes, do."
-
+s=h
 
 "Now this is 'The Elves' Concourse.' Listen! You can hear their little feet pattering on the grass. Everybody says it is very sweet and pretty."
-
+s=c
 
 Her fingers methodically worked at the strings.
-
+s=
 
 Henry thought her hands lovely as they flew about. He forgot about the music in watching her hands.
 
@@ -8684,13 +8687,13 @@ The piece was ending with loud bass notes. Now it was finished. When the last st
 
 
 "You play very — precisely, Elizabeth."
-
+s=h
 
 "Oh, I play the notes as they come," she said. "I always think the composer knew his business better than I do."
-
+s=c
 
 "I know, and it is a comfort to hear you. It is nice to know that everything is to be in its place — even notes."
-
+s=h
 
 "You have eradicated a certain obnoxious freedom I have noticed in the playing of some young women."
 
@@ -8711,85 +8714,88 @@ The piece was ending with loud bass notes. Now it was finished. When the last st
 
 
 "That sounds wise and worldly, and a little bit cynical," she observed.
-
+s=c
 
 "But if it is wisdom, then wisdom is experience beating about in an orderly brain, kicking over the files."
-
+s=h
 
 "And how could I be otherwise than worldly. And cynicism is the moss which collects on a rolling stone."
 
 
 "That is clever, anyway," she agreed. "I suppose you have known a great many of those young women you spoke of."
-
+s=c
 
 "What young women, Elizabeth?"
-
+s=h
 
 "The ones who played badly."
-
+s=c
 
 "Oh! Yes, I have met a few."
-
+s=h
 
 "And did you — did you — like them?"
-
+s=c
 
 "I tolerated them because they were friends of my friends."
-
+s=h
 
 "Did any of them fall in love with you? I know I am not delicate, but you are my cousin, and almost my — my brother."
-
+s=c
 
 "Oh, some said they did — but I suspect they wanted my money."
-
+s=h
 
 "Surely not! But I shall play for you again. This will be a sad piece — 'God Bears the Weary Soul to Rest.'"
-
+s=c
 
 "I always think it is better to have seriousness with the lighter music."
 
 
 "Yes," he said. "Yes; so it is."
-
+s=h
 
 Again her fingers worked over the strings.
-
+s=
 
 "It is very beautiful, and sad," said Henry, when it was finished. "I liked it wonderfully well, but don't you think, Elizabeth — don't you think that sixth string from the end might be a little — tighter?"
-
+s=h
 
 "Oh, I wouldn't have it touched for the world!" she cried. "Before we came out from England, Papa had a man — a harp man — go over the whole thing thoroughly."
-
+s=c
 
 "I wouldn't feel just right with Papa if it were tampered with. He hated people who fiddled with things."
 
 
-They sat silently after her outburst, but at length she looked pleadingly into his eyes. "You aren't angry with me about the string, are you, Cousin Henry?"
+They sat silently after her outburst, but at length she looked pleadingly into his eyes.
+s=
 
+"You aren't angry with me about the string, are you, Cousin Henry?"
+s=c
 
 "I just have deep feelings like that. I can't help it."
 
 
 "No, of course I am not angry." She was so little and so helpless, he thought.
-
+s=h
 
 "Where will you be going, now that you are rich and famous and covered with honors?"
-
+s=c
 
 "I don't know. I want to live in an atmosphere of sure things."
-
+s=h
 
 "Why, that's just the way I think," she exclaimed. "We must be somewhat alike. Things come to you if you do not go looking for them, I say."
-
+s=c
 
 "And nearly always I know what is going to happen to me, because I hope for it and then sit still."
 
 
 "Yes," said Henry.
-
+s=h
 
 "Papa's death was a great shock," she said, and again the tears were in her eyes. "It's a terrible thing to be left alone and nearly no — no relatives or friends."
-
+s=c
 
 "Of course, the Moddyfords have been lovely to me, but they couldn't be like my own people. Oh, dear! I have been so lonely."
 
@@ -8798,34 +8804,34 @@ They sat silently after her outburst, but at length she looked pleadingly into h
 
 
 Her eyes were glistening with tears, and her underlip trembled violently.
-
+s=
 
 "But you must not cry," Henry said soothingly. "You will not need to worry any more, Elizabeth. I am here to take your trouble from your shoulders."
-
+s=h
 
 "I will help you and care for you, Elizabeth. I wonder how you bore the grief that fell on you. You have been brave to hold your head so high when misery was tugging at your spirit."
 
 
 "I had my music," she said. "I could retire into my music when the grief was too bitter."
-
+s=c
 
 "But now, Elizabeth, you need not even do that. You will come with me to England when I go, and you will be comfortable and safe with me for always."
-
+s=h
 
 She had sprung away from him.
-
+s=
 
 "But what are you suggesting? What is this thing you are proposing to me?" she cried. "Isn't it some sin — some crime — for cousins to marry?"
-
+s=c
 
 "Marry?"
-
+s=h
 
 "Oh!" She blushed, and her eyes glittered again with her quick tears. "Oh! I am ashamed. You did mean marry, didn't you? I am ashamed."
-
+s=c
 
 Her agitation was pitiful.
-
+s=
 
 "After all, why not?" thought Henry. "She is pretty; I am sure of her family; and besides, she is rather a symbol of this security I have been preaching."
 
@@ -8837,7 +8843,7 @@ Her agitation was pitiful.
 
 
 "Oh, surely I meant marry. What else could you have thought I meant? I am only clumsy and crude about it."
-
+s=h
 
 "I have startled you and hurt you. But, dear Elizabeth, there is no crime or sin about it. Many cousins marry."
 
@@ -8846,112 +8852,115 @@ Her agitation was pitiful.
 
 
 "Oh!" she stammered. "O-oh! I cannot think of it. I mean, I am — ill; I mean — my head whirls. You act so suddenly, Henry — so unexpectedly."
-
+s=c
 
 "Oh, please let me go. I must talk about it to Lady Moddyford. She will know what to say."
 
 
 ### II
-
+n:je=John Evelyn; s=
 
 King Charles the Second and John Evelyn were sitting in a tiny library. A bright fire crackled on the hearth, throwing its flickerings on the books which lined the walls.
-
+n:king=King Charles II
 
 On a table beside the two men were bottles and glasses.
 
 
 "I knighted him this afternoon," the King was saying. "He got pardon and a knighthood for two thousand pounds."
-
+s=king
 
 "Well, two thousand pounds—" murmured John Evelyn. "Certain tradesmen will, perhaps, bless his knighthood."
-
+s=je
 
 "But that's not it, John. I could have got twenty. He took about a million out of Panama."
-
+s=king
 
 "Ah, well; two thousand pounds—"
-
+s=je
 
 "I ordered him to come in here tonight," said the King. "These sailors and pirates sometimes have a tale or two worth repeating."
-
+s=king
 
 "You'll be disappointed in him. He is — lumpish, I think is the word. You get the impression that a great mass is planted before you; and he moves as though he pushed this own invisible cage ahead of him."
 
 
 "You might create a title," John Evelyn suggested. "It seems wasteful to let a million get away without even trying."
-
+s=je
 
 Sir Henry Morgan was announced.
+n:h=Sir Henry Morgan; s=
 
+"Step in, sir. Step in!"
+s=king
 
-"Step in, sir. Step in!" The King saw that he had a glass of wine in his hands. Henry seemed frightened. He gulped the wine.
-
+The King saw that he had a glass of wine in his hands. Henry seemed frightened. He gulped the wine.
+s=
 
 "Good job of yours in Panama," the King observed. "It was better to burn it now than later, and I have no doubt we should have had to do it later."
-
+s=king
 
 "I thought of that when I set the torch, Sire. These hoggish Spaniards want to overrun the world."
-
+s=h
 
 "You know, Captain, piracy — or, to be delicate, free-booting — has been a good thing for us, and a bad thing for Spain. But the institution grows to be a nuisance."
-
+s=king
 
 "I spend half of my time making excuses to the Spanish Ambassador. I am going to commission you Lieutenant-Governor of Jamaica."
 
 
 "Sire!"
-
+s=h
 
 "No thanks! I am acting on the advice of an adage. Piracy must be stopped now. These men have played at little wars long enough."
-
+s=king
 
 "But, Sire, I myself was a buccaneer. Do you want me to hang my own men?"
-
+s=h
 
 "That is what I inferred, sir. Who can track them down better than you who know all their haunts?"
-
+s=king
 
 "They fought with me, Sire."
-
+s=h
 
 "Ah; conscience? I had heard that you were able to do about as you pleased with your conscience."
-
+s=king
 
 "Not conscience, Sire, but pity."
-
+s=h
 
 "Pity is misplaced in a public servant or a robber. A man may do what it is profitable to do."
-
+s=king
 
 "You yourself have demonstrated two of these premises. Let us see you labor with the third," the King said acidly.
 
 
 "I wonder if I can."
-
+s=h
 
 "If you wonder, then you can," John Evelyn put in.
-
+s=je
 
 The King's manner changed.
-
+s=
 
 "Come! drink!" he said. "We must have life, and perhaps later, song. Tell us a tale, Captain, and drink while you tell it."
-
+s=king
 
 "Wine adds capitals and asterisks to a good tale — a true story."
 
 
 "A tale, Sire?"
-
+s=h
 
 "Surely. Some story of the colonial wenches; some little interlude in piracy — for I am sure you did not steal only gold."
-
+s=king
 
 He motioned a servant to keep Henry's glass filled. "I have heard of a certain woman in Panama. Tell us about her."
 
 
 Henry drained his glass. His face was becoming flushed. "There is a tale about her," he said. "She was pretty, but also she was an heiress."
-
+s=h
 
 "I confess, I favored her. She would inherit silver mines. Her husband offered one hundred thousand pieces of eight for her."
 
@@ -8963,16 +8972,16 @@ Henry drained his glass. His face was becoming flushed. "There is a tale about h
 
 
 The King leaned forward in his chair. "Which did you take? Tell me quickly."
-
+s=king
 
 "I remained in Panama for a while," said Henry. "What would Your Majesty have done in my place? I got both. Perhaps I got even more than that."
-
+s=h
 
 "Who knows but my son will inherit the silver mines eventually."
 
 
 "I would have done that," cried the King. "You are right. I would have done just that. It was clever, sir. A toast, Captain — to foresight."
-
+s=king
 
 "Your generalship, sir, runs to other matters than warfare, I see. You have never been defeated in battle, they say; but tell me, Captain, were you ever defeated in love?"
 
@@ -8984,7 +8993,7 @@ The King leaned forward in his chair. "Which did you take? Tell me quickly."
 
 
 "Not by a woman, Sire — But once I was defeated by Death. There are things which so sear the soul that the pain of it follows through life."
-
+s=h
 
 "You asked for the story. Your health, Sire."
 
@@ -9026,55 +9035,55 @@ The King leaned forward in his chair. "Which did you take? Tell me quickly."
 
 
 Henry lifted his eyes. The King was smiling ironically. John Evelyn drummed the table with his fingers.
-
+s=
 
 "Yes?" said the King. "Yes?" He chuckled.
-
+s=king
 
 "Ah, I am old — old," Henry moaned. "It is a lie. She was a peasant child, the daughter of a cottager."
-
+s=h
 
 He staggered to his feet and moved toward the door. Shame was burning in his face.
-
+s=
 
 "Captain Morgan, you forget yourself."
-
+s=king
 
 "I — forget — myself?"
-
+s=h
 
 "There are certain little courtesies. Custom demands that you render them to our person."
-
+s=king
 
 "I plead pardon, Sire. I plead your permission to leave. I — I am ill."
-
+s=h
 
 He bowed himself from the room.
-
+s=
 
 The King was smiling through his wine.
 
 
 "How is it, John, that such a great soldier can be such a great fool?"
-
+s=king
 
 Said John Evelyn, "How could it be otherwise? If great men were not fools, the world would have been destroyed long ago."
-
+s=je
 
 "How could it be otherwise? Folly and distorted vision are the foundations of greatness."
 
 
 "You mean that my vision is distorted?"
-
+s=king
 
 "No, I do not mean that."
-
+s=je
 
 "Then you imply—"
-
+s=king
 
 "I wish to go on with Henry Morgan. He has a knack for piracy which makes him great. Immediately you imagine him as a great ruler."
-
+s=je
 
 "You make him Lieutenant-Governor. In this you are like the multitude. You believe that if a man do one thing magnificently, he should be able to do all things equally well."
 
@@ -9086,46 +9095,46 @@ Said John Evelyn, "How could it be otherwise? If great men were not fools, the w
 
 
 "Vice-versa?"
-
+s=king
 
 "That is a humorous alternative, Sire. It is a conversational trick to gain a smile — no more."
-
+s=je
 
 "I see. But Morgan and his folly—"
-
+s=king
 
 "Of course he is a fool, Sire, else he would be turning soil in Wales or burrowing in the mines. He wanted something, and he was idiot enough to think he could get it."
-
+s=je
 
 "Because of his idiocy he did get it — part of it. You remember the princess."
 
 
 The King was smiling again.
-
+s=
 
 "I have never known any man to tell the truth to or about a woman. Why is that, John?"
-
+s=king
 
 "Perhaps, Sire, if you would explain the tiny scratch I see under your right eye, you could understand."
-
+s=je
 
 "Now the scratch was not there last night, and it has the distinct look of—"
 
 
 "Yes — yes — a clumsy servant. Let us speak of Morgan. You have a way, John, of being secretly insulting."
-
+s=king
 
 "Sometimes you are not even conscious of your insults. It is a thing to put down if you are to be around courts for any length of time."
 
 
 ### III
-
+s=; a:h=old; a:c=old
 
 Sir Henry Morgan sat on the Judge's Bench at Port Royal.
-
+n:co=Official
 
 Before him, on the floor, lay a slab of white sunlight like a blinding tomb.
-
+n:guard=Guard
 
 Throughout the room an orchestra of flies sang their symphony of boredom. The droning voices of counsel were only louder instruments against the humming obbligato.
 
@@ -9134,151 +9143,154 @@ Court officials went about sleepily, and the cases moved on.
 
 
 "It was the fifteenth of the month, my lord. Williamson went to the Cartwright property for the purpose of determining — determining to his own satisfaction, my lord, whether the tree stood as described. It was while he was there—"
-
+s=co
 
 The case sang to its monotonous conclusion. Sir Henry, behind his broad table, stirred sleepily.
-
+s=
 
 Now the guards brought in a sullen vagrant, clothed in rags of old sail.
-
+n:a1=Vagrant
 
 "Charged with stealing four biscuits and a mirror from So-and-So, my lord."
-
+s=guard
 
 "The proof?"
-
+s=h
 
 "He was detected, my lord."
-
+s=co
 
 "Did you, or did you not, steal four biscuits and a mirror?"
-
+s=h
 
 The prisoner's face became even more sullen.
-
+s=
 
 "I told 'em."
-
+s=a1
 
 "My lord," the guard prompted.
-
+s=guard
 
 "My lord."
-
+s=a1
 
 "Why did you steal these articles?"
-
+s=h
 
 "I wan'ed 'em."
-
+s=a1
 
 "Say my lord."
-
+s=guard
 
 "My lord."
-
+s=a1
 
 "What did you want with them?"
-
+s=h
 
 "I wan'ed the biscuits for to eat."
-
-
-"My lord."
-
+s=a1
 
 "My lord."
+s=guard
 
+"My lord."
+s=a1
 
 "And the mirror?"
-
+s=h
 
 "I wan'ed the mirror for to look at myself in."
-
-
-"My lord."
-
+s=a1
 
 "My lord."
+s=guard
 
+"My lord."
+s=a1
 
 They led the man to his imprisonment. Now the guards brought in a thin, pasty woman.
-
+n:a2=Woman; s=
 
 "Charged with harlotry and incontinence, my lord."
-
+s=guard
 
 "Incontinence is illegal," said Sir Henry irritatedly, "but since when have we been punishing people for harlotry?"
-
+s=h
 
 "My lord, the nature of this woman — The public health demands — We thought the case would be understood."
-
+s=guard
 
 "Ah! I see. She must be locked up. Take her away quickly."
-
+s=h
 
 The woman began to cry sulkily.
-
+s=
 
 Sir Henry rested his forehead on his hands. He did not look up at the next prisoners.
 
 
 "Charged with piracy on the high seas, my lord; with disturbing the King's peace; with an act of war against a friendly nation."
-
+s=guard
 
 Sir Henry glanced quickly at the prisoners. One was a rotund little man with eyes of terror, and the other a lean, grizzled fellow whose one arm was gone.
-
+s=
 
 "What is the proof against the prisoners?"
-
+s=h
 
 "Five witnesses, my lord."
-
+s=guard
 
 "So? Make your plea!"
-
+s=h
 
 The tall man had put his good arm about the shoulders of his companion.
-
+n:bur1=Tall Man
 
 "We plead guilty, my lord."
-
+s=bur1
 
 "You plead guilty?" Sir Henry cried in amazement. "But no pirate pleads guilty. It is a case unprecedented."
-
+s=h
 
 "We plead guilty, my lord."
-
+s=bur1
 
 "But why?"
-
+s=h
 
 "Fifty people saw us in action, my lord. Why should we take up your time in denying what fifty people will swear to?"
-
+s=bur1
 
 "No, we are resigned, my lord. We are content, both with the recent action and with our lives."
 
 
 The wiry arm squeezed about the small round tub of a buccaneer.
+s=
+
+Henry sat very silently for a time. But finally he raised his tired eyes.
 
 
-Henry sat very silently for a time. But finally he raised his tired eyes. "I sentence you to be hanged."
-
+"I sentence you to be hanged."
+s=h
 
 "Hanged, my lord?"
-
+s=bur1
 
 "Hanged by the neck until you are dead."
-
+s=h
 
 "You are changed, sir."
-
+s=bur1
 
 Sir Henry started forward and closely scrutinized the prisoners. Then his lips smiled.
-
+s=
 
 "Yes," he said quietly, "I am changed. The Henry Morgan you knew is not the Sir Henry Morgan who sentences you to death."
-
+s=h
 
 "I do not kill ferociously any more, but coldly, and because I have to."
 
@@ -9287,43 +9299,43 @@ Sir Henry raised his voice. "Let the court be cleared, but guard the doors! I wi
 
 
 When they were alone he began:
-
+s=
 
 "I know well that I am changed, but tell me what is the change you see."
-
+s=h
 
 The Burgundians looked at each other. "You speak, Emil."
-
+s=bur1
 
 "You are changed, sir, in this way. Once you knew what you were doing. You were sure of yourself."
-
+n:bur1=Antoine, The Burgundian; s=bur2
 
 "That is so," broke in the other. "You do not know — you are not sure of yourself any more. Once you were one man."
-
+s=bur1
 
 "It is possible to trust one man. But now you are several men. If we should trust one of you, we should be in fear of the others."
 
 
 Sir Henry laughed. "That is more or less true. It is not my fault, but it is true. Civilization will split up a character, and he who refuses to split goes under."
-
+s=h
 
 "We have forgotten about civilization, thanks to our Mother," Antoine muttered fiercely.
-
+s=bur1
 
 "What a pity to hang you."
-
+s=h
 
 "But is it so necessary to hang us, sir? Could we not escape or be pardoned?"
-
+s=bur1
 
 "No, you must be hanged. I am sorry, but it must be so. Such is my duty."
-
+s=h
 
 "But duty to your friends, sir — to the men who bore arms with you, who mixed their blood with yours—"
-
+s=bur2
 
 "Listen, Other Burgundian; there are two kinds of duty, and you would know that if you remembered your France."
-
+s=h
 
 "You mentioned one species, and it is the weaker kind. The other, the giant duty — that which will not be overlooked — might be called the duty of appearances."
 
@@ -9338,7 +9350,7 @@ Sir Henry laughed. "That is more or less true. It is not my fault, but it is tru
 
 
 "That is so, sir. I remember." He turned to his friend who stood shaking in the grip of horror.
-
+s=bur1
 
 "You see, such is the case, Emil. He does not like to tell us this thing because it hurts him."
 
@@ -9347,31 +9359,31 @@ Sir Henry laughed. "That is more or less true. It is not my fault, but it is tru
 
 
 "Chagres!" Sir Henry bent forward with excitement. "What happened after I sailed away? Tell me!"
-
+s=h
 
 "You were cursed, sir, as it is given to few men to be cursed. You were tortured in men's minds. They feasted on your heart and sent your soul to hell."
-
+s=bur1
 
 "I enjoyed the scene rarely, because I knew that every man there envied you while he reviled you. I was proud of you, sir."
 
 
 "And they scattered?"
-
+s=h
 
 "They scattered and died, poor little children."
-
+s=bur1
 
 "Anyway, I should have hated to fall in with those poor little children! Tell me," Sir Henry's voice had become wistful, "tell me about Panama."
-
+s=h
 
 "We did go there, didn't we? We really captured Panama, didn't we, and looted it? It was I who led you, wasn't it?"
 
 
 "It was so. It was a grand fight and an ocean of plunder — but, after all, you know more about that last than we do."
-
+s=bur1
 
 "Sometimes I doubt whether this body ever went to Panama. I am sure this brain did not."
-
+s=h
 
 "I would like to stay and talk to you of that old time, but my wife expects me. She is apt to fuss if I am late for luncheon."
 
@@ -9380,10 +9392,10 @@ He spoke jocosely. "When would you like to be hanged?"
 
 
 The Burgundians were whispering together.
-
+s=
 
 "Ah, there is that 'hanged' again. When would we like to be hanged? Any time, sir."
-
+s=bur1
 
 "We do not wish to put you to the trouble, but if you insist — any time there is a man and a rope idle."
 
@@ -9401,7 +9413,7 @@ Antoine approached the table. "Emil wishes to offer one last compliment. It is a
 
 
 He dropped a rose pearl on the table and turned quickly away.
-
+s=
 
 After they had been led out, Sir Henry sat at his bench and stared at the pearl.
 
@@ -9413,31 +9425,31 @@ He came to the squat, white Palace of the Lieutenant-Governor. It was exactly as
 
 
 Lady Morgan would not have felt right if a detail had been changed. She met Henry at the door.
-
+n:c=Lady Elizabeth Morgan
 
 "We are to have dinner with the Vaughns. And what am I to do about the coachman? He's drunk."
-
+s=c
 
 "I've told you and told you to lock your closet, but you will not pay attention to me. He sneaked into the house and got a bottle off your shelf. He must have done that."
 
 
 "Open your hand, my dear. I have a gift for you."
-
+s=h
 
 He dropped the rose pearl into her palm.
-
+s=
 
 For a moment she looked at the rosy sphere and her face flushed with pleasure, but then she searched his face suspiciously.
 
 
 "What have you been up to?"
-
+s=c
 
 "Up to? Why, I have been holding court."
-
+s=h
 
 "I suppose you got this in court!" Her face lighted up. "I know! You suspected my displeasure at your actions last night."
-
+s=c
 
 "You were practically intoxicated, if you must know the truth; and all the people were staring at you and whispering."
 
@@ -9446,25 +9458,25 @@ For a moment she looked at the rosy sphere and her face flushed with pleasure, b
 
 
 "Suspected your displeasure! My dear, I suspected it all the way home with you, and nearly all night after I got here."
-
+s=h
 
 "You are right. I strongly suspected your displeasure. In fact, I was certain of it. But I will tell you the truth about the pearl."
 
 
 "You will tell the truth only because you know you cannot deceive me, Henry. When will you give up the idea that I don't know every little thought you possess?"
-
+s=c
 
 "But I didn't try to deceive you. You didn't give me time."
-
+s=h
 
 "It takes no more time to tell the truth than—"
-
+s=c
 
 "Listen to me, Elizabeth, please. I tried two pirates this morning and they gave it to me."
-
+s=h
 
 She smiled a superior smile. "They gave it to you? Why? Did you release them? It would be like you to release them."
-
+s=c
 
 "Sometimes I think you would still be one of them if it weren't for me. You never seem to realize, Henry, that it is really I who have made you what you are — a knight and a gentleman."
 
@@ -9473,13 +9485,13 @@ She smiled a superior smile. "They gave it to you? Why? Did you release them? It
 
 
 "No; I sentenced them to death."
-
+s=h
 
 "Ah! Then why did they give you the pearl?"
-
+s=c
 
 "My dear, they gave it to me because they had nothing else to do with it. They might have presented it to the hangman, but one would feel a trifle diffident about giving pearls to the man who put a rope about one's neck."
-
+s=h
 
 "Friendship isn't possible with one's hangman, I should imagine."
 
@@ -9488,7 +9500,7 @@ She smiled a superior smile. "They gave it to you? Why? Did you release them? It
 
 
 "Well, I can easily find out about the pirates, and as to your affection — you love me as long as I have my eye on you, and no longer."
-
+s=c
 
 "I know you thoroughly. But I am glad they are hanged. Lord Vaughn says they are a positive danger even to ourselves."
 
@@ -9500,10 +9512,10 @@ She smiled a superior smile. "They gave it to you? Why? Did you release them? It
 
 
 "But, my dear, Lord Vaughn knows nothing about buccaneers, while I—"
-
+s=h
 
 "Henry, why do you keep me here with your talking, when you know I have a thousand things to attend to."
-
+s=c
 
 "You think, because you have all the time in the world, that I can afford to help you idle. Now do see to the coachman, because I should be terribly embarrassed if he were not fit."
 
@@ -9515,10 +9527,10 @@ She smiled a superior smile. "They gave it to you? Why? Did you release them? It
 
 
 She turned to reenter the house, then came back and kissed him on the cheek.
-
+s=
 
 "It's really a nice pearl. Thank you, dear," she said.
-
+s=c
 
 "Of course, I am going to have Monsieur Banzet value it. After what Lord Vaughn said, I have very little faith in pirates."
 
@@ -9527,7 +9539,7 @@ She turned to reenter the house, then came back and kissed him on the cheek.
 
 
 Sir Henry walked toward the stables. Now, as on other occasions, he was gently moved by uneasiness.
-
+s=
 
 Now and then there came a vagrant feeling that, in spite of all Elizabeth's declamation to the effect that she knew him thoroughly, perhaps she really did.
 
@@ -9539,7 +9551,7 @@ It was disquieting.
 
 
 Sir Henry Morgan lay in an enormous bed; a bed so wide that his body, under the coverlid, seemed a snow-covered mountain range dividing two great plains.
-
+a:h=death
 
 From the walls about the room the shiny eyes of his ancestors regarded him.
 
@@ -9560,25 +9572,25 @@ Everyone about him was silent, they went sneaking about pretending to be ghosts,
 
 
 They were trying to convince him that he was dead already. He closed his eyes. He was too tired or too indifferent to keep them open.
-
+n:doc=Doctor
 
 He heard the doctor come in, and felt him reading the pulse. Then the big confident voice boomed:
 
 
 "I am sorry, Lady Morgan. There is nothing to do now. I do not even know what is the matter with him. Some old jungle fever, perhaps."
-
+s=doc
 
 "I could bleed him again, I suppose, but we have taken a great deal of blood already, and it seems to do no good. However, if he begins to sink, I shall try it again."
 
 
 "Then he will die?" Lady Morgan asked. Henry thought she showed more curiosity than sorrow.
-
+s=c
 
 "Yes, he will die unless God intervenes. Only God can be sure of his patients."
-
+s=doc
 
 And then the room was cleared of people. Henry knew that his wife was sitting near the bed.
-
+s=
 
 He could hear her crying softly beside him. "What a pity it is," he thought, "that I cannot go to death in a ship so she might pack my bag for me."
 
@@ -9587,16 +9599,16 @@ He could hear her crying softly beside him. "What a pity it is," he thought, "th
 
 
 "Oh, my husband — Oh, Henry, my husband."
-
+s=c
 
 He turned his head and looked at her curiously, and his gaze went deep into her eyes.
-
+s=
 
 Suddenly he was seized with despair.
 
 
 "This woman loves me," he said to himself.
-
+s=h
 
 "This woman loves me, and I have never known it. I cannot know this kind of love. Her eyes — her eyes — this is something far beyond my comprehension. Can she have loved me always?"
 
@@ -9611,7 +9623,7 @@ He looked again. "She is very near to God. I think women are nearer to God than 
 
 
 He turned away. This sorrow was too great, too burning and awful to regard. It is terrifying to see a woman's soul shining through her eyes.
-
+s=
 
 So he was to die. It was rather pleasant if death was like this. He was warm and very tired.
 
@@ -9623,13 +9635,13 @@ He knew that some other person had come into the room. His wife leaned over unti
 
 
 She would be annoyed if she knew he could turn his head if he wished.
-
+n:vicar=Vicar
 
 "The Vicar, dear," his wife said. "Do be nice to him. Oh, do listen to him! It may help you — afterwards."
-
+s=c
 
 Ah, she was practical! She was going to see that some compact was made with the Almighty if she could.
-
+s=
 
 Her affection was an efficient thing, but her love — that which glittered in her wet eyes — was frightful.
 
@@ -9638,16 +9650,16 @@ Henry felt a warm, soft hand take his. A soothing voice was talking to him. But 
 
 
 "God is Love," the voice was saying. "You must put your faith in God."
-
+s=vicar
 
 "God is Love," Henry repeated mechanically.
-
+s=h
 
 "Let us pray," said the voice.
-
+s=vicar
 
 Suddenly Henry remembered a moment of his childhood. He was being tortured with an earache, and his mother was holding him in her arms.
-
+s=
 
 She stroked his wrist with her finger tips. "This is all nonsense," she was saying.
 
@@ -9662,28 +9674,28 @@ Henry felt the warm fingers of the Vicar creep to his wrist and begin a stroking
 
 
 "'The Lord is my shepherd. I shall not want,'" Henry droned sleepily.
-
+s=h
 
 "'He maketh me to lie down in green pastures—'" The stroking continued, but more harshly.
 
 
 The Vicar's voice became more loud and authoritative. It was as though, after years of patient waiting, the Church had at last got Henry Morgan within its power.
-
+s=
 
 There was something almost gloating about the voice.
 
 
 "Have you repented your sins, Sir Henry?"
-
+s=vicar
 
 "My sins? No, I had not thought of them. Shall I repent Panama?"
-
+s=h
 
 The Vicar was embarrassed. "Well, Panama was a patriotic conquest. The King approved. Besides, the people were Papists."
-
+s=vicar
 
 "But what are my sins, then?" Henry went on. "I remember only the most pleasant and the most painful among them."
-
+s=h
 
 "Somehow I do not wish to repent the pleasant ones. It would be like breaking faith with them; they were charming."
 
@@ -9698,40 +9710,46 @@ The Vicar was embarrassed. "Well, Panama was a patriotic conquest. The King appr
 
 
 "Have you repented your sins, Sir Henry?"
+s=vicar
 
+He realized, then, that he had not been talking at all. It was difficult to talk. His tongue had become lazy and sluggish.
+s=
 
-He realized, then, that he had not been talking at all. It was difficult to talk. His tongue had become lazy and sluggish. "No," he said.
-
+"No," he said.
+s=h
 
 "I can't remember them very well."
 
 
 "You must search in your heart for greed and lust and spite. You must drive wickedness from your heart."
-
+s=vicar
 
 "But, sir, I don't remember ever having been consciously wicked. I have done things which seemed wicked afterwards, but while I was doing them I always had some rather good end in view."
-
+s=h
 
 Again he was conscious that he wasn't really speaking.
-
+s=
 
 "Let us pray," the voice said.
+s=vicar
 
+Henry made a violent effort with his tongue.
+s=
 
-Henry made a violent effort with his tongue. "No!" he cried.
-
+"No!" he cried.
+s=h
 
 "But you prayed before."
-
+s=vicar
 
 "Yes, I prayed before — because my mother would have liked it. She would have wanted me to pray at least once, more as a proof of her training than for any other reason, a reassurance to her that she had done her duty by me."
-
+s=h
 
 "Would you die heretic, Sir Henry? Aren't you afraid of death?"
-
+s=vicar
 
 "I am too tired, sir, or too lazy, to consider problems of heresy. And I am not afraid of death."
-
+s=h
 
 "I have seen much violence, and no man whom I have admired was afraid of death, but only of dying."
 
@@ -9743,16 +9761,16 @@ Henry made a violent effort with his tongue. "No!" he cried.
 
 
 He heard the Vicar's voice again; but, though the warm hand still stroked his wrist, the voice came from a mighty distance.
-
+s=
 
 "He will not answer me," the Vicar was saying. "I am perplexed for his soul."
-
+s=vicar
 
 Then he heard his wife speaking to him. "You must pray, dear. Everyone does. How can you get to heaven if you do not pray?"
-
+s=c
 
 There she was again, intent on making a contract with God. But Henry did not want to look at her.
-
+s=
 
 Naive though her philosophy was, her eyes were as deep and as sad as the limitless sky.
 
@@ -9767,10 +9785,10 @@ The doctor had come back into the room.
 
 
 "He is unconscious," the booming voice proclaimed. "I think I will bleed him again."
-
+s=doc
 
 Henry felt the scalpel cut into his arm. It was pleasant. He hoped they would cut him again and again.
-
+s=
 
 But the illusion was contradictory. Rather than feeling the blood leaving him, he sensed a curious warmth slipping through his body.
 
@@ -9821,13 +9839,13 @@ When he knew their identity, the faceless little creatures turned on him and clu
 
 
 "I do not know; I do not remember you."
-
+s=h
 
 "Why did you think me?"
 
 
 "I do not know. I must have known, but I have forgotten. My memory is slipping away from me here in this grotto."
-
+s=h
 
 Still insistently they questioned him, and their voices were becoming more and more strident and harsh, so that they overwhelmed the great Tone.
 
@@ -9839,13 +9857,13 @@ Still insistently they questioned him, and their voices were becoming more and m
 
 
 "Oh, leave me! Let me rest," Henry said wearily.
-
+s=h
 
 "I am tired, and I cannot tell you anything anyway."
 
 
 Then he saw that the little beings were crouching before an approaching form.
-
+s=
 
 They turned toward the form and cowered, and at length fell on their knees before it and raised trembling arms in gestures of supplication.
 
@@ -9860,16 +9878,16 @@ With a little start of surprise she noticed Henry.
 
 
 "I am Elizabeth," she said. "You did not come to see me before you went away."
-
+s=liz
 
 "I know. I think I was afraid to talk with you. But I stood in the darkness before your window, and I whistled."
-
+s=h
 
 "Did you?" She smiled at him gladly. "That was nice of you. I cannot see, though, why you should have been afraid of me — of such a little girl. It was silly of you."
-
+s=liz
 
 "I do not know why," he said. "I ran away. I was motivated by a power that is slipping out of all the worlds."
-
+s=h
 
 "My memories are leaving me one by one like a colony of aged swans flying off to some lonely island in the sea to die."
 
@@ -9878,10 +9896,10 @@ With a little start of surprise she noticed Henry.
 
 
 "Yes, perhaps I did. I hope I did. I, too, forget. Tell me, did you really stand there in the dark?"
-
+s=liz
 
 Henry had noticed a peculiar thing. If he looked steadily at one of the crouched, faceless beings, it disappeared.
-
+s=
 
 He amused himself by staring first at one and then at another until all of them were gone.
 
@@ -9890,25 +9908,25 @@ He amused himself by staring first at one and then at another until all of them 
 
 
 "I do not know. Perhaps I only thought I did."
-
+s=h
 
 He looked for Elizabeth, but she, too, had disappeared. In her place there was a red smoldering ember, and the light was dying out of it.
-
+s=
 
 "Wait, Elizabeth — Wait. Tell me where my father is. I want to see my father."
-
+s=h
 
 The dying ember answered him.
-
+s=
 
 "Your father is happily dead. He was afraid to test even death."
 
 
 "But Merlin, then — Where is Merlin? If I could only find him."
-
+s=h
 
 "Merlin? You should know of him. Merlin is herding dreams in Avalon."
-
+s=
 
 The fire went out of the ember with a dry, hard snap. There was no light anywhere.
 
