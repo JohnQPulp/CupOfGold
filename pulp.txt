@@ -6346,7 +6346,7 @@ s=oldw
 She seemed to resent their humanity. She withdrew her head as though she renounced them for being only men.
 s=
 
-In the afternoon a fire broke out. Tall flames lanced into the sky. A section caught, a street; half the city was burning.
+In the afternoon a fire broke out. Tall flames lanced into the sky. A section caught, a street; half the city was burning.<e>There's that interesting choice of pacing again. A rather detached way of describing the conflagration. Maybe Steinbeck's worried about the fact-checkers catching him out on getting the fire-spread order of events wrong?</e>
 
 
 Henry Morgan went to the Palace of the Governor to establish his quarters, and there, in the doorway, stood Don Juan Perez de Guzman, with a naked rapier in his hand.
@@ -6391,10 +6391,7 @@ Henry Morgan watched him drunkenly lurching out of the city.
 The black night came.
 
 
-Nearly all of the city was in flame, a garden of red fire.
-
-
-The tower of the Cathedral crashed down and threw a heaven of sparks into the air.
+Nearly all of the city was in flame, a garden of red fire. The tower of the Cathedral crashed down and threw a heaven of sparks into the air.<e>I think I rather like "heaven of sparks". Alright Steinbeck, I withdraw a portion of my criticism on your descriptions here lacking.</e>
 
 
 Panama was dying in a bed of flame, and the buccaneers were murdering the people in the streets.
@@ -6601,7 +6598,7 @@ s=h
 The words had been forced from him. He remembered that he was surprised. "Who are you?" he demanded.
 
 
-She moved a step into the hail. "My name is Ysobel. It was said that you sought me."
+She moved a step into the hail. "My name is Ysobel. It was said that you sought me."<e>The uncultured reader will be interested to know that "Ysobel" is a sort of cousin name to "Elizabeth", which shares a root with the more direct anglicisation "Isabel". So this is Elizabeth #5.</e>
 s=la
 
 "Sought you?"
@@ -6772,19 +6769,13 @@ s=la
 "He would take me through the streets and his eyes would say, 'See what I have married! No ordinary man could marry such a woman; but then, I am not an ordinary man.'"
 
 
-"He was afraid of me — a little man, and afraid of me. He would say, 'With your permission, my dear, I shall exercise the prerogative of a husband.'"
+"He was afraid of me — a little man, and afraid of me. He would say, 'With your permission, my dear, I shall exercise the prerogative of a husband.'"<e>Very close to a "yes dear". Amusing!</e>
 
 
 "Ah, the contempt I have for him!"
 
 
-"I wanted force — blind, unreasoning force — and love not for my soul or for some imagined beauty of my mind, but for the white fetish of my body."
-
-
-"I do not want softness. I am soft. My husband uses scented lotions on his hands before he touches me, and his fingers are like thick, damp snails."
-
-
-"I want the crush of hard muscles, the delicious pain of little hurts."
+"I wanted force — blind, unreasoning force — and love not for my soul or for some imagined beauty of my mind, but for the white fetish of my body. I do not want softness. I am soft. My husband uses scented lotions on his hands before he touches me, and his fingers are like thick, damp snails. I want the crush of hard muscles, the delicious pain of little hurts."<e>I dunno Steinbeck. Between this and all the weird talk of deep shame from the first part of the book, I'm not exactly sure what you're cooking here.</e>
 
 
 She searched his face closely, as though looking once more for a quality which had been lost.
@@ -6793,10 +6784,7 @@ s=
 "I thought richly of you once, you grew to be a brazen figure of the night."
 s=la
 
-"And now — I find you a babbler, a speaker of sweet, considered words, and rather clumsy about it."
-
-
-"I find you are no realist at all, but only a bungling romancer."
+"And now — I find you a babbler, a speaker of sweet, considered words, and rather clumsy about it. I find you are no realist at all, but only a bungling romancer."<e>Now remember that part where Henry Morgan predicted the Red Saint would be a "shrewish bitch"? An actual insight from our protagonist. (Not that her dialogue is misplaced here, but like with the prior Coeur de Gris speech, it's rather less satisfying when the piercing takedowns require poor characterization elsewhere to work.)</e>
 
 
 "You want to marry me — to protect me. All men, save one, have wanted to protect me."
@@ -6829,7 +6817,7 @@ s=la
 "While you wrenched at my clothing, I would picture you fawning before me, blurting out your words."
 
 
-"And I should laugh, I'm afraid. I might even protect myself — and you, who should be somewhat an authority on rape, must know the consequence of that."
+"And I should laugh, I'm afraid. I might even protect myself — and you, who should be somewhat an authority on rape, must know the consequence of that."<e>Now, I'm no authority on rape myself, so I can't say I understand what she means by "consequences" here. Is Steinbeck implying moral consequences here, like the dumbest version of <book>Crime and Punishment</book> you could imagine? Or does she actually mean that Henry Morgan is just too cowardly and weak to persist in the face of any resistance. Based on the quality of the moralizing and character intelligence displayed so far, I choose to interpet the least generous combination of both these options.</e>
 
 
 "No, you have failed — and I am sorry of your failure."
@@ -7111,7 +7099,7 @@ s=la
 His arms encircled her shoulders and his hands were tearing at her clothing.
 s=
 
-Ysobel stood quite still, but one hand darted about with its pin — striking, striking — like a small white serpent.
+Ysobel stood quite still, but one hand darted about with its pin — striking, striking — like a small white serpent.<e>Not the last time that Steinbeck would go on to use <book>East of Eden|snake imagery for his female characters</book>. Try as he might, he just can't help but steal ideas from Bram Stoker's <book>Lair of the White Worm</book>.</e>
 
 
 Little spots of blood appeared on Henry's cheeks, on his throat.
@@ -7189,7 +7177,7 @@ The lean rapier made a sharp swishing sound as it drove into its scabbard.
 And Captain Morgan stooped to pick up the tiny monkey. He walked away stroking Chico's head with his forefinger.
 
 
-### V
+### V<e>This is getting progressively stupider, Steinbeck. What just happened there, it'd be like if in *It's a Wonderful Life*, if George turned down Potter's job offer not because of how it'd be a betrayal to his friends and morals, but because he was unable to give Potter a firm-enough handshake. This characterization — I don't like it.</e>
 
 
 Henry Morgan lifted a golden cup from the heap of loot.
@@ -7339,7 +7327,7 @@ His tone became jocular.
 "Tell me the truth, sir. It is a small gift to a man to know what he has missed. Many people have no other gift during their whole lives."
 s=f
 
-"Tell me, sir, has the sweet enemy fallen? Has the castle of flesh capitulated? Does the standard of Morgan float over the pink tower?"
+"Tell me, sir, has the sweet enemy fallen? Has the castle of flesh capitulated? Does the standard of Morgan float over the pink tower?"<e>Each sentence worse than the last. (Still the best character though.)</e>
 
 
 Henry's face had flushed. The pistol in his hand rose quietly, steadied by an inexorable madness.
@@ -7663,7 +7651,7 @@ Numbers of women were there, women who had gone over to the pirates.
 They danced and flung about to the shrieking of flutes as though their feet did not sound on the grave of Panama at all.
 
 
-They, dear economists, were gaining back some of the lost treasure, using a weapon more slow, but no less sure, than the sword.
+They, dear economists, were gaining back some of the lost treasure, using a weapon more slow, but no less sure, than the sword.<e>I'm unsure if Steinbeck is referring to the women as economists, or he's addressing the whole sentence to economists as a class. The dismal reader will agree that the latter interpretation is superior, so as to not miss an opportunity to take a swipe at that profession.</e>
 
 
 In a corner of the warehouse sat The Burgundian and his one-armed protector.
@@ -8239,7 +8227,7 @@ s=span
 He laughed at the cleverness of his reasoning. "We understand each other, Señor. We have tough skulls — not the soft heads of chickens."
 
 
-"Twenty thousand — it is nothing to be reckoned against ten silver mines. Ah, yes; we understand each other, we men of responsibilities."
+"Twenty thousand — it is nothing to be reckoned against ten silver mines. Ah, yes; we understand each other, we men of responsibilities."<e>Narratively, this development is fine, I suppose. But in the context of the book, how would Henry Morgan not have already known this, and why would the messenger want to tell it to him now, when he can still change his mind and stop the riders.</e>
 
 
 He clambered into his saddle and rode away still laughing. Henry Morgan saw him join the undulating cavalcade; and now there was a ruby with the pearl in the silver setting.
@@ -8326,16 +8314,16 @@ The galleon had put to sea during the night, and all the wealth of Panama had go
 There was rage among the buccaneers. They would give chase; they would run down the fugitive and torture Captain Morgan.
 
 
-But they could not pursue. The other ships were worthless.
-
-
-Some lay on the sandy bottom with great holes punched in their sides; of others, the masts were sawed nearly through.
+But they could not pursue. The other ships were worthless. Some lay on the sandy bottom with great holes punched in their sides; of others, the masts were sawed nearly through.<e>Again the quizzical reader must ask, Steinbeck: how did this happen, physically?</e>
 
 
 Then there was cursing and violence on the beach.
 
 
-They swore brotherhood in the name of revenge. They planned the horror of the retribution. And they scattered. Some starved; some were tortured by the Indians. The Spaniards caught and strangled some of them, and England virtuously hanged a few.
+They swore brotherhood in the name of revenge. They planned the horror of the retribution. And they scattered. Some starved; some were tortured by the Indians.
+
+
+The Spaniards caught and strangled some of them, and England virtuously hanged a few.<e>I think probably the use of "virtuous" here is meant to be ironical. I'm still predisposed to doubt Steinbeck at this point in the story, though.</e>
 
 
 ## V
@@ -8356,7 +8344,7 @@ Great ladies, dressed in the silken stuffs of China, were there because, after a
 Sailors were there because he was a sailor; little boys because he was a pirate; young girls because he was a hero; business men because he was rich; gangs of slaves because they had a holiday.
 
 
-There were prostitutes with berry juice squeezed on their lips, and with restless eyes searching the faces of unaccompanied men; and there were girl children whose hearts mothered the sacred little hope that the great man might just possibly look in their direction and find the understanding he must crave.
+There were prostitutes with berry juice squeezed on their lips, and with restless eyes searching the faces of unaccompanied men; and there were girl children whose hearts mothered the sacred little hope that the great man might just possibly look in their direction and find the understanding he must crave.<e>"girl children"?</e>
 
 
 In the crowd were sailors whose pride lay in the fact that they had heard Captain Morgan curse; tailors who had fitted breeches to his legs.
@@ -8422,7 +8410,7 @@ n:cav=Cavalier
 Henry glanced with apprehension at the soldiers who surrounded him. "Am I under arrest?" he asked of the cavalier who walked beside him.
 s=h
 
-"Under arrest!" The man laughed. "No! We couldn't arrest you if we would. The mob would tear us to pieces."
+"Under arrest!" The man laughed. "No! We couldn't arrest you if we would. The mob would tear us to pieces."<e>I think the could/would sentence still parses here as-is, but it feels backwards.</e>
 s=cav
 
 "And if we did succeed in the arrest, they would rip out the stones of the jail with their fingers to free you."
@@ -8518,7 +8506,7 @@ s=h
 "As to my cousin, I shall take her off your hands, you may be sure."
 
 
-"I dimly remember her as a tall little girl with yellow hair — a little girl who played abominably on the harp; at least it sounded abominable to me, though it may have been quite good."
+"I dimly remember her as a tall little girl with yellow hair — a little girl who played abominably on the harp; at least it sounded abominable to me, though it may have been quite good."<e>Kind of funny. You know what, Steinbeck, you're alright.</e>
 
 
 Moddyford came to a subject he had been wanting to broach.
@@ -8575,7 +8563,7 @@ s=ladm
 "Why don't you marry your cousin? If nothing else came of it, you would be the one woman on earth who could not criticize her husband's relatives."
 
 
-"But what are you suggesting, Lady Moddyford?" Elizabeth put in meekly. "Isn't it some kind of crime to marry one's cousin?"
+"But what are you suggesting, Lady Moddyford?" Elizabeth put in meekly. "Isn't it some kind of crime to marry one's cousin?"<e>With cousin marriage practically being the free space of public domain literature bingo, always as a given, it's jarring to see it commented upon. Almost feels like protesting too much, in a sense. (Still being ten years shy of that obscure little film, *Gone With the Wind*, after all.)</e>
 s=c
 
 "Not a bit of it, my dear. There is nothing in church or state to forbid it, and I, myself, would favor such a marriage."
@@ -8683,7 +8671,7 @@ s=h
 She looked shyly at him. "I'll play for you, if you like," she said.
 s=c
 
-"Ye-es — yes, do."
+"Ye-es — yes, do."<e>Fierce pirate Captain Morgan, given the same stuttering dialogue decorations as found in fanfiction. I disagree with almost every choice you've made of this character, Steinbeck.</e>
 s=h
 
 "Now this is 'The Elves' Concourse.' Listen! You can hear their little feet pattering on the grass. Everybody says it is very sweet and pretty."
@@ -8755,7 +8743,7 @@ s=c
 "I tolerated them because they were friends of my friends."
 s=h
 
-"Did any of them fall in love with you? I know I am not delicate, but you are my cousin, and almost my — my brother."
+"Did any of them fall in love with you? I know I am not delicate, but you are my cousin, and almost my — my brother."<e>Now wait a minute.</e>
 s=c
 
 "Oh, some said they did — but I suspect they wanted my money."
@@ -8971,8 +8959,11 @@ s=h
 "Surely. Some story of the colonial wenches; some little interlude in piracy — for I am sure you did not steal only gold."
 s=king
 
-He motioned a servant to keep Henry's glass filled. "I have heard of a certain woman in Panama. Tell us about her."
+He motioned a servant to keep Henry's glass filled.
+s=
 
+"I have heard of a certain woman in Panama. Tell us about her."<e>Come now, Steinbeck. You're going to drag Charles II down into this mess?</e>
+s=king
 
 Henry drained his glass. His face was becoming flushed. "There is a tale about her," he said. "She was pretty, but also she was an heiress."
 s=h
@@ -8989,11 +8980,8 @@ s=h
 The King leaned forward in his chair. "Which did you take? Tell me quickly."
 s=king
 
-"I remained in Panama for a while," said Henry. "What would Your Majesty have done in my place? I got both. Perhaps I got even more than that."
+"I remained in Panama for a while," said Henry. "What would Your Majesty have done in my place? I got both. Perhaps I got even more than that. Who knows but my son will inherit the silver mines eventually."<e>Steinbeck, I retract my earlier comment about disliking all aspects of your Henry Morgan. This one characteristic by which he blatantly fabulizes is endearing.</e>
 s=h
-
-"Who knows but my son will inherit the silver mines eventually."
-
 
 "I would have done that," cried the King. "You are right. I would have done just that. It was clever, sir. A toast, Captain — to foresight."
 s=king
@@ -9103,7 +9091,7 @@ s=je
 "You make him Lieutenant-Governor. In this you are like the multitude. You believe that if a man do one thing magnificently, he should be able to do all things equally well."
 
 
-"If a man be eminently successful in creating an endless line of mechanical doodads of some excellence, you conceive him capable of leading armies or maintaining governments."
+"If a man be eminently successful in creating an endless line of mechanical doodads of some excellence, you conceive him capable of leading armies or maintaining governments."<e>A little late to be pushing "doodads" level of linguistic anachronisms, Steinbeck. You're no Twain. (Yet.)</e>
 
 
 "You think that because you are a good king you should be as good a lover — or vice-versa."
@@ -9232,7 +9220,7 @@ n:a2=Woman; s=
 "Charged with harlotry and incontinence, my lord."
 s=guard
 
-"Incontinence is illegal," said Sir Henry irritatedly, "but since when have we been punishing people for harlotry?"
+"Incontinence is illegal," said Sir Henry irritatedly, "but since when have we been punishing people for harlotry?"<e>The modern reader will no doubt be confused by this line.<br><br>Oh well.</e>
 s=h
 
 "My lord, the nature of this woman — The public health demands — We thought the case would be understood."
@@ -9463,14 +9451,8 @@ s=c
 "Up to? Why, I have been holding court."
 s=h
 
-"I suppose you got this in court!" Her face lighted up. "I know! You suspected my displeasure at your actions last night."
+"I suppose you got this in court!" Her face lighted up. "I know! You suspected my displeasure at your actions last night. You were practically intoxicated, if you must know the truth; and all the people were staring at you and whispering. Don't say a word. I saw them and I saw you. And now you want to bribe my feeling — my decency."<e>Nag nag nag nag nag. You sure know how to pick 'em, Henry Morgan.</e>
 s=c
-
-"You were practically intoxicated, if you must know the truth; and all the people were staring at you and whispering."
-
-
-"Don't say a word. I saw them and I saw you. And now you want to bribe my feeling — my decency."
-
 
 "Suspected your displeasure! My dear, I suspected it all the way home with you, and nearly all night after I got here."
 s=h
@@ -9634,7 +9616,10 @@ He looked again. "She is very near to God. I think women are nearer to God than 
 "They cannot talk about it, but, Christ! how it shines in their eyes. And she loves me."
 
 
-"During all her hectoring and badgering and browbeating, she has loved me — and I have never known it. But what would I have done if I had known it?"
+"During all her hectoring and badgering and browbeating, she has loved me — and I have never known it."<e>Whipped!</e>
+
+
+"But what would I have done if I had known it?"
 
 
 He turned away. This sorrow was too great, too burning and awful to regard. It is terrifying to see a woman's soul shining through her eyes.
@@ -9739,7 +9724,7 @@ s=h
 "You must search in your heart for greed and lust and spite. You must drive wickedness from your heart."
 s=vicar
 
-"But, sir, I don't remember ever having been consciously wicked. I have done things which seemed wicked afterwards, but while I was doing them I always had some rather good end in view."
+"But, sir, I don't remember ever having been consciously wicked. I have done things which seemed wicked afterwards, but while I was doing them I always had some rather good end in view."<e>I maintain that this statement only makes sense if Henry Morgan is a moron. Dostoevsky this is not.</e>
 s=h
 
 Again he was conscious that he wasn't really speaking.
@@ -9883,7 +9868,7 @@ s=
 They turned toward the form and cowered, and at length fell on their knees before it and raised trembling arms in gestures of supplication.
 
 
-Henry strained his attention toward the figure. Why, it was Elizabeth coming toward him — little Elizabeth, with golden hair and a wise young look on her face.
+Henry strained his attention toward the figure. Why, it was Elizabeth coming toward him — little Elizabeth, with golden hair and a wise young look on her face.<e>Alright, tired reader, you have remembered all the different Elizabeths, correct?</e>
 
 
 She was girdled with cornflowers, and her eyes were strangely puzzled and bright.
@@ -9937,7 +9922,7 @@ s=
 "Your father is happily dead. He was afraid to test even death."
 
 
-"But Merlin, then — Where is Merlin? If I could only find him."
+"But Merlin, then — Where is Merlin? If I could only find him."<e>Shut up about Merlin, Steinbeck.</e>
 s=h
 
 "Merlin? You should know of him. Merlin is herding dreams in Avalon."
@@ -9946,5 +9931,5 @@ s=
 The fire went out of the ember with a dry, hard snap. There was no light anywhere.
 
 
-For a moment, Henry was conscious of the deep, mellow pulsation of the Tone.
+For a moment, Henry was conscious of the deep, mellow pulsation of the Tone.<e>And that's the end. Elizabeth was the Rosebud of the story. Or something. With some fun morals along the way. Steinbeck, that was stupid. You owe the exhausted reader a better book for your next public domain entry. (What? Werewolves?)</e>
 
