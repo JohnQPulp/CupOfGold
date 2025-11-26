@@ -173,7 +173,7 @@ A faint sound of footsteps came along the high-road — a sound that might have 
 n:r=Robert Morgan;s=r
 
 The door opened softly, and there, lighted against the black night, stood a bent, feeble man with eyes like weak flames. He paused on the threshold as though undecided, but in a moment advanced into the room, asking in a strange, creaking voice,
-
+s=
 
 "Will you be knowing me, I wonder, Robert Morgan? Will you be knowing me that have been out so long?"
 n:d=?;s=d
@@ -6578,7 +6578,7 @@ She dropped a piece of her flower to the tiny beast, whereupon he seized it, put
 s=
 
 "Chico! Chico! you forget your teacher! That is all wrong. You will get no woman's honor by it. Place the flower over your heart, kiss my hand with a loud snapping sound, and then stride off like a fierce sheep out searching for wolves."
-
+s=la
 
 She laughed and glanced again toward the doorway. Although there was no sound, she rose and walked quickly toward the Hall of Audience.
 s=
