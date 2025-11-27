@@ -95,13 +95,13 @@ When she had come home this afternoon, raging over the price of a pair of shoes 
 
 
 Mother Morgan was too busy with the day itself to be bothered with the foolishness of abstractions. Someone in the family had to be practical or the thatch would blow away — and what could you expect of a pack of dreamers like Robert and Gwenliana and her son Henry?
-b=fin-m-r-g
+b=fin-m-h-r-g
 
 She loved her husband with a queer mixture of pity and contempt born of his failings and his goodness.
 
 
 Young Henry, her son, she worshiped, though of course she could not trust him to have the least idea of what was to his benefit or conducive to his health.
-b=fin-m-h-r-g
+
 
 And all of the family loved Mother Morgan and feared her and got in her way.
 
@@ -113,10 +113,10 @@ In the midst of her search for busyness she paused and glanced sharply at young 
 
 
 And Henry squirmed, wondering what things he had neglected to do that afternoon. But immediately she caught up a cloth and went to dusting, and the boy was reassured.
-b=fin-h-r-g
+
 
 He lay propped on one elbow and stared past the fire into his thoughts.
-
+b=fin-h-r-g
 
 The long gray afternoon, piercing to this mysterious night, had called up strong yearnings in him, the seeds of which were planted months before. It was a desire for a thing he could not name.
 
@@ -146,7 +146,7 @@ But though there was complete indecision in Robert's face, there was a great qua
 e:h=t
 
 Here were three before the fire, Robert and Gwenliana and young Henry, whose eyes looked out beyond the walls and saw unbodied things — looked into the night for the ghosts.
-b=fin-h-r-g
+c=;b=fin-h-r-g
 
 It was a preternatural night; a time when you might meet corpse-candles gliding along the road, or come upon the ghost of a Roman legion marching at double quick to reach its sheltering city of Caerleon before the full storm broke.
 b=fout-night
@@ -173,7 +173,7 @@ b=fin-door
 s=r
 
 The door opened softly, and there, lighted against the black night, stood a bent, feeble man with eyes like weak flames. He paused on the threshold as though undecided, but in a moment advanced into the room, asking in a strange, creaking voice,
-n:d=?;s=;c=,d
+n:d=?;s=;c=d,
 
 "Will you be knowing me, I wonder, Robert Morgan? Will you be knowing me that have been out so long?"
 n:d=?;s=d
@@ -182,7 +182,7 @@ His words were a plea.
 s=
 
 Robert searched the shrunken face.
-c=r,d;e:r=c
+c=d,r;e:r=c
 
 "Know you?" he said. "I do not think — wait! — can it be Dafydd? our little farm lad Dafydd that went away to sea years past?"
 s=r
@@ -197,10 +197,10 @@ Dafydd was gray-white and toughened like a dry hide. The skin of his face was st
 s=;e:d=
 
 "I'm cold, Robert," his queer, dry voice went on. "I can't seem ever to get warm again. But anyway I'm rich," — as though he hoped these two might balance — "rich along with him they call Pierre le Grand."<e>One of literature's great "anyway"s.</e>
-n:d=Dafydd;s=d;c=,d
+n:d=Dafydd;s=d;c=d,r
 
 Young Henry had risen, and now he cried:
-s=;c=h,d;e:h=a
+s=;c=d,h;e:h=a
 
 "Where have you been to, man — where?"
 s=h
@@ -209,7 +209,7 @@ s=h
 s=d
 
 "You'll be sitting down, Dafydd," Mother Morgan interrupted. She spoke as though he had never been away.
-s=m;c=m,h,,d,
+s=m;c=,d,,h,m
 
 "I'll about getting something warm to drink. Will you look how Henry gobbles you with his eyes, Dafydd? Like as not he'll be wanting to go to the Indies, too."
 
@@ -218,7 +218,7 @@ To her, the words were a pleasant idiocy.
 s=
 
 Dafydd kept silence, though he appeared to be straining back at a desire to talk. Mother Morgan frightened him as she had when he was a towheaded farm boy.
-c=,d;e:d=t
+c=d,;e:d=t
 
 Old Robert knew his embarrassment, and Mother, too, seemed to sense it, for when she had put a steaming cup in his hands she left the room.
 
