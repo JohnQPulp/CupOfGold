@@ -7,7 +7,7 @@ b=title
 ### I
 
 
-All afternoon the wind sifted out of the black Welsh glens, crying notice that Winter was come sliding down over the world from the Pole; and riverward there was the faint moaning of new ice. It was a sad day, a day of gray unrest, of discontent.<e>You've included the phrase "Winter... of discontent" in the first lines of your first novel. Lines you'll reuse 32 years from now as the title of  <book>The Winter of Our Discontent|your last</book>. Intentional bookending? Or do you just like <book>King Richard III</book> that much?</e>
+All afternoon the wind sifted out of the black Welsh glens, crying notice that Winter was come sliding down over the world from the Pole; and riverward there was the faint moaning of new ice. It was a sad day, a day of gray unrest, of discontent.<e>You've included the phrase "Winter... of discontent" in the first lines of your first novel. Lines you'll reuse 32 years from now as the title of <book>The Winter of Our Discontent|your last</book>. Intentional bookending? Or do you just like <book>King Richard III</book> that much?</e>
 b=wales
 
 The gently moving air seemed to be celebrating the loss of some gay thing with a soft, tender elegy.
@@ -86,7 +86,7 @@ When she had come home this afternoon, raging over the price of a pair of shoes 
 
 
 "Her life is like a book crowded with mighty events."<e>Yes, you should write one of those books, Steinbeck.</e>
-
+t=r
 
 "Every day she rises to the peak of some tremendous climax which has to do with buttons or a neighbor's wedding."
 
@@ -95,7 +95,7 @@ When she had come home this afternoon, raging over the price of a pair of shoes 
 
 
 Mother Morgan was too busy with the day itself to be bothered with the foolishness of abstractions. Someone in the family had to be practical or the thatch would blow away — and what could you expect of a pack of dreamers like Robert and Gwenliana and her son Henry?
-b=fin-m-h-r-g
+t=;b=fin-m-h-r-g
 
 She loved her husband with a queer mixture of pity and contempt born of his failings and his goodness.
 
@@ -3308,10 +3308,10 @@ He continued slowly that she might leave him behind, but the girl lagged on her 
 
 
 "Perhaps she wishes to speak with me," Henry thought, and quickened his steps to come up with her.
-
+t=h
 
 He saw, incredulously, what the darkened room had hidden. She was only a little girl, not more than fourteen at the most. Elizabeth looked up as he came beside her.
-
+t=
 
 "Do you find interesting things to be doing here in the Indies?" Henry asked.
 s=h
@@ -4598,10 +4598,10 @@ The Lieutenant-Governor set his lips in a straight, hard line, and crumpled to t
 
 
 "My white breeches will be ruined," he thought. "Why did the devil have to do it, just when we were getting on so nicely. I should have got special thanks from his Majesty, and now I shall not be here to receive them. Heaven! he chose a painful place!"
-
+t=e
 
 And then the full tragedy struck him.
-
+t=
 
 "An ordinary knife," he muttered; "and in the stomach."
 s=e
@@ -6884,7 +6884,7 @@ s=
 s=la
 
 "Get to your cell," he ordered her.
-s=
+s=h
 
 "Oh — and Captain Morgan, you will find an old woman on the steps of the palace."
 s=la
@@ -6950,10 +6950,10 @@ Here and there lay murdered citizens grinning their last agony into the sky.
 
 
 "Their faces will be black before the night," Henry thought. "I must have them removed or the sickness will come."
-
+t=h
 
 Dallying clouds of smoke still arose from the city, filling the air with the sickly odor of damp things burning.
-
+t=
 
 The green hills beyond the plain seemed incredible to Henry Morgan.
 
@@ -8243,7 +8243,7 @@ He sat on the floor and took the coins into his hands.
 
 
 "The most human of all human traits is inconsistency," he thought.
-
+t=h
 
 "It is a shock to learn this thing, almost as great a shock to a man as the realization of his humanity. And why must we learn that last?"
 
@@ -8255,10 +8255,10 @@ He sat on the floor and took the coins into his hands.
 
 
 He let the gold pieces slip through his fingers.
-
+t=
 
 "But perhaps here is my iron for the making of a new anchor," he thought.
-
+t=h
 
 "This is hard and heavy. Its value may fluctuate somewhat in the economic currents, but at least it has a purpose, and only one purpose. It is an absolute assurance of security."
 
@@ -8267,10 +8267,10 @@ He let the gold pieces slip through his fingers.
 
 
 "But other men have a share in this gold," part of his brain argued.
-
+t=
 
 "No, my dear conscience; we have an end of acting now. I have put on new glasses; rather they have been locked about my head, and I must order my life in accordance with the world I see through these new lenses."
-
+t=h
 
 "I see that honesty — public honesty — may be a ladder to a higher, more valuable crime; veracity a means to more subtle dissimulation."
 
@@ -8297,7 +8297,7 @@ He stumbled happily on the thought. "They steal, and so shall their plunder be s
 
 
 ### VIII
-
+t=
 
 The buccaneers went out of ruined Panama. They carried all of the treasure with them across the isthmus on the backs of mules.
 
@@ -8651,13 +8651,13 @@ s=c
 s=h
 
 And he thought, "I was wrong about her — very wrong. She is not supercilious at all."
-s=
+s=;t=h
 
 "It must have been her father — the devil — who gave me a wrong impression of her. She is quite nice."
 
 
 "I am sure yours were great, if your modesty would let you admit it," she was saying demurely. "Do you know, I used to tremble at the tales they told of you, and hope that you were not in need or trouble."
-s=c
+t=;s=c
 
 "Did you? Why did you? I didn't think you ever noticed me."
 s=h
@@ -8840,7 +8840,7 @@ Her agitation was pitiful.
 s=
 
 "After all, why not?" thought Henry. "She is pretty; I am sure of her family; and besides, she is rather a symbol of this security I have been preaching."
-
+t=h
 
 "I could be sure of never doing anything very radical if she were my wife. I really think I do want security."
 
@@ -8849,7 +8849,7 @@ s=
 
 
 "Oh, surely I meant marry. What else could you have thought I meant? I am only clumsy and crude about it."
-s=h
+t=;s=h
 
 "I have startled you and hurt you. But, dear Elizabeth, there is no crime or sin about it. Many cousins marry."
 
@@ -9592,14 +9592,17 @@ s=doc
 And then the room was cleared of people. Henry knew that his wife was sitting near the bed.
 s=
 
-He could hear her crying softly beside him. "What a pity it is," he thought, "that I cannot go to death in a ship so she might pack my bag for me."
+He could hear her crying softly beside him.
 
+
+"What a pity it is," he thought, "that I cannot go to death in a ship so she might pack my bag for me."
+t=h
 
 "It would give her so much satisfaction to know that I was entering heaven with a decent supply of clean linen."
 
 
 "Oh, my husband — Oh, Henry, my husband."
-s=c
+t=;s=c
 
 He turned his head and looked at her curiously, and his gaze went deep into her eyes.
 s=
@@ -9806,10 +9809,10 @@ The doctor and his wife and the Vicar and even the room were sliding away from h
 
 
 "They are moving," he thought. "I am not moving. I am fixed. I am the center of all things and cannot move. I am as heavy as the universe. Perhaps I am the universe."
-
+t=h
 
 A low, sweet tone was flowing into his consciousness; a vibrant, rich organ tone, which filled him, seemed to emanate from his brain, to flood his body, and from it to surge out over the world.
-
+t=
 
 He saw with a little surprise that the room had gone.
 
