@@ -863,22 +863,22 @@ Everywhere the sad, soundless ghosts flitted about their haunting. Henry walked 
 r=card
 
 On the path there in the dark, Henry's mind went back to the first speech of Merlin. Should he see Elizabeth before he went sailing away?
-n:liz=Elizabeth
+n:liz=Elizabeth;b=road;m:road=night
 
 He did not like her; sometimes he thought he had discovered hatred for her, and this he nursed and warmed only to feel it grow to a desire to see her.
-
+b=think;c=h;e:h=m
 
 She was a thing of mystery.
-
+c=
 
 All girls and women hoarded something they never spoke of.<e>Stop bringing up milk.</e>
 
 
 His mother had terrific secrets about biscuits, and cried, sometimes, for no known reason.
-
+c=m;e:m=u
 
 Another life went on inside of women — some women — ran parallel to their outward lives and yet never crossed them.
-
+c=
 
 A year before, Elizabeth had been a pretty child who whispered to the other girls and giggled and pulled hair when he was about; and then suddenly she had changed.
 
@@ -886,83 +886,83 @@ A year before, Elizabeth had been a pretty child who whispered to the other girl
 It was nothing Henry could see, exactly, but rather he felt that a deep, quiet understanding had been given her. It frightened him, this wisdom which had come all at once to Elizabeth.
 
 
-Then there was her body — different somehow from his, and capable, it was whispered, of strange pleasures and alchemies. Even this flowering body she kept a secret thing.
+Then there was her body — different somehow from his, and capable, it was whispered, of strange pleasures and alchemies. Even this flowering body she kept a secret thing.<e>TODO</e>
 
 
 A time ago they had gone together to swim in the river, and she had been unconscious of it; but now she covered herself carefully from him and appeared stricken with the thought that he might see. Her new character frightened and embarrassed Henry.
 
 
 Sometimes he dreamed of her, and waked in agony lest she should ever know his dream. And sometimes it was a strange, shadowy composite of Elizabeth and his mother that came to him in the night.
-
+b=dream
 
 After such a dream, the day brought loathing of himself and her.
-
+b=think;c=h;e:h=c
 
 He considered himself an unnatural monster and her a kind of succubus incarnate.<e>Steinbeck no.</e>
 
 
 And he could tell no one of these things. The people would shun him.
-
+e:h=u
 
 He thought perhaps he would like to see her before he left. There was a strange power in her this year, a drawing yet repelling power which swayed his desire like a windblown reed.
-
+c=;b=road
 
 Other boys might have gone to her in the night and kissed her, after they had boasted a little of their going; but then, the other boys did not dream as he did, nor did they think of her, as he sometimes did, as a loathsome being.
 
 
 There was surely something monstrous about him, for he could not distinguish between desire and disgust. And then, she could embarrass him so easily.
-
+c=h;e:h=r
 
 No, certainly, he would not go to her. Where had Merlin — where had anyone — caught the idea that he cared a farthing for her, the daughter of a poor tenant? Not worth bothering about!
-
+e:h=m
 
 Footsteps were coming down the path behind him, loud clashes in the quiet night, and soon a quick, thin figure came up with him.
-
+c=
 
 "Might it be William?" Henry asked politely, while the road-mender stopped in the path and shifted his pick from one shoulder to the other.
-s=h
+s=h;c=,h;e:h=
 
 "It's William right enough. And what are you doing on the path, and the dark come?"
-n:b=William;s=b
+n:b=William;s=b;c=b,h;x:b=pick
 
 "I've been to see Merlin and to hear him talk."
 s=h
 
 "Pest on him! That's all he ever does now. Once he made songs — good, sweet songs as I could repeat to you if I'd a mind to — but now he roosts up on that Crag-top like an old molted eagle."
-s=b
+s=b;e:b=m
 
 "Once when I was going past I spoke to him about it, too, as I can prove by him. I'm not a man to be holding my tongue when I've been thinking."
 
 
 "'Why are you making no more songs?' I said to him in a tone like that. 'Why are you making no more songs?'"
-
+b=crag-ext;m:crag-ext=;e:b=
 
 "'I have grown to be a man,' he answered, 'and there be no songs in a man. Only children make songs — children and idiots.' Pest on him! It's an idiot himself, is the thought is on me. But what did he say to you, the old whitebeard?"
 
 
 "Why, you see, I'm going to the Indies and—"
-s=h
+s=h;b=road;c=b,h
 
 "The Indies, and are you? Ah, well — I was at London once. And all the people at London are thieves, dirty thieves."
-s=b
+s=b;e:b=m
 
 "There was a man with a board and little flat sticks on it. 'Try your skill, friend?' he says. 'What stick has a black mark on the underside of it?' 'That one,' says I; and so it was. But the next time — Ah, well, he was a thief, too; all of them thieves."
 
 
 "People there are at London, and they do nothing but drive about and about in carriages, up one street and down another, bowing to each other, while good men sweat out their lives in the fields and the mines to keep them bowing there."
+e:b=;c=;b=city
 
-
-"What chance have I or you, say, with all the fine, soft places taken up by robbers? And can you tell me the thieving price of an egg at London?"
-
+"What chance have I or you, say, with all the fine, soft places taken up by robbers? And can you tell me the thieving price of an egg at London?"<e>TODO</e>
+b=road;c=b,h
 
 "I must take this road now," said Henry. "I must go home."
 s=h
 
 "Indies." The road-mender sighed with longing. Then he spat in the trail. "Ah, well — I'll stake it's all thieves there, too."
-s=b
+s=b;e:b=s
 
 The night was very black when Henry came at last to the poor hut where Elizabeth lived.
-s=
+c=;b=hut-ext;s=;m:hut-ext=night
 
 There was a fire in the middle of the floor, he knew, and the smoke drifted up and tried to get out at a small hole in the thatch.
 
@@ -974,106 +974,112 @@ The windows were not glazed nor curtained. Henry could see old black-browed Twym
 
 
 The girl stopped and looked out, but Henry was quiet in the dark. Then Elizabeth opened the door and stood framed against the inside light. The fire was behind her.
-
+m:hut-ext=liz
 
 Henry could see the black outline of her figure through her dress. He saw the fine curve of her legs and the swell of her hips.
 
 
-A wild shame filled him, for her and for himself. Without thought and without reason he ran away into the dark, gasping and almost sobbing under his breath.<e>Why such whiny and insecure characterization for Henry Morgan? If your aim is pull off a compelling character arc from this starting place, I don't have <book>Great Expectations</book>.</e>
+A wild shame filled him, for her and for himself.
 
+
+Without thought and without reason he ran away into the dark, gasping and almost sobbing under his breath.<e>Why such whiny and insecure characterization for Henry Morgan? If your aim is pull off a compelling character arc from this starting place, I don't have <book>Great Expectations</book>.</e>
+b=road;c:h=b
 
 ### V
+r=card
 
+Old Robert looked up hopefully when the boy came into the room, and then the hope died away and he turned quickly to the fire.
+b=farm-fire;c=r;e:r=w
 
-Old Robert looked up hopefully when the boy came into the room, and then the hope died away and he turned quickly to the fire. But Mother Morgan jumped from her seat and went angrily to Henry.
-
+But Mother Morgan jumped from her seat and went angrily to Henry.
+c=m,;e:m=m
 
 "What is this foolishness? You going to the Indies!" she demanded.
 s=m
 
 "But, Mother, I must go; truly I must — and father understands. Can't you hear how the Indies are calling to me?"
-s=h
+c=m,h;s=h;e:h=u
 
 "That I cannot! It's wicked nonsense is in it. A little child you are, and not to be trusted from home at all. Besides, your own father is going to tell you it may not be."
 s=m
 
 The strong jaw of the boy set like a rock and the muscles stood out in his cheeks.<e>You are an unreliable narrator. He does not have a strong jaw — it's impossible.</e>
-s=
+s=;e:h=
 
 Suddenly there came a flash of anger into his eyes.
-
+e:h=m
 
 "Then, Mother, if you will not understand, I tell you that I am going the morrow — in spite of all of you."
-s=h
+s=h;e:m=n
 
 Hurt pride chased incredulity from her face, and that, too, passed, leaving only pain. She shrank from the bewildering hurt. And Henry, when he saw what his words had done, went quickly to her.
-s=
+s=;e:m=u
 
 "I'm sorry, Mother — so very sorry; but why can you not let me go as my father can? I don't want to hurt you, but I must go. Won't you see that?"
-s=h
+s=h;e:m=u
 
 He put his arm about her, but she would not look at him. Her eyes stared blankly straight in front of her.
-s=
+s=;c=m
 
 She was so sure that her view was right. Throughout her life she had insulted and browbeaten and scolded her family, and they had known her little tyranny to be the outcropping of her love for them.
-
+b=think
 
 But now that one of them, and he the child, had used the tone she spoke with every hour, it made a grim hurt that might never be quite healed again.
 
 
 "You spoke with Merlin? What did he say to you?" asked Robert from the hearth.
-s=r
+s=r;b=farm-fire;c=r,m,,h,
 
 Henry's mind flashed quickly to Elizabeth. "He talked of things that are not in my belief," he said.
-s=h
+s=h;e:h=c
 
 "Well — it was only a chance," murmured Robert. "You've hurt your mother badly, boy," he went on. "I've never seen her so — so quiet."
-s=r
+s=r;e:r=u
 
 Then Robert straightened himself and his voice became firm.
-s=
+s=;e:r=
 
 "I have five pounds for you, son. It's little enough; I suppose I might give you a small matter more, but not enough to help much. And here is a letter recommending you to my brother, Sir Edward."
-s=r
+c=r,h;s=r
 
 "He went out before the king was murdered, and for some reason — perhaps because he was quiet — old Cromwell has let him stay."<e>Is Cromwell the first anchor point for a date for those readers who don't know when Henry Morgan was born? Quite stingy in your doling out of information about the setting, Steinbeck. Especially since, having read ahead, I know an exact date is given in part IV, merely over halfway through the book.</e>
 
 
 "If he is there when you come to Jamaica, you may present this letter; but it's a cold, strange man who takes great pride in his rich acquaintance, and might be a little annoyed with a poor relative."
-
+e:r=t
 
 "And so I do not know that good will come of this letter."
 
 
 "He would dislike you unless you were able to see nothing funny in a man who looks like me, only strides about with a silver sword and plumes on his head. I laughed once, and he has not been a near brother to me since."
-
+e:r=h
 
 "But keep the letter, it may help you with other people if not with your uncle."
 
 
 He looked at his wife sitting huddled in the shadow. "Will we not have supper, Mother?"
-
+c=m,r,,h,
 
 She made no sign that she heard him, and Robert himself poured the pot and brought the food to the table.
-s=
+s=;c=m,,,h,
 
 It is a cruel thing to lose a son for whom you have lived continuously. Somehow, she had imagined him always beside her — a little boy, and always beside her.
 
 
 She tried to think of the coming days, and Henry not there, but the thought was shattered on the bleak wall of a lean imagination. She attempted to consider him ungrateful so to run away from her; she recalled the harsh blow he had dealt her — but always the mind snapped back.
+c=m,,,,
+
+Henry was her little boy, and, naturally, he could not be mean nor treacherous. In some way, when all this talk and pain had drifted into the thin air, he would be yet beside her, deliciously underfoot.<e>TODO</e>
 
 
-Henry was her little boy, and, naturally, he could not be mean nor treacherous. In some way, when all this talk and pain had drifted into the thin air, he would be yet beside her, deliciously underfoot.
-
-
-Her mind which had been always a scalpel of reality, her imagination which dealt purely with the present outsides of things, went fondling back to the baby who had crawled and stumbled and learned to talk.
-
+Her mind which had been always a scalpel of reality, her imagination which dealt purely with the present outsides of things, went fondling back to the baby who had crawled and stumbled and learned to talk.<e>TODO</e>
+b=think;c=m
 
 She forgot that he was going away at all, so deeply was she laved in a reverie of the silver past.
-
+e:m=t
 
 He was being baptized in a long white dress. All the water of baptism collected in one big drop and rolled down his blobby nose, and she, in her passion for tidiness, wiped it off with a handkerchief and then wondered if he shouldn't be baptized again.
-
+b=dream;c=
 
 The young Curate was perspiring and choking over his words. He was lately come to the parish and was only a local boy anyway. He was really too young, she thought, to be trusted with an affair of this importance.
 
@@ -1085,19 +1091,19 @@ It made him look all wracked to one side. She must go and tell Robert about his 
 
 
 ————————————————————————————————————
-
+r=card
 
 Supper was over, and aged Gwenliana rose from the table to struggle back to her seat before the fire. Quietly she was slipping back into her friendly future.
-
+b=farm-fire;c=g
 
 "What time will you be starting, the morning?" asked Robert.
-s=r
+s=r;c=r,h
 
 "Why, about seven, I think, father." Henry tried to sound casual.
-s=h
+s=h;e:h=n
 
 The ancient woman paused in her journey and looked sharply at him.
-s=
+s=;c=g,r,,h,;e:g=g
 
 "Now where is Henry going?" she asked.
 s=g
@@ -1106,25 +1112,25 @@ s=g
 s=r
 
 "And not coming back again?" she questioned anxiously.
-s=g
+s=g;e:g=n
 
 "Not for a time, anyway. It's a great distance."
-s=r
+s=r;e:r=w
 
 "Why, but — I must lay the future before him then, that's what I must do — before him like the white pages of an open book," she exclaimed in pleased excitement.
-s=g
+s=g;e:g=e
 
 "I must tell him of the future and the things in it. Let me look at you, boy."
 
 
 Henry went to her and sat at her feet while she talked. There is truly a spell in the ancient Cumric tongue. It is a speech made for prophecy.
-s=
+s=;c=;m:farm-fire=g,h
 
 "Of course," Gwenliana said, "if I had only known of this today I should have got the shoulder bone of a new-killed sheep. It's a means of greater antiquity and better thought of than just snap-prophecy."
 s=g
 
 "And since I have grown old and rusty and lame I cannot go about any more to meet the spirits that wander the high-road. You cannot do as well if there is not the means in you to walk among the strolling dead and listen to their thoughts."
-
+e:g=
 
 "But I shall give you a thorough life, grandson, and as fine a future as I ever pondered on."
 
@@ -1136,13 +1142,13 @@ A long time she sat entranced, and it seemed that her old brain combed out the t
 
 
 "This is the tale out of Abred, when earth and water battled. And from the impact of their clash was born a little, struggling life to squirm upward through the circles toward Gwynfyd, the sheening Purity."
-s=g
+s=g;e:g=t
 
 "In that first blundering flesh is written the world's history and the world's journey through the Void."
 
 
 "And thou — often has Annwn set its fanged maw to entrap the little pinch of life thou carryest about, but thou hast made thy path to go around its snaring."
-
+e:g=
 
 "A thousand centuries hast thou lived since earth and sea struggled in thy generation, and a thousand eons shalt thou carry about the little pinch of life that was given thee, so only thou shelterest it from Annwn, the Chaos."
 
@@ -1156,14 +1162,14 @@ s=g
 Her secret eyes saw the boy's face fall in disappointment, and she cried:
 s=
 
-"But wait a moment! I go too far ahead. There shall be fighting and shedding of blood, and the sword shall be thy first bride."
-s=g
+"But wait a moment! I go too far ahead. There shall be fighting and shedding of blood, and the sword shall be thy first bride." Henry's face lighted up with pleasure.
+s=g;e:g=e
 
-Henry's face lighted up with pleasure. "The whisper of thy name shall be a foregathering command to the warriors of the world."
+"The whisper of thy name shall be a foregathering command to the warriors of the world."
 
 
 "Thou shalt sack the cities of the infidel and spoil him of his plunderings."
-
+e:g=t
 
 "The terror will precede thee like a screaming eagle over the shields of men."
 
@@ -1178,67 +1184,70 @@ Her eyes opened and she glanced about for their approbation.
 s=
 
 "I could have done better with a sheep's shoulder," she said plaintively, "or if I could be walking about on the high-road now and then; but age robs you of your little pleasures and leaves you with only a cold, quiet waiting."
-s=g
+s=g;e:g=u
 
 "Ah, well, mother, it was a good prophecy," said Old Robert; "as good as I ever heard you make. You are just coming to the peak of your occult strength, I think."
-s=r
+s=r;e:r=h
 
 "And you have taken away my dread and reassured me about Henry's going. Now I am only proud of what my boy is to be. Only I wish he didn't have to kill people."
 
 
-"Well, then — if you think it was really good!" said Gwenliana happily. "It did seem to me that the air was propitious and my eyes clear tonight. Still, I should have liked a sheep's shoulder." She closed her eyes contentedly and went to dozing.
-s=g
+"Well, then — if you think it was really good!" said Gwenliana happily. "It did seem to me that the air was propitious and my eyes clear tonight. Still, I should have liked a sheep's shoulder."
+s=g;e:g=e
 
-### VI
+She closed her eyes contentedly and went to dozing.
 s=
 
-All night Old Robert tossed nervously in his bed, and his wife lay motionless beside him. At last, when the darkness was changing to silver gray in the window, she rose quietly.
+### VI
+r=card
 
+All night Old Robert tossed nervously in his bed, and his wife lay motionless beside him. At last, when the darkness was changing to silver gray in the window, she rose quietly.
+b=farm-room
 
 "What? Have you not been sleeping, Mother? And where are you going?"
-s=r
+s=r;c=m;e:m=w
 
 "I am going to Henry, now. I must talk with him. Perhaps he will listen to me."
 s=m
 
 Only a moment she was gone, and then she returned and laid her head on Robert's arm.
-s=
+s=;c=
 
 "Henry is gone," she said, and her whole body stiffened a little.
-s=m
+s=m;c=,m;e:m=t
 
 "Gone? But how could he do that? Here is his first cowardice, Mother. He was afraid to say goodbye to us. But I am not sorry for his fear, because it holds the sureness of his sorrow. He could not bear to hear the thing of his feeling in words."
-s=r
+s=r;c=r,m;e:r=u
 
 "Why, Mother!" He was startled at her silence and her coldness. "He will come back to us, Mother, in a little; perhaps when the spring grass is lifting out. Surely he will come back to us. I swear it. Can't you believe it? He is gone only for a week — a few days. Oh, believe me!"
 
 
 "The years are gone from us surely, dear, and now we are as we were — do you remember? — only closer — closer of all the things that have been. We are rich with all the little pictures of the past and the things he played with. They can never go from us while life is here."
-
+e:r=w
 
 She did not weep nor move nor even seem to breathe.
-s=
+s=;e:m=w
 
 "Oh, my wife — Elizabeth — say that you will believe in his coming, very soon — soon — before you have missed him," he cried wildly.<e>Normally authors avoid having multiple characters have the same name. Now you've dropped a second Elizabeth on the reader with no explanation. (And how I know what's still to come…)</e>
-s=r
+s=r;e:r=u
 
 "Do not lie there silently and lost. He will be here when the Spring comes in. You must believe it, dear — my dear."
-
+e:r=w
 
 Very softly he stroked the still cheek beside him with his great tender fingers.
-s=
+s=;c=
 
 ### VII
-
+r=card
 
 He had crept from the house in the false dawn, and started briskly walking on the road to Cardiff. There was a frozen, frightened thing in his heart, and a wondering whether he wanted to go at all.
-
+b=road
 
 To his mind the fear had argued that if he waited to say goodbye he would not be able to leave the stone house, not even for the Indies.
-
+b=farm-ext
 
 The sky was graying as he went by pastures where he had tossed and played, and by the quarry where was the cave in which he and his friends acted the delightful game of Robbers, with Henry always the Wild Wag, Twym Shone Catti, by acclamation.
-
+b=road
 
 The mountains stood sharply before him, like cardboard things and along their rims a silver fringe. A little wind of dawn blew down the slopes, fresh and sweet smelling, bearing the rich odor of moistened earth and leaves.
 
@@ -1247,7 +1256,7 @@ Horses whinnied shrilly at him as he passed, then came close and gently touched 
 
 
 By sunup there were new miles behind him. As the yellow ball slid from behind the peaks, coloring all the tattered clouds of the mountains, Henry drew a thick curtain down against the past.
-
+b=mountain-road
 
 The pain and loneliness that had walked with him in the dark were pushed back and left behind him.
 
@@ -1259,16 +1268,16 @@ He passed through villages whose names were unknown to him; friendly little clus
 
 
 It was a joyous thing to young Henry. Always he had stared at others who were strangers, dreaming their destinations and the delicious mystery that sent them forth. The name of Stranger made them grand beings with mighty purposes.
-
+c=h;e:h=e
 
 And now he was a stranger to be thought about and stared at with a certain reverence. He wanted to shout, "I'm on my way to the Indies," to widen their dull eyes for them and raise their respect.
 
 
 Silly, spineless creatures, he thought them, with no dream and no will to leave their sodden, dumpy huts.<e>Now if you'd just stick with this classic interwar period misanthropy, you'd have a much more endearing tone.</e>
-
+e:h=s
 
 The land changed. He was coming out of the mountains to a broad, unbounded country of little rolls and flat lands.
-
+c=;b=country-road
 
 He saw large burrows like the holes of tremendous gophers, and dirty black men coming out of them with sacks of coals on their backs. The miners emptied their sacks in a pile on the ground and then walked back into the burrows.
 
@@ -1280,7 +1289,7 @@ Midday came, and a long, clear afternoon, and still he trudged on. There was a n
 
 
 In the late afternoon an army of black clouds drew over the sky. A wind rushed out with snow in its breath, and the grasses bowed before it.
-
+m:country-road=clouds
 
 Still he went on into the gathering storm until it was armed with sleet which pricked his face viciously, and until the cold went piercing through his jacket.
 
@@ -1289,13 +1298,13 @@ There were occasional houses to either side of the road, but Henry would seek sh
 
 
 At length, when his hands were blue and his face raw with the wild sleet, he crawled into a lonely, stone barn filled with the summer's hay.
-
+b=barn
 
 It was warm, there, and quiet after the screaming of the wind in his ears. The hay was sweet with the honey dried in its stems. Henry burrowed into the soft bed and slept.
 
 
 ————————————————————————————————————
-
+b=dream
 
 It was dark night when he awakened. Half-dreaming, he remembered where he was, and at once the thoughts which he had shut from him the day before thronged back with clamoring, strident voices.
 
@@ -1319,28 +1328,28 @@ A sad, slow voice broke in. "Think of your mother, Henry. She was sitting straig
 
 
 Then the noises of the barn edged in among his tormentors. The storm was past, but a breeze sighed around corners with infinite, ghostly sadness. Now and again it voiced a little wail of sorrow.
-
+b=barn
 
 There was a creaking in the hay as though every straw squirmed and tried to move stealthily. Bats flitted about in the dark gnashing their tiny teeth, and the mice were screaming horribly.
 
 
 Bats and mice seemed to be glaring at him from obscurity with small, mean eyes.
-
+c=h;e:h=f
 
 He had been alone before, but never so thoroughly alone, among new things, in a place he did not know. The terror was growing and swelling in his breast.
 
 
 Time had become an idling worm which crawled ahead the merest trifle, stopped and waggled its blind head, and crawled again.
-
+c=;b=barn
 
 It seemed that hours passed over him like slow, sailing clouds while he lay shivering with fright. At last an owl flew in and circled above him, screeching maniacally.
 
 
 The boy's overstrung nerves snapped, and he ran whimpering from the barn and down the road toward Cardiff.
-
+b=country-road
 
 ## II
-
+r=card
 
 For more than a century Britain had watched with impatience while Spain and Portugal, with the permission of the Pope, divided the New World and patrolled their property to keep out interlopers.
 
