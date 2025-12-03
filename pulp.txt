@@ -1,5 +1,5 @@
 *Cup of Gold: A Life of Sir Henry Morgan, Buccaneer, with Occasional Reference to History* by John Steinbeck<e>So Steinbeck, your first novel. You of <book>Of Mice and Men</book> fame, of <book>Grapes of Wrath</book> fame, of <book>East of Eden</book> fame — an American literary legend. But here in 1929, you're a nobody first-time author. And as with many first-time authors, you've opted to begin your oeuvre with a highly dubious first premise. In this case, a heavily fictionized account of the real-life 17th-century buccaneer Captain Morgan. A man that nobody has heard of, except for the rum. But with such a relatively clean slate, I'm sure you'll do great things with the character. Thou mayest proceed.</e>
-b=title
+b=card;m:card=title
 
 ## I
 
@@ -23,13 +23,13 @@ The afternoon passed slowly, procession-like with an end of evening, and on the 
 
 
 Night drew down like a black cowl, and Holy Winter sent his nuncio to Wales.
-b=wales-night
+m:wales=night
 
 Beside the high-road which lined the valley, ran up through a cleft in the hills, and so out into the world, there stood an ancient farmhouse built of heavy stones and thatched. The Morgan who had built it played against Time and nearly won.
-b=fout-night
+b=farm-ext;m:farm-ext=night
 
 Inside the house a fire was burning on the hearth; an iron kettle hung over the blaze, and a black iron oven hid in the coals which fell about the edges of the flame.
-b=fin
+b=farm-fire
 
 The brisk firelight glinted on the tips of long-handled pikes in racks upon the walls, weapons unused in the hundred years since Morgan clamored in Glendowers' ranks and trembled with rage at the flinty lines of Iolo Goch.
 
@@ -44,25 +44,25 @@ But the family was few now, and little enough likely to add records to the chest
 
 
 There was Old Robert, for instance, sitting in his high-backed chair, sitting and smiling into the fire. His smile was perplexity and a strange, passive defiance.
-b=fin-r
+m:farm-fire=r
 
 You would have said he sought to make that Fate which was responsible for his being, a little ashamed of itself by smiling at it.
 
 
-Often he wearily considered his existence, ringed around with little defeats which mocked it as street children torment a cripple.
+Often he wearily considered his existence, ringed around with little defeats which mocked it as street children torment a cripple.<e>TODO</e>
+c=r;b=think;e:r=w
 
-
-It was strange to Old Robert that he, who knew so much more than his neighbors, who had pondered so endlessly, should be not even a good farmer. Sometimes he imagined he understood too many things ever to do anything well.
-
+It was strange to Old Robert that he, who knew so much more than his neighbors, who had pondered so endlessly, should be not even a good farmer. Sometimes he imagined he understood too many things ever to do anything well.<e>TODO</e>
+e:r=t
 
 And so Old Robert sipped the burned ale of his own experimenting and smiled into the fire.
-
+b=farm-fire;c=;e:r=
 
 His wife would be whispering excuses for him, he knew, and the laborers in the fields removed their hats to Morgan, not to Robert.
 
 
 Even his aged mother, Gwenliana, here beside him, shivering to the fire as though the very wind sounds about the house called in the cold to her, was not so judged incompetent. In the cottages there was a little fear of her and a great respect.
-b=fin-r-g
+m:farm-fire=r,g
 
 Any day when she sat in the garden holding her necromantic court, you might see some farm lad blushing and hugging his hat across his chest while he listened to Gwenliana's magic. For many years, now, she had been practicing the second sight and taking pride in it.
 
@@ -71,52 +71,58 @@ And though the family knew her prophecies to be whole guesses whose shrewdness g
 
 
 When, after one of her mystic recitations, the scissors were not discovered under the second board of the shed floor, they pretended to find them there anyway, for, had she lost the robe of augury, there would have remained only a little wrinkled old woman soon to die.
-
+b=think;c=g
 
 This play of claque to a simpleton was a harsh tax on the convictions of Mother Morgan. It outraged her nature, for she was one who had, apparently, come into the world to be a scourge to all foolishness.
-
+c=,g,m
 
 Such matters as had so obviously no connection either with the church or with the prices of things were plainly nonsense.
 
 
 Old Robert had loved his wife so well and so long that he could think sharp things about her, and the thoughts could not injure his affection.
-
+c=r,,m;e:r=h
 
 When she had come home this afternoon, raging over the price of a pair of shoes she hadn't wanted anyway, he had considered:
 
 
 "Her life is like a book crowded with mighty events."<e>Yes, you should write one of those books, Steinbeck.</e>
-t=r
+c=;b=farm-fire;t=r
 
 "Every day she rises to the peak of some tremendous climax which has to do with buttons or a neighbor's wedding."
 
 
 "I think that when true tragedy comes in upon her, she will not see it over her range of anthills. Perhaps this is luck," he thought, and then — "I wonder, now, how she would compare the king's own death with the loss of one of the sow's red pigs."
+e:r=
 
+Mother Morgan was too busy with the day itself to be bothered with the foolishness of abstractions.
+t=;b=think;c=m
 
-Mother Morgan was too busy with the day itself to be bothered with the foolishness of abstractions. Someone in the family had to be practical or the thatch would blow away — and what could you expect of a pack of dreamers like Robert and Gwenliana and her son Henry?
-t=;b=fin-m-h-r-g
+Someone in the family had to be practical or the thatch would blow away — and what could you expect of a pack of dreamers like Robert and Gwenliana and her son Henry?
+c=r,g,h;e:r=h
 
 She loved her husband with a queer mixture of pity and contempt born of his failings and his goodness.
-
+c=r,,
 
 Young Henry, her son, she worshiped, though of course she could not trust him to have the least idea of what was to his benefit or conducive to his health.
-
+c=,,h
 
 And all of the family loved Mother Morgan and feared her and got in her way.
-
+c=r,g,h
 
 She had fed them and trimmed the lamp. Breakfast was on the fire. Now she searched about for something to mend, as though she did not mend everything the moment it was torn.
-
+c=;b=farm-fire;m:farm-fire=m,r,g,h
 
 In the midst of her search for busyness she paused and glanced sharply at young Henry. It was the kind of harsh, affectionate look which says, "I wonder, now, if he is not in the way of catching cold there on the floor."
 
 
-And Henry squirmed, wondering what things he had neglected to do that afternoon. But immediately she caught up a cloth and went to dusting, and the boy was reassured.
+And Henry squirmed, wondering what things he had neglected to do that afternoon.
 
+
+But immediately she caught up a cloth and went to dusting, and the boy was reassured.
+m:farm-fire=r,g,h
 
 He lay propped on one elbow and stared past the fire into his thoughts.
-b=fin-h-r-g
+
 
 The long gray afternoon, piercing to this mysterious night, had called up strong yearnings in him, the seeds of which were planted months before. It was a desire for a thing he could not name.
 
@@ -125,7 +131,7 @@ Perhaps the same force moved him which collected the birds into exploring partie
 
 
 Young Henry was conscious, this night, that he had lived on for fifteen tedious years without accomplishing any single thing of importance.<e>Rather early age for such moping. Are you projecting, late-20s Steinbeck?</e>
-b=think;c=h;e:h=t
+b=think;c=h;e:h=u
 
 And had his mother known his feeling, she would have said, "He is growing."
 c=m,
@@ -146,19 +152,19 @@ But though there was complete indecision in Robert's face, there was a great qua
 e:h=t
 
 Here were three before the fire, Robert and Gwenliana and young Henry, whose eyes looked out beyond the walls and saw unbodied things — looked into the night for the ghosts.
-c=;b=fin-h-r-g
+c=;b=farm-fire
 
 It was a preternatural night; a time when you might meet corpse-candles gliding along the road, or come upon the ghost of a Roman legion marching at double quick to reach its sheltering city of Caerleon before the full storm broke.
-b=fout-night
+b=farm-ext
 
 And the little misshapen beings of the hills would be searching out deserted badger holes to cover them from the night. The wind would go crying after them through the fields.
-
+b=wales
 
 In the house it was quiet except for the snapping fire-noises and for the swishing sound of blown thatch. A log cracked on the hearth and out of the crevice a thin blaze leaped up and curled about the black kettle like a flower of flame.
-b=fin-h-r-g
+b=farm-fire
 
 Now Mother flurried to the fireplace.
-b=fin-m-h-r-g
+m:farm-fire=m,r,g,h
 
 "Robert, you will never be paying attention to the fire. You should be poking at it now and again."
 s=m
@@ -166,29 +172,35 @@ s=m
 Such was her method. She poked a large fire to make it smaller, and, when it died, she stirred the embers violently to restore the flame.
 s=
 
-A faint sound of footsteps came along the high-road — a sound that might have been the wind or those walking things which cannot be seen. The steps grew louder, then stopped in front of the door from whence came a timid knocking.
-b=fin-door
+A faint sound of footsteps came along the high-road — a sound that might have been the wind or those walking things which cannot be seen.
+b=farm-door
+
+The steps grew louder, then stopped in front of the door from whence came a timid knocking.
+
 
 "Come!" Robert called.
-s=r
+e:r=;s=r
 
 The door opened softly, and there, lighted against the black night, stood a bent, feeble man with eyes like weak flames. He paused on the threshold as though undecided, but in a moment advanced into the room, asking in a strange, creaking voice,
 n:d=?;s=;c=d,
 
 "Will you be knowing me, I wonder, Robert Morgan? Will you be knowing me that have been out so long?"
-n:d=?;s=d
+s=d
 
 His words were a plea.
 s=
 
 Robert searched the shrunken face.
-c=d,r;e:r=c
+c=d,r;e:r=w
 
 "Know you?" he said. "I do not think — wait! — can it be Dafydd? our little farm lad Dafydd that went away to sea years past?"
-s=r
+e:r=c;s=r
 
-A look of complete relief came into the face of the wayfarer. He might have been applying some delicate, fearful test to Robert Morgan. Now he chuckled.
-s=;e:d=s
+A look of complete relief came into the face of the wayfarer. He might have been applying some delicate, fearful test to Robert Morgan.
+s=;e:d=w
+
+Now he chuckled.
+e:d=s
 
 "It's Dafydd, sure, and rich — and cold." He finished with a wistfulness like a recurring pain.
 s=d
@@ -205,7 +217,7 @@ s=;c=d,h;e:h=a
 "Where have you been to, man — where?"
 s=h
 
-"Where? Why, I've been out to the Indies, that's where I've been; to Goaves and to Tortuga — that's the turtle — and to Jamaica and the thick woods of Hispaniola for the hunting of cattle. I've been all there."
+"Where? Why, I've been out to the Indies, that's where I've been; to Goaves and to Tortuga — that's the turtle — and to Jamaica and the thick woods of Hispaniola for the hunting of cattle. I've been all there."<e>TODO: indies</e>
 s=d
 
 "You'll be sitting down, Dafydd," Mother Morgan interrupted. She spoke as though he had never been away.
@@ -218,28 +230,34 @@ To her, the words were a pleasant idiocy.
 s=
 
 Dafydd kept silence, though he appeared to be straining back at a desire to talk. Mother Morgan frightened him as she had when he was a towheaded farm boy.
-c=d,;e:d=t
+c=d,;e:d=f
 
 Old Robert knew his embarrassment, and Mother, too, seemed to sense it, for when she had put a steaming cup in his hands she left the room.
+e:d=t
 
+Wrinkled old Gwenliana was in her seat before the fire, her mind lost in the swimming future.
+b=farm-fire;m:farm-fire=g
 
-Wrinkled old Gwenliana was in her seat before the fire, her mind lost in the swimming future. Her clouded eyes were veiled with tomorrow. Behind their vague blue surfaces seemed to crowd the mounting events and circumstances of the world.
-b=think;c=g
+Her clouded eyes were veiled with tomorrow. Behind their vague blue surfaces seemed to crowd the mounting events and circumstances of the world.
+b=think;c=g;e:g=t
 
 She was gone out of the room — gone into pure Time, and that the future.
 
 
 Old Robert watched the door close behind his wife, then settled himself with turnings as a dog settles.
-c=;b=fin-d-h-r-g
+c=;b=farm-door
 
 "Now, Dafydd," he said, and peered smiling into the fire, while Henry, kneeling on the floor, gazed with awe at this mortal who held the very distances in his palm.
-s=r
+b=farm-fire;m:farm-fire=d,h,g,r;s=r
 
 "Well, Robert — it's about the green jungle I wanted to tell and the brown Indians that live in it, and about him they call Pierre le Grand."
-s=d
+e:d=;s=d
 
-"But, Robert, there's something gone out of me like a little winking light. I used to lie on the deck of ships at night and think and think how I'd talk arid boast when only I came home again — but it's more like a child, I am, come home to cry. Can you understand that, Robert? Can you understand that at all?"
+"But, Robert, there's something gone out of me like a little winking light. I used to lie on the deck of ships at night and think and think how I'd talk arid boast when only I came home again — but it's more like a child, I am, come home to cry."
 
+
+"Can you understand that, Robert? Can you understand that at all?"
+e:d=s
 
 He was leaning forward eagerly.
 s=
@@ -254,13 +272,16 @@ e:d=u
 
 
 "Some we pushed into the sea with their breast plates shining and shimmering as they went down — grand Spanish soldiers and bubbles coming out of their mouths."
+e:d=t
+
+"You can see deep into the water there."
 
 
-"You can see deep into the water there." Dafydd ceased and looked at the floor.
-b=fin-d-h-r-g;e:d=
+Dafydd ceased and looked at the floor.
+s=;b=farm-fire;e:d=
 
 "You see, I don't want to be hurting you with these things, Robert, but it's like something alive hidden in my chest under my ribs, and it's biting and scratching to get out of me."
-
+s=d
 
 "I'm rich of the venturing sure, but most times that doesn't seem enough; I'm richer, maybe, than your own brother, Sir Edward."
 e:d=s
@@ -275,22 +296,22 @@ s=r;e:r=u
 s=d;e:d=
 
 "It's not my soul at all; it's the poison that's in me, in my blood and in my brain. Robert, it's shriveling me like an old orange."
-e:d=t
+e:d=w
 
 "The crawling things there and the little flying beasts that come to your fire of nights, and the great pale flowers, all poisonous. They do horrible things to a man. My blood is like cold needles sliding in my veins the moment, and the fine fire before me."
 e:d=u;b=jungle
 
 "All this — all — is because of the dank breathing of the jungle. You cannot sleep in it nor lie in it, nor live in it at all but it breathes on you and withers you."
-
+e:d=m
 
 "And the brown Indians — why, look!"
 
 
 He rolled back his sleeve, and Robert in disgust motioned him to cover the sick white horror which festered on his arm.
-s=;b=missing
+s=;b=card;m:card=missing
 
 "It was only a little scratch of an arrow — you could hardly see it; but it'll be killing me before years, I guess. There's other things in me, Robert. Even the humans are poisonous, and a song the sailors sing about that."
-s=d;e:d=;b=fin-d-h-r-g
+s=d;e:d=;b=farm-fire
 
 Now young Henry started up excitedly.
 s=
@@ -320,37 +341,52 @@ He paused and stretched his thin hands into the fireplace until they were nearly
 s=
 
 "Oh, I'm tired, Robert — so very tired," he sighed, "but there's one thing I want to tell you before I sleep. Maybe the telling will ease me, and maybe I can speak it out and then forget about it for the one night."
-s=d;e:d=u
+s=d;e:d=w
 
 "I must go back to the damned place. I can never stay away from the jungle any more, because its hot breath is on me. Here, where I was born, I shiver and freeze. A month would find me dead."
 b=jungle
 
 "This valley where I played and grew and worked has cast me out for a foul, hot thing. It cleans itself of me with the cold."<e>You cheat on the Salinas Valley by describing others, Steinbeck.</e>
-e:d=t;b=wales
+b=wales
 
-"Now will you be giving me a place to sleep, with thick covers to keep my poor blood moving; and in the morning I'll be off again." He stopped and his face flexed with pain. "I used to love the winter so."
-e:d=u;b=fin-d-h-r-g
+"Now will you be giving me a place to sleep, with thick covers to keep my poor blood moving; and in the morning I'll be off again."
+b=farm-fire
 
-Old Robert helped him from the room with a hand under his arm, then came and sat again by the fire. He looked at the boy who lay unmoving on the floor.
-s=;b=fin-h-r-g
+He stopped and his face flexed with pain.
+s=
 
-"What are you thinking about now, son?" he asked very softly after a time. And Henry drew his gaze back from the land beyond the blaze.
-s=r;e:r=u
+"I used to love the winter so."
+s=d;e:d=u
+
+Old Robert helped him from the room with a hand under his arm, then came and sat again by the fire.
+s=;b=farm-room
+
+He looked at the boy who lay unmoving on the floor.
+b=farm-fire;m:farm-fire=r,g,h
+
+"What are you thinking about now, son?" he asked very softly after a time.
+s=r;e:r=w
+
+And Henry drew his gaze back from the land beyond the blaze.
+s=
 
 "I'm thinking I'll be wanting to go soon, father."
 s=h;e:h=u
 
 "I know, Henry. The whole of this long year I've seen it growing in you like a strong tree — London or Guinea or Jamaica. It comes of being fifteen and strong with the passion for new things on you."
-s=r
+s=r;e:r=h
 
-"Once I saw the valley grow smaller and smaller, too, until finally it smothered me a little, I think. But aren't you afraid of the knives, son, and the poisons, and the Indians? Do not these things put fear on you?"
+"Once I saw the valley grow smaller and smaller, too, until finally it smothered me a little, I think."
 e:r=t
 
+"But aren't you afraid of the knives, son, and the poisons, and the Indians? Do not these things put fear on you?"
+e:r=
+
 "No‑o‑o," Henry said slowly.<e>From your punctuation, you expect this to be read in the voice of <a href="https://www.youtube.com/watch?v=LLXlRc54uxk">Norm Macdonald</a>, correct?</e>
-s=h;e:h=f
+s=h;e:h=
 
 "Of course not — and how could they? The words have no meaning to you at all. But the sadness of Dafydd, and the hurt of him, and his poor, sick body — aren't you afraid of those? Do you want to go about the world weighed down with such a heart?"
-s=r;e:r=
+s=r;e:r=h
 
 Young Henry considered long.
 s=;e:h=t
@@ -368,10 +404,10 @@ s=r
 s=h;e:h=
 
 "Henry, will you do two things for me before you go? Will you be thinking tonight of the long sleeplessness I'll have because of you, and of how lost my days will be. And will you remember the hours your mother will fret about your underclothing and the state of your religion."
-s=r
+s=r;e:r=
 
 "That's the first thing, Henry; but second, will you go up to old Merlin on the crag-top tomorrow and tell him of your going and listen to his words? He is wiser than you or I may ever be."<e>So your obsession with Arthurian tales was lifelong, showing up both here and in your last unpublished writings. And so you've chosen to wedge Merlin into this unrelated pirate story.</e>
-
+e:r=h
 
 "There is a kind of magic he practices which may be a help to you. Will you do these two things, son?"
 
@@ -386,10 +422,10 @@ s=h;e:h=u
 s=r;e:r=u
 
 "But go to bed, Henry, and think and think when the light is out and the dark in around you."
-e:r=
+e:r=;b=farm-room
 
 Old Robert sat dreaming in his chair after the boy had gone.
-s=;b=fin-r-g
+s=;b=farm-fire;m:farm-fire=r,g
 
 "Why do men like me want sons?" he wondered. "It must be because they hope in their poor beaten souls that these new men, who are their blood, will do the things they were not strong enough nor wise enough nor brave enough to do."
 s=r;e:r=t
@@ -397,11 +433,14 @@ s=r;e:r=t
 "It is rather like another chance with life; like a new bag of coins at a table of luck after your fortune is gone. Perhaps the boy is doing what I might have done had I been brave enough years past."
 
 
-"Yes, the valley has smothered me, I think, and I am glad this boy of mine finds it in his power to vault the mountains and stride about the world. But it will be — so very lonely here without him."
+"Yes, the valley has smothered me, I think, and I am glad this boy of mine finds it in his power to vault the mountains and stride about the world."
+e:r=h
+
+"But it will be — so very lonely here without him."
 e:r=u
 
 ### II
-s=
+r=card
 
 Old Robert came in from his rose garden late the next morning and stood in the room where his wife was sweeping. She eyed the good soil on his hands with disapproval.
 
