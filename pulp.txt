@@ -7152,7 +7152,7 @@ And Captain Morgan stooped to pick up the tiny monkey. He walked away stroking C
 r=card
 
 Henry Morgan lifted a golden cup from the heap of loot.
-
+b=phall;x:h=cup;c=h
 
 It was a lovely, slender chalice with long curved handles and a rim of silver.
 
@@ -7160,38 +7160,44 @@ It was a lovely, slender chalice with long curved handles and a rim of silver.
 Around its outer edge four grotesque lambs chased each other, and inside, on the bottom, a naked girl lifted her arms in sensual ecstasy.
 
 
-The captain turned the cup in his hands. Then, suddenly, he hurled it at a little fiery pyramid of diamonds.
+The captain turned the cup in his hands.
 
+
+Then, suddenly, he hurled it at a little fiery pyramid of diamonds.
+c=;x:h=
 
 The stones scattered from their neat pile with a dry, rustling sound.
 
 
-Henry Morgan turned and went back to his serpent chair. He was thinking of the little Cockney, Jones; thinking of the cold hand of epilepsy which had seized him in his last moment of life.
+Henry Morgan turned and went back to his serpent chair.
 
+
+He was thinking of the little Cockney, Jones; thinking of the cold hand of epilepsy which had seized him in his last moment of life.
+b=serpent-chair;m:serpent-chair=h
 
 The hand had been always behind him, a giant hand to wring the man's body until the white drops of agony oozed from his lips.
 
 
 Henry wondered, now, why he had wanted to hurt the little man, to torture him, and finally to kill him.
-
+b=think;c=cock;e:cock=f
 
 Jones had been shadowed through all his life by a sleepless tormentor.
 
 
 Of course, this murder had been caused by the words of Coeur de Gris who had said that Jones was like Henry Morgan.
-
+c=f;e:f=s
 
 Yes, he knew it now, and he knew, also, a red shame for his trumped charge of thievery.
-
+c=
 
 Why could he not have killed the man without explanation?
 
 
 And Coeur de Gris — where was he now?
-
+c=f
 
 He had seen Ysobel — that was fairly sure — and she had noticed him.
-
+c=
 
 Perhaps she loved Coeur de Gris, with his bright hair and his curious way with women.
 
@@ -7200,10 +7206,10 @@ And how could he keep this young man from knowing his defeat, from hearing the a
 
 
 The pistol which had killed Jones was lying on the floor.
-
+b=serpent-chair
 
 Henry picked it up and methodically went to loading it.
-
+b=phall
 
 He did not fear ridicule from Coeur de Gris, but rather sympathy and understanding. Henry did not want understanding now.
 
@@ -7221,15 +7227,15 @@ He gathered information with a mysterious hidden eye.
 
 
 And the Red Saint.
-
+b=think;c=la;e:la=s
 
 Henry must take her away with him, of course. He could do nothing else.
-
+c=
 
 Perhaps, after a long time, she would fall in love with him, but not, surely, because of merits in himself.
 
 
-Her contempt had convinced him that he had no merits; that he was a monstrous being, set apart from other men by unmentionable ugliness.
+Her contempt had convinced him that he had no merits; that he was a monstrous being, set apart from other men by unmentionable ugliness.<e>TODO</e>
 
 
 She had not said so much, but she had intimated it.
@@ -7245,7 +7251,7 @@ She might come, at last, to build on something he possessed.
 
 
 He thought of the last scene with her.
-
+b=phall
 
 Now that he was calm, his wild action seemed the showing off of a thick-legged little boy.
 
@@ -7253,14 +7259,14 @@ Now that he was calm, his wild action seemed the showing off of a thick-legged l
 But how could any man have done otherwise? She had beaten assault with laughter — sharp, cruel laughter which took his motives out and made sport of them.
 
 
-He might have killed her; but what man could kill a woman who wanted to be killed, who begged to be killed?
+He might have killed her; but what man could kill a woman who wanted to be killed, who begged to be killed? The thing was impossible.<e>TODO</e>
 
 
-The thing was impossible. He rammed a bullet into the muzzle of his pistol.
+He rammed a bullet into the muzzle of his pistol.
 
 
 A draggled, unkempt figure came through the doorway. It was Coeur de Gris, a red-eyed, mud-spattered Coeur de Gris with the blood of the battle still on his face.
-
+c=,f;x:f=blood
 
 He looked at the heap of treasure.
 
@@ -7269,13 +7275,13 @@ He looked at the heap of treasure.
 s=f
 
 "Where have you been, Coeur de Gris?"
-s=h
+s=h;c=h,f;e:h=g
 
 "Been? Why, I have been drunk. It is good to be drunk after fighting."
 s=f
 
 He smiled wryly and licked his lips. "It is not so good to stop being drunk. That is like childbirth — necessary, but unpleasant and unornamental."
-
+e:f=s
 
 "I wanted you by my side," said Henry Morgan.
 s=h
@@ -7284,13 +7290,13 @@ s=h
 s=f
 
 "You see, sir, I did not want to remember your reason for being alone."
-
+e:f=t
 
 He paused. "It was told me, sir, that the Red Saint is here."
 
 
 Coeur de Gris laughed at his own ill-concealed emotion. He changed his manner with an effort of will.
-s=
+s=;e:f=s
 
 His tone became jocular.
 
@@ -7302,64 +7308,67 @@ s=f
 
 
 Henry's face had flushed. The pistol in his hand rose quietly, steadied by an inexorable madness.
-s=
+s=;x:h=pistol
 
 There was a sharp crash and a white billow of smoke.
-
+b=action
 
 Coeur de Gris stood as he was.
+c=f;x:f=blood,blood2;e:f=j
+
+He seemed to be intently listening to some distant, throbbing sound.
 
 
-He seemed to be intently listening to some distant, throbbing sound. Then a grimace of terror spread on his face.
+Then a grimace of terror spread on his face.
+e:f=f
+
+His fingers frantically explored his breast and followed a trickle of blood to its source, a small hole in his lung. The little finger edged into the hole.
 
 
-His fingers frantically explored his breast and followed a trickle of blood to its source, a small hole in his lung.
-
-
-The little finger edged into the hole. Coeur de Gris smiled again. He was not afraid of certain things.
-
+Coeur de Gris smiled again. He was not afraid of certain things.
+e:f=s
 
 Now that he knew, he was not frightened any more.
 
 
 Captain Morgan stared stupidly at the pistol in his hand.
-
+c=
 
 He seemed surprised to discover it there, startled at its presence.
 
 
 Coeur de Gris laughed hysterically.
-
+c=f
 
 "My mother will hate you," he cried ruefully. "She will practice all her ancient curses upon you. My mother—" he choked over his breath.
 s=f
 
 "Do not tell her. Make some gleaming lie. Build my poor life up to a golden minaret. Do not let it stop like a half-finished tower. But, no — you need build only a foundation."
-
+e:f=t
 
 "If you give her that, she will continue the structure of heroic memory. She will make for me a tomb of white, inaccurate thoughts."
 
 
 His throat filled with blood. "Why did you do it, sir?"
-
+e:f=c
 
 The captain looked up from his pistol.
 s=
 
 "Do it?"
-s=h
+s=h;x:h=;e:h=j
 
 He saw the bloody lips, the torn breast; he started up from his chair and then fell back again.
 s=
 
 Misery was writing lines about his eyes. "I do not know," he said.
-s=h
+s=h;e:h=u
 
 "I must have known, but I have forgotten."
 
 
 Coeur de Gris went slowly to his knees.
-s=
+s=;c=
 
 He steadied himself with his knuckles on the floor.
 
@@ -7371,31 +7380,31 @@ He seemed to be listening for the throbbing sound again. Suddenly his voice rose
 s=
 
 "It is a legend that dying men think of their deeds done. No — No — I think of what I have not done — of what I might have done in the years that are dying with me."
-s=f
+s=f;e:f=t
 
 "I think of the lips of women I have never seen — of the wine that is sleeping in a grape seed — of the quick, warm caress of my mother in Goaves."
 
 
 "But mostly I think that I shall never walk about again — never, never stroll in the sunshine nor smell the rich essences the full moon conjures up out of the earth — Sir, why did you do it?"
-
+e:f=u
 
 Henry Morgan was staring at the pistol again.
 s=
 
 "I do not know," he muttered sullenly. "I must have known, but I have forgotten. I killed a dog once — and I have just killed Jones. I do not know why."
-s=h
+s=h;e:h=t
 
 "You are a great man, Captain," Coeur de Gris said bitterly.
-s=f
+s=f;e:f=g
 
 "Great men may leave their reasons for the creative bands of their apologists. But I — why, sir, I am nothing any more — nothing."
 
 
 "A moment ago I was an excellent swordsman; but now, my being — that which fought, and cursed, and loved — it may never have been, for all I know."
-
+e:f=c
 
 His wrists weakened and he fell to his side and lay there coughing at the obstruction in his throat.
-s=
+s=;b=f-collapsing
 
 Then, for a time, there was no sound in the room save his uneven gasping for breath.
 
@@ -7410,7 +7419,7 @@ The laugh became a gushing sigh, and Coeur de Gris sank slowly to his side and w
 
 
 Henry still stared at the pistol in his hand. Slowly he raised his eyes to the open window.
-
+b=hall
 
 The streaming rays of the sun made the treasure on the floor glow like a mass of hot metal.
 
@@ -7419,16 +7428,16 @@ His eyes wandered to the body in front of him. He shuddered.
 
 
 And then he went to Coeur de Gris, picked him up, and sat him in a chair.
-
+b=f-chair
 
 The limp body fell over to one side. Henry straightened it and braced it in an upright position.
 
 
 Then he went back to his serpent chair.
-
+b=serpent-chair;m:serpent-chair=h
 
 "I raised my hand like this—" he said, pointing the pistol at Coeur de Gris.
-s=h
+s=h;e:h=c
 
 "I raised my hand like this. I must have. Coeur de Gris is dead. Like this, I raised it — like this — and pointed — How did I do it?"
 
@@ -7437,16 +7446,16 @@ He bowed his head, then raised it with a chuckle.
 s=
 
 "Coeur de Gris!" he said; "Coeur de Gris! I wanted to tell you about La Santa Roja. She rides horses, you know. She has no womanly modesty at all — none at all — and her looks are only moderate."
-s=h
+s=h;e:h=h
 
 He peered at the propped figure before him. The eyes of Coeur de Gris had been only half closed, but now the lids slipped down and the eyes began to sink back in his head.
-s=
+s=;b=f-chair
 
 On his face was the frozen distortion of his last bitter laughter.
 
 
 "Coeur de Gris!" the captain shouted.
-s=h
+s=h;e:h=u
 
 He went quickly to the body and laid his hand on its forehead.
 s=
@@ -7455,16 +7464,16 @@ s=
 s=h
 
 "Coeur de Gris! we have been fooled. The woman fences like a man, and she rides horses astride. So much labor lost for us!"
-
+e:h=c
 
 "That's what we get for believing everything we hear — eh, Coeur de Gris? — But this is only a dead thing, and the flies will come to it."
 n:men2=Soldier
 
 He was interrupted by a tramp of feet on the stairs.
-n:men1=Soldier; s=
+n:men1=Soldier; s=;b=hall
 
 A band of his men entered, driving in their midst a poor frightened Spaniard — a mud-draggled, terrified Spaniard.
-n:span=Spaniard
+n:span=Spaniard;c=,,men1,span,men2;e:span=f
 
 The lace had been torn from his neck, and a little stream of blood ran from one sleeve.
 
@@ -7473,34 +7482,34 @@ The lace had been torn from his neck, and a little stream of blood ran from one 
 s=men1
 
 Henry Morgan ignored the speech. Instead he pointed to the body in the chair.
-s=
+s=;c=;b=f-body
 
 "That is only a dead thing," he announced. "That is not Coeur de Gris. I sent Coeur de Gris away. He will be back soon."
 s=h
 
 "But that is — I raised my hand like this — do you see? — like this. I know exactly how I did it; I have tried it again and again. But that is a dead thing. It will bring the flies to us."
-
+e:h=t
 
 He cried, "Oh, take it away and bury it in the earth!"
-
+e:h=u
 
 A buccaneer moved to lift the body.
-s=
+s=;b=hall
 
 "Don't touch him! Don't dare to touch him! Leave him where he is. He is smiling. Do you see him smile? But the flies — No, leave him. I will care for him myself."
 s=h
 
 "This Spaniard, sir; what shall we do with him? Shall we kill him?"
-s=men1
+s=men2;c=,,,span,men2
 
 "What Spaniard?"
-s=h
+s=h;c=h,,,span,men2
 
 "Why, this one before you, sir." He shoved the man forward. Henry seemed to awaken from a deep dream.
-s=men1
+s=men2;c=h,,span,,men2
 
 "What do you want?" he asked harshly.
-s=h
+s=h;e:h=g
 
 The Spaniard struggled with his fright.
 s=
@@ -7509,10 +7518,10 @@ s=
 s=span
 
 "What is your message?" Henry's voice had become weary.
-s=h
+s=h;e:h=w
 
 The messenger took reassurance from his changed tone.
-s=
+s=;e:span=
 
 "I come from one man very rich, Señor. You have his wife."
 s=span
@@ -7524,7 +7533,7 @@ s=h
 s=span
 
 "Her name?"
-s=h
+s=h;e:h=t
 
 "She is the Doña Ysobel Espinoza, Valdez y los Gabilanes, Señor. The simple people of the city have called her La Santa Roja."
 n:Ysobel=Doña Ysobel Espinoza; s=span
@@ -7539,13 +7548,13 @@ s=h
 s=span
 
 "What ransom does he offer?"
-s=h
+s=h;e:h=t
 
 "What would Your Excellency suggest?"
 s=span
 
 "Twenty thousand pieces of eight," Henry said quickly. The messenger was staggered.<e>Well now you've got me thinking of the <book>Twenty Thousand Leagues Under the Sea|Jules Verne novel</book>. And of the superior Disney adaptation, with the singing Kirk Douglas and sea lion.</e>
-s=h
+s=h;e:span=j
 
 "Twenty thous — *viente mil*—" He translated fully to comprehend the enormity of the amount.
 s=span
@@ -7554,7 +7563,7 @@ s=span
 
 
 Henry Morgan looked at the body of Coeur de Gris.
-s=
+s=;c=;b=f-body
 
 "No," he said; "I want the money."
 s=h
@@ -7566,10 +7575,10 @@ He had been prepared to think this great man a great idiot.
 
 
 "I will do what may be done, Señor. I will come back to you in four days."
-s=span
+s=span;c=span;e:span=
 
 "In three!"
-s=h
+s=h;e:h=g
 
 "But if I do not arrive, Señor?"
 s=span
@@ -7581,31 +7590,31 @@ s=h
 s=span
 
 "Give him courtesy!" the captain commanded.
-s=h
+s=h;c=,,span,men1,men2
 
 "Do not mistreat him in any way. He is to bring us gold."
 
 
 As they were leaving, one man turned back and let his eyes lovingly caress the treasure.
-s=
+s=;c=,,,men1,
 
 "When is the division to be, sir?"
-s=men2
+s=men1
 
 "In Chagres, fool! Do you think I would divide it now?"
 s=h
 
 "But, sir, we would like to be having a bit of it in our hands — for the feel of it, sir. We have fought hard, sir."
-s=men2
+s=men1
 
 "Get out! You'll have none of it in your hands until we come to the ships again. Do you think I want to have you throwing it to the women here? Let the Goaves women get it from you."
 s=h
 
 The men went out of the Hall of Audience grumbling a little.
-s=
+s=;c=
 
 ### VI
-
+r=card
 
 The buccaneers were rioting in Panama.
 
