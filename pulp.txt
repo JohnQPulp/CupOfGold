@@ -1469,7 +1469,7 @@ Henry entered and found a large apartment crowded with people. Of a fat man in a
 b=inn
 
 "Have you money?" the host asked suspiciously.
-n:t-host=Host; s=t-host; e:t-host=g
+n:host=Host; s=host; e:host=g
 
 Henry let the light fall on a gold piece in his hand, and, as he had made the sign of power, the apron was bowing and gently pulling him by the arm.
 s=;c=h;x:h=gold
@@ -1628,7 +1628,7 @@ The hungry master scowled at him.
 s=
 
 "Is he a strong boy who might be some good in the Islands, Bo's'n? So many of them die within the month, and there you have trouble the next trip."
-n:t-master=Master; s=t-master;e:t-master=g
+n:master=Master; s=master;e:master=g
 
 "He is there, behind me, sir. You can see him yourself, standing there — and very well made and close knit he is too."
 s=t
@@ -1637,13 +1637,13 @@ The hungry master appraised Henry, running his eyes from the sturdy legs to the 
 s=;c=,h;e:h=h
 
 "He is a strong boy, all right; and good work for you, Tim. You shall have drink money of it and a little extra ration of rum at sea. But does he know anything about the arrangement?"
-s=t-master;e:t-master=s;c=
+s=master;e:master=s;c=
 
 "Never a bit."
 s=t;e:t=u
 
 "Well, then, don't tell him. Put him to working in the galley. He'll think he's working out his passage. No use of caterwauling and disturbing the men off watch. Let him find out when he gets there."
-s=t-master
+s=master
 
 The master smiled and paced away from Tim.
 s=
@@ -1766,13 +1766,13 @@ Instead, his small blue eyes, after the manner of sailors' eyes, looked out beyo
 
 
 "So you would know the secrets of the lines?" he said, without moving his gaze from the horizon. "Well, you must just watch. It's so long I've been doing it that my old head has forgotten how; only my fingers remember. If I think what I'm doing I get muddled up. Will you be a sailor and go aloft one day?"
-n:t-aged=Aged Seaman; s=t-aged
+n:aged=Aged Seaman; s=aged
 
 "Why, I'd like to, if I could learn the workings," Henry said.
 s=h;e:h=h
 
 "It's not so hard to learn the workings. You must learn first to bear things that landsmen never heard of. That's the first thing. It's very cruel, but you may never leave it once you start."
-s=t-aged
+s=aged
 
 "Here I've been trying to take my old hulk ashore and berth it in front of a fire for a dozen years. I want to think awhile and die. But it's no use. Every time I find myself running my legs off to get aboard some ship or other."
 
@@ -1781,13 +1781,13 @@ He was interrupted by a vicious ringing of the ship's bell.
 s=
 
 "Come," he said, "the master will be telling us the hot tales now."
-s=t-aged;e:t-aged=w
+s=aged;e:aged=w
 
 The skull-faced master stood before his crew, armed with his God. The men looked fearfully at him, as small birds gaze at an approaching snake, for his faith was in his eyes and words of fury fell from his thin lips.
 b=bristol-sermon;s=
 
 "God has struck you with only the title of his shattering might," he shouted. "He has shown you the strength of His little finger that you may repent before you go screaming in hellfire."
-n:t-master=The Master; s=t-master;e:t-master=m
+n:master=The Master; s=master;e:master=m
 
 "Hear the name of the Lord in the frightful wind and repent you of your whorings and your blasphemies! Ah! He will punish you even for the wicked thoughts in your heads."
 
@@ -1802,7 +1802,7 @@ He swung his arms wildly and spoke of the poor lonely dead, suffering and burnin
 s=
 
 "That is not so," said the old sailor fiercely to Henry. "Do not be taking stock in his crazy talk. Who made the storm — God or devil — made it for itself and took joy of it."
-e:t-aged=g;b=bristol-deck;s=t-aged
+e:aged=g;b=bristol-deck;s=aged
 
 "What being could hurl the wind so would not be bothering himself about a chip of a boat floating in immensity. I know I would not, if I were that god or devil."
 
@@ -1910,19 +1910,19 @@ e:t=s
 r=card
 
 From the first day, the cook had taken it upon himself to instruct young Henry. The man seemed to crave to give information. It was a wistful instruction, as though he feared every minute to be contradicted.
-n:t-cook=Cook;b=bristol-deck;m:bristol-deck=sea;c=t-cook
+n:cook=Cook;b=bristol-deck;m:bristol-deck=sea;c=cook
 
 He was a gray man, the cook, with sad brown eyes like a dog's eyes. There was something of a priest about him, and something of a dull lecturer, and something of a thug.
 
 
 His speech had the university in it, and his unclean habits the black, bitter alleys of London. He was gentle and kind and stealthily insincere.
-e:t-cook=t
+e:cook=t
 
 No one would ever give him a chance to prove himself trustworthy, because the whisper seemed to come from him that if it were in the least worthwhile he would be treacherous.
 
 
 Now they had sailed into a warm sea, and a warm wind drove them on. Henry and the cook would stand at the rail, watching the triangle fins of sharks cut back and forth across their wake waiting for refuse.
-c=t-cook,h;e:t-cook=
+c=cook,h;e:cook=
 
 They saw little brown clusters of weed go floating by, and the leisurely, straight swimming pilot fish on the point of the prow.
 c=;b=bristol-wide
@@ -1931,7 +1931,7 @@ Once the cook pointed to the brown birds with long, slender wings following them
 
 
 "See these restless ones," the man said. "Like questing souls they are indeed, and some say they are the souls of sailors drowned, souls so thick with sins that they never rest from one year to another."
-n:t-cook=Cook; s=t-cook
+n:cook=Cook; s=cook
 
 "Others swear that these birds lay their eggs in floating nests built on planks of lost ships; and others, still, that they have no nests at all but are born full grown of the white lip of a wave and instantly start their lifelong flight. Ay! the restless ones."
 
@@ -1940,7 +1940,7 @@ The ship started a school of fliers that skipped along the wave tops like shinin
 s=
 
 "These are the ghosts or treasures lost at sea," the cook went on, "the murder things, emeralds and diamonds and gold; the sins of men, committed for them, stick to them and make them haunt the ocean. Ay! it's a poor thing if a sailor will not make a grand tale about it."
-s=t-cook;e:t-cook=t
+s=cook;e:cook=t
 
 Henry pointed to a great tortoise asleep on the surface.
 
@@ -1949,7 +1949,7 @@ Henry pointed to a great tortoise asleep on the surface.
 s=h
 
 "Nothing; only food. It is not likely that a man will be making romances about the thing he eats. Such things are too close to him, and the romance contaminated out of them."
-e:t-cook=;s=t-cook
+e:cook=;s=cook
 
 "But these same beasts have been the saving of a number of ships, and the means of making flesh on some that might otherwise be white bones on the deck of a derelict. The meat of turtles is sweet and good. Sometimes when the buccaneers are not in the way of getting wild beef, they stock their ships with these and so sail."
 
@@ -1961,7 +1961,7 @@ s=;m:bristol-wide=night
 s=h;e:h=c
 
 The cook shifted uneasily. "There's peace between Spain and England," he said. "I would not be breaking the King's peace. No, I never sailed with them; no. But I have heard things which may be true."
-s=t-cook;e:t-cook=t
+s=cook;e:cook=t
 
 "I have heard that the buccaneers are great fools. They plunder rich prizes and then throw their gains to the tavern hosts and brothel keepers of Tortuga and Goaves, like children throwing sand from them when they are tired of playing. Oh! great fools, I think."
 
@@ -1970,37 +1970,37 @@ s=t-cook;e:t-cook=t
 s=h
 
 "A village or so has fallen to them, but they have no leaders for such a thing."
-s=t-cook;e:t=cook=
+s=cook;e:t=cook=
 
 "But a great town with a treasury?" Henry persisted.
 s=h;e:h=e
 
 "No, they have never done it. They are children, I tell you — strong, brave children."
-s=t-cook
+s=cook
 
 "Could not a man who thought and planned carefully take a Spanish town?"
 s=h
 
 "Ho!" the cook laughed; "and are you going to be a buccaneer?"
-s=t-cook;e:t-cook=s
+s=cook;e:cook=s
 
 "But if a man planned carefully?"
 s=h;e:h=t
 
 "Why, if there were a buccaneer who could plan at all, carefully or otherwise, it might be done; but there are no such buccaneers. They are little children who can fight like hell and die very nicely — but fools. They will sink a ship for a cup of wine, when they might sell the ship."
-s=t-cook;e:t-cook=
+s=cook;e:cook=
 
 "If a man considered carefully and weighed his chances and the men he had, he might—"
 s=h
 
 "Yes, I suppose he might."
-s=t-cook
+s=cook
 
 "There was one called Pierre le Grand who was no fool."
 s=h;e:h=
 
 "Ah, but Pierre took one rich ship and then ran home to France! He was a fearful gambler, not a wise man. And he may yet come back to the Coast and lose it all and his head too."
-s=t-cook
+s=cook
 
 "Still," said Henry with a grown finality, "still, I think it could be done, so only a man thought about it and considered it."
 s=h;e:h=w
@@ -2084,25 +2084,25 @@ In the little man's pale eyes there was the light of perpetual indecision and pe
 s=t;b=bristol-rail;c=h,t
 
 The captain was shouting, "Galley boy! Oh, galley boy! Morgan! Aft!"
-s=t-master
+s=master
 
 Henry went back to where the Englishman and the captain were standing.
-s=;c=t-master,j,,;b=bristol-aft
+s=;c=master,j,,;b=bristol-aft
 
 He was amazed when the little colonist gingerly felt his arms and shoulders.
-c=t-master,j,,h;e:h=f
+c=master,j,,h;e:h=f
 
 "I might give ten," he said to the captain.
 s=j
 
 "Twelve!" the captain snapped.
-s=t-master;e:t-master=m
+s=master;e:master=m
 
 "But do you really think he is worth it? I'm not a rich man, you see, and I just thought that ten—"
 s=j
 
 "Well, you may have him for eleven, but, as God sees me, he's worth more. Look at the knit of him and the broad shoulders. He won't die like so many. No, sir, he's worth more, but you may have him for eleven."
-s=t-master;e:t-master=
+s=master;e:master=
 
 "Well, if you really think so," the planter said hesitantly; and he began pulling money out of his pockets, money that was mixed with tangled string, and pieces of chalk, and a bit of a quill pen, and a broken key.
 s=j;e:j=n
@@ -2114,7 +2114,7 @@ s=;o=indenture
 s=h;o=;e:h=u;e:j=
 
 "So you shall," the master answered kindly, as though he gave permission, "after five years. Now go along with the gentleman and let us have no caterwauling."
-s=t-master;e:t-master=h
+s=master;e:master=h
 
 "Do you think I could run this ship just bringing out boys that want to come to the Indies? You do your work and trust in God, and it may be a very good thing for you. Experience is never wasted on the sharp albeit humble soul."
 
@@ -2153,22 +2153,22 @@ His mother wrote poetry which was a kind of summary of the sermons. Her verses w
 
 
 ————————————————————————————————————
-n:t-jf=Father Flower
+n:jf=Father Flower
 
 James Flower had been reared in an atmosphere of—
-n:t-jm=Mother Flower
+n:jm=Mother Flower
 
 "I must be walking to my publisher's now, Helen!"
-s=t-jf;e:t-jf=0
+s=jf;e:jf=0
 
 "But William, a glorious thing burst upon me this morning as I was doing my hair — such a conception! It must surely have come from God."
-s=t-jm;e:t-jm=0
+s=jm;e:jm=0
 
 "It will be done in couplets I think. Oh! glorious! And it just fits in with those delightful words of yours on humility."
 
 
 "Ah, well; I must be walking to my publisher's now, to see how the sermons are going. I sent a copy to the Archbishop, and he may have been talking about them. Such a thing would start a great sale I think."
-s=t-jf
+s=jf
 
 Yes, they were people with ideas, and often they shook their heads over their dull son. He had held them in awe, had been frightened at their greatness and ashamed of himself.
 s=
@@ -2774,19 +2774,19 @@ While Henry was away a trading ship came into port, and Paulette went to the bea
 c=;b=beach
 
 And one of them, a great, broad Irishman, laden with black rum, pursued and captured her against a pile of boxes.
-n:t-ie=Irishman;b=missing
+n:ie=Irishman;b=missing
 
 Strong and quick, she struggled to elude him, but he held her tightly, swaying though he was.
 
 
 "I've caught a fairy to mend my shoes," he laughed, and peered into her face. "Sure enough, 'tis a fairy."
-s=t-ie;e:t-ie=s
+s=ie;e:ie=s
 
 And then he saw that she was small and very beautiful, and he spoke tenderly and low.
 s=
 
 "You're a lovely fairy — lovelier than the eyes of me have ever seen. Could a slim little body like you be thinking anything about a great, ugly hulk like me, I wonder?"
-s=t-ie
+s=ie
 
 "Come off and marry me, and you shall have anything 'tis in the power of a sailor to give you."
 
@@ -2795,10 +2795,10 @@ s=t-ie
 s=p;e:p=f
 
 The sailor sat in the sand staring dully before him.
-s=;b=beach;c=t-ie;e:t-ie=u
+s=;b=beach;c=ie;e:ie=u
 
 "'Twas a dream," he whispered; "'twas only a dream from the spirits. There's no such thing to be happening to a poor sailor."
-s=t-ie
+s=ie
 
 "No; for sailors there be pretty hags with sharp, hard eyes to say, 'Come! money first, sweetheart mine.'"
 
@@ -3131,7 +3131,7 @@ Henry found the palace, a low grubby house with walls of whitewashed mud and a r
 c=,h
 
 There was a gaudy halberdier standing at the door, holding his great, ineffectual weapon rigidly before him, the while he maintained a tortured decorum in the face of a swarm of enemy flies.
-n:t-hal=Halberdier;c=t-hal,h;e:t-hal=g
+n:hal=Halberdier;c=hal,h;e:hal=g
 
 The halberd lowered across the pathway as Henry approached.
 
@@ -3140,7 +3140,7 @@ The halberd lowered across the pathway as Henry approached.
 s=h
 
 "What do you wish with His Excellency?"
-s=t-hal
+s=hal
 
 "Why, you see, sir, he is my uncle, and I wish to speak with him."
 s=h
@@ -3149,16 +3149,16 @@ The soldier scowled suspiciously and stiffened his hold on the halberd. Then Hen
 s=
 
 "Get out of my way, you damned pup," he cried. "Get out of my way or I'll see you hanged."
-s=h;e:h=m;e:t-hal=f
+s=h;e:h=m;e:hal=f
 
 The man cowered and almost dropped his weapon. "Yes, sir. I'll send your word, sir."
-s=t-hal
+s=hal
 
 He blew a little silver call, and when a servant in green lace came to the door, he said:
 s=
 
 "A young gentleman to see His Excellency."
-s=t-hal
+s=hal
 
 Henry was led into a little room made dark with thick, gray hangings edged with dull gold.
 s=;b=palace
@@ -3443,34 +3443,34 @@ Near the waterfront he came to a kind of tavern with a great crowd gathered in f
 b=tavern-ext
 
 Standing in the center of the way was a cask of wine with its head staved in, and a big, drunken man in crazy laces and a plumed hat strutted beside it.
-n:t-drunk=?;c=t-drunk,;e:t-drunk=d
+n:drunk=?;c=drunk,;e:drunk=d
 
 He passed out cups and basins and even hats full of wine to the reaching men.
 
 
 Now and then he called for a toast and a cheer, and his crowd screamed its acclaim.
-e:t-drunk=h
+e:drunk=h
 
 Young Henry sought to pass them in his misery.
-c=t-drunk,h;e:h=u
+c=drunk,h;e:h=u
 
 "Come drink my health, young man."
-s=t-drunk
+s=drunk
 
 "I do not wish to drink," said Henry.
 s=h
 
 "You do not wish to drink?"
-s=t-drunk;e:t-drunk=d
+s=drunk;e:drunk=d
 
 The big man was overwhelmed with this new situation. Then he recovered his wrath.
-s=;e:t-drunk=m
+s=;e:drunk=m
 
 "By God! you will so drink when Captain Dawes that took the supply ship *Sangre de Cristo* this day week asks you."
-s=t-drunk;e:h=f
+s=drunk;e:h=f
 
 The lowering man came close, then suddenly drew a great pistol from his belt and pointed it waveringly at Henry's breast.
-s=;x:t-drunk=pistol
+s=;x:drunk=pistol
 
 The boy eyed the pistol.
 e:h=n
@@ -3485,10 +3485,10 @@ s=
 r=tavern;s=h
 
 "About your next trip—" he began.
-c=t-drunk,h;e:t-drunk=m
+c=drunk,h;e:drunk=m
 
 "My next trip and hell!" the captain roared.
-n:t-drunk=Captain Dawes;s=t-drunk
+n:drunk=Captain Dawes;s=drunk
 
 "I've just taken a good prize, haven't I? I've got money, haven't I? Then what is this you are squalling about a next trip?"
 e:h=c
@@ -3497,7 +3497,7 @@ e:h=c
 
 
 He rushed back into the street crowd. "Boys!" he yelled.
-b=tavern-ext;c=t-drunk;e:t-drunk=d
+b=tavern-ext;c=drunk;e:drunk=d
 
 "Boys, you have not drunk my health for hours. Come, shout together now, and then we will sing!"
 
@@ -3506,25 +3506,25 @@ Henry walked onward in despair. In the harbor a number of ships were lying at an
 s=;b=island-harbor
 
 He approached a sailor sitting in the sand.
-n:t-sailor=Sailor;c=h,t-sailor
+n:sailor=Sailor;c=h,sailor
 
 "That one's fast," he said, to open the acquaintance.
 s=h
 
 "Aye, good enough."
-s=t-sailor
+s=sailor
 
 "Are there any buccaneers of note in this town?" Henry asked.
 s=h
 
 "None but that Dawes, and he's only a roaring mouse. He takes a little boat loaded with supplies for Campeche, and you'd think it was Panama he brought home for the noise he makes about it."
-s=t-sailor
+s=sailor
 
 "But are there none others?"
 s=h
 
 "Well, there's one they call Grippo but he takes no prizes unless they go unarmed. Afraid of his shadow, Grippo."
-s=t-sailor
+s=sailor
 
 "Yes, he's in port with no prize, and drinking black rum on tick, I guess."
 e:h=t
@@ -3533,16 +3533,16 @@ e:h=t
 s=h
 
 "Why, there she is. They call her *Ganymede*."
-s=t-sailor
+s=sailor
 
 "They tell that Grippo stole her in Saint Malo when her crew was drunk."
-e:t-sailor=s
+e:sailor=s
 
 "He and nine others tumbled the poor stiff wretches overside and made off with the ship for the Indies."
 e:h=
 
 "Yes, she's a good craft, but Grippo is no master. A wonder it is that he's not wrecked her before now."
-e:t-sailor=
+e:sailor=
 
 "Take Mansveldt; there's a master for you — a real master. But Mansveldt is in Tortuga."
 
@@ -3551,7 +3551,7 @@ e:t-sailor=
 s=h
 
 "They say she's over armed if anything."
-s=t-sailor
+s=sailor
 
 And on that night, Henry found the buccaneer drinking in a hovel on the beach.
 r=hovel;m:hovel=grippo;n:grippo=Grippo;s=h
@@ -4037,22 +4037,22 @@ Now, when Captain Morgan had taken Puerto Bello, the Governor of Panama was fill
 b=think
 
 He sent a messenger asking for a small sample of the weapons which had made this thing possible.
-n:t-mes=Messenger
+n:mes=Messenger
 
 Captain Morgan took the runner to a small room that had escaped the general fire.
-b=small-room;c=h,t-mes
+b=small-room;c=h,mes
 
 "Have you seen the woman whom they call the Red Saint in Panama?" he asked.
 s=h
 
 "I have not seen her, no; but I have heard of her. The young men put only the Blessed Virgin before her in their worship. It is said that she is lovely as the sun."
-s=t-mes
+s=mes
 
 "What is her name besides La Santa Roja?"
 s=h
 
 "I do not know. I have only heard that she is lovely as the sun. They tell in Panama that she came from Cordova and has been to Paris. It is said her family is noble."
-s=t-mes
+s=mes
 
 "They tell how she rides great horses, sitting astride, in a meadow guarded with a thick hedge. It is said that in her hand a rapier is a living thing, and that she can fence more skillfully than any man. These things she does in secret that no one may see the crime against her modesty."
 
@@ -4061,7 +4061,7 @@ s=t-mes
 s=h;e:h=s
 
 "Only what they say in the taverns, sir — that she has stolen worship from the Blessed Saints."
-s=t-mes
+s=mes
 
 Captain Morgan dreamed long in his chair while the runner waited silently.
 s=;c=
@@ -4070,7 +4070,7 @@ At last Henry shook his head, as though to disengage it of cloying thoughts.
 
 
 He drew a pistol from his belt and gave it to the messenger.
-n:gov=Governor Don Juan Perez de Guzman;c=t-mes
+n:gov=Governor Don Juan Perez de Guzman;c=mes
 
 "Take this to Don Juan Perez de Guzman, and say that this is a sample of the weapons we have used in laying Puerto Bello in the dust. But my other weapons are the strong hearts of my followers."
 s=h;e:h=
@@ -4079,19 +4079,19 @@ s=h;e:h=
 e:h=s
 
 "I do, sir."
-s=t-mes
+s=mes
 
 And in a few days the runner came again, bringing the pistol back, and a large square emerald set in a ring.
 s=;b=think
 
 "My master begs that you accept this stone as a token of his regard. He begs that you do not give yourself the trouble to come to Panama, for then his duty would overwhelm his admiration and force him to hang you to a tree."
-s=t-mes;c=h,t-mes
+s=mes;c=h,mes
 
 "It is a good message," said the captain; "a good, brave message. I should like to meet with Don Juan if only at swords' points. It has been long since anyone defied me. And did you learn more of La Santa Roja?"
 s=h;e:h=
 
 "Only what they tell in the streets, sir. I inquired closely for your benefit. I was told that in the streets she wears a thick veil that none may see her face."
-s=t-mes
+s=mes
 
 "Some think she does this so that the poor men who meet her will not kill themselves for love. That is all I could learn. Have you further messages, sir?"
 
