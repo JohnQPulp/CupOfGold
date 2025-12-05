@@ -983,7 +983,7 @@ A wild shame filled him, for her and for himself.
 
 
 Without thought and without reason he ran away into the dark, gasping and almost sobbing under his breath.<e>Why such whiny and insecure characterization for Henry Morgan? If your aim is pull off a compelling character arc from this starting place, I don't have <book>Great Expectations</book>.</e>
-b=road;c:h=b
+b=road;e:h=b
 
 ### V
 r=card
@@ -2405,8 +2405,7 @@ s=;c=,j
 r=card
 
 Two years after Henry had come, the overseer was released by the years from his bondage. He found his freedom too strong a drug for the mind that had been used to outside control.
-b=plantation;c=overseer;e:o=m
-
+b=plantation;n:o=overseer;c=o;e:o=m
 
 That mind snapped, and fury flooded in on him, so that he went shouting along the roads, striking at every passerby. And in the night his mania became a terrible, frantic thing.
 b=island-town;c=
@@ -4620,7 +4619,7 @@ s=f
 
 
 ### V
-b=card
+r=card
 
 Sir Edward Morgan led forces against St. Eustatius, and, while the battle raged, a slim, brown Indian slipped up and drove a long knife into his stomach.
 b=battle
@@ -5034,7 +5033,7 @@ And soon the meaning justified itself, for out of this little town the nets of S
 
 
 Pedrarias carried the nets to the north and enmeshed the cities of the ancient Mayan race.
-p=map2
+b=map2
 
 He was enabled, of his fishing, to send strangely wrought serpents and frightful images and tiny graven insects, all of gold, to Panama.
 
@@ -5169,16 +5168,16 @@ On one side the sea protected it, and there were no foreign ships on the souther
 b=pacific-beach
 
 to the landward side were walls and a broad morass which might be flooded in time of danger, making the city a veritable island.
-p=pwalls
+b=pwalls
 
 In addition, an attacking army must cut its way through the isthmian jungle to approach in force, must wind through narrow passes which might easily be defended by a small body of men.
-p=map3
+b=map3
 
 No one considered it possible that any sane leader could dream of the conquest of Panama.
 
 
 And so, when Campeche and Puerto Bello and Maracaibo fell to the buccaneers, the merchants of the Cup of Gold shrugged their shoulders and went about their usual business.
-p=pplaza
+b=pplaza
 
 It was unfortunate, of course; indeed it was sad that their own countrymen should be so used and robbed — but what could they expect?
 
@@ -5337,7 +5336,7 @@ The Governor must see to the defense.
 
 
 Don Juan had reviewed his troops; that, to his mind, was all any general could do.
-p=pchurch
+b=pchurch
 
 The uniforms were proof against criticism, and his soldiers would have come with credit through any parade ground in Europe.
 
@@ -6203,10 +6202,10 @@ s=h;e:h=c
 They moved out on the plain, a dense cloud of men. Two hundred marksmen walked in advance, while the rest were grouped behind.
 s=;b=armies-face
 
-Now Don Juan, the Governor of Panama, stood with his neat army, a long line of foot soldiers in companies of two files. He looked at the rough formation of the enemy with contempt.
+Now Don Juan, the Governor of Panama, stood with his neat army, a long line of foot soldiers in companies of two files. He looked at the rough formation of the enemy with contempt. Almost gaily he signaled for the first advance.
 
 
-Almost gaily he signaled for the first advance. The Spanish cavalry swung out, wheeling and whirling across the plain. Now they formed a V, and now a hollow square.
+The Spanish cavalry swung out, wheeling and whirling across the plain. Now they formed a V, and now a hollow square.
 m:armies-face=advance
 
 Moving at a fast trot, they went through all the intricate evolutions of a review; they made triangles, T's.
@@ -6906,7 +6905,7 @@ The streets about the Governor's Palace had not been touched by the fire.
 
 
 Captain Morgan walked along the paved way until he came to the ways of ruin.
-p=proad-ruin
+b=proad-ruin
 
 Here blackened walls had spilled their stones into the road.
 
@@ -7122,10 +7121,10 @@ s=du;e:h=g
 
 
 "Lastly, she thinks that such a woman might, in course of time, be canonized. Such things have happened."
-s:du=t
+e:du=t
 
 "Ah, sir! Captain, be kind! Permit me to kiss her hand, now, before you strike. What grace to have kissed the hand of a living saint! It may do much for my own sinful soul."
-s:du=c
+e:du=c
 
 Ysobel spoke to her again.
 s=;e:h=n
@@ -8523,7 +8522,7 @@ s=h
 r=card
 
 Meanwhile, in another room Lady Moddyford was earnestly talking to Elizabeth.
-n:ladm=Lady Moddyford;gov-mansion2
+n:ladm=Lady Moddyford;b=gov-mansion2
 
 "I find I must speak to you as a mother, my dear, a mother who is looking to your future."
 s=ladm;c=ladm,c;e:c=n;e:ladm=h
@@ -9132,7 +9131,7 @@ The case sang to its monotonous conclusion. Sir Henry, behind his broad table, s
 s=
 
 Now the guards brought in a sullen vagrant, clothed in rags of old sail.
-n:a1=Vagrant;b:judge-bench=accused
+n:a1=Vagrant;m:judge-bench=accused
 
 "Charged with stealing four biscuits and a mirror from So-and-So, my lord."
 s=guard
@@ -9195,7 +9194,7 @@ s=guard
 s=a1
 
 They led the man to his imprisonment. Now the guards brought in a thin, pasty woman.
-n:a2=Woman; s=;b:judge-bench=accused-woman
+n:a2=Woman; s=;m:judge-bench=accused-woman
 
 "Charged with harlotry and incontinence, my lord."
 s=guard
@@ -9213,10 +9212,10 @@ The woman began to cry sulkily.
 s=
 
 Sir Henry rested his forehead on his hands. He did not look up at the next prisoners.
-b:judge-bench=
+b=judge-bench
 
 "Charged with piracy on the high seas, my lord; with disturbing the King's peace; with an act of war against a friendly nation."
-s=guard;b:judge-bench=burs
+s=guard;m:judge-bench=burs
 
 Sir Henry glanced quickly at the prisoners. One was a rotund little man with eyes of terror, and the other a lean, grizzled fellow whose one arm was gone.
 s=
