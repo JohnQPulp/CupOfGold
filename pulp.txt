@@ -5264,13 +5264,13 @@ And later:
 s=;c=
 
 "You say you had it of Don Guierrmo? Surely he would not tell a questionable thing — a man of his wealth."
-n:du=Another Guy;s=du;c=du,
+n:d3=Another Guy;s=d3;c=d3,
 
 "I repeat only what he said — that Morgan could fire bullets from his fingertips — that he breathed out sulphurous flames. Don Guierrmo was certain of it."
-s=dp;c=du,dp
+s=dp;c=d3,dp
 
 "I must tell my wife of this, Don Pedro."
-s=du
+s=d3
 
 So the tales grew until the people were half mad.
 s=;c=
