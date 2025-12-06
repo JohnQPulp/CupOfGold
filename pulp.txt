@@ -9908,4 +9908,4 @@ The fire went out of the ember with a dry, hard snap. There was no light anywher
 b=think
 
 For a moment, Henry was conscious of the deep, mellow pulsation of the Tone.<e>The End. So little Elizabeth was the Rosebud of the story or something. And we had some happy fun morals along the way. Steinbeck, that was stupid. For your next book, you've to drop this Arthur stuff and focus on what the American public really needs right now: werewolves.</e>
-
+z=a1:86,aged:93,bur1:81,bur2:105,c:83,c-amid:90,c-aold:90,cock:70,cook:95,dp:102,dg:97,doc:95,drunk:108,e:103,f:105,g:90,gov:95,grippo:105,h:91,h-a18:102,h-a30:102,h-aold:102,h-adeath:102,ie:92,j:93,la:96,ladm:94,liz-aghost:75,m:90,master:106,men1:97,men2:102,p:89,pris2:97,r2:97,r3:103,r4:98,span:96,t:106,w:102
