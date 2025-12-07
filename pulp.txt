@@ -5143,7 +5143,7 @@ It bore a proud name: The Very Noble and Very Loyal City of Panama.
 Its rank was made equal with that of Cordova and Seville, for did not its officials wear golden chains of office about their necks?
 
 
-And the King granted to the city a resplendent coat of arms — a shield in a field of gold on the left yoke, and on the right, two caravels and a handful of gray arrows.
+And the King granted to the city a resplendent coat of arms — a shield in a field of gold on the left yoke, and on the right, two caravels and a handful of gray arrows.<e>TODO</e>
 o=pcoat
 
 Above all was the north star of discovery, while the Lions and Castles of the twin Spanish kingdoms circled around the shield.
