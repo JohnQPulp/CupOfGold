@@ -1,2 +1,4 @@
 out.html
+*.swp
 *.jpeg
+jpegs/*
