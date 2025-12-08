@@ -1,5 +1,5 @@
 *Cup of Gold: A Life of Sir Henry Morgan, Buccaneer, with Occasional Reference to History* by John Steinbeck<e>So Steinbeck, your first novel. You of <book>Of Mice and Men</book> fame, of <book>Grapes of Wrath</book> fame, of <book>East of Eden</book> fame — an American literary legend. But here in 1929, you're a nobody first-time author. And as with many first-time authors, you've opted to begin your oeuvre with a highly dubious first premise. In this case, a heavily fictionized account of the real-life 17th-century buccaneer Captain Morgan. A man that nobody has heard of, except for the rum. But with such a relatively clean slate, I'm sure you'll do great things with the character. Thou mayest proceed.</e>
-b=card;m:card=title
+b=title
 
 ## I
 
@@ -308,7 +308,7 @@ e:d=m
 
 
 He rolled back his sleeve, and Robert in disgust motioned him to cover the sick white horror which festered on his arm.
-s=;b=card;m:card=missing
+s=;b=missing
 
 "It was only a little scratch of an arrow — you could hardly see it; but it'll be killing me before years, I guess. There's other things in me, Robert. Even the humans are poisonous, and a song the sailors sing about that."
 s=d;e:d=;b=farm-fire
@@ -2306,7 +2306,7 @@ The planter and the boy seated themselves.
 
 
 The slaves were herded into the square. And Henry saw a naked black figure squirm and writhe at the end of a rope while the Negroes rocked themselves back and forth on the ground and moaned; while the white slaves gritted their teeth and cursed harshly to keep from shrieking.<e>TODO</e>
-b=card;m:card=missing
+b=missing
 
 The Caribs squatted on their hams and watched with no particular interest and no fear.
 
