@@ -650,7 +650,7 @@ Henry climbed tirelessly on. What could old Merlin have to tell him, or, perhaps
 c=h;e:h=t
 
 A lotion to make his skin tough and proof against arrows?
-c=;b=merlin-shadow
+c=w
 
 Some charm?
 
@@ -662,7 +662,7 @@ But Merlin was to talk and he to listen; and what Merlin said might cure young H
 
 
 That could not be, for there were outland forces, nameless foreign ghosts, calling to him and beckoning from across the mysterious sea.
-b=sea
+b=sea;c=
 
 There was no desire in him for a state or a condition, no picture in his mind of the thing to be when he had followed his longing; but only a burning and a will overpowering to journey outward and outward after the earliest risen star.
 
@@ -821,7 +821,7 @@ e:w=
 e:w=e
 
 Dusk was stealing into the mountain creases, filling them with purple mist. The sun cut itself on a sharp hill and bled into the valleys. Long shadows of the peaks crept out into the fields like stalking gray cats.
-c=;s=;b=wales;m:wales=dusk
+c=;s=;b=wales;m:wales=
 
 When Merlin spoke, it was with a little laugh.
 c=w;e:w=h
@@ -1370,7 +1370,7 @@ It was sad to think of these bright carven ships lying on the bottom or torn to 
 
 
 And Britain thrust her hand into the Caribbean; a few islands came under her power — Jamaica, Barbados. Now the products of the home island could be sold in colonies.
-b=map
+b=map2
 
 It added prestige to a little country to have colonies, provided they were strongly populated; and England began to populate her new possessions.
 
@@ -2054,7 +2054,7 @@ Small dugout boats came to them, bearing rich fruits and piles of trussed up fow
 
 
 Shining black men sang rich cadenced chants as they pulled at the oars, and Henry, close against the rail, was overjoyed with the new land. It was more than he had hoped. The sight brought happy, silly tears to his eyes.
-b=bristol-rail;m:bristol-rail=barbados;c=h,;e:h=e
+c=h,;e:h=e
 
 Tim was standing near, looking crestfallen and sad. At length he came and stood in front of Henry.
 c=h,t;e:t=u
@@ -2081,7 +2081,7 @@ In the little man's pale eyes there was the light of perpetual indecision and pe
 
 
 "These it is, now," cried Tim; "and you will not be thinking too badly about me, will you, Henry — seeing the grief it does me?"
-s=t;b=bristol-rail;c=h,t
+s=t;b=bristol-deck;c=h,t
 
 The captain was shouting, "Galley boy! Oh, galley boy! Morgan! Aft!"
 s=master
@@ -3626,7 +3626,7 @@ s=grippo;e:grippo=e
 r=card
 
 There were many glittering reputations along the coast of Darien and among the green Caribbean islands when Henry Morgan came to be a buccaneer.<e>TODO</e>
-b=map
+b=map2
 
 In the wine shops of Tortuga were tales of a thousand fortunes made and spent, of fine ships taken and sunk, of gold and plate dumped on the docks like wood.
 
