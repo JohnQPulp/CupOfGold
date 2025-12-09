@@ -626,7 +626,7 @@ Some said that it was built by a beleaguered giant, centuries ago, to keep his v
 
 
 Merlin was old now; his hair and long, straight beard were white and soft as spring clouds. There was much about him of an ancient Druid priest with clear, farseeing eyes which watched the stars.
-b=merlin-shadow;c=w
+b=think;c=w
 
 The pathway narrowed on young Henry as he climbed.
 b=trail;c=h;f:w=
@@ -6896,7 +6896,7 @@ The mad, endless rosary cankered in Henry's brain.
 s=;b=serpent-chair
 
 At last he seized his rapier and his hat and ran from the hall into the street.
-b=proad
+b=ppalace
 
 Behind him the treasure lay smiling under the slanting sun.
 
@@ -7043,7 +7043,7 @@ This woman had been treated with too much consideration. She did not realize the
 
 
 He turned about and walked back toward the palace.
-b=proad
+b=ppalace
 
 In the Hall of Audience he threw off his pistols, but the gray rapier remained at his side.
 b=hall
@@ -7982,7 +7982,7 @@ s=la;e:la=s
 r=card
 
 Henry Morgan stood in the doorway of the Hall of Audience and watched a little troupe of Spaniards ride through the streets toward the palace. The troupe was surrounded on all sides by a mob of buccaneers.
-b=proad
+b=ppalace
 
 First in the line came the messenger, but a changed messenger. Now he was dressed in scarlet silk. The plume of his hat and his sword's scabbard were white in token of peace.
 c=span;x:span=silk
@@ -7997,7 +7997,7 @@ Following the mare were six mules bearing heavy leathern bags, and the group was
 
 
 The cavalcade drew up before the palace. The messenger leaped from his horse and bowed to Henry Morgan.
-b=proad;c=h,
+b=ppalace;c=h,
 
 "I have here the ransom," he said.
 s=span;c=h,span;e:span=w
