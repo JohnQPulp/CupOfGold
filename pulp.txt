@@ -2606,7 +2606,7 @@ The wind, blowing out of a black, dreadful sky, was a cup of wine to him, and a 
 
 
 He sailed to Jamaica with the crops and beat about among the islands.
-b=elizabeth-wide
+b=elizabeth
 
 The returns from the plantation mounted, and Henry's box of coins was growing heavy.
 
@@ -2813,7 +2813,7 @@ Oh, surely, stranger things had been!
 
 
 She laid her snare for him on his first night back from sea — a large stone flagon filled with Peruvian wine, and a priest, bribed with a stolen coin, waiting in the shadow of a tree.<e>TODO</e>
-b=banana-house-ext;m:banana-house-ext=priest,night
+
 
 Henry was very tired. He had gone out short-handed and helped to work the ship himself.
 b=banana-house;c=,h;e:h=w
@@ -3101,7 +3101,7 @@ s=j
 s=h
 
 Henry was climbing over the ship's side.
-s=;b=ship-side
+s=;b=think
 
 "I shall be lonely in the evenings, son."
 s=j
@@ -3869,7 +3869,7 @@ The Spanish men ran screaming to the shelter of the hold to escape this flashing
 
 
 When Henry Morgan came at last to Tortuga, four prizes followed in his wake, and he had not lost a man.
-b=ganymede-from-tortuga
+b=think
 
 It was as easy as he had known it would be. Here were four monuments to his planning.
 
@@ -3944,7 +3944,7 @@ For ten years he sailed about the ocean, among the islands and along the green c
 a:h=30;b=think;c=h
 
 The pirates of the world came flocking to his reputation. People cheered him in Tortuga and Goaves.
-b=island-city;c=
+b=barbados-port;c=
 
 Numberless men volunteered for every expedition. Now all the Brotherhood waited for Captain Morgan to open a keg of liquor in the streets or to run wild through the town.
 
@@ -4523,7 +4523,7 @@ s=;b=dream
 s=h;e:h=w
 
 He called young Coeur de Gris to him.
-s=;b=ganymede-deck;c=f,h
+s=;b=bristol-deck;m:bristol-deck=sea;c=f,h
 
 "You have distinguished yourself in this fight, my friend."
 s=h
@@ -4622,13 +4622,13 @@ s=f
 r=card
 
 Sir Edward Morgan led forces against St. Eustatius, and, while the battle raged, a slim, brown Indian slipped up and drove a long knife into his stomach.
-b=battle
+b=action
 
 The Lieutenant-Governor set his lips in a straight, hard line, and crumpled to the ground.
 
 
 "My white breeches will be ruined," he thought. "Why did the devil have to do it, just when we were getting on so nicely. I should have got special thanks from his Majesty, and now I shall not be here to receive them. Heaven! he chose a painful place!"
-t=e;e:e=c
+b=think;t=e;e:e=c
 
 And then the full tragedy struck him.
 t=
@@ -4754,7 +4754,7 @@ Once he had led all comers in the mountain race, but now he climbed a bit, then 
 
 
 It was noon when he came at last to Crag-top.
-b=crag-ext;m:crag-ext=spring;c=,r;e:r=c
+b=crag-ext;c=,r;e:r=c
 
 Merlin met him at the door before he had time to knock, and Merlin had no more changed than the harps and spearheads hanging to his walls.
 c=w,r
@@ -6116,7 +6116,7 @@ At a command, the head of the wriggling column swung to the left and began to gn
 s=;c=;b=pjungle
 
 In the evening they came to the top of a small, round hill, and there below them was Panama laved in the golden light of the western sun.
-b=pwall-afar
+b=pwalls
 
 Each man searched his neighbor's face to be assured that this was not his own personal hallucination.
 
@@ -6134,10 +6134,10 @@ Soon, very soon, the blood was dripping down the beards of the famished men, the
 
 
 While the dark was down, the pirate scouts were ranging over the plain like werewolves; they slipped to the walls and counted the soldiers before the town.
-b=pwalls-afar;m:pwalls-afar=night
+b=pwalls;m:pwalls=night
 
 And early in the morning, Captain Morgan aroused his men and called them together to give them the orders for the day's fight.
-m:pwalls-afar=;b=morgan-army
+b=morgan-army
 
 Henry Morgan had come to know the buccaneering soul. He lifted out the brains of his men and molded them for battle.
 
@@ -6149,7 +6149,7 @@ He spoke to their fears.
 s=h;e:h=
 
 "While you were sleeping like hogs, the scouts were busy. Before this city, four thousand soldiers are drawn up, with wings of cavalry. These are not countrymen with guns and knives, but drilled soldiers in red coats."
-b=spanish-army-with-bulls
+
 
 "This is not all. There are bulls to be loosed against you — against you cattle hunters."
 e:h=s
@@ -6200,13 +6200,13 @@ s=h;e:h=c
 
 
 They moved out on the plain, a dense cloud of men. Two hundred marksmen walked in advance, while the rest were grouped behind.
-s=;b=armies-face
+s=;b=action
 
 Now Don Juan, the Governor of Panama, stood with his neat army, a long line of foot soldiers in companies of two files. He looked at the rough formation of the enemy with contempt. Almost gaily he signaled for the first advance.
 
 
 The Spanish cavalry swung out, wheeling and whirling across the plain. Now they formed a V, and now a hollow square.
-m:armies-face=advance
+
 
 Moving at a fast trot, they went through all the intricate evolutions of a review; they made triangles, T's.
 
@@ -6227,7 +6227,7 @@ Rodriguez, at the head of his troop, seemed to hear the Governor's praise. His s
 s=
 
 He rose in his stirrups and gave the signal for the charge. The bugles sang excitedly.
-m:armies-face=charge
+
 
 The hooves roared with a hollow rolling sound over the turf. Their coming was like a red wave with a silver crest.
 
@@ -6239,7 +6239,7 @@ Every saber was lined along a horse's neck. Rodriguez turned again to look once 
 
 
 And then the whole troop rode headlong into a marsh. They knew it was there, but in the enthusiasm of the moment, in the excitement of their figures, they had forgotten about it. In a second the horse of Panama was a broken jumble of men and fallen beasts. They were flies caught in a green flypaper.<e>The Spanish forces inexplicably charging into a marsh is <i>not</i> in the Wikipedia article. So now I can finally call out your plot as well as your prose for being dumb.</e>
-m:armies-face=marsh
+
 
 Don Juan looked dazedly at the pile of writhing, mangled bodies out on the plain, and then he burst into sobs like a child who has seen his bright toy broken in the road.
 
@@ -6260,7 +6260,7 @@ The Indians who held the bulls tore out the nose rings and began prodding the gr
 s=
 
 Slowly the herd moved out across the plain. Then a red monster broke into a slow run, and immediately the whole band was running.
-m:armies-face=bulls
+
 
 "They will trample these robbers into the grass," said a Spanish officer wisely.
 s=po
@@ -6272,7 +6272,7 @@ The bulls galloped slowly toward the rough line of the buccaneers.
 s=
 
 Suddenly the two hundred marksmen knelt and fired — fired quickly, like men hunting game. A kicking, bellowing wall seemed to rise up in the path of the running animals. Those of the herd that were not crippled halted in their tracks, sniffed the blood, milled, and then stampeded in terror back on the Spanish ranks.
-m:armies-face=bulls-rev-bucs-charge
+
 
 The officer was right. Where they passed, nothing remained except buttons and broken weapons and bloody turf.
 
@@ -6295,14 +6295,11 @@ The men of Spain held ground for a little while, but then their hearts broke und
 Little knots of buccaneers pursued them, spitting those who fell exhausted. Soon the defending troops were scattered.
 
 
-Some of them climbed into the trees and hid themselves among the leaves; some lost themselves in the mountains and were never found.
+Some of them climbed into the trees and hid themselves among the leaves; some lost themselves in the mountains and were never found. The Cup of Gold lay helpless before Henry Morgan.<e>Well that was easy. Didn't even really need to haul those cannons huh.</e>
 b=pjungle
 
-The Cup of Gold lay helpless before Henry Morgan.<e>Well that was easy. Didn't even really need to haul those cannons huh.</e>
-b=pcity
-
 A crowd of shouting men poured through the undefended gate and up the broad street. At crossing alleys, part of the line changed its course, like a river flowing backwards into its tributaries. Now and then a party would detach itself from the main body and move on one of the imposing houses.
-m:pcity=looting
+b=pcity;m:pcity=looting
 
 There would be kicks on the door, a rush, and the door would fold inward like the cover of an enormous book.
 
@@ -6362,7 +6359,7 @@ Henry Morgan watched him drunkenly lurching out of the city.
 
 
 The black night came.
-c=;b=pcity;m:pcity=flame
+c=;b=pplaza;m:pplaza=burning
 
 Nearly all of the city was in flame, a garden of red fire.
 
@@ -6374,7 +6371,7 @@ Panama was dying in a bed of flame, and the buccaneers were murdering the people
 
 
 All night the captain sat in the audience chamber while his men brought in the gathered plunder.
-b=serpent-chair
+b=serpent-chair;m:serpent-chair=h
 
 They piled golden bars on the floor like cordwood, bars so heavy that two men carried each of them with difficulty.
 
@@ -6464,7 +6461,7 @@ s=;b=action
 r=card
 
 A yellow dawn crept out of the little painted hills of Panama and grew bolder as it edged across the plain. The sun flashed up from behind a peak, and its golden rays sought for their city. But Panama had died, had felt the quick decay of fire in one red night.
-b=pcity;m:pcity=ruins
+b=pcity-ruins
 
 But then, as the sun is a fickle sphere, the seeking beams found joy in the new thing.
 
@@ -6476,7 +6473,7 @@ They came to the white Palace of the Governor, leaped through the windows of the
 
 
 Henry Morgan was asleep in the serpent chair. His purple coat was draggled with the mud of the plain.
-b=serpent-chair;m:serpent-chair=sleep
+b=dream
 
 The gray-clad rapier lay on the floor beside him. He was alone in this room, for all the men who had helped to pick the city's bones during the night had gone away to drink and to sleep.
 
@@ -6530,7 +6527,7 @@ There was no other sound save the distant cracklings of the fire which still bur
 
 
 The little monkey came at a funny, crooked gallop along the path.
-m:garden-seat=la,monkey
+
 
 He stopped in front of the woman and raised his black paws above his head as though in prayer.
 
@@ -6935,7 +6932,7 @@ Henry had not thought of the hills remaining green and standing. This conquest, 
 
 
 Yes, the city was in ruins. He had destroyed the city, but the woman who had drawn him to the Cup of Gold eluded him.
-b=pcity;m:pcity=ruins
+b=pcity-ruins
 
 She escaped while she still lay in his power. Henry winced at his impotence, and shuddered that other people should know it.
 b=think
@@ -7046,7 +7043,7 @@ He turned about and walked back toward the palace.
 b=ppalace
 
 In the Hall of Audience he threw off his pistols, but the gray rapier remained at his side.
-b=hall
+b=serpent-chair
 
 Ysobel was kneeling before a holy picture in her little whitewashed cell when Henry Morgan burst upon her.
 c=,,,h;e:h=m
@@ -7151,7 +7148,7 @@ And Captain Morgan stooped to pick up the tiny monkey. He walked away stroking C
 r=card
 
 Henry Morgan lifted a golden cup from the heap of loot.
-b=hall;x:h=cup;c=h
+b=serpent-chair;x:h=cup;c=h
 
 It was a lovely, slender chalice with long curved handles and a rim of silver.
 
@@ -7208,7 +7205,7 @@ The pistol which had killed Jones was lying on the floor.
 b=serpent-chair
 
 Henry picked it up and methodically went to loading it.
-b=hall
+b=serpent-chair
 
 He did not fear ridicule from Coeur de Gris, but rather sympathy and understanding. Henry did not want understanding now.
 
@@ -7250,7 +7247,7 @@ She might come, at last, to build on something he possessed.
 
 
 He thought of the last scene with her.
-b=hall
+b=serpent-chair
 
 Now that he was calm, his wild action seemed the showing off of a thick-legged little boy.
 
@@ -7418,7 +7415,7 @@ The laugh became a gushing sigh, and Coeur de Gris sank slowly to his side and w
 
 
 Henry still stared at the pistol in his hand. Slowly he raised his eyes to the open window.
-b=hall
+b=serpent-chair
 
 The streaming rays of the sun made the treasure on the floor glow like a mass of hot metal.
 
@@ -7469,7 +7466,7 @@ e:h=c
 n:men2=Soldier
 
 He was interrupted by a tramp of feet on the stairs.
-n:men1=Soldier; s=;b=hall
+n:men1=Soldier; s=;b=serpent-chair
 
 A band of his men entered, driving in their midst a poor frightened Spaniard — a mud-draggled, terrified Spaniard.
 n:span=Spaniard;c=,,men1,span,men2;e:span=f
@@ -7481,7 +7478,7 @@ The lace had been torn from his neck, and a little stream of blood ran from one 
 s=men1
 
 Henry Morgan ignored the speech. Instead he pointed to the body in the chair.
-s=;c=;b=f-body
+s=;c=;b=f-chair
 
 "That is only a dead thing," he announced. "That is not Coeur de Gris. I sent Coeur de Gris away. He will be back soon."
 s=h
@@ -7493,7 +7490,7 @@ He cried, "Oh, take it away and bury it in the earth!"
 e:h=u
 
 A buccaneer moved to lift the body.
-s=;b=hall
+s=;b=serpent-chair
 
 "Don't touch him! Don't dare to touch him! Leave him where he is. He is smiling. Do you see him smile? But the flies — No, leave him. I will care for him myself."
 s=h
@@ -7562,7 +7559,7 @@ s=span
 
 
 Henry Morgan looked at the body of Coeur de Gris.
-s=;c=;b=f-body
+s=;c=;b=f-chair
 
 "No," he said; "I want the money."
 s=h
@@ -7616,7 +7613,7 @@ s=;c=
 r=card
 
 The buccaneers were rioting in Panama.
-b=pcity;m:pcity=ruins
+b=pcity-ruins
 
 Barrels of wine had been rolled to a large warehouse.
 b=warehouse
@@ -8006,7 +8003,7 @@ He looked worried and tired. The weight of his mission was riding heavily on his
 s=
 
 At his command the soldiers carried the leather bags into the Hall of Audience, and only when they were all deposited with the rest of the treasure did the anxiety leave his face.
-c=;b=hall
+c=;b=serpent-chair
 
 "Ah," he said, "it is good. It is the treasure. Twenty thousand pieces of eight — not one lost by the wayside. I invite you to count them, Señor."
 s=span;c=,span;e:span=
@@ -8168,7 +8165,7 @@ But then she bent her head over the mare's neck; she was intently studying the m
 
 
 The messenger had remained standing at Henry's side in the doorway.
-b=hall-ext;c=span,h
+b=ppalace;c=span,h
 
 Together they watched the fluid line of riders swing away while the sunlight glinted on the soldiers' armor.
 
@@ -8177,7 +8174,7 @@ In the center of the troupe, the white mare seemed a pearl in a setting of silve
 b=cavalcade;c=
 
 The messenger put his hand on Henry's shoulder.
-b=hall-ext;c=span,h
+b=ppalace;c=span,h
 
 "We know how to understand each other, we men of responsibilities," he said drunkenly.
 s=span
@@ -8210,7 +8207,7 @@ He clambered into his saddle and rode away still laughing. Henry Morgan saw him 
 s=;c=;b=cavalcade
 
 Captain Morgan went back to the treasure.
-b=hall
+b=serpent-chair
 
 He sat on the floor and took the coins into his hands.
 
@@ -8273,7 +8270,7 @@ e:h=s
 r=card
 
 The buccaneers went out of ruined Panama. They carried all of the treasure with them across the isthmus on the backs of mules.
-b=pcity;m:pcity=ruins
+b=pcity-ruins
 
 When at last Chagres was reached, they were exhausted; nevertheless, the following day was set for the division of spoils. In order that this might be facilitated, the whole of the treasure was stored in one ship, the great galleon which had been commanded by a Duke before the pirates captured it.
 b=pbeach;m:pbeach=treasure-ship
@@ -8282,7 +8279,7 @@ From this center the plunder was to be divided. Captain Morgan was in good spiri
 
 
 Early in the morning, a sleepy pirate opened his red eyes and looked toward the sea. He saw the water where the galleon had been. He called his comrades, and in a moment the shore was lined with disappointed men who wistfully searched the horizon.
-m:pbeach=
+b=think
 
 The galleon had put to sea during the night, and all the wealth of Panama had gone with her.
 
@@ -8300,7 +8297,7 @@ They swore brotherhood in the name of revenge. They planned the horror of the re
 
 
 The Spaniards caught and strangled some of them, and England virtuously hanged a few.<e>I suppose the "virtuous" is intentionally ironical here. But can you blame me for being inclined to doubt, this far into the story?</e>
-b=think
+b=action
 
 ## V
 r=card
@@ -8372,7 +8369,7 @@ But now his long boat was lowered and the sailors took their places.
 
 
 As it approached the shore, the gathered mob broke into yells, and then a concerted roaring cheer.
-b=return-crowd-mod-ship
+b=return-crowd
 
 The people threw their hats, leaped, danced, grimaced, tried to shriek conversation at one another.
 
@@ -9131,7 +9128,7 @@ The case sang to its monotonous conclusion. Sir Henry, behind his broad table, s
 s=
 
 Now the guards brought in a sullen vagrant, clothed in rags of old sail.
-n:a1=Vagrant;m:judge-bench=accused
+n:a1=Vagrant
 
 "Charged with stealing four biscuits and a mirror from So-and-So, my lord."
 s=guard
@@ -9194,7 +9191,7 @@ s=guard
 s=a1
 
 They led the man to his imprisonment. Now the guards brought in a thin, pasty woman.
-n:a2=Woman; s=;m:judge-bench=accused-woman
+n:a2=Woman; s=
 
 "Charged with harlotry and incontinence, my lord."
 s=guard
@@ -9215,7 +9212,7 @@ Sir Henry rested his forehead on his hands. He did not look up at the next priso
 b=judge-bench
 
 "Charged with piracy on the high seas, my lord; with disturbing the King's peace; with an act of war against a friendly nation."
-s=guard;m:judge-bench=burs
+s=guard
 
 Sir Henry glanced quickly at the prisoners. One was a rotund little man with eyes of terror, and the other a lean, grizzled fellow whose one arm was gone.
 s=
@@ -9779,7 +9776,7 @@ His breast and arms tingled as though some robust, ancient wine were singing in 
 
 
 Now a queer change began to take place. He found that he could see through his eyelids, could see all about him without moving his head. The doctor and his wife and the Vicar and even the room were sliding away from him.
-m:death-bed=blur
+f:b:death-bed=blur(5px)
 
 "They are moving," he thought. "I am not moving. I am fixed. I am the center of all things and cannot move. I am as heavy as the universe. Perhaps I am the universe."
 t=h
@@ -9791,13 +9788,13 @@ He saw with a little surprise that the room had gone.
 b=dream
 
 He was lying in an immeasurable dark grotto along the sides of which were rows of thick, squat columns made of some green, glittering crystal.
-b=grotto
+b=grotto;f:b:grotto=blur(15px)
 
 He was still in a reclining position, and the long grotto was sliding past him.
 
 
 Of a sudden, the movement stopped. He was surrounded by strange beings, having the bodies of children, and bulbous, heavy heads, but no faces.
-
+f:b:grotto=
 
 The flesh where their faces should have been was solid and unbroken.
 
@@ -9842,19 +9839,19 @@ s=h
 
 
 Then he saw that the little beings were crouching before an approaching form.
-s=
+s=;f:b:grotto=blur(15px)
 
 They turned toward the form and cowered, and at length fell on their knees before it and raised trembling arms in gestures of supplication.
 
 
 Henry strained his attention toward the figure. Why, it was Elizabeth coming toward him — little Elizabeth, with golden hair and a wise young look on her face.<e>Hope the reader kept track of the Elizabeths.</e>
-m:grotto=liz
+a:liz=ghost;c=liz
 
 She was girdled with cornflowers, and her eyes were strangely puzzled and bright.
 
 
 With a little start of surprise she noticed Henry.
-a:liz=ghost
+
 
 "I am Elizabeth," she said. "You did not come to see me before you went away."
 s=liz
@@ -9866,7 +9863,7 @@ s=h
 s=liz;e:liz=h
 
 "I do not know why," he said. "I ran away. I was motivated by a power that is slipping out of all the worlds."
-s=h
+s=h;e:liz=
 
 "My memories are leaving me one by one like a colony of aged swans flying off to some lonely island in the sea to die."
 
@@ -9878,7 +9875,7 @@ s=h
 s=liz;e:liz=
 
 Henry had noticed a peculiar thing. If he looked steadily at one of the crouched, faceless beings, it disappeared. He amused himself by staring first at one and then at another until all of them were gone.
-m:grotto=liz-no-others
+f:b:grotto=blur(25px)
 
 "Did you really stand there in the dark?"
 s=liz
@@ -9887,7 +9884,7 @@ s=liz
 s=h
 
 He looked for Elizabeth, but she, too, had disappeared. In her place there was a red smoldering ember, and the light was dying out of it.
-s=;m:grotto=empty
+s=;c=
 
 "Wait, Elizabeth — Wait. Tell me where my father is. I want to see my father."
 s=h
