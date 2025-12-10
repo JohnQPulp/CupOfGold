@@ -1,10 +1,10 @@
-*Cup of Gold: A Life of Sir Henry Morgan, Buccaneer, with Occasional Reference to History* by John Steinbeck<e>This is the PublicDomainPulp.com visual novel adaptation of the public domain text <i>Cup of Gold</i>. Use the arrow keys or scroll wheel to advance and go back.</e>
+*Cup of Gold: A Life of Sir Henry Morgan, Buccaneer, with Occasional Reference to History* by John Steinbeck<e>This is the <a href="https://publicdomainpulp.com">PublicDomainPulp.com</a> visual novel adaptation of the public domain text <i>Cup of Gold</i>. Use the arrow keys or scroll wheel to advance and go back. (If you spot any issues — typos, incorrect images, etc — you can submit them to <a href="https://github.com/JohnQPulp/CupOfGold/issues">https://github.com/JohnQPulp/CupOfGold/issues</a>.</e>
 b=title
 
-<e>The book contents themselves are unchanged from Steinbeck's original words. The only modifications are the addition of the useful and unopinionated editor's notes. On that topic…</e>
+<e>The book contents themselves are unchanged from Steinbeck's original words. The only modifications are the additions of the visuals and the opinionated editor's notes. On that topic…</e>
 
 
-<e>So Steinbeck, your first novel. You of <book>Of Mice and Men</book> fame, of <book>Grapes of Wrath</book> fame, of <book>East of Eden</book> fame — an American literary legend. But here in 1929, you're a nobody first-time author debuting with… a heavily fictionized account of the real-life 17th-century buccaneer Captain Morgan. A dubious premise, considering nobody remembers the man except for from the rum brand. But we'll see if you have the prose to pull it off.</e>
+<e>So Steinbeck, your first novel. You of <book>Of Mice and Men</book> fame, of <book>Grapes of Wrath</book> fame, of <book>East of Eden</book> fame — an American literary legend. But here in 1929, you're a nobody first-time author debuting with… a heavily fictionized account of the real-life 17th-century buccaneer Captain Morgan. A dubious premise, considering nobody remembers the man except for being on that brand of rum. But maybe early-career you has the prose to pull such a story off. We'll see.</e>
 
 
 ## I<e>(Part One)</e>
@@ -13,7 +13,7 @@ b=title
 ### I<e>(Section One of of Part One)</e>
 
 
-All afternoon the wind sifted out of the black Welsh glens, crying notice that Winter was come sliding down over the world from the Pole; and riverward there was the faint moaning of new ice. It was a sad day, a day of gray unrest, of discontent.<e>So Steinbeck, you've included the phrase "winter... of discontent" in the first lines of your first novel. Lines you'll reuse 32 years from now as the title of <book>The Winter of Our Discontent</book>, your last novel (not counting your """nonfiction""" book <book>Travels with Charley</book>). So that's neat career bookending.</e>
+All afternoon the wind sifted out of the black Welsh glens, crying notice that Winter was come sliding down over the world from the Pole; and riverward there was the faint moaning of new ice. It was a sad day, a day of gray unrest, of discontent.<e>You've included the phrase "winter... of discontent" in the first lines of your first novel, Steinbeck. Lines you'll reuse 32 years from now as the title of <book>The Winter of Our Discontent</book>, your last novel (not counting your """nonfiction""" book <book>Travels with Charley</book>). So that's neat career bookending.</e>
 b=wales
 
 The gently moving air seemed to be celebrating the loss of some gay thing with a soft, tender elegy.
@@ -166,7 +166,7 @@ b=farm-ext
 And the little misshapen beings of the hills would be searching out deserted badger holes to cover them from the night. The wind would go crying after them through the fields.
 b=wales
 
-<e>You may have noticed the art style inconsistency in the shading between this background and the previous. Now is as good a time as any to address that this visual novel adaptation is very much a prototype, the first of the PublicDomainPulp project. It was a deliberate choice using Steinbeck's own first novel for the site's first adaptation — it rhymes. In subsequent works, we will both of us learn and improve (hopefully). But for now, expect things to be messy (just look at the <a href="https://github.com/JohnQPulp/CupOfGold/commits/main/">Git history</a>), since at time of writing this, all the sprite and background images have already been generated — all 659 of them. And many mistakes were made in that process, some realized and partially addressed only towards the end. The plan is to avoid making those same mistakes in the next visual novels. With enough time and reworking, I could fix a number of the problems with this one, but I think that'd be less productive from a learning perspective than moving on to #2, getting new lessons from that one. So if things seem too rough around the edges (either in my editing or Steinbeck's prose), switching to a different book would be a fine decision.</e>
+<e>You may have noticed the art style inconsistency in the shading between this background and the previous. Now is as good a time as any to address that this visual novel adaptation is very much a prototype, the first of the PublicDomainPulp project. It was a deliberate choice using Steinbeck's own first novel for the site's first adaptation — it rhymes. In subsequent works, we will both of us learn and improve (hopefully). But for now, expect things to be messy (just look at the <a href="https://github.com/JohnQPulp/CupOfGold/commits/main/">Git history</a>), since at time of writing this, all the sprites and background images have already been generated — all 659 of them. And many mistakes were made in that process, some realized and partially addressed only towards the end. The plan is to avoid making those same mistakes in the future. But for now, both my editing and Steinbeck's prose can be rough around the edges together.</e>
 
 
 In the house it was quiet except for the snapping fire-noises and for the swishing sound of blown thatch. A log cracked on the hearth and out of the crevice a thin blaze leaped up and curled about the black kettle like a flower of flame.
