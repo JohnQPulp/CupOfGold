@@ -1,13 +1,19 @@
-*Cup of Gold: A Life of Sir Henry Morgan, Buccaneer, with Occasional Reference to History* by John Steinbeck<e>So Steinbeck, your first novel. You of <book>Of Mice and Men</book> fame, of <book>Grapes of Wrath</book> fame, of <book>East of Eden</book> fame — an American literary legend. But here in 1929, you're a nobody first-time author. And as with many first-time authors, you've opted to begin your oeuvre with a highly dubious first premise. In this case, a heavily fictionized account of the real-life 17th-century buccaneer Captain Morgan. A man that nobody has heard of, except for the rum. But with such a relatively clean slate, I'm sure you'll do great things with the character. Thou mayest proceed.</e>
+*Cup of Gold: A Life of Sir Henry Morgan, Buccaneer, with Occasional Reference to History* by John Steinbeck<e>This is the PublicDomainPulp.com visual novel adaptation of the public domain text <i>Cup of Gold</i>. Use the arrow keys or scroll wheel to advance and go back.</e>
 b=title
 
-## I
+<e>The book contents themselves are unchanged from Steinbeck's original words. The only modifications are the addition of the useful and unopinionated editor's notes. On that topic…</e>
 
 
-### I
+<e>So Steinbeck, your first novel. You of <book>Of Mice and Men</book> fame, of <book>Grapes of Wrath</book> fame, of <book>East of Eden</book> fame — an American literary legend. But here in 1929, you're a nobody first-time author debuting with… a heavily fictionized account of the real-life 17th-century buccaneer Captain Morgan. A dubious premise, considering nobody remembers the man except for from the rum brand. But we'll see if you have the prose to pull it off.</e>
 
 
-All afternoon the wind sifted out of the black Welsh glens, crying notice that Winter was come sliding down over the world from the Pole; and riverward there was the faint moaning of new ice. It was a sad day, a day of gray unrest, of discontent.<e>You've included the phrase "Winter... of discontent" in the first lines of your first novel. Lines you'll reuse 32 years from now as the title of <book>The Winter of Our Discontent|your last</book>. Intentional bookending? Or do you just like <book>King Richard III</book> that much?</e>
+## I<e>(Part One)</e>
+
+
+### I<e>(Section One of of Part One)</e>
+
+
+All afternoon the wind sifted out of the black Welsh glens, crying notice that Winter was come sliding down over the world from the Pole; and riverward there was the faint moaning of new ice. It was a sad day, a day of gray unrest, of discontent.<e>So Steinbeck, you've included the phrase "winter... of discontent" in the first lines of your first novel. Lines you'll reuse 32 years from now as the title of <book>The Winter of Our Discontent</book>, your last novel (not counting your """nonfiction""" book <book>Travels with Charley</book>). So that's neat career bookending.</e>
 b=wales
 
 The gently moving air seemed to be celebrating the loss of some gay thing with a soft, tender elegy.
@@ -31,38 +37,38 @@ b=farm-ext;m:farm-ext=night
 Inside the house a fire was burning on the hearth; an iron kettle hung over the blaze, and a black iron oven hid in the coals which fell about the edges of the flame.
 b=farm-fire
 
-The brisk firelight glinted on the tips of long-handled pikes in racks upon the walls, weapons unused in the hundred years since Morgan clamored in Glendowers' ranks and trembled with rage at the flinty lines of Iolo Goch.
+The brisk firelight glinted on the tips of long-handled pikes in racks upon the walls, weapons unused in the hundred years since Morgan clamored in Glendowers' ranks and trembled with rage at the flinty lines of Iolo Goch.<e>Steinbeck impressively already getting dates incorrect in paragraph four of his book (see Wikipedia article for Owain Glyndŵr). There's no point in calling these all out, but the reader should just be aware of the heavy lifting of the "with Occasional Reference to History" part of the title.</e>
 
 
 The wide brass bindings of a great chest, which stood in a corner, sucked in the light and glowed resplendently.
 
 
 Papers there were in the chest, and parchments, and stiff untanned skins, written in English and Latin and the old Cumric tongue: Morgan was born, Morgan was married, Morgan became a knight, Morgan was hanged. Here lay the history of the house, shameful and glorious.
-
+b=think
 
 But the family was few now, and little enough likely to add records to the chest other than the simple chronicle: Morgan was born — and died.
 
 
 There was Old Robert, for instance, sitting in his high-backed chair, sitting and smiling into the fire. His smile was perplexity and a strange, passive defiance.
-m:farm-fire=r
+b=farm-fire;m:farm-fire=r
 
 You would have said he sought to make that Fate which was responsible for his being, a little ashamed of itself by smiling at it.
 
 
-Often he wearily considered his existence, ringed around with little defeats which mocked it as street children torment a cripple.<e>TODO</e>
+Often he wearily considered his existence, ringed around with little defeats which mocked it as street children torment a cripple.<e>Steinbeck himself ringed by crappy analogies.</e>
 c=r;b=think;e:r=w
 
-It was strange to Old Robert that he, who knew so much more than his neighbors, who had pondered so endlessly, should be not even a good farmer. Sometimes he imagined he understood too many things ever to do anything well.<e>TODO</e>
+It was strange to Old Robert that he, who knew so much more than his neighbors, who had pondered so endlessly, should be not even a good farmer. Sometimes he imagined he understood too many things ever to do anything well.
 e:r=t
 
 And so Old Robert sipped the burned ale of his own experimenting and smiled into the fire.
-b=farm-fire;c=;e:r=
+e:r=h
 
 His wife would be whispering excuses for him, he knew, and the laborers in the fields removed their hats to Morgan, not to Robert.
-
+e:r=;c=
 
 Even his aged mother, Gwenliana, here beside him, shivering to the fire as though the very wind sounds about the house called in the cold to her, was not so judged incompetent. In the cottages there was a little fear of her and a great respect.
-m:farm-fire=r,g
+b=farm-fire;m:farm-fire=r,g
 
 Any day when she sat in the garden holding her necromantic court, you might see some farm lad blushing and hugging his hat across his chest while he listened to Gwenliana's magic. For many years, now, she had been practicing the second sight and taking pride in it.
 
@@ -85,7 +91,7 @@ c=r,,m;e:r=h
 When she had come home this afternoon, raging over the price of a pair of shoes she hadn't wanted anyway, he had considered:
 
 
-"Her life is like a book crowded with mighty events."<e>Yes, you should write one of those books, Steinbeck.</e>
+"Her life is like a book crowded with mighty events."<e>Excited readers anticipating the "mighty events" surely upcoming in their pirate adventure novel will just have to be patient.</e>
 c=;b=farm-fire;t=r
 
 "Every day she rises to the peak of some tremendous climax which has to do with buttons or a neighbor's wedding."
@@ -130,7 +136,7 @@ The long gray afternoon, piercing to this mysterious night, had called up strong
 Perhaps the same force moved him which collected the birds into exploring parties and made the animals nervously sniff upwind for the scent of winter.
 
 
-Young Henry was conscious, this night, that he had lived on for fifteen tedious years without accomplishing any single thing of importance.<e>Rather early age for such moping. Are you projecting, late-20s Steinbeck?</e>
+Young Henry was conscious, this night, that he had lived on for fifteen tedious years without accomplishing any single thing of importance.<e>And you, Steinbeck, in your late-20s, writing this. So it's inspirational that everyone has a chance to turn things around eventually.</e>
 b=think;c=h;e:h=u
 
 And had his mother known his feeling, she would have said, "He is growing."
@@ -145,7 +151,7 @@ But neither would have understood what the other meant.
 Henry, if you considered his face, drew from his parents almost equally. His cheek bones were high and hard, his chin firm, his upper lip short and thin like his mother's.
 c=h;e:h=
 
-But there, too, were the sensual underlip, and the fine nose, and the eyes which looked out on dreams; these were Old Robert's features, and his was the thick, wiry hair coiled like black springs against the head.<e>TODO</e>
+But there, too, were the sensual underlip, and the fine nose, and the eyes which looked out on dreams; these were Old Robert's features, and his was the thick, wiry hair coiled like black springs against the head.<e>Here I was confused why the image generator was refusing to make a Henry sprite until I saw I'd copy-pasted the phrase "sensual underlip". Damnit Steinbeck.</e>
 
 
 But though there was complete indecision in Robert's face, there was a great quantity of decision in Henry's if only he could find something about which to decide.
@@ -159,6 +165,9 @@ b=farm-ext
 
 And the little misshapen beings of the hills would be searching out deserted badger holes to cover them from the night. The wind would go crying after them through the fields.
 b=wales
+
+<e>You may have noticed the art style inconsistency in the shading between this background and the previous. Now is as good a time as any to address that this visual novel adaptation is very much a prototype, the first of the PublicDomainPulp project. It was a deliberate choice using Steinbeck's own first novel for the site's first adaptation — it rhymes. In subsequent works, we will both of us learn and improve (hopefully). But for now, expect things to be messy (just look at the <a href="https://github.com/JohnQPulp/CupOfGold/commits/main/">Git history</a>), since at time of writing this, all the sprite and background images have already been generated — all 659 of them. And many mistakes were made in that process, some realized and partially addressed only towards the end. The plan is to avoid making those same mistakes in the next visual novels. With enough time and reworking, I could fix a number of the problems with this one, but I think that'd be less productive from a learning perspective than moving on to #2, getting new lessons from that one. So if things seem too rough around the edges (either in my editing or Steinbeck's prose), switching to a different book would be a fine decision.</e>
+
 
 In the house it was quiet except for the snapping fire-noises and for the swishing sound of blown thatch. A log cracked on the hearth and out of the crevice a thin blaze leaped up and curled about the black kettle like a flower of flame.
 b=farm-fire
@@ -217,7 +226,7 @@ s=;c=d,h;e:h=a
 "Where have you been to, man — where?"
 s=h
 
-"Where? Why, I've been out to the Indies, that's where I've been; to Goaves and to Tortuga — that's the turtle — and to Jamaica and the thick woods of Hispaniola for the hunting of cattle. I've been all there."<e>TODO: indies</e>
+"Where? Why, I've been out to the Indies, that's where I've been; to Goaves and to Tortuga — that's the turtle — and to Jamaica and the thick woods of Hispaniola for the hunting of cattle. I've been all there."
 s=d
 
 "You'll be sitting down, Dafydd," Mother Morgan interrupted. She spoke as though he had never been away.
@@ -236,7 +245,7 @@ Old Robert knew his embarrassment, and Mother, too, seemed to sense it, for when
 e:d=t
 
 Wrinkled old Gwenliana was in her seat before the fire, her mind lost in the swimming future.
-b=farm-fire;m:farm-fire=g
+b=farm-fire;c=;m:farm-fire=g
 
 Her clouded eyes were veiled with tomorrow. Behind their vague blue surfaces seemed to crowd the mounting events and circumstances of the world.
 b=think;c=g;e:g=t
@@ -346,7 +355,7 @@ s=d;e:d=w
 "I must go back to the damned place. I can never stay away from the jungle any more, because its hot breath is on me. Here, where I was born, I shiver and freeze. A month would find me dead."
 b=jungle
 
-"This valley where I played and grew and worked has cast me out for a foul, hot thing. It cleans itself of me with the cold."<e>You cheat on the Salinas Valley by describing others, Steinbeck.</e>
+"This valley where I played and grew and worked has cast me out for a foul, hot thing. It cleans itself of me with the cold."<e>Steinbeck cheating on the Salinas Valley here.</e>
 b=wales
 
 "Now will you be giving me a place to sleep, with thick covers to keep my poor blood moving; and in the morning I'll be off again."
@@ -382,8 +391,8 @@ e:r=t
 "But aren't you afraid of the knives, son, and the poisons, and the Indians? Do not these things put fear on you?"
 e:r=
 
-"No‑o‑o," Henry said slowly.<e>From your punctuation, you expect this to be read in the voice of <a href="https://www.youtube.com/watch?v=LLXlRc54uxk">Norm Macdonald</a>, correct?</e>
-s=h;e:h=
+<e><a href="https://www.youtube.com/watch?v=LLXlRc54uxk">"Did you ever say that you can see why women find Sean Connery sexy?"</a></e>"No‑o‑o," Henry said slowly.
+s=h;e:h=t
 
 "Of course not — and how could they? The words have no meaning to you at all. But the sadness of Dafydd, and the hurt of him, and his poor, sick body — aren't you afraid of those? Do you want to go about the world weighed down with such a heart?"
 s=r;e:r=h
@@ -406,7 +415,7 @@ s=h;e:h=
 "Henry, will you do two things for me before you go? Will you be thinking tonight of the long sleeplessness I'll have because of you, and of how lost my days will be. And will you remember the hours your mother will fret about your underclothing and the state of your religion."
 s=r;e:r=
 
-"That's the first thing, Henry; but second, will you go up to old Merlin on the crag-top tomorrow and tell him of your going and listen to his words? He is wiser than you or I may ever be."<e>So your obsession with Arthurian tales was lifelong, showing up both here and in your last unpublished writings. And so you've chosen to wedge Merlin into this unrelated pirate story.</e>
+"That's the first thing, Henry; but second, will you go up to old Merlin on the crag-top tomorrow and tell him of your going and listen to his words? He is wiser than you or I may ever be."<e>Steinbeck's obsession with Arthurian tales was lifelong — he died while working on his own retelling of them. And so he chose to wedge Merlin into this unrelated pirate story too. (He wedges a lot into this book, as first-time authors are wont to do.)</e>
 e:r=h
 
 "There is a kind of magic he practices which may be a help to you. Will you do these two things, son?"
@@ -418,7 +427,7 @@ s=
 "I would like to stay, my father, but you know—"
 s=h;e:h=u
 
-"Yes, boy." Robert nodded. "It is my sorrow that I do know. I cannot be angry nor forbid your going, because I understand. I wish I might prevent it and whip you, thinking that I helped you."<e>TODO</e>
+"Yes, boy." Robert nodded. "It is my sorrow that I do know. I cannot be angry nor forbid your going, because I understand. I wish I might prevent it and whip you, thinking that I helped you."<e>I'd say this book has three main recurring themes: whipping, snake women, and milk. It's left to the reader to decide how those pieces fit together.</e>
 s=r;e:r=u
 
 "But go to bed, Henry, and think and think when the light is out and the dark in around you."
