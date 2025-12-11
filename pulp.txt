@@ -3634,7 +3634,7 @@ s=grippo;e:grippo=e
 ## III
 r=card
 
-There were many glittering reputations along the coast of Darien and among the green Caribbean islands when Henry Morgan came to be a buccaneer.<e>TODO</e>
+There were many glittering reputations along the coast of Darien and among the green Caribbean islands when Henry Morgan came to be a buccaneer.<e>Have a map to look at while Steinbeck does some lengthy exposition. (Almost at the actual Captain Morgan pirate stuff, promise.)</e>
 b=map2
 
 In the wine shops of Tortuga were tales of a thousand fortunes made and spent, of fine ships taken and sunk, of gold and plate dumped on the docks like wood.
@@ -3673,7 +3673,7 @@ France had the good of her wayward children at heart, for she sent out twelve hu
 The whole twelve hundred turned to a business more profitable than wifehood immediately they landed, but France could not help that.
 
 
-They had got their name, these buccaneers, of a time when they were nothing more than cattle-hunters. There was a way of smoking meat by burning small bits of fat and flesh in the fire. This made the meat more savory than usual. It was called the "boucan" process, and from it the pirates were named.<e>I'm sure the reader will appreciate this Wikipedia entry, Steinbeck.</e>
+They had got their name, these buccaneers, of a time when they were nothing more than cattle-hunters. There was a way of smoking meat by burning small bits of fat and flesh in the fire. This made the meat more savory than usual. It was called the "boucan" process, and from it the pirates were named.<e>Cool Wikipedia entry, Steinbeck.</e>
 
 
 But after a time these hunters came out of the woods in little, careful groups; then bands formed, and then whole fleets of eight or ten vessels.
@@ -3781,7 +3781,7 @@ This was a fine saying, and on the strength of it his followers captured the two
 Not all were cruel or even violent men. Some had a curious streak of piety.
 
 
-There was Captain Watling who made it a point to hold divine service every Sabbath, with the whole crew standing uncovered. Daniel once shot a sailor for an irreverence.<e>Well you didn't check Wikipedia for this one, Steinbeck, since although there is a 17th-century buccaneer named Captain Watling, his first name was not Daniel. And seeing as how this is the only mention of a Daniel throughout the entire book, I choose to believe his character is a complete non-sequiter.</e>
+There was Captain Watling who made it a point to hold divine service every Sabbath, with the whole crew standing uncovered. Daniel once shot a sailor for an irreverence.<e>Well you didn't check Wikipedia for this one, Steinbeck, since although there is a 17th-century buccaneer named Captain Watling, his first name wasn't Daniel. And since this is the only mention of a Daniel throughout the book, we must accept his name-drop as a complete non-sequiter.</e>
 
 
 These buccaneers prayed loudly before battle, and, if they were successful, half of them trooped off to a captured cathedral to sing the Te Deum, while the other half plundered the prize.
@@ -3817,7 +3817,7 @@ c=
 Mansveldt was living and Bras de Fer was an old man when Henry Morgan went sailing with black Grippo in the *Ganymede*.
 
 
-### I<e>TODO</e>
+### I<e>The real book begins now.</e>
 
 
 There was excitement and curiosity in Port Royal when Morgan was fitting out the *Ganymede* for sea.
@@ -3901,10 +3901,10 @@ s=h
 "And how did you do this thing? The Spanish ships are strongly armed and wary."
 s=man
 
-"I did it, sir, with my planning. Many nights have I considered how to do these things. I work with surprise, sir, when other men use only force."<e>Your story is devolving into idiocy, Steinbeck. Your Henry Morgan has been set up as dim-witted for some unknowable reason, which means that in order for the plot to follow his actual historical feats, everyone else needs to be even stupider. Hence Morgan's brilliant idea being "planning".</e>
+"I did it, sir, with my planning. Many nights have I considered how to do these things. I work with surprise, sir, when other men use only force."<e>Here we see Henry's advanced technique of "planning" allowing him to outsmart everyone else. The only way Steinbeck could think of for how to make the narrative loosely follow Morgan's actual historical feats was to make every other character stupid.</e>
 s=h;e:h=s
 
-Mansveldt regarded him with admiration.<e>I do hope the dear reader is as full of admiration.</e>
+Mansveldt regarded him with admiration.
 s=
 
 "I am fitting out an expedition to take St. Catherine's Isle," he said.
@@ -3919,8 +3919,8 @@ s=;e:h=h
 "I would like it, sir," he said quickly.
 s=h
 
-The fleet sailed out, and Captain Morgan was Vice-Admiral.<e>Well that's that then, I suppose. Again, rather suddenly quick pacing, Steinbeck.</e>
-b=fleet;s=
+The fleet sailed out, and Captain Morgan was Vice-Admiral.<e>It may be overly-fast pacing, but at least we're getting to the point.</e>
+b=fleet;s=;c=
 
 There was a fine assault; the ships threw in their ragged hordes and slaughter walked on the walls.
 b=fleet-battle
@@ -3934,11 +3934,11 @@ b=think;c=man
 He and his ship were lost and never heard from again. It was said the Spaniards strangled him in Cuba.
 c=
 
-Captain Morgan was now the paramount leader of the Spanish Main.<e>Pacing still accelerating…</e>
-c=h
+Captain Morgan was now the paramount leader of the Spanish Main.
+c=h;e:h=
 
 Ships flew from the ways to join his fleets, to sail under his command and fight with him and share in his success.
-b=fleet
+b=fleet;c=
 
 He went up against Puerto Bello and sacked the town.
 b=fleet-battle
@@ -3949,11 +3949,11 @@ The houses were burned and all the helpless citizens were plundered.
 When Captain Morgan's ships sailed off the jungle was already creeping into the ruins.
 
 
-For ten years he sailed about the ocean, among the islands and along the green coasts of Tropic America, and his was the greatest name of all who had gone out for plunder.<e>And a ten year time skip. Did you not want to get the account of his early adult years wrong and just didn't want to do the research?</e><e>TODO</e>
+For ten years he sailed about the ocean, among the islands and along the green coasts of Tropic America, and his was the greatest name of all who had gone out for plunder.
 a:h=30;b=think;c=h
 
 The pirates of the world came flocking to his reputation. People cheered him in Tortuga and Goaves.
-b=barbados-port;c=
+c=
 
 Numberless men volunteered for every expedition. Now all the Brotherhood waited for Captain Morgan to open a keg of liquor in the streets or to run wild through the town.
 
@@ -4021,8 +4021,8 @@ b=dream
 Men caught the whispered name and listened carefully.
 
 
-"There is a woman in Panama and she is lovely as the sun. They call her the Red Saint in Panama. All men kneel to her." Thus said the whispering. The voice grew and grew until men in the taverns drank to La Santa Roja. Young seamen whispered of her in the dog watch. "There is a woman in the Cup of Gold and all men fall before her as heathen kneel before the sun."<e>And as with The Simpsons's Poochie, all thought and dialogue will now revolve around this one new character.</e>
-b=pcity
+"There is a woman in Panama and she is lovely as the sun. They call her the Red Saint in Panama. All men kneel to her." Thus said the whispering. The voice grew and grew until men in the taverns drank to La Santa Roja. Young seamen whispered of her in the dog watch. "There is a woman in the Cup of Gold and all men fall before her as heathen kneel before the sun."<e>We'll now have a second character for all the other characters to constantly obsess over.</e>
+b=pcity;f:b:pcity=blur(3px)
 
 They spoke softly of her in the streets of Goaves. No one had seen her; no one could tell the tint of her cheeks or the color of her hair.
 
@@ -4049,7 +4049,7 @@ He sent a messenger asking for a small sample of the weapons which had made this
 n:mes=Messenger
 
 Captain Morgan took the runner to a small room that had escaped the general fire.
-b=small-room;c=h,mes
+b=small-room;c=!mes,h;e:h=
 
 "Have you seen the woman whom they call the Red Saint in Panama?" he asked.
 s=h
@@ -4091,10 +4091,10 @@ e:h=s
 s=mes
 
 And in a few days the runner came again, bringing the pistol back, and a large square emerald set in a ring.
-s=;b=think
+c=;s=;b=think
 
 "My master begs that you accept this stone as a token of his regard. He begs that you do not give yourself the trouble to come to Panama, for then his duty would overwhelm his admiration and force him to hang you to a tree."
-s=mes;c=h,mes
+s=mes;b=small-room;c=!mes,h
 
 "It is a good message," said the captain; "a good, brave message. I should like to meet with Don Juan if only at swords' points. It has been long since anyone defied me. And did you learn more of La Santa Roja?"
 s=h;e:h=
@@ -4117,7 +4117,7 @@ b=think;c=h;e:h=c
 The Indies and the sea and pillage and glory all seemed to have failed him.
 
 
-He had touched all things and watched them pale and shrivel at his touch. And he was lonely.<e>Also lonely: all those plunder victims. Is the cognitive dissonance intentional? But I don't think you've earned that benefit of the doubt so far.</e>
+He had touched all things and watched them pale and shrivel at his touch. And he was lonely.<e>Also lonely: those plunder victims.</e>
 e:h=u
 
 His men regarded him with respect and sullen awe. They were afraid of him, and this state did not feed his vanity as once it had.
@@ -4154,7 +4154,7 @@ s=h;c=;e:h=t
 
 
 Captain Morgan sent for the young man, and when he was come, found difficulty in speaking to him.
-s=;b=small-room;c=h,f;e:f=;e:h=n
+s=;b=small-room;c=f,h;e:f=;e:h=n;v=125,100
 
 "Ah — how are you, Coeur de Gris?"
 s=h
@@ -4220,7 +4220,7 @@ s=h
 e:h=h
 
 "It is very simple to tell you of my family."
-s=f;e:f=t
+s=f;e:f=t;e:h=
 
 "It is said that my father was the great Bras de Fer, and who he was no one ever knew."
 
@@ -4259,10 +4259,10 @@ e:f=t
 
 
 "Why should I change the gentle course of her ways, even if I could?"
-e:h=t
+e:f=;e:h=t
 
 "No, she is a dear, lovely woman, and she has been a good mother to me."
-e:f=
+
 
 "Her only fault is that she is filled with over-many little scruples."
 
@@ -4301,28 +4301,28 @@ Captain Morgan had stepped to a cupboard and brought out some queer little jugs 
 s=;c=
 
 "I took these from a Spanish ship," he said. "Will you drink with me, Coeur de Gris?"
-s=h;c=h,f;e:h=h
+s=h;c=f,h;e:h=h
 
 "I should be very much honored, sir."
 s=f;e:f=h
 
 They sat a long time sipping the wine, then Captain Morgan spoke dreamily.
-s=
+s=;c=;f:b:small-room=blur(3px)
 
 "I suppose, Coeur de Gris, that you will one day be stricken with the Red Saint, and then we shall have the bees of Panama buzzing out upon us."
-s=h
+s=h;e:h=d
 
 "I have no doubt she is as jealously guarded as was Helen."
 
 
 "You have heard of the Red Saint, have you not?"
-e:h=
+
 
 The young man's eyes were glowing with the wine.
 s=;e:f=e
 
 "Heard of her!" he said softly. "Sir, I have dreamed of her and called to her in my sleep."
-s=f
+s=f;e:h=h
 
 "Who has not? Who in all this quarter of the world has not heard of her, and yet who knows any single thing about her?"
 
@@ -4354,7 +4354,7 @@ e:f=s
 Henry Morgan had filled the glasses again and again. He was slumped forward in his chair, and a little crooked smile was on his mouth.
 s=;c=
 
-"Yes," he said rather thickly, "she is a danger to the peace of nations and to the peace of men's minds. The matter is wholly ridiculous, of course. She is probably a shrewish bitch who takes her bright features from the legend."<e>Don't swear at women, Steinbeck. That's not nice.</e>
+"Yes," he said rather thickly, "she is a danger to the peace of nations and to the peace of men's minds. The matter is wholly ridiculous, of course. She is probably a shrewish bitch who takes her bright features from the legend."<e>Language.</e>
 s=h;e:h=d
 
 "But how might such a legend be started? Your health, Coeur de Gris. You will be a good friend to me and true?"
@@ -4402,7 +4402,7 @@ s=h
 "Can you not see, Coeur de Gris, the bitterness that lies restlessly in my heart? During these years, her face has followed me in all my wanderings. Somehow I feel that I might have made some later move — but her father was a powerful lord."
 e:h=u
 
-"And did you never go back for her, after your imprisonment was done?"<e>It is one of your better bits of the novel that these story retellings become more and more exaggerated and wondrous over time. You get credit for that and also for having Coeur de Gris (the best character), rightly call Henry Morgan out on his bullshit here.</e>
+"And did you never go back for her, after your imprisonment was done?"<e>It's one of the book's better bits that these story retellings become increasingly exaggerated each time.</e>
 s=f
 
 Henry Morgan looked down at the floor.
@@ -4426,7 +4426,7 @@ They lay about the decks and cursed their captain for a dreaming fool.
 He struggled madly against the folding meshes of his dream and argued with the voice.
 b=dream
 
-"May God damn La Santa Roja for sowing the world with an insanity. She has made cutthroats bay the moon like lovesick dogs. She is making me crazy with this vain desire."<e>TODO</e>
+"May God damn La Santa Roja for sowing the world with an insanity. She has made cutthroats bay the moon like lovesick dogs. She is making me crazy with this vain desire."<e>May God damn Steinbeck for sowing the narrative with this contrived obsession.</e>
 s=h;e:h=m
 
 "I must do something — anything — to lay the insistent haunting of this woman I have never seen. I must destroy the ghost. Ah, it is a foolish thing to dream of capturing the Cup of Gold. It would seem that my desire is death."
@@ -4439,7 +4439,7 @@ His thoughts were driving sleep away. When drowsiness crept in on the heels of e
 
 
 "I will take Maracaibo," he cried in desperation. "I will drown this lusting in a bowl of horror. I will pillage Maracaibo, tear it to pieces, and leave it bleeding in the sand."
-s=h;b=small-room
+s=h;b=small-room;f:b:small-room=
 
 (There is a woman in the Cup of Gold, and they worship her for unnamable beauties.)
 s=;b=dream
@@ -4475,7 +4475,7 @@ Ladders rose against the fort, and a wave of roaring men swarmed over the walls.
 s=h
 
 (There is a woman in the Cup of Gold, and she is lovely as the sun.)
-b=dream
+b=dream;s=
 
 "Grant no quarter! Kill the Spanish rats! Kill all of them!"
 s=h;b=fleet-battle
@@ -4498,7 +4498,7 @@ s=;b=dream
 "Have you scratched out every grain of gold? Place the city at ransom! We must have riches after pain."
 s=h;b=city-looting
 
-A fleet of Spanish ships came sailing to the rescue.<e>TODO</e>
+A fleet of Spanish ships came sailing to the rescue.<e>"Sailing to the rescue" is an interesting way to describe it, when the city has already been plundered.</e>
 s=
 
 "A Spanish squadron coming? We will fight them! No, no; we shall run from them if we can get away. Our hulls lag in the water with their weight of gold."
@@ -4507,7 +4507,7 @@ s=h;e:h=c
 "Kill the prisoners!"
 e:h=m
 
-(—she is lovely as the sun.)<e>How I think I see what you're trying for here, but this characterization is worse than banality of evil — it's just idiot ball of evil. How is compelling to pair such dastardly actions with such puerile thoughts and obsessions? It makes Henry Morgan unlikable from both angles. (It is, however, at least unique among books I've read — I don't remember <book>Crime and Punishment|Raskolnikov</book> throwing as many temper tantrums.)</e>
+(—she is lovely as the sun.)
 s=;b=dream
 
 And Captain Morgan sailed from broken Maracaibo.
@@ -4544,7 +4544,7 @@ s=f
 s=h;e:h=
 
 "You are brave, you are sagacious, and you are my friend. I can trust you, and who among my men will bear this trust if it be worth his while to fail?"
-e:f=h
+e:f=h;e:h=c
 
 "It is a great honor, sir. I will pay you, surely, with my fidelity. My mother will be very pleased."
 s=f
@@ -4603,11 +4603,11 @@ s=f
 "Oh, you may trust me to keep order among my men — strict order — though I hang half of them to do it."
 s=h
 
-"A while ago I sent word to Panama that I would go there, but I did it as a joke."<e>Heh heh heh. That is a good bit.</e>
-e:h=s
+"A while ago I sent word to Panama that I would go there, but I did it as a joke."<e>That is a pretty good bit.</e>
+e:h=s;e:f=
 
 "And I wonder, now, whether they have been fortifying themselves. Perhaps they, too, thought it a joke. Go, now, Coeur de Gris, and speak to no man of this. I make you my ambassador."
-e:f=
+
 
 "Let the men throw their gold away. Encourage gambling — here — now — on the ship. Give them an example at the taverns — an expensive example. Then they will be driven to go out with me."
 
@@ -4702,7 +4702,7 @@ Finally words were forced from Sir Edward's lips.
 "I have heard that you can tell a gentleman by the way he dies — but I should like to groan. Robert would have groaned if he had wished. Of course, Robert was queer — but then — he was my own brother — he would have shrieked if he had felt like it."
 s=e
 
-"Elizabeth, will you — please — leave the room. I am sorry — but I must groan. Never speak of it — Elizabeth — you promise — never — never to speak of it?"<e>TODO</e>
+"Elizabeth, will you — please — leave the room. I am sorry — but I must groan. Never speak of it — Elizabeth — you promise — never — never to speak of it?"<e>Get a load of this jerk failing at <i>ars moriendi</i>.</e>
 
 
 And when she came again, Sir Edward Morgan was dead.
@@ -4715,7 +4715,7 @@ Spring had come to Cambria, welling up out of the Indies and out of the hot, dry
 a:r=old;b=farm-ext;m:farm-ext=spring
 
 Old Robert liked to think, and then came curiously to believe, that his son sent the Spring to Cambria out of the tropic places.
-c=r
+c=r;v=100,80
 
 There was a green fur climbing up the hills, and the trees were testing new, fragile leaves in the winds.
 c=
@@ -4727,10 +4727,10 @@ Ah! the years had been lonely, barren things, with nothing left in their arms fo
 
 
 He knew the meaning, now, of Gwenliana's words — that age brought nothing with it save a cold, restless waiting; a dull expectancy of a state that might not be imagined with any assurance.
-b=think
+b=think;v=
 
 Perhaps he waited for the time when Henry would come to him again. But that could scarcely be so.
-c=h
+c=h;f:c:h=blur(10px)
 
 He was not at all sure that he wanted to see Henry any more. It would be disturbing.
 c=
@@ -4748,12 +4748,12 @@ But Robert thought often of this abstract person, his son, of whom he heard wave
 
 
 With waking on the fine morning of the Spring, Robert had said, "I will climb up to see Merlin today. Strange how that old man lives under the growing pressure of his years. There must be more than a hundred of them now."
-s=r;b=farm-ext;c=r;e:r=
+s=r;b=farm-ext;c=r;e:r=;v=100,80
 
 "His body is a thin wisp — nothing more than a suggestion that here was once a body. But William says, if you can be picking thought out of William's speaking, that his voice is golden and strong as always, and that he still talks tremendous nonsense that would not be tolerated at London."
 
 
-"It is amazing how this road-mender has his whole life curled like a kitten around four days in London. But I must be going to Merlin. It is not likely that I shall go again."<e>TODO</e>
+"It is amazing how this road-mender has his whole life curled like a kitten around four days in London. But I must be going to Merlin. It is not likely that I shall go again."<e>So William the road-mender is the <book>A Confederacy of Dunces|Ignatius Reilly</book> of this book? Well why can't he be the main character then.</e>
 e:r=h
 
 The steep, rocky path was a thing of torture to him; more a cruel thing because of his memory of lithe, powerful legs, and lungs as tireless as bellows.
@@ -4763,10 +4763,10 @@ Once he had led all comers in the mountain race, but now he climbed a bit, then 
 
 
 It was noon when he came at last to Crag-top.
-b=crag-ext;c=,r;e:r=c
+b=crag-ext;e:r=c
 
 Merlin met him at the door before he had time to knock, and Merlin had no more changed than the harps and spearheads hanging to his walls.
-c=w,r
+c=,w,,
 
 He seemed to have discarded time like a garment. Merlin came to Robert with no surprise.
 
@@ -4778,10 +4778,10 @@ It was as though he had known of this slow pilgrimage a thousand years before th
 s=w
 
 And "down, down" sang the harps. He spoke the language of the strings, and they responded like a distant choir in high mass of the mountains.
-s=
+s=;c=;v=130,100;b=crag
 
 "But it's an old man who climbs to you now, Merlin. The trail is a beast enemy to wrestle with. You seem no older. I wonder when you will come to die. Do not your years sometimes argue that question with you?"
-s=r
+s=r;c=w,r
 
 "Why, to speak truthfully, Robert, I have taken it in my mind several times — but always there were too many things to think about. I could not take the time to die. If I did, I might not be able to think ever again."
 s=w
@@ -4927,14 +4927,14 @@ e:r=t
 "So," Merlin mused, "he has come to be the great man he thought he wanted to be."
 s=w
 
-"If this is true, then he is not a man. He is still a little boy and wants the moon."<e>TODO</e>
-e:r=
+"If this is true, then he is not a man. He is still a little boy and wants the moon."
+
 
 "I suppose he is rather unhappy about it. Those who say children are happy, forget their childhood."
 
 
 "I wonder how long he can stave off manhood."
-e:w=t
+e:w=t;e:r=
 
 "Robert, have you seen those great black ants which are born with wings? They fly a day or two, then drop their wings and fall upon the ground to crawl for all their lives."
 e:w=e
@@ -4990,7 +4990,7 @@ e:r=
 "And on the night that Henry went away, she cast a picture of his life. Merlin, nearly all her words have come to be the truth. Can these thoughts have come on her like a series of bright paintings? It is a strange, unlikely thing."
 e:r=t
 
-"Perhaps she read his desire, Robert, and sensed the strength of his desire. I taught old Gwenliana many things which had to do with magic; she was very apt at reading signs — and faces."<e>TODO</e>
+"Perhaps she read his desire, Robert, and sensed the strength of his desire. I taught old Gwenliana many things which had to do with magic; she was very apt at reading signs — and faces."
 s=w;e:r=
 
 Old Robert rose to stretch himself. "Ah, well — I must be going now. It takes a weary time for such an aged man to be getting down the path. It will be night when I am home again."
@@ -5005,13 +5005,13 @@ e:r=c
 "I think you work a subtle conjuring with the soft voice of you, and your harps."
 
 
-And as he went down the path, the hanging harps crooned after him the Sorcerer's Farewell.<e>Another productive conversation with Merlin, famous figure of buccaneering, for the patient reader.</e>
-c=;b=trail
+And as he went down the path, the hanging harps crooned after him the Sorcerer's Farewell.<e>Another productive conversation with Merlin, famous character of buccaneering.</e>
+c=;b=trail;s=
 
 ## IV
 r=card
 
-Panama was a great, lovely city in 1670 when Henry Morgan determined on its destruction; a rich, strong city, and justly called the Cup of Gold.<e>The long-awaited specific date, given only at this point in the book. And the first explanation for what "Cup of Gold" refers to, after mentioning it 9 times previously. Ah, but I suppose there were context clues. I shouldn't doubt your brilliance in doling out information backwards, Steinbeck.</e>
+Panama was a great, lovely city in 1670 when Henry Morgan determined on its destruction; a rich, strong city, and justly called the Cup of Gold.<e>So there's that long-awaited specific date, only halfway through the book. And also the definition for "Cup of Gold", only mentioned 9 times previously. Steinbeck you suck.</e>
 b=pcity
 
 No place in all the raw New World could compare with it in beauty and in wealth.
@@ -5036,7 +5036,7 @@ In the native tongue this signified a place of good fishing.
 
 
 When the soldiers of Spain put torch to the litter of huts, and in its place built a new town, they kept the old name, Panama, which is a song.
-b=pcity
+b=pcity;f:b:pcity=
 
 And soon the meaning justified itself, for out of this little town the nets of Spain were flung to the four directions.
 
@@ -5059,7 +5059,7 @@ He killed the rulers and ripped the life from the governmental structure.
 Then diamonds, plates from the temple walls, symbols of the sun in gold, and ceremonial golden shields were shipped to Panama.
 
 
-And Pizarro forced the broken Inca people into the mines with whips.<e>TODO</e>
+And Pizarro forced the broken Inca people into the mines with whips.
 
 
 A hundred captains led little bands of soldiers to the east and southeast where the fierce Indians of Darien lived in trees and caves.
@@ -5074,7 +5074,7 @@ Everything was dumped into sacks and carried on mule-back to Panama.
 When all the graves had been robbed of golden ornaments, even the wild Indians dug in the earth by authority of the whips.
 
 
-The ships of Spain discovered little islands to the westward in whose shallow bays pearls might be found if only one dived deep enough; and in a little time the dull folk of the islands were jumping into a sea where sharks lived.<e><book>The Pearl|Yet another work of yours</book> foreshadowed here in your first novel. That's pretty neat.</e>
+The ships of Spain discovered little islands to the westward in whose shallow bays pearls might be found if only one dived deep enough; and in a little time the dull folk of the islands were jumping into a sea where sharks lived.<e>Another <book>The Pearl|future Steinbeck work</book> foreshadowed here in his first novel. That's pretty neat I guess.</e>
 
 
 And bags of pearls found their way to Panama.
@@ -5098,7 +5098,7 @@ All the colored arts and comforts of old Europe flew westward to beautify the Pa
 The first Spaniards to invade the country had been cruel, grasping robbers; but also they were soldiers whom no bloody prospect might frighten.
 b=map2
 
-Small bands of them captured the New World with little force save spiritual courage.<e>TODO</e>
+Small bands of them captured the New World with little force save spiritual courage.<e>It was really the natives' fault not having enough courage for them getting wiped out.</e>
 
 
 But when the peoples of Nicaragua and Peru and Darien had become gangs of whimpering slaves, when there was no danger any more, a different breed of men came to live in Panama.
@@ -5107,7 +5107,7 @@ But when the peoples of Nicaragua and Peru and Darien had become gangs of whimpe
 These were the merchants, keenly decisive when there was a farm to be wrested by law from its owner, or when the price of food was raised for outland colonists, but fearful and cowardly when steel was rattling about on steel.
 
 
-The merchant class soon dominated all the isthmus.<e>TODO</e>
+The merchant class soon dominated all the isthmus.<e>It is said Steinbeck was influenced by his time in Manhattan when it came to describing Panama City. No further comment.</e>
 
 
 Some of the soldiers had died; others grew restless in security and marched away to new, dangerous lands, leaving the battle of foodstuffs and extravagances in the hands of the traders who doled out flour and wine, and gathered, in return, jewels and bars of gold for their coffers.
@@ -5152,7 +5152,7 @@ It bore a proud name: The Very Noble and Very Loyal City of Panama.
 Its rank was made equal with that of Cordova and Seville, for did not its officials wear golden chains of office about their necks?
 
 
-And the King granted to the city a resplendent coat of arms — a shield in a field of gold on the left yoke, and on the right, two caravels and a handful of gray arrows.<e>TODO</e>
+And the King granted to the city a resplendent coat of arms — a shield in a field of gold on the left yoke, and on the right, two caravels and a handful of gray arrows.<e>Pretty sure Steinbeck just screwed up in his description here, since I can't find any version of the coat with the caravels and arrows on the same side.</e>
 o=pcoat
 
 Above all was the north star of discovery, while the Lions and Castles of the twin Spanish kingdoms circled around the shield.
@@ -5161,13 +5161,16 @@ Above all was the north star of discovery, while the Lions and Castles of the tw
 Truly Panama was one of the greatest cities in the world.
 o=
 
+<e>The reader may find it helpful as the story goes on to note the location of Panama City and the "R. de Chagre" on the map here.</e>
+
+
 The center of the Cup of Gold was a broad, paved plaza with a raised stand in the middle where music was played in the evening.
 b=pplaza
 
 While it played, the people strolled about, proving their positions by those to whom they spoke; the merchant aristocracy was very tender in its pride.
 
 
-A man might argue over the price of flour like a Jew in the daytime, but at night, in the Plaza, he bowed stiffly to acquaintances not so rich as he, and imperceptibly fawned on those richer.<e>Normally the requisite Jew-bashing of novels written here in 1929 or prior wouldn't warrant comment. Just some red meat for the reader, as is the style of the times. However, it is somewhat funnier coming from you, who would go on to write <book>East of Eden</book>.</e><e>TODO</e>
+A man might argue over the price of flour like a Jew in the daytime, but at night, in the Plaza, he bowed stiffly to acquaintances not so rich as he, and imperceptibly fawned on those richer.<e>Pretty much every old novel has got to have its obligatory asides for Jew-bashing (red meat for the audience), but it's a bit funny coming from the guy who goes on to write <book>East of Eden</book>.</e>
 
 
 They had grown soft in their security. The city was considered impregnable.
@@ -5206,7 +5209,7 @@ He drilled his little army, changed his uniforms, and looked with care to the ma
 He had been a soldier all his life — not a good campaigner, perhaps, but an extremely gallant officer.
 
 
-The communications he wrote to his subordinates were magnificent. His wording of a demand for surrender by an Indian village was above reproach.<e>Above reproach by whom exactly, Steinbeck?</e>
+The communications he wrote to his subordinates were magnificent. His wording of a demand for surrender by an Indian village was above reproach.<e>Above reproach by whom?</e>
 
 
 The people loved their Governor. He dressed so well; he was so proud, yet condescending.
@@ -5224,7 +5227,7 @@ His were the noblest blood and the richest warehouses in the city.
 Thus they lived happily in Panama, going to the green country places when the hot days were in, and returning to the balls and receptions of the town during the rainy season.
 
 
-And this was the Cup of Gold when Henry Morgan determined on its destruction.<e>I mean this is just the most nuanced commentary on material greed ever put to print. Bravo Steinbeck.</e>
+And this was the Cup of Gold when Henry Morgan determined on its destruction.<e>Truly there has never been a more nuanced critique of greed and the pursuit of glory ever put to print.</e>
 
 
 ————————————————————————————————————
@@ -5236,7 +5239,7 @@ One day the news crept into Panama that the terrible Morgan was coming in conque
 At first there was amused unbelief, but when more messengers came in, the city roused itself to frantic activity.
 
 
-The people rushed to the churches, confessed, kissed relics, and rushed home again. Hundreds of priests marched in procession bearing the Host through the streets. The dark brotherhood fiercely whipped themselves and dragged the heavy cross about for everyone to see.<e>TODO</e>
+The people rushed to the churches, confessed, kissed relics, and rushed home again. Hundreds of priests marched in procession bearing the Host through the streets. The dark brotherhood fiercely whipped themselves and dragged the heavy cross about for everyone to see.<e>It's just, there's a surprising amount of whipping in this book when you note every instance. We've passed by a whole bunch already.</e>
 b=pchurch
 
 The broken walls went unmended; the rusty cannons were not replaced.
@@ -5252,10 +5255,10 @@ Grave men discussed such possibilities in the streets.
 n:dg=Don Guierrmo;b=pcity
 
 "The blessing of the day, Don Pedro."
-s=dg;c=dg,
+s=dg;c=!dg,
 
 "The Virgin's blessing, Don Guierrmo."
-s=dp;c=dg,dp
+s=dp;c=!dg,dp
 
 "What is your thought of these robbers?"
 s=dg
@@ -5273,10 +5276,10 @@ And later:
 s=;c=
 
 "You say you had it of Don Guierrmo? Surely he would not tell a questionable thing — a man of his wealth."
-n:d3=Another Guy;s=d3;c=d3,
+n:d3=Another Guy;s=d3;c=!d3,
 
 "I repeat only what he said — that Morgan could fire bullets from his fingertips — that he breathed out sulphurous flames. Don Guierrmo was certain of it."
-s=dp;c=d3,dp
+s=dp;c=!d3,dp
 
 "I must tell my wife of this, Don Pedro."
 s=d3
@@ -5291,10 +5294,10 @@ They could not believe; and yet they must believe, for the pirates were already 
 
 
 At last, under pressure, Don Juan dragged himself from church long enough to send five hundred soldiers for an ambush on the road across the isthmus.
-b=ppalace;c=gov,
+b=ppalace;c=,gov
 
 A young officer craved audience.
-n:po=Officer;c=gov,po;e:po=e
+n:po=Officer;c=!po,gov;e:po=e
 
 "Well, young man," the Governor began, "what is your wish?"
 s=gov
@@ -5308,7 +5311,7 @@ s=gov;e:gov=e
 "We should stampede them on the enemy, sir."
 s=po
 
-"Marvelous plan! Genius of an officer! Ah, my dear friend — a thousand bulls? A thousand? I jested. Have them gather ten thousand of the wildest bulls."<e>Apparently this was a real planned tactic, per Henry Morgan's Wikipedia article. So I can't criticize you for the idea sounding stupid. However, I still will for the stupid dialogue.</e>
+"Marvelous plan! Genius of an officer! Ah, my dear friend — a thousand bulls? A thousand? I jested. Have them gather ten thousand of the wildest bulls."<e>Now the dialogue may be stupid here, but apparently something like this actually happened. So Steinbeck wins this round.</e>
 s=gov
 
 The Governor ordered out his soldiers — two thousand of the King's troops — reviewed them, and then returned to kneel in the Cathedral.
@@ -5357,7 +5360,7 @@ Meanwhile, another mass would not hurt matters.
 r=card
 
 While the buccaneers were throwing away the savings of plundered Maracaibo, Henry Morgan plunged deeply into plans for his new conquest.
-b=map
+b=map2
 
 It would require more fighting men than had ever before been assembled.
 
