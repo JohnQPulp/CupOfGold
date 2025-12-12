@@ -8378,15 +8378,15 @@ The people threw their hats, leaped, danced, grimaced, tried to shriek conversat
 
 
 At the pier, hands were extended to grasp Henry's before he was out of the boat.
-
+b=royal-pier
 
 And immediately he had stepped up, the pikemen formed about the official party and with weapons lowered forced a rough passage among the fighting, craning spectators.
 n:cav=Cavalier
 
 Henry glanced with apprehension at the soldiers who surrounded him. "Am I under arrest?" he asked of the cavalier who walked beside him.
-s=h;b=royal-pier;c=cav,h;e:cav=h
+s=h;b=royal-pier;c=,cav,h;e:cav=h
 
-"Under arrest!" The man laughed. "No! We couldn't arrest you if we would. The mob would tear us to pieces."<e>The could/would sentence here is like an out-of-place Shakespearian line. It does make sense once parsed out, but you didn't need to make it so confusing.</e>
+"Under arrest!" The man laughed. "No! We couldn't arrest you if we would. The mob would tear us to pieces."<e>Confusing could/would sentence. It does technically make sense though once you parse it out.</e>
 s=cav
 
 "And if we did succeed in the arrest, they would rip out the stones of the jail with their fingers to free you."
@@ -8399,7 +8399,7 @@ s=cav
 e:cav=
 
 They arrived at the mansion of the Governor.
-s=;b=gov-mansion
+s=;b=gov-mansion;c=
 
 "Captain Morgan," said Governor Moddyford, when they were alone, "I don't know whether my news is good or bad."
 s=govm;c=govm,h;e:govm=t
@@ -8441,7 +8441,7 @@ And then, "Surely, Sir Charles; I have enough to buy the King's favor though it 
 e:h=s
 
 "There is another thing, Captain," said the Governor uneasily. "Your uncle was killed some time ago. His daughter is here in my house."
-s=govm;e:govm=n;e:h=
+s=govm;e:govm=n;e:h=c
 
 "Sir Edward was nearly penniless when he died. Of course, you understand, we would like to have her stay here with us always, but I do not think she is quite happy."
 
@@ -8450,19 +8450,19 @@ s=govm;e:govm=n;e:h=
 
 
 "Sir Edward died nobly and was commended by the King, but after all the commendation of the Crown cannot be spent."
-e:h=h
+
 
 Henry smiled. "My uncle would have died nobly."
-s=h
+e:h=s;s=h
 
 "I am sure this uncle of mine made every move in his life — yes, even to the paring of his nails — as though the complete peerage were looking on, ready to make critical comments."
 
 
 "How did he die? Making a short, fitting oration?"
-e:h=s
+e:h=p
 
 "Or with the damned thin lips of him pressed together as though he disapproved of death for social reasons?"
-
+e:h=s
 
 "Ah, that man! His life was a fine, simple part, and he was very true to it."
 
@@ -8482,7 +8482,7 @@ s=h
 "As to my cousin, I shall take her off your hands, you may be sure."
 e:h=t
 
-"I dimly remember her as a tall little girl with yellow hair — a little girl who played abominably on the harp; at least it sounded abominable to me, though it may have been quite good."<e>Kind of funny. You win me back again.</e>
+"I dimly remember her as a tall little girl with yellow hair — a little girl who played abominably on the harp; at least it sounded abominable to me, though it may have been quite good."
 
 
 Moddyford came to a subject he had been wanting to broach.
@@ -8525,7 +8525,7 @@ Meanwhile, in another room Lady Moddyford was earnestly talking to Elizabeth.
 n:ladm=Lady Moddyford;b=gov-mansion2
 
 "I find I must speak to you as a mother, my dear, a mother who is looking to your future."
-s=ladm;c=ladm,c;e:c=n;e:ladm=h
+s=ladm;c=!c,!ladm;e:c=n;e:ladm=h
 
 "There is absolutely no doubt that your cousin will look out for you; but would you be happy that way? — just hanging to his purse-strings, I mean?"
 
@@ -8539,7 +8539,7 @@ s=ladm;c=ladm,c;e:c=n;e:ladm=h
 "Why don't you marry your cousin? If nothing else came of it, you would be the one woman on earth who could not criticize her husband's relatives."
 
 
-"But what are you suggesting, Lady Moddyford?" Elizabeth put in meekly. "Isn't it some kind of crime to marry one's cousin?"<e>Well ten years from now *Gone With the Wind* will come out, and nobody will care. And it's also in every other book written up to this point. So I dunno, Steinbeck, you might be protesting too much here by questioning it.</e>
+"But what are you suggesting, Lady Moddyford?" Elizabeth put in meekly. "Isn't it some kind of crime to marry one's cousin?"<e>Well we're still ten years shy of <i>Gone With the Wind</i>, so I'd say the public will roll with it. (See also: like half of all public domain texts.)</e>
 s=c
 
 "Not a bit of it, my dear. There is nothing in church or state to forbid it, and I, myself, would favor such a marriage."
@@ -8608,14 +8608,14 @@ e:ladm=t
 "No, I can't think what we should do without protection. Sir Charles has a man in the garden all the time looking for snakes."
 
 
-"And do you know, I have always liked snakes. I had three of them for pets when I was a little girl."<e>TODO</e>
+"And do you know, I have always liked snakes. I had three of them for pets when I was a little girl."<e>Steinbeck just obsessed with the whole snake thing.</e>
 e:ladm=h
 
 The next morning Lady Moddyford brought them together, and, as soon as she gracefully could, left them alone.
 s=;c=;b=gov-mansion
 
 Elizabeth looked fearfully at her cousin.
-c=c,h;e:c=f;e:h=
+c=!c,h;e:c=f;e:h=
 
 "You have done great, terrible things on the ocean, Captain Morgan — enough to freeze one thinking about them," she said falteringly.
 s=c
@@ -8647,7 +8647,7 @@ s=h;e:h=w
 She looked shyly at him. "I'll play for you, if you like," she said.
 s=c;e:c=n
 
-"Ye-es — yes, do."<e>Fanfic dialogue writing.</e>
+"Ye-es — yes, do."<e>Fanfic grammar.</e>
 s=h
 
 "Now this is 'The Elves' Concourse.' Listen! You can hear their little feet pattering on the grass. Everybody says it is very sweet and pretty."
@@ -8689,7 +8689,7 @@ e:h=c
 "I went sailing and sailing looking for something — well, something that did not exist, perhaps."
 
 
-"And now that I have lost my unnamable desires, I may not be happier, but there is more content on me."
+"And now that I have lost my unnamable desires, I may not be happier, but there is more content on me."<e>Okay but who asked?</e>
 
 
 "That sounds wise and worldly, and a little bit cynical," she observed.
@@ -8747,7 +8747,7 @@ s=c;e:c=u
 
 
 They sat silently after her outburst, but at length she looked pleadingly into his eyes.
-s=
+b=gov-mansion;s=
 
 "You aren't angry with me about the string, are you, Cousin Henry?"
 s=c
@@ -8798,13 +8798,13 @@ s=c
 s=h
 
 She had sprung away from him.
-s=
+s=;e:c=f
 
 "But what are you suggesting? What is this thing you are proposing to me?" she cried. "Isn't it some sin — some crime — for cousins to marry?"
-s=c;e:c=j
+s=c;e:c=f;c=!c,
 
 "Marry?"
-s=h;e:h=p
+s=h;e:h=p;c=!c,h
 
 "Oh!" She blushed, and her eyes glittered again with her quick tears. "Oh! I am ashamed. You did mean marry, didn't you? I am ashamed."
 s=c
@@ -8941,10 +8941,13 @@ s=king
 He motioned a servant to keep Henry's glass filled.
 s=
 
-"I have heard of a certain woman in Panama. Tell us about her."<e>You're really going to write even the king as being obsessed with this?</e>
+"I have heard of a certain woman in Panama. Tell us about her."<e>When <s>Poochie's</s> Ysobel's not on screen, even the king needs to be obsessed with her.</e>
 s=king
 
-Henry drained his glass. His face was becoming flushed. "There is a tale about her," he said. "She was pretty, but also she was an heiress."
+Henry drained his glass. His face was becoming flushed.
+s=
+
+"There is a tale about her," he said. "She was pretty, but also she was an heiress."
 s=h
 
 "I confess, I favored her. She would inherit silver mines. Her husband offered one hundred thousand pieces of eight for her."
@@ -8959,7 +8962,7 @@ e:h=t
 The King leaned forward in his chair. "Which did you take? Tell me quickly."
 s=king
 
-"I remained in Panama for a while," said Henry. "What would Your Majesty have done in my place? I got both. Perhaps I got even more than that. Who knows but my son will inherit the silver mines eventually."<e>Henry Morgan's constant blatant fabulizing is pretty endearing. I'll grant you that one positive characteristic.</e>
+"I remained in Panama for a while," said Henry. "What would Your Majesty have done in my place? I got both. Perhaps I got even more than that. Who knows but my son will inherit the silver mines eventually."<e>If I can give one positive for Steinbeck's Morgan characterization, it's the constant fabulizing. It's endearing.</e>
 s=h;e:h=s
 
 "I would have done that," cried the King. "You are right. I would have done just that. It was clever, sir. A toast, Captain — to foresight."
@@ -9007,7 +9010,7 @@ e:h=t
 "Then the Autumn came. One day she said, 'They are ready to take me away, but I will not go.'"
 
 
-"The next day she did not come to me. In the night I went to her window and she threw a little note to me, 'I am imprisoned. They have whipped me.'"<e>TODO</e>
+"The next day she did not come to me. In the night I went to her window and she threw a little note to me, 'I am imprisoned. They have whipped me.'"
 
 
 "I went home. What else could I do? I could not fight them, the stout soldiers who guarded her."
@@ -9017,7 +9020,7 @@ e:h=t
 
 
 Henry lifted his eyes. The King was smiling ironically. John Evelyn drummed the table with his fingers.
-s=
+s=;b=king-lib
 
 "Yes?" said the King. "Yes?" He chuckled.
 s=king;e:king=s
@@ -9070,7 +9073,7 @@ s=je
 "You make him Lieutenant-Governor. In this you are like the multitude. You believe that if a man do one thing magnificently, he should be able to do all things equally well."
 
 
-"If a man be eminently successful in creating an endless line of mechanical doodads of some excellence, you conceive him capable of leading armies or maintaining governments."<e>A little late to start with "doodads" level of linguistic anachronisms. You're no Twain yet.</e>
+"If a man be eminently successful in creating an endless line of mechanical doodads of some excellence, you conceive him capable of leading armies or maintaining governments."<e>"Doodads"? Steinbeck, you're no Twain. At least not yet. But also is this line some sort of obscure political swipe?</e>
 e:je=c
 
 "You think that because you are a good king you should be as good a lover — or vice-versa."
@@ -9110,10 +9113,10 @@ s=king;e:king=
 
 
 ### III
-s=; a:h=old; a:c=old; r=judge-bench
+s=; a:h=old; a:c=old; r=card
 
 Sir Henry Morgan sat on the Judge's Bench at Port Royal.
-n:co=Official
+b=judge-bench;n:co=Official
 
 Before him, on the floor, lay a slab of white sunlight like a blinding tomb.
 n:guard=Guard
@@ -9340,7 +9343,7 @@ s=bur2
 "Perhaps he punishes himself in this manner for something he had done or failed to do. Perhaps he remembers Chagres, Emil."
 e:bur2=g
 
-"Chagres!" Sir Henry bent forward with excitement. "What happened after I sailed away? Tell me!"<e>TODO</e>
+"Chagres!" Sir Henry bent forward with excitement. "What happened after I sailed away? Tell me!"<e>I mean maybe my understanding of timeline is off, but shouldn't Henry have heard of the aftermath by now?</e>
 s=h;e:h=j
 
 "You were cursed, sir, as it is given to few men to be cursed. You were tortured in men's minds. They feasted on your heart and sent your soul to hell."
@@ -9409,8 +9412,8 @@ b=palace-ext
 Lady Morgan would not have felt right if a detail had been changed. She met Henry at the door.
 n:c=Lady Elizabeth Morgan
 
-"We are to have dinner with the Vaughns. And what am I to do about the coachman? He's drunk."
-s=c;c=c,h;e:h=w;e:c=c
+"We are to have dinner with the Vaughns. And what am I to do about the coachman? He's drunk."<e>Uh, it's a magic collar thing that Elizabeth is wearing. That's why it fades in and out. Steinbeck just forgot to mention it.</e>
+s=c;c=!c,h;e:h=w;e:c=c
 
 "I've told you and told you to lock your closet, but you will not pay attention to me. He sneaked into the house and got a bottle off your shelf. He must have done that."
 
@@ -9526,7 +9529,7 @@ It was disquieting.
 ### IV
 r=card
 
-Sir Henry Morgan lay in an enormous bed; a bed so wide that his body, under the coverlid, seemed a snow-covered mountain range dividing two great plains.
+Sir Henry Morgan lay in an enormous bed; a bed so wide that his body, under the coverlid, seemed a snow-covered mountain range dividing two great plains.<e>Uh, the bed width. It's amazing how the unreliable narration really ramps up towards the end.</e>
 a:h=death;b=death-bed
 
 From the walls about the room the shiny eyes of his ancestors regarded him.
@@ -9706,7 +9709,7 @@ s=h
 "You must search in your heart for greed and lust and spite. You must drive wickedness from your heart."
 s=vicar
 
-"But, sir, I don't remember ever having been consciously wicked. I have done things which seemed wicked afterwards, but while I was doing them I always had some rather good end in view."<e>Were this a Dostoevsky novel, this line might have been earned. As is, no.</e>
+"But, sir, I don't remember ever having been consciously wicked. I have done things which seemed wicked afterwards, but while I was doing them I always had some rather good end in view."<e>Just as good as Dostoevsky.</e>
 s=h
 
 Again he was conscious that he wasn't really speaking.
@@ -9796,7 +9799,7 @@ b=grotto;f:b:grotto=blur(15px)
 He was still in a reclining position, and the long grotto was sliding past him.
 
 
-Of a sudden, the movement stopped. He was surrounded by strange beings, having the bodies of children, and bulbous, heavy heads, but no faces.
+Of a sudden, the movement stopped. He was surrounded by strange beings, having the bodies of children, and bulbous, heavy heads, but no faces.<e>Wait what is this <book>2001: A Space Odyssey|2001</book> ending.</e>
 f:b:grotto=
 
 The flesh where their faces should have been was solid and unbroken.
@@ -9847,7 +9850,7 @@ s=;f:b:grotto=blur(15px)
 They turned toward the form and cowered, and at length fell on their knees before it and raised trembling arms in gestures of supplication.
 
 
-Henry strained his attention toward the figure. Why, it was Elizabeth coming toward him — little Elizabeth, with golden hair and a wise young look on her face.<e>Hope the reader kept track of the Elizabeths.</e>
+Henry strained his attention toward the figure. Why, it was Elizabeth coming toward him — little Elizabeth, with golden hair and a wise young look on her face.<e>I think it should have been Elizabeth the ship that came back to him in the end.</e>
 a:liz=ghost;c=liz
 
 She was girdled with cornflowers, and her eyes were strangely puzzled and bright.
@@ -9878,7 +9881,7 @@ s=h;e:liz=
 s=liz;e:liz=
 
 Henry had noticed a peculiar thing. If he looked steadily at one of the crouched, faceless beings, it disappeared. He amused himself by staring first at one and then at another until all of them were gone.
-f:b:grotto=blur(25px)
+f:b:grotto=blur(25px);s=;f:c:liz=blur(5px)
 
 "Did you really stand there in the dark?"
 s=liz
@@ -9887,25 +9890,25 @@ s=liz
 s=h
 
 He looked for Elizabeth, but she, too, had disappeared. In her place there was a red smoldering ember, and the light was dying out of it.
-s=;c=
+s=;f:c:liz=blur(30px) hue-rotate(325deg)
 
 "Wait, Elizabeth — Wait. Tell me where my father is. I want to see my father."
-s=h
+s=h;f:c:liz=blur(30px) hue-rotate(325deg) brightness(90%)
 
 The dying ember answered him.
-s=
+s=;f:c:liz=blur(30px) hue-rotate(325deg) brightness(80%)
 
 "Your father is happily dead. He was afraid to test even death."
-
+f:c:liz=blur(30px) hue-rotate(325deg) brightness(70%)
 
 "But Merlin, then — Where is Merlin? If I could only find him."<e>Stop trying to make Merlin a thing. We are three lines from the end.</e>
-s=h
+s=h;f:c:liz=blur(30px) hue-rotate(325deg) brightness(60%)
 
 "Merlin? You should know of him. Merlin is herding dreams in Avalon."
-s=
+s=;f:c:liz=blur(30px) hue-rotate(325deg) brightness(50%)
 
 The fire went out of the ember with a dry, hard snap. There was no light anywhere.
-b=think
+c=;f:b:grotto=blur(25px) brightness(50%)
 
-For a moment, Henry was conscious of the deep, mellow pulsation of the Tone.<e>The End. So little Elizabeth was the Rosebud of the story or something. And we had some happy fun morals along the way. Steinbeck, that was stupid. For your next book, you've to drop this Arthur stuff and focus on what the American public really needs right now: werewolves.</e>
-z=a1:86,aged:93,bur1:81,bur2:105,c:90,c-amid:95,c-aold:95,cock:70,cook:95,dp:102,dg:97,doc:95,drunk:108,e:103,f:105,g:90,gov:95,grippo:105,h:91,h-a18:102,h-a30:102,h-aold:102,h-adeath:102,hal:110,ie:92,j:93,la:96,ladm:94,liz-aghost:75,m:90,master:106,men1:97,men2:102,p:89,pris2:97,r2:97,r3:103,r4:98,span:96,t:106,w:92
+For a moment, Henry was conscious of the deep, mellow pulsation of the Tone.<e>The End. So little Elizabeth was the Rosebud of the story or something. And we had some happy fun morals along the way. So not Steinbeck's best work, but it wasn't completely awful. (Now his next book to enter public domain is a werewolf murder mystery, and that I expect to be awful.) The real moral of the story is: eventually Steinbeck did get better, and that's a lesson in perserverence for all of us.</e>
+z=a1:86,aged:93,bur1:81,bur2:105,c:90,c-amid:95,c-aold:95,cock:70,cook:95,dp:102,dg:97,doc:95,drunk:108,e:103,f:105,g:90,gov:95,grippo:105,h:91,h-a18:102,h-a30:102,h-aold:102,h-adeath:102,hal:110,ie:92,j:93,la:96,ladm:98,liz-aghost:75,m:90,master:106,men1:97,men2:102,p:89,pris2:97,r2:97,r3:103,r4:98,span:96,t:106,w:92
