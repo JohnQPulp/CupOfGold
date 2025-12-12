@@ -4,7 +4,7 @@ b=title
 <e>The book contents themselves are unchanged from Steinbeck's original words. The only modifications are the additions of the visuals and the opinionated editor's notes. On that topic…</e>
 
 
-<e>So Steinbeck, your first novel. You of <book>Of Mice and Men</book> fame, of <book>Grapes of Wrath</book> fame, of <book>East of Eden</book> fame — an American literary legend. But here in 1929, you're a nobody first-time author debuting with… a heavily fictionized account of the real-life 17th-century buccaneer Captain Morgan. A dubious premise, considering nobody remembers the man except for being on that brand of rum. But maybe early-career you has the prose to pull such a story off. We'll see.</e>
+<e>So Steinbeck, your first novel. You of <book>Of Mice and Men</book> fame, of <book>Grapes of Wrath</book> fame, of <book>East of Eden</book> fame — an American literary legend. But here in 1929, you're a nobody first-time author debuting with… a heavily fictionalized account of the real-life 17th-century buccaneer Captain Morgan. A dubious premise, considering nobody remembers the man except for being on that brand of rum. But maybe early-career you has the prose to pull such a story off. We'll see.</e>
 
 
 ## I<e>(Part One)</e>
@@ -667,7 +667,7 @@ Some charm?
 Words to protect him from the Devil's many little servants?
 
 
-But Merlin was to talk and he to listen; and what Merlin said might cure young Henry of his yearnings, might keep him here in Cambria for always.<e>"Cambria" of course referrng to Wales. This you and I both know, but the ignorant reader may not.</e>
+But Merlin was to talk and he to listen; and what Merlin said might cure young Henry of his yearnings, might keep him here in Cambria for always.<e>"Cambria" of course referring to Wales. Which I didn't have to look up or anything.</e>
 
 
 That could not be, for there were outland forces, nameless foreign ghosts, calling to him and beckoning from across the mysterious sea.
@@ -1282,7 +1282,7 @@ c=h;e:h=e;v=100,75
 And now he was a stranger to be thought about and stared at with a certain reverence. He wanted to shout, "I'm on my way to the Indies," to widen their dull eyes for them and raise their respect.
 
 
-Silly, spineless creatures, he thought them, with no dream and no will to leave their sodden, dumpy huts.<e>I think there's a certain characteristic misanthropy of interwar-period novels. Or maybe I'm must seeing patterns. Either way, it's endearing in doses.</e>
+Silly, spineless creatures, he thought them, with no dream and no will to leave their sodden, dumpy huts.<e>I think there's a certain characteristic misanthropy of interwar-period novels. Or maybe I'm just seeing patterns. Either way, it's endearing in doses.</e>
 e:h=s
 
 The land changed. He was coming out of the mountains to a broad, unbounded country of little rolls and flat lands.
@@ -1738,7 +1738,7 @@ It was cold; the freezing shrouds twanged in the wind like great harp strings pl
 Four wild days the persistent storm chased them out to sea with the ship in joy at the struggle. The seamen gathered in the forecastle to boast of her fleetness and the tight shape of her.
 
 
-And in this time Henry exulted like a young god. The wind's frenzy was his frenzy.<e>No that's okay, image generator. You just cut off the sides if you feel like it.</e>
+And in this time Henry exulted like a young god. The wind's frenzy was his frenzy.<e>Hadn't quite figured out how to make the image generator not cut off the sides of images yet.</e>
 m:bristol-deck=storm,h
 
 He would stand on the deck, braced against a mast, face into the wind, cutting it with his chin as the prow cut the water, and a chanting exultation filled his chest to bursting — joy like a pain.
@@ -2044,7 +2044,7 @@ There is a peace in the tropic oceans which passes a desire for understanding. D
 For months and years they seemed to slip onward, but there was no impatience in the crew. They did their work, and lay about the deck all in a strange, happy lethargy.
 b=bristol-deck;m:bristol-deck=sailors,tropics
 
-One day there was a little island floating in the sea, shaped like a haycock and green as the first spears of barley.<e>I apologize if the image island isn't adequately haycock-shaped.</e>
+One day there was a little island floating in the sea, shaped like a haycock and green as the first spears of barley.
 
 
 It was thickly covered with a tangling, fierce growth, vines and creepers and a few dark trees.
@@ -2116,7 +2116,7 @@ s=master;e:master=
 "Well, if you really think so," the planter said hesitantly; and he began pulling money out of his pockets, money that was mixed with tangled string, and pieces of chalk, and a bit of a quill pen, and a broken key.
 s=j;e:j=n
 
-The master drew a paper from his pocket and showed it to the boy — an order of indenture for five years, with the name "Henry Morgan" nicely filled in, and the British seal at the bottom.<e>Ah c'mon, that's not what I asked for. I liked it back when image generators couldn't draw legible text.</e>
+The master drew a paper from his pocket and showed it to the boy — an order of indenture for five years, with the name "Henry Morgan" nicely filled in, and the British seal at the bottom.
 s=;o=indenture
 
 "But I don't want to be sold," cried Henry. "I didn't come to be sold. I want to make my fortune and be a sailor."
@@ -4079,7 +4079,7 @@ At last Henry shook his head, as though to disengage it of cloying thoughts.
 
 
 He drew a pistol from his belt and gave it to the messenger.
-n:gov=Governor Don Juan Perez de Guzman;c=mes
+n:gov=Governor Don Juan Perez de Guzman;c=!mes
 
 "Take this to Don Juan Perez de Guzman, and say that this is a sample of the weapons we have used in laying Puerto Bello in the dust. But my other weapons are the strong hearts of my followers."
 s=h;e:h=
@@ -5809,7 +5809,7 @@ The hungry men went back to their boats. Ah, well; they must go hungry today.
 Hunger was a part of war, a matter to be expected and endured.
 
 
-Tomorrow, surely, they would come on houses where wine was stored, cold and delicious; corrals where fat cows nodded stupidly, waiting to be slaughtered.<e>Again, per Wikipedia, there was really was starvation during the real-life version of this march. But Steinbeck's "surely" is still doing quite the heavy lifting.</e>
+Tomorrow, surely, they would come on houses where wine was stored, cold and delicious; corrals where fat cows nodded stupidly, waiting to be slaughtered.<e>Again, per Wikipedia, there really was starvation during the real-life version of this march. But Steinbeck's "surely" is still doing quite the heavy lifting.</e>
 b=dream
 
 A buccaneer — a true buccaneer — would sell out his life for a cup of sour wine or a bit of converse with one of the brown women of half-Spain.
@@ -6757,7 +6757,7 @@ e:la=g
 "Ah, the contempt I have for him!"
 
 
-"I wanted force — blind, unreasoning force — and love not for my soul or for some imagined beauty of my mind, but for the white fetish of my body. I do not want softness. I am soft. My husband uses scented lotions on his hands before he touches me, and his fingers are like thick, damp snails. I want the crush of hard muscles, the delicious pain of little hurts."<e>Credit where credit's due: Steinbeck's always been good at writing the crazy bitch characters.</e>
+"I wanted force — blind, unreasoning force — and love not for my soul or for some imagined beauty of my mind, but for the white fetish of my body. I do not want softness. I am soft. My husband uses scented lotions on his hands before he touches me, and his fingers are like thick, damp snails. I want the crush of hard muscles, the delicious pain of little hurts."<e>Credit where credit's due: Steinbeck's always been good at writing crazy bitches.</e>
 e:la=i
 
 She searched his face closely, as though looking once more for a quality which had been lost.
@@ -9343,7 +9343,7 @@ s=bur2
 "Perhaps he punishes himself in this manner for something he had done or failed to do. Perhaps he remembers Chagres, Emil."
 e:bur2=g
 
-"Chagres!" Sir Henry bent forward with excitement. "What happened after I sailed away? Tell me!"<e>I mean maybe my understanding of timeline is off, but shouldn't Henry have heard of the aftermath by now?</e>
+"Chagres!" Sir Henry bent forward with excitement. "What happened after I sailed away? Tell me!"<e>I mean maybe my understanding of the timeline is off, but shouldn't Henry have heard of the aftermath by now?</e>
 s=h;e:h=j
 
 "You were cursed, sir, as it is given to few men to be cursed. You were tortured in men's minds. They feasted on your heart and sent your soul to hell."
@@ -9910,5 +9910,5 @@ s=;f:c:liz=blur(30px) hue-rotate(325deg) brightness(50%)
 The fire went out of the ember with a dry, hard snap. There was no light anywhere.
 c=;f:b:grotto=blur(25px) brightness(50%)
 
-For a moment, Henry was conscious of the deep, mellow pulsation of the Tone.<e>The End. So little Elizabeth was the Rosebud of the story or something. And we had some happy fun morals along the way. So not Steinbeck's best work, but it wasn't completely awful. (Now his next book to enter public domain is a werewolf murder mystery, and that I expect to be awful.) The real moral of the story is: eventually Steinbeck did get better, and that's a lesson in perserverence for all of us.</e>
+For a moment, Henry was conscious of the deep, mellow pulsation of the Tone.<e>The End. So little Elizabeth was the Rosebud of the story or something. And we had some happy fun morals along the way. So not Steinbeck's best work, but it wasn't completely awful. (Now his next book to enter public domain is a werewolf murder mystery, and that I expect to be awful.) The real moral of the story is: eventually Steinbeck did get better, and that's a lesson in perseverance for all of us.</e>
 z=a1:86,aged:93,bur1:81,bur2:105,c:90,c-amid:95,c-aold:95,cock:70,cook:95,dp:102,dg:97,doc:95,drunk:108,e:103,f:105,g:90,gov:95,grippo:105,h:91,h-a18:102,h-a30:102,h-aold:102,h-adeath:102,hal:110,ie:92,j:93,la:96,ladm:98,liz-aghost:75,m:90,master:106,men1:97,men2:102,p:89,pris2:97,r2:97,r3:103,r4:98,span:96,t:106,w:92
