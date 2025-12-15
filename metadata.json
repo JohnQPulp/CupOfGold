@@ -5,10 +5,9 @@
   "source": "https://standardebooks.org/ebooks/john-steinbeck/cup-of-gold",
   "words": 69906,
   "repo": "https://github.com/JohnQPulp/CupOfGold",
-  "links": [
-    "https://www.goodreads.com/book/show/186364.Cup_of_Gold",
-    "https://standardebooks.org/ebooks/john-steinbeck/cup-of-gold",
-    "https://en.wikipedia.org/wiki/Cup_of_Gold"
-  ],
+  "links": {
+    "Goodreads": "https://www.goodreads.com/book/show/186364.Cup_of_Gold",
+    "Wikipedia": "https://en.wikipedia.org/wiki/Cup_of_Gold"
+  },
   "blurb": "Foo"
 }
