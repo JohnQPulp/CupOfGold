@@ -1,4 +1,4 @@
-![Preview](preview.webp)
+![Preview](images/preview.webp)
 
 This repository contains the text metadata and images for creating a VN-type transformation (pulpification) using the Pulpifier (https://github.com/JohnQPulp/Pulpifier). The book.txt text is the original public domain text as retrieved from Standard Ebooks's epub version of the novel (https://standardebooks.org/ebooks/john-steinbeck/cup-of-gold), converted to a .txt file, and then edited in some minor cosmetic ways to make it more suitable for processing in the Pulpifier. The pulp.txt is the metadata-enhanced copy of the book.txt text, which gets converted into the resulting HTML.  
 
