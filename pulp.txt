@@ -3596,7 +3596,7 @@ He knew how to handle this man, for he was a counterpart of the many slaves of t
 s=
 
 "What would you do with five hundred English pounds, Grippo?"
-s=grippo;e:h=
+s=h;e:h=
 
 The black man licked his lips and glanced at the empty cup before him.
 s=
