@@ -1,10 +1,7 @@
-*Cup of Gold: A Life of Sir Henry Morgan, Buccaneer, with Occasional Reference to History* by John Steinbeck<e>This is the <a href="https://publicdomainpulp.com">PublicDomainPulp.com</a> visual novel adaptation of the public domain text <i>Cup of Gold</i> (1929). Use the arrow keys or scroll wheel to advance and go back. (If you spot any issues — typos, incorrect images, etc — you can submit them to <a href="https://github.com/JohnQPulp/CupOfGold/issues">https://github.com/JohnQPulp/CupOfGold/issues</a>.</e>
+*Cup of Gold: A Life of Sir Henry Morgan, Buccaneer, with Occasional Reference to History* by John Steinbeck<e>This is the <a href="https://publicdomainpulp.com">PublicDomainPulp.com</a> visual novel adaptation of the public domain text <i>Cup of Gold</i> (1929). Use the arrow keys or scroll wheel to advance and go back.</e>
 n:author=;b=title;t=author;e:author=0
 
-<e>The book contents themselves are unchanged from Steinbeck's original words. The only modifications are the additions of the visuals and the opinionated editor's notes. On that topic…</e>
-
-
-<e>So Steinbeck, your first novel. You of <book>Of Mice and Men</book> fame, of <book>Grapes of Wrath</book> fame, of <book>East of Eden</book> fame — an American literary legend. But here in 1929, you're a nobody first-time author debuting with… a heavily fictionalized account of the real-life 17th-century buccaneer Captain Morgan. But let’s see if early-career you can pull it off.</e>
+<e>The original .epub copy of <i>Cup of Gold</i>'s text can be found at <a href="https://standardebooks.org/ebooks/john-steinbeck/cup-of-gold">https://standardebooks.org/ebooks/john-steinbeck/cup-of-gold</a>. This visual novel's text is unchanged from that copy except for the splitting of longer paragraphs into smaller ones, for readability. (That, and the addition of "helpful" editor's notes.)</e>
 
 
 ## I
@@ -13,7 +10,7 @@ t=;b=card
 ### I
 
 
-All afternoon the wind sifted out of the black Welsh glens, crying notice that Winter was come sliding down over the world from the Pole; and riverward there was the faint moaning of new ice. It was a sad day, a day of gray unrest, of discontent.<e>You've included the Shakespearean phrase "winter... of discontent" in the first lines of your first novel, Steinbeck. Lines you'll reuse 32 years from now as the title of <book>The Winter of Our Discontent</book>, your last (not counting your """nonfiction""" book <book>Travels with Charley</book>). So that's neat career bookending.</e>
+All afternoon the wind sifted out of the black Welsh glens, crying notice that Winter was come sliding down over the world from the Pole; and riverward there was the faint moaning of new ice. It was a sad day, a day of gray unrest, of discontent.<e>So Steinbeck, you've included the Shakespearean phrase "winter... of discontent" in the first lines of your first novel. Lines you'll reuse 32 years from now as the title of <book>The Winter of Our Discontent</book>, your last (not counting your """nonfiction""" book <book>Travels with Charley</book>). So that's neat career bookending.</e>
 b=wales
 
 The gently moving air seemed to be celebrating the loss of some gay thing with a soft, tender elegy.
