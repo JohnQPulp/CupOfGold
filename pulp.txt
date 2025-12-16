@@ -1,4 +1,4 @@
-*Cup of Gold: A Life of Sir Henry Morgan, Buccaneer, with Occasional Reference to History* by John Steinbeck<e>This is the <a href="https://publicdomainpulp.com">PublicDomainPulp.com</a> visual novel adaptation of the public domain text <i>Cup of Gold</i> (1929). Use the arrow keys or scroll wheel to advance and go back.</e>
+*Cup of Gold: A Life of Sir Henry Morgan, Buccaneer, with Occasional Reference to History* by John Steinbeck<e>This is the <a href="https://publicdomainpulp.com">PublicDomainPulp.com</a> visual novel adaptation of the public domain text <i>Cup of Gold</i> (1929). Use the arrow keys or scroll wheel to advance and go back. Use the browser zoom to adjust the font size.</e>
 n:author=;b=title;t=author;e:author=0
 
 <e>The original .epub copy of <i>Cup of Gold</i>'s text can be found at <a href="https://standardebooks.org/ebooks/john-steinbeck/cup-of-gold">https://standardebooks.org/ebooks/john-steinbeck/cup-of-gold</a>. This visual novel's text is unchanged from that copy except for the splitting of longer paragraphs into smaller ones, for readability. (That, and the addition of "helpful" editor's notes.)</e>
