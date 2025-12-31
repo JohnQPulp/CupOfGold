@@ -7769,7 +7769,7 @@ s=la;c=;e:la=c
 
 
 She awaited his interest. Henry was silent.
-
+s=
 
 "Don't you wish to hear this thing?" she asked.
 s=la;e:la=g
