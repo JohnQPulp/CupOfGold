@@ -1949,7 +1949,7 @@ s=
 s=cook;e:cook=t
 
 Henry pointed to a great tortoise asleep on the surface.
-
+s=
 
 "And what is the tale of the turtles?" he asked.
 s=h
@@ -2894,7 +2894,7 @@ e:h=u
 e:h=b
 
 And he was weeping softly by her side.
-b=banana-house;s=h;c=p,h;e:p=p
+b=banana-house;s=;c=p,h;e:p=p
 
 Paulette was bewildered by the change in him. She stroked his hair and his eyes, until his breath came more calmly. Then she began again, with almost helpless patience, like a teacher questioning a dull child.
 
@@ -4832,7 +4832,7 @@ s=r
 
 
 Merlin spoke slowly:
-
+s=
 
 "Once I played against a dear young god with goat's feet, and that game was the reason for my coming here. But then, I made the great concession and signed with sad laughter."
 s=w
@@ -6398,7 +6398,7 @@ s=h;e:h=g
 n:tort=Buccaneer;s=tort
 
 Prisoners were brought in to be put to the torture with a thumbscrew taken from the Spanish prison.
-
+s=
 
 "Kneel! Your wealth?" Silence. "Turn, Joe!"
 s=tort
@@ -9230,7 +9230,7 @@ s=guard
 s=h
 
 The tall man had put his good arm about the shoulders of his companion.
-n:bur2=Tall Man
+n:bur2=Tall Man;s=
 
 "We plead guilty, my lord."
 s=bur2
@@ -9827,7 +9827,7 @@ s=h
 s=h
 
 Still insistently they questioned him, and their voices were becoming more and more strident and harsh, so that they overwhelmed the great Tone.
-
+s=
 
 "Me! answer me!"
 
