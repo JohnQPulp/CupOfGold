@@ -2165,10 +2165,10 @@ James Flower had been reared in an atmosphere of—
 n:jm=Mother Flower
 
 "I must be walking to my publisher's now, Helen!"
-s=jf;e:jf=0
+s=jf
 
 "But William, a glorious thing burst upon me this morning as I was doing my hair — such a conception! It must surely have come from God."
-s=jm;e:jm=0
+s=jm
 
 "It will be done in couplets I think. Oh! glorious! And it just fits in with those delightful words of yours on humility."
 
