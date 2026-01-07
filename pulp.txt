@@ -1,5 +1,5 @@
 *Cup of Gold: A Life of Sir Henry Morgan, Buccaneer, with Occasional Reference to History* by John Steinbeck<e>This is the <a href="https://publicdomainpulp.com">PublicDomainPulp.com</a> visual novel adaptation of the public domain text <i>Cup of Gold</i> (1929). Use the arrow keys or scroll wheel to advance and go back. Use the browser zoom to adjust the font size.</e>
-n:author=;b=title;t=author;e:author=0
+n:author=;b=title;t=author
 
 <e>The original .epub copy of <i>Cup of Gold</i>'s text can be found at <a href="https://standardebooks.org/ebooks/john-steinbeck/cup-of-gold">https://standardebooks.org/ebooks/john-steinbeck/cup-of-gold</a>. This visual novel's text is unchanged from that copy except for the splitting of longer paragraphs into smaller ones, for readability. (That, and the addition of "helpful" editor's notes.)</e>
 
@@ -95,10 +95,10 @@ c=;b=farm-fire;t=r
 
 
 "I think that when true tragedy comes in upon her, she will not see it over her range of anthills. Perhaps this is luck," he thought, and then — "I wonder, now, how she would compare the king's own death with the loss of one of the sow's red pigs."
-e:r=
+e:r=t
 
 Mother Morgan was too busy with the day itself to be bothered with the foolishness of abstractions.
-t=;b=think;c=m
+t=;b=think;c=m;e:r=
 
 Someone in the family had to be practical or the thatch would blow away — and what could you expect of a pack of dreamers like Robert and Gwenliana and her son Henry?
 c=r,g,h;e:r=h
@@ -1976,7 +1976,7 @@ s=cook;e:cook=t
 s=h
 
 "A village or so has fallen to them, but they have no leaders for such a thing."
-s=cook;e:t=cook=
+s=cook
 
 "But a great town with a treasury?" Henry persisted.
 s=h;e:h=e
@@ -3398,7 +3398,7 @@ He continued slowly that she might leave him behind, but the girl lagged on her 
 
 
 "Perhaps she wishes to speak with me," Henry thought, and quickened his steps to come up with her.
-t=h
+t=h;e:h=t
 
 He saw, incredulously, what the darkened room had hidden. She was only a little girl, not more than fourteen at the most. Elizabeth looked up as he came beside her.
 t=;c=!c,h;e:h=p;e:c=n;v=100,80
@@ -6923,10 +6923,10 @@ Here and there lay murdered citizens grinning their last agony into the sky.
 
 
 "Their faces will be black before the night," Henry thought. "I must have them removed or the sickness will come."
-e:h=;t=h
+e:h=t;t=h
 
 Dallying clouds of smoke still arose from the city, filling the air with the sickly odor of damp things burning.
-t=
+t=;e:h=
 
 The green hills beyond the plain seemed incredible to Henry Morgan.
 
@@ -8621,13 +8621,13 @@ s=c
 s=h
 
 And he thought, "I was wrong about her — very wrong. She is not supercilious at all."
-s=;t=h
+s=;t=h;e:h=t
 
 "It must have been her father — the devil — who gave me a wrong impression of her. She is quite nice."
 
 
 "I am sure yours were great, if your modesty would let you admit it," she was saying demurely. "Do you know, I used to tremble at the tales they told of you, and hope that you were not in need or trouble."
-t=;s=c;e:c=n
+t=;s=c;e:c=n;e:h=
 
 "Did you? Why did you? I didn't think you ever noticed me."
 s=h
@@ -9572,13 +9572,13 @@ He could hear her crying softly beside him.
 
 
 "What a pity it is," he thought, "that I cannot go to death in a ship so she might pack my bag for me."
-t=h
+t=h;e:h=t
 
 "It would give her so much satisfaction to know that I was entering heaven with a decent supply of clean linen."
 
 
 "Oh, my husband — Oh, Henry, my husband."
-t=;s=c;e:c=u
+t=;s=c;e:c=u;e:h=
 
 He turned his head and looked at her curiously, and his gaze went deep into her eyes.
 s=
