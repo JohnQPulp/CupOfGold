@@ -4,7 +4,7 @@ This repository contains the metadata and images for the visual novel transforma
 
 You can read it in a few ways:
 
-* Online at https://publicdomainpulp.com/vn/cupofgold
+* Online at https://publicdomainpulp.com/vn/CupOfGold
 * Locally at http://localhost:1929/vn/cupofgold running https://github.com/JohnQPulp/PublicDomainPulp (ASP.NET/C#) from source
 * Locally via static html file using the tool https://github.com/JohnQPulp/Pulpifier (C#) from source
 
