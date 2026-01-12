@@ -865,7 +865,7 @@ b=trail;m:trail=night;e:h=c
 Everywhere the sad, soundless ghosts flitted about their haunting. Henry walked carefully, his eyes on the path which glimmered pale blue before him.
 
 
-### IV<e>Now that section/chapter may seem pointless now, but I'm sure by the end of the book, these long Merlin conversations will pay off.</e>
+### IV<e>Now that section may seem pointless now, but I'm sure by the end of the book, these long Merlin conversations will pay off.</e>
 r=card
 
 On the path there in the dark, Henry's mind went back to the first speech of Merlin. Should he see Elizabeth before he went sailing away?
@@ -1048,7 +1048,7 @@ s=;e:r=
 "I have five pounds for you, son. It's little enough; I suppose I might give you a small matter more, but not enough to help much. And here is a letter recommending you to my brother, Sir Edward."
 c=r,h;s=r
 
-"He went out before the king was murdered, and for some reason — perhaps because he was quiet — old Cromwell has let him stay."<e>If the reader isn't caught up on their Captain Morgan trivia but is caught up on their Cromwell trivia, now they work out what time period this is. Which is useful for understanding what's going on, since Steinbeck is being cagey about the date for some reason. (Even though he gives an exact date much later on, in Part 4.)</e>
+"He went out before the king was murdered, and for some reason — perhaps because he was quiet — old Cromwell has let him stay."<e>If the reader isn't caught up on their Captain Morgan trivia but is caught up on their Cromwell trivia, now they work out what time period this is. Which is useful for understanding what's going on, since Steinbeck is being cagey about the date for some reason. (Even though he gives an exact date much later on, in Chapter 4.)</e>
 
 
 "If he is there when you come to Jamaica, you may present this letter; but it's a cold, strange man who takes great pride in his rich acquaintance, and might be a little annoyed with a poor relative."
@@ -1414,7 +1414,7 @@ But the slums of London bred new slaves quickly enough, God knew! and the king w
 England was becoming a sea power with her governors and palaces and clerks in the New World, and ships of manufactured things were sailing out of Liverpool and Bristol in ever increasing numbers.
 
 
-### I<e>I guess that was Part 2, Section 0? Strange chapter system, Steinbeck.</e>
+### I<e>I guess that was Chapter 2, Section 0? Strange system, Steinbeck.</e>
 r=card
 
 With breaking day, Henry was in the outskirts of Cardiff, all his terror gone and a new blossoming wonder in him.
@@ -7237,7 +7237,7 @@ c=
 Perhaps, after a long time, she would fall in love with him, but not, surely, because of merits in himself.
 
 
-Her contempt had convinced him that he had no merits; that he was a monstrous being, set apart from other men by unmentionable ugliness.<e>I guess this book has a fourth theme: weird (sexual?) shame. Which ties back into the young Henry of Part 1. So I don't really like it, but at least Steinbeck is trying for some cohesive idea.</e>
+Her contempt had convinced him that he had no merits; that he was a monstrous being, set apart from other men by unmentionable ugliness.<e>I guess this book has a fourth theme: weird (sexual?) shame. Which ties back into the young Henry of Chapter 1. So I don't really like it, but at least Steinbeck is trying for some cohesive idea.</e>
 
 
 She had not said so much, but she had intimated it.
