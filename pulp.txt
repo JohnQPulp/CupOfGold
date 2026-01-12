@@ -4,7 +4,7 @@ n:author=;b=title;t=author
 <e>The original .epub copy of <i>Cup of Gold</i>'s text can be found at <a href="https://standardebooks.org/ebooks/john-steinbeck/cup-of-gold">https://standardebooks.org/ebooks/john-steinbeck/cup-of-gold</a>. This visual novel's text is unchanged from that copy except for the splitting of longer paragraphs into smaller ones, for readability. (That, and the addition of "helpful" editor's notes.)</e>
 
 
-## I
+## Chapter I
 t=;b=card
 
 ### I
@@ -1354,7 +1354,7 @@ It seemed that hours passed over him like slow, sailing clouds while he lay shiv
 The boy's overstrung nerves snapped, and he ran whimpering from the barn and down the road toward Cardiff.
 b=country-road
 
-## II
+## Chapter II
 r=card
 
 For more than a century Britain had watched with impatience while Spain and Portugal, with the permission of the Pope, divided the New World and patrolled their property to keep out interlopers.<e>Good ol' Library of Congress maps gallery. Good public domain stuff there. Just slap a filter on it, and it's VN-ready.</e>
@@ -3628,7 +3628,7 @@ s=grippo;e:grippo=e
 "Quick! give me the money." Then — "Oloto! Oloto! bring white wine — white wine — for the love of Christ."
 
 
-## III
+## Chapter III
 r=card
 
 There were many glittering reputations along the coast of Darien and among the green Caribbean islands when Henry Morgan came to be a buccaneer.<e>Have a map to look at while Steinbeck does some lengthy exposition. (I promise we're almost to the actual Captain Morgan pirate part of the book.)</e>
@@ -5005,7 +5005,7 @@ e:r=c
 And as he went down the path, the hanging harps crooned after him the Sorcerer's Farewell.<e>Another productive conversation with Merlin, famous character of buccaneering.</e>
 c=;b=trail;s=
 
-## IV
+## Chapter IV
 r=card
 
 Panama was a great, lovely city in 1670 when Henry Morgan determined on its destruction; a rich, strong city, and justly called the Cup of Gold.<e>So there's that long-awaited specific date, only halfway through the book. And also the definition for "Cup of Gold", only mentioned 9 times previously. Steinbeck you suck.</e>
@@ -8299,7 +8299,7 @@ They swore brotherhood in the name of revenge. They planned the horror of the re
 The Spaniards caught and strangled some of them, and England virtuously hanged a few.
 b=action
 
-## V
+## Chapter V
 r=card
 
 ### I
