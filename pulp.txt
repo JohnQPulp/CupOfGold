@@ -3248,7 +3248,7 @@ s=e
 s=h;e:h=u
 
 He wondered if she had died soon after he had gone.
-s=;b=farm-fire;c=
+s=;b=farm-fire;c=;f:b:farm-fire=blur(5px)
 
 He did not feel very badly about it, and yet the words sounded such tremendous things, such final things.
 
@@ -4412,7 +4412,7 @@ s=h
 r=card
 
 The legend of the Red Saint grew in his brain like a powerful vine, and a voice came out of the west to coax and mock, to jeer and cozen Henry Morgan.
-b=pcity
+b=pcity;f:b:pcity=blur(3px)
 
 He forgot the sea and his idling ships. The buccaneers were penniless from their long inactivity.
 
@@ -5009,7 +5009,7 @@ c=;b=trail;s=
 r=card
 
 Panama was a great, lovely city in 1670 when Henry Morgan determined on its destruction; a rich, strong city, and justly called the Cup of Gold.<e>So there's that long-awaited specific date, only halfway through the book. And also the definition for "Cup of Gold", only mentioned 9 times previously. Steinbeck you suck.</e>
-b=pcity
+b=pcity;f:b:pcity=blur(3px)
 
 No place in all the raw New World could compare with it in beauty and in wealth.
 
