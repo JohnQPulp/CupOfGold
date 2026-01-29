@@ -1,5 +1,5 @@
 *Cup of Gold: A Life of Sir Henry Morgan, Buccaneer, with Occasional Reference to History* by John Steinbeck
-n:author=;b=title;t=author
+n:author=;b=title;t=author;h=no-speaker-counter
 
 <e>This visual novel contains editor's notes.</e>
 
