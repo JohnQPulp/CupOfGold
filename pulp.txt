@@ -1,8 +1,5 @@
-*Cup of Gold: A Life of Sir Henry Morgan, Buccaneer, with Occasional Reference to History* by John Steinbeck
+*Cup of Gold: A Life of Sir Henry Morgan, Buccaneer, with Occasional Reference to History* by John Steinbeck<e>Thought Steinbeck was all poverty and tragedy, did you? <i>No.</i> His first book is pirates. And it is… not good. And neither is this visual novel. (It's Public Domain Pulp's first VN, and I didn't know what I was doing.) You should probably just skip this one.</e>
 n:author=;b=title;t=author;h=no-speaker-counter
-
-<e>This visual novel contains editor's notes.</e>
-
 
 ## Chapter I
 t=;b=card
