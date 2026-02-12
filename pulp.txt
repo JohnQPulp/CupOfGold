@@ -23,10 +23,10 @@ The afternoon passed slowly, procession-like with an end of evening, and on the 
 
 
 Night drew down like a black cowl, and Holy Winter sent his nuncio to Wales.
-m:wales=night
+b=wales-mod-night
 
 Beside the high-road which lined the valley, ran up through a cleft in the hills, and so out into the world, there stood an ancient farmhouse built of heavy stones and thatched. The Morgan who had built it played against Time and nearly won.
-b=farm-ext;m:farm-ext=night
+b=farm-ext-mod-night
 
 Inside the house a fire was burning on the hearth; an iron kettle hung over the blaze, and a black iron oven hid in the coals which fell about the edges of the flame.
 b=farm-fire
@@ -44,7 +44,7 @@ But the family was few now, and little enough likely to add records to the chest
 
 
 There was Old Robert, for instance, sitting in his high-backed chair, sitting and smiling into the fire. His smile was perplexity and a strange, passive defiance.
-b=farm-fire;m:farm-fire=r
+b=farm-fire-mod-r
 
 You would have said he sought to make that Fate which was responsible for his being, a little ashamed of itself by smiling at it.
 
@@ -62,7 +62,7 @@ His wife would be whispering excuses for him, he knew, and the laborers in the f
 e:r=;c=
 
 Even his aged mother, Gwenliana, here beside him, shivering to the fire as though the very wind sounds about the house called in the cold to her, was not so judged incompetent. In the cottages there was a little fear of her and a great respect.
-b=farm-fire;m:farm-fire=r,g
+b=farm-fire-mod-g-r
 
 Any day when she sat in the garden holding her necromantic court, you might see some farm lad blushing and hugging his hat across his chest while he listened to Gwenliana's magic. For many years, now, she had been practicing the second sight and taking pride in it.
 
@@ -86,7 +86,7 @@ When she had come home this afternoon, raging over the price of a pair of shoes 
 
 
 "Her life is like a book crowded with mighty events."
-c=;b=farm-fire;t=r
+c=;b=farm-fire-mod-g-r;t=r
 
 "Every day she rises to the peak of some tremendous climax which has to do with buttons or a neighbor's wedding."
 
@@ -110,7 +110,7 @@ And all of the family loved Mother Morgan and feared her and got in her way.
 c=r,g,h
 
 She had fed them and trimmed the lamp. Breakfast was on the fire. Now she searched about for something to mend, as though she did not mend everything the moment it was torn.
-c=;b=farm-fire;m:farm-fire=m,r,g,h
+c=;b=farm-fire-mod-g-h-m-r
 
 In the midst of her search for busyness she paused and glanced sharply at young Henry. It was the kind of harsh, affectionate look which says, "I wonder, now, if he is not in the way of catching cold there on the floor."
 
@@ -119,7 +119,7 @@ And Henry squirmed, wondering what things he had neglected to do that afternoon.
 
 
 But immediately she caught up a cloth and went to dusting, and the boy was reassured.
-m:farm-fire=r,g,h
+b=farm-fire-mod-g-h-r
 
 He lay propped on one elbow and stared past the fire into his thoughts.
 
@@ -152,22 +152,22 @@ But though there was complete indecision in Robert's face, there was a great qua
 e:h=t
 
 Here were three before the fire, Robert and Gwenliana and young Henry, whose eyes looked out beyond the walls and saw unbodied things — looked into the night for the ghosts.
-c=;b=farm-fire
+c=;b=farm-fire-mod-g-h-r
 
 It was a preternatural night; a time when you might meet corpse-candles gliding along the road, or come upon the ghost of a Roman legion marching at double quick to reach its sheltering city of Caerleon before the full storm broke.
-b=farm-ext
+b=farm-ext-mod-night
 
 And the little misshapen beings of the hills would be searching out deserted badger holes to cover them from the night. The wind would go crying after them through the fields.
-b=wales
+b=wales-mod-night
 
 <e>You may have noticed the art style inconsistency in the shading between this background and the previous. Now is as good a time as any to address that this visual novel adaptation is very much a prototype, the first of the PublicDomainPulp project. It was a deliberate choice using Steinbeck's own first novel for the site's first adaptation — it rhymes. In subsequent works, we will both of us learn and improve (hopefully). But for now, expect things to be messy (just look at the <a href="https://github.com/JohnQPulp/CupOfGold/commits/main/">Git history</a>), since at time of writing this, all the sprites and background images have already been generated — all 660 of them. And many mistakes were made in that process, some realized and partially addressed only towards the end. The plan is to avoid making those same mistakes in the future. But for now, both my editing and Steinbeck's prose can be rough around the edges together.</e>
 
 
 In the house it was quiet except for the snapping fire-noises and for the swishing sound of blown thatch. A log cracked on the hearth and out of the crevice a thin blaze leaped up and curled about the black kettle like a flower of flame.
-b=farm-fire
+b=farm-fire-mod-g-h-r
 
 Now Mother flurried to the fireplace.
-m:farm-fire=m,r,g,h
+b=farm-fire-mod-g-h-m-r
 
 "Robert, you will never be paying attention to the fire. You should be poking at it now and again."
 s=m
@@ -239,7 +239,7 @@ Old Robert knew his embarrassment, and Mother, too, seemed to sense it, for when
 e:d=t
 
 Wrinkled old Gwenliana was in her seat before the fire, her mind lost in the swimming future.
-b=farm-fire;c=;m:farm-fire=g
+b=farm-fire-mod-g;c=
 
 Her clouded eyes were veiled with tomorrow. Behind their vague blue surfaces seemed to crowd the mounting events and circumstances of the world.
 b=think;c=g;e:g=t
@@ -251,7 +251,7 @@ Old Robert watched the door close behind his wife, then settled himself with tur
 c=;b=farm-door
 
 "Now, Dafydd," he said, and peered smiling into the fire, while Henry, kneeling on the floor, gazed with awe at this mortal who held the very distances in his palm.
-b=farm-fire;m:farm-fire=d,h,g,r;s=r
+b=farm-fire-mod-d-g-h-r;s=r
 
 "Well, Robert — it's about the green jungle I wanted to tell and the brown Indians that live in it, and about him they call Pierre le Grand."
 e:d=;s=d
@@ -281,7 +281,7 @@ e:d=t
 
 
 Dafydd ceased and looked at the floor.
-s=;b=farm-fire;e:d=
+s=;b=farm-fire-mod-d-g-h-r;e:d=
 
 "You see, I don't want to be hurting you with these things, Robert, but it's like something alive hidden in my chest under my ribs, and it's biting and scratching to get out of me."
 s=d
@@ -314,7 +314,7 @@ He rolled back his sleeve, and Robert in disgust motioned him to cover the sick 
 s=;b=missing
 
 "It was only a little scratch of an arrow — you could hardly see it; but it'll be killing me before years, I guess. There's other things in me, Robert. Even the humans are poisonous, and a song the sailors sing about that."
-s=d;e:d=;b=farm-fire
+s=d;e:d=;b=farm-fire-mod-d-g-h-r
 
 Now young Henry started up excitedly.
 s=
@@ -350,10 +350,10 @@ s=d;e:d=w
 b=jungle
 
 "This valley where I played and grew and worked has cast me out for a foul, hot thing. It cleans itself of me with the cold."<e>Steinbeck cheating on the Salinas Valley here.</e>
-b=wales
+b=wales-mod-night
 
 "Now will you be giving me a place to sleep, with thick covers to keep my poor blood moving; and in the morning I'll be off again."
-b=farm-fire
+b=farm-fire-mod-d-g-h-r
 
 He stopped and his face flexed with pain.
 s=
@@ -365,7 +365,7 @@ Old Robert helped him from the room with a hand under his arm, then came and sat
 s=;b=farm-room
 
 He looked at the boy who lay unmoving on the floor.
-b=farm-fire;m:farm-fire=r,g,h
+b=farm-fire-mod-g-h-r
 
 "What are you thinking about now, son?" he asked very softly after a time.
 s=r;e:r=w
@@ -428,7 +428,7 @@ s=r;e:r=u
 e:r=;b=farm-room
 
 Old Robert sat dreaming in his chair after the boy had gone.
-s=;b=farm-fire;m:farm-fire=r,g
+s=;b=farm-fire-mod-g-r
 
 "Why do men like me want sons?" he wondered. "It must be because they hope in their poor beaten souls that these new men, who are their blood, will do the things they were not strong enough nor wise enough nor brave enough to do."
 s=r;e:r=t
@@ -824,7 +824,7 @@ e:w=
 e:w=e
 
 Dusk was stealing into the mountain creases, filling them with purple mist. The sun cut itself on a sharp hill and bled into the valleys. Long shadows of the peaks crept out into the fields like stalking gray cats.
-c=;s=;b=wales;m:wales=
+c=;s=;b=wales
 
 When Merlin spoke, it was with a little laugh.
 e:w=h
@@ -833,7 +833,7 @@ e:w=h
 s=w
 
 Now the night was closing in quickly, and Henry jumped to his feet.
-s=;e:h=j;m:wales=night
+s=;e:h=j;b=wales-mod-night
 
 "Oh, but I must be going! The dark is in!"
 s=h
@@ -854,10 +854,10 @@ Merlin laughed softly. "Of course you must, Henry. And catch a big firefly, won'
 s=w;e:w=h
 
 Henry looked back once as the black silhouette of the house sank behind the crag's shoulder, but no light had flashed behind the windows. Old Merlin sat there pleading with his harps, and they echoed him jeeringly.
-c=h;b=crag-ext;m:crag-ext=night;s=;e:h=w;v=100,75
+c=h;b=crag-ext-mod-night;s=;e:h=w;v=100,75
 
 The boy quickened his steps down the path. All below was a black lake; and the farm lights stars' reflections in its deep. The wind had died, leaving a thick silence on the hills.
-b=trail;m:trail=night;e:h=c
+b=trail-mod-night;e:h=c
 
 Everywhere the sad, soundless ghosts flitted about their haunting. Henry walked carefully, his eyes on the path which glimmered pale blue before him.
 
@@ -866,7 +866,7 @@ Everywhere the sad, soundless ghosts flitted about their haunting. Henry walked 
 r=card
 
 On the path there in the dark, Henry's mind went back to the first speech of Merlin. Should he see Elizabeth before he went sailing away?
-n:liz=Elizabeth;b=road;m:road=night
+n:liz=Elizabeth;b=road-mod-night
 
 He did not like her; sometimes he thought he had discovered hatred for her, and this he nursed and warmed only to feel it grow to a desire to see her.
 b=think;c=h;e:h=m
@@ -908,7 +908,7 @@ And he could tell no one of these things. The people would shun him.
 e:h=u
 
 He thought perhaps he would like to see her before he left. There was a strange power in her this year, a drawing yet repelling power which swayed his desire like a windblown reed.
-c=;b=road;v=100,75
+c=;b=road-mod-night;v=100,75
 
 Other boys might have gone to her in the night and kissed her, after they had boasted a little of their going; but then, the other boys did not dream as he did, nor did they think of her, as he sometimes did, as a loathsome being.
 
@@ -938,13 +938,13 @@ s=b;e:b=m
 
 
 "'Why are you making no more songs?' I said to him in a tone like that. 'Why are you making no more songs?'"
-c=;b=crag-ext;m:crag-ext=;e:b=
+c=;b=crag-ext;e:b=
 
 "'I have grown to be a man,' he answered, 'and there be no songs in a man. Only children make songs — children and idiots.' Pest on him! It's an idiot himself, is the thought is on me. But what did he say to you, the old whitebeard?"
 
 
 "Why, you see, I'm going to the Indies and—"
-s=h;b=road;c=b,h,
+s=h;b=road-mod-night;c=b,h,
 
 "The Indies, and are you? Ah, well — I was at London once. And all the people at London are thieves, dirty thieves."
 s=b;e:b=m
@@ -956,7 +956,7 @@ s=b;e:b=m
 e:b=;c=;b=city
 
 "What chance have I or you, say, with all the fine, soft places taken up by robbers? And can you tell me the thieving price of an egg at London?"<e>Egg price inflation would ultimately doom the Cromwell administration.</e>
-b=road;c=b,h,
+b=road-mod-night;c=b,h,
 
 "I must take this road now," said Henry. "I must go home."
 s=h
@@ -965,7 +965,7 @@ s=h
 s=b;e:b=s
 
 The night was very black when Henry came at last to the poor hut where Elizabeth lived.
-c=;b=hut-ext;s=;m:hut-ext=night
+c=;b=hut-ext-mod-night;s=
 
 There was a fire in the middle of the floor, he knew, and the smoke drifted up and tried to get out at a small hole in the thatch.
 
@@ -977,7 +977,7 @@ The windows were not glazed nor curtained. Henry could see old black-browed Twym
 
 
 The girl stopped and looked out, but Henry was quiet in the dark. Then Elizabeth opened the door and stood framed against the inside light. The fire was behind her.
-m:hut-ext=liz
+b=hut-ext-mod-liz
 
 Henry could see the black outline of her figure through her dress. He saw the fine curve of her legs and the swell of her hips.
 
@@ -986,7 +986,7 @@ A wild shame filled him, for her and for himself.
 
 
 Without thought and without reason he ran away into the dark, gasping and almost sobbing under his breath.<e>Steinbeck, why such whiny and insecure characterization for Henry Morgan? Maybe you think you can pull off a compelling character growth arc, but I don't have <book>Great Expectations</book> (nyuk nyuk nyuk).</e>
-b=road;e:h=b
+b=road-mod-night;e:h=b
 
 ### V
 r=card
@@ -1127,7 +1127,7 @@ s=g;e:g=e
 
 
 Henry went to her and sat at her feet while she talked. There is truly a spell in the ancient Cumric tongue. It is a speech made for prophecy.
-s=;c=;m:farm-fire=g,h
+s=;c=;b=farm-fire-mod-g-h
 
 "Of course," Gwenliana said, "if I had only known of this today I should have got the shoulder bone of a new-killed sheep. It's a means of greater antiquity and better thought of than just snap-prophecy."
 s=g
@@ -1292,7 +1292,7 @@ Midday came, and a long, clear afternoon, and still he trudged on. There was a n
 
 
 In the late afternoon an army of black clouds drew over the sky. A wind rushed out with snow in its breath, and the grasses bowed before it.
-m:country-road=clouds
+b=country-road-mod-clouds
 
 Still he went on into the gathering storm until it was armed with sleet which pricked his face viciously, and until the cold went piercing through his jacket.
 
@@ -1349,7 +1349,7 @@ It seemed that hours passed over him like slow, sailing clouds while he lay shiv
 
 
 The boy's overstrung nerves snapped, and he ran whimpering from the barn and down the road toward Cardiff.
-b=country-road
+b=country-road-mod-clouds
 
 ## Chapter II
 r=card
@@ -1523,7 +1523,7 @@ And Henry, as he took the seat, did not know that the sailor out of Cork had see
 c=
 
 "Thank you," he said. "And where is it that you go sailing?"
-s=h;b=inn-seat;m:inn-seat=h,t
+s=h;b=inn-seat-mod-h-t
 
 "Ah! any place that ships go I do be sailing," replied Tim.
 n:t=Tim; s=t
@@ -1673,7 +1673,7 @@ He felt that there were tears coming to his eyes, and he was rather glad of it. 
 
 
 "Do you know, Tim," he said, "there was a girl I came away from, and she was named Elizabeth. Her hair was gold — gold like the morning. And on the night before I came away, I called to her and she came to me in the dark; the dark was all about us like a tent, and cold."
-s=h;e:h=u;b=hut-ext;m:hut-ext=liz;f:b:hut-ext=blur(3px)
+s=h;e:h=u;b=hut-ext-mod-liz;f:b:hut-ext-mod-liz=blur(3px)
 
 "She cried and cried for me to stay, even when I told her of the fine things and the trinkets and the silks I would bring back to her in a little time. She would not be comforted at all, and it's a sad thing on me to be thinking of her crying there for my leaving."
 e:h=u
@@ -1694,7 +1694,7 @@ e:t=s
 r=card
 
 They were starting for the Indies — the fine, far Indies where boys' dreams lived.
-b=bristol-deck;m:bristol-deck=sailors
+b=bristol-deck-mod-sailors
 
 The great sun of the morning lay struggling in gray mist, and on the deck the seamen swarmed like the angry populace of a broken hive. There were short orders and sailors leaping up the shrouds to edge along the yards.
 
@@ -1706,7 +1706,7 @@ Off for the Indies — the white sails knew it as they flung out and filled deli
 
 
 Carefully the *Bristol Girl* crept out of the shipping and down the long channel.
-m:bristol-deck=sailors,channel
+b=bristol-deck-mod-channel-sailors
 
 The mist was slowly mixing with the sky. Now the coast of Cambria became blue and paler blue until it faded into the straight horizon like a mad vision of the desert.
 
@@ -1721,7 +1721,7 @@ Then Land's End, the pointed tip of Britain's chin; and, as they rounded to the 
 
 
 The sea rose up and snarled at them, while the ship ran before the crying dogs of the wind like a strong, confident stag, ran bravely under courses and spritsail.
-m:bristol-deck=sailors,storm
+b=bristol-deck-mod-sailors-storm
 
 The wind howled out of Winter's home in the north, and the *Bristol Girl* mocked it across its face to the southwest.
 
@@ -1733,7 +1733,7 @@ Four wild days the persistent storm chased them out to sea with the ship in joy 
 
 
 And in this time Henry exulted like a young god. The wind's frenzy was his frenzy.<e>Hadn't quite figured out how to make the image generator not cut off the sides of images yet.</e>
-m:bristol-deck=storm,h
+b=bristol-deck-mod-h-storm
 
 He would stand on the deck, braced against a mast, face into the wind, cutting it with his chin as the prow cut the water, and a chanting exultation filled his chest to bursting — joy like a pain.
 
@@ -1751,13 +1751,13 @@ Here was the intoxication of the winds, a desire which satisfied desire while it
 
 
 Then, as quickly as the devil servants of the year had rushed at them, they slunk away, leaving a clear, clean sea. The ship rode under full sail before the eternal trade wind.
-m:bristol-deck=sea
+b=bristol-deck-mod-sea
 
 It is a fresh, fair wind out of heaven, breathed by the God of Navigation for the tall ships with sails.
 
 
 All the tension was gone from them; the sailors played about the deck like wild, strong children — for there is young happiness in the trade wind.
-m:bristol-deck=sea,sailors
+b=bristol-deck-mod-sailors-sea
 
 Sunday came, a day of sullen fear and foreboding on the *Bristol Girl*. Henry finished his work in the galley and went on deck.
 
@@ -1820,7 +1820,7 @@ s=t;e:t=u
 
 
 The trade wind blew on unceasingly, and, when his scouring and peeling were done, Henry talked with the men while he laid hand to the ropes and went aloft and learned the names and workings of the ship's gear.
-s=;c=;b=bristol-deck;m:bristol-deck=sea,sailors
+s=;c=;b=bristol-deck-mod-sailors-sea
 
 The sailors found him a quiet, courteous boy with a way of looking at them as though their speech were a great gift and they wise, kind men to be giving it to him; and so they taught him what they could, for very plainly this boy was born to the sea.
 
@@ -1859,7 +1859,7 @@ e:t=
 
 
 "But when we turned out the cabin there was a tall, straight woman with black hair to her, and a long white forehead, and the slenderest fingers I ever looked on with my eyes. So we took her aboard of us and didn't take the rest."<e>"Slenderest fingers" — someone call literary scholars Michael J. Nelson and Conor Lastowka.</e>
-b=dream;m:dream=woman;f:b:dream=blur(10px)
+b=dream-mod-woman;f:b:dream-mod-woman=blur(10px)
 
 "The captain was for leading the woman to the quarter deck alongside of him, when the bo's'n stepped up."
 
@@ -1883,7 +1883,7 @@ e:t=g
 b=galleon;e:t=t
 
 "Well, it was two nights later, the afterwatch was for running into the fo'c'sle and the hair bristling up on his head. 'There's a white thing, and it swimming after us,' he says, 'and the looks on it like the woman that went overboard.'"
-b=dream;m:dream=swimming;f:b:dream=blur(10px)
+b=dream-mod-swimming;f:b:dream-mod-swimming=blur(10px)
 
 "Of course we ran and looked over the taffrail, and I could see nothing at all; but the others said there was a thing with long white hands reaching out for our stern post, not swimming but just dragging after us like the ship was lodestone and it a bit of iron."
 
@@ -1901,7 +1901,7 @@ e:t=u
 
 
 "Well, three of us came floating ashore on an extra spar, and two of them crazed — poor souls — and wild like cats. I never did be hearing whether any others were saved or not, but I'm thinking not."
-b=dream;m:dream=;f:b:dream=;f:b:galleon=
+b=dream;f:b:dream=;f:b:galleon=
 
 "And that's the nearest I've ever seen with my eyes the things you do be talking of. But they say on clear nights in the Indian Ocean you can be seeing the poor murdered Hindu ghosts chasing the dead da Gama about in the sky."
 b=bristol-beds
@@ -1913,7 +1913,7 @@ e:t=s
 r=card
 
 From the first day, the cook had taken it upon himself to instruct young Henry. The man seemed to crave to give information. It was a wistful instruction, as though he feared every minute to be contradicted.
-n:cook=Cook;b=bristol-deck;m:bristol-deck=sea;c=cook,
+n:cook=Cook;b=bristol-deck-mod-sea;c=cook,
 
 He was a gray man, the cook, with sad brown eyes like a dog's eyes. There was something of a priest about him, and something of a dull lecturer, and something of a thug.
 
@@ -1958,7 +1958,7 @@ e:cook=;s=cook
 
 
 The sun had rushed below the water as they spoke. Far off, one black cloud whipped out tongue after tongue of dazzling lightning, but all the sky save that one spot was silken blue-black, littered with swarm of stars.
-s=;m:bristol-wide=night
+s=;b=bristol-wide-mod-night
 
 "You promised to speak with me of those same buccaneers," Henry begged; "they whom you call the Brethren of the Coast. Tell me, did you ever sail with them?"
 s=h;e:h=c
@@ -2012,7 +2012,7 @@ s=h;e:h=w
 s=
 
 In a few days they were coming close to land. One morning the pale ghost of a mountain was sitting on the edge of the circle.
-b=bristol-wide;m:bristol-wide=tropics
+b=bristol-wide-mod-tropics
 
 Logs and branches of trees went floating by now and again, and land birds flew out to them and rested in the rigging.
 
@@ -2036,7 +2036,7 @@ There is a peace in the tropic oceans which passes a desire for understanding. D
 
 
 For months and years they seemed to slip onward, but there was no impatience in the crew. They did their work, and lay about the deck all in a strange, happy lethargy.
-b=bristol-deck;m:bristol-deck=sailors,tropics
+b=bristol-deck-mod-sailors-tropics
 
 One day there was a little island floating in the sea, shaped like a haycock and green as the first spears of barley.
 
@@ -2048,7 +2048,7 @@ Henry saw it with eyes that looked out on enchantment.
 
 
 They passed that island, and another and another, until, at last, in the blackness of a tropic early morning, the ship came in to Barbados. Its anchors splashed into the sea and went tugging down with the hawser flying behind them.
-m:bristol-deck=sailors,barbados
+b=bristol-deck-mod-barbados-sailors
 
 On the shores there was lettuce green jungle as on the little islands, and farther back, plantations with straight laid rows and white houses with red roofs; farther still, the red soil showing like wounds through the jungle of the hills; and far behind, mountains that rose sharp and hard with the appearance of strong gray teeth.
 
@@ -2084,7 +2084,7 @@ In the little man's pale eyes there was the light of perpetual indecision and pe
 
 
 "These it is, now," cried Tim; "and you will not be thinking too badly about me, will you, Henry — seeing the grief it does me?"
-s=t;b=bristol-deck;c=h,t
+s=t;b=bristol-deck-mod-barbados-sailors;c=h,t
 
 The captain was shouting, "Galley boy! Oh, galley boy! Morgan! Aft!"
 s=master
@@ -2123,7 +2123,7 @@ s=master;e:master=h
 
 
 He pushed Henry soothingly along the deck in front of him.
-s=;b=bristol-deck;c=
+s=;b=bristol-deck-mod-barbados-sailors;c=
 
 At last the boy found his voice. "Tim," he cried, "Tim. They're selling me, Tim. Oh, Tim, come to me!" But there was no answer.
 s=h;e:h=b
@@ -2237,7 +2237,7 @@ s=j;e:j=p;c=j
 r=card
 
 There were few white men on the great green plantation, and those who did grub there were sullen, tattered wretches, serving for some forgotten felony against the Crown.
-b=plantation;m:plantation=men
+b=plantation-mod-men
 
 Within their bodies the fever lay like a light sleeper who wakes and snarls, then sleeps again with one malicious eye unclosed.
 
@@ -2258,7 +2258,7 @@ The overseer had been one of them, and now that he commanded those who had been 
 n:o=Overseer;b=think;c=o;e:o=g
 
 James Flower brought Henry to the shore, and something in the boy's silent misery touched the planter. He had never been able to think of his slaves as men before.
-b=plantation;m:plantation=;c=j,h;e:h=u
+b=plantation;c=j,h;e:h=u
 
 He had blindly followed the injunctions of the shrewd elder Cato in dealing with his slaves.<e>If Cato the Elder said it, then it's based.</e>
 e:j=t
@@ -2339,7 +2339,7 @@ e:j=t
 r=card
 
 In the evenings of the months that came, the two of them sat in the black depths of the veranda, and James Flower poured his unrelated facts into the ears of young Henry Morgan.
-b=veranda;m:veranda=j,h
+b=veranda-mod-h-j
 
 The boy listened eagerly, for often the planter spoke of ancient wars and their conduct.
 
@@ -2432,13 +2432,13 @@ Thus he became much more than the overseer.
 s=;c=
 
 Henry removed the gallows from the square, and after that the hanging was done secretly, in the night.<e>Wait what is this pacing.</e>
-b=square;m:square=nogallows
+b=square-mod-nogallows
 
 This was not kindness. He knew, out of his own reasoning, that the unknown thing can never become the normal thing; that unseen punishments could be far more horrible to the remaining slaves than those seen under the light of the sun.
 c=h;e:h=c
 
 Henry had learned many things in dealing with the slaves. He knew that he must never let them see what he was thinking, for then, in some ineffable way, they had a hold on him which would be difficult to shake off.
-c=;b=plantation;m:plantation=men
+c=;b=plantation-mod-men
 
 He must be cold and distant and insulting to those below him. With few exceptions, they would take insult as the sign of his superiority.
 
@@ -2459,7 +2459,7 @@ A growing pile of golden coins in a box under his bed gave ample proof of the va
 o=coinbox;c=
 
 And he followed all his teachings. He never gave any man the least hold on him, nor insight into his motives and means and abilities and shortcomings.
-o=;b=plantation
+o=;b=plantation-mod-men
 
 Since most men did not believe in themselves, they could not believe in one they understood to be like themselves.
 
@@ -2480,13 +2480,13 @@ Often he felt a slight irritation at the careless person who had made notes in h
 
 
 And Henry Morgan had got himself a great plantation and a great power.
-c=;b=plantation
+c=;b=plantation-mod-men
 
 Under his captaincy the earth flowered and increased. He was making the land give four times as much as it had before.<e>Steinbeck pulling numbers out of his ass.</e>
 b=cane
 
 The slaves worked deliriously under the whips which followed them to the fields, but there was nothing personal in the whips.
-b=plantation
+b=plantation-mod-men
 
 The old overseer had delighted in punishment, but Henry Morgan was not cruel. He was merciless.
 
@@ -2543,7 +2543,7 @@ And so, one evening—
 
 
 "There is a thing I should like to be speaking of, sir."
-s=h;b=library;m:library=j;e:h=
+s=h;b=library-mod-j;e:h=
 
 James Flower raised his eyes from his book and laid his head back in the chair.
 s=
@@ -2867,7 +2867,7 @@ s=p;c=p,h;e:p=f;e:h=u
 s=h
 
 "I was a little boy, a joyous little boy, yet old enough to love. There was a girl — and she was named Elizabeth — the daughter of a wealthy squire."
-b=hut-ext;m:hut-ext=liz;f:b:hut-ext=blur(6px);c=
+b=hut-ext-mod-liz;f:b:hut-ext-mod-liz=blur(6px);c=
 
 "Ah! she was lovely as this night about us, quiet and lovely as that slender palm tree under the moon."
 e:h=c
@@ -2936,7 +2936,7 @@ s=h
 r=card
 
 Christmas came to the Hot Tropics, the fourth Christmas of Henry's servitude. And James Flower brought him a small box done up with colored string.<e>Damnit, Steinbeck.</e>
-b=library;m:library=j,h;e:j=h
+b=library-mod-h-j;e:j=h
 
 "It is a gift of the season," he said, and his eyes sparkled with delight while Henry untied the package.
 s=j
@@ -2996,7 +2996,7 @@ And then he thought of small Paulette who would be crying with terror in her hut
 b=banana-house
 
 "There is a little servant girl," he said; "little Paulette."
-s=h;b=library;e:h=
+s=h;b=library-mod-h-j;e:h=
 
 "I have protected her. And if I have ever pleased you, will you do these things for me?"
 
@@ -3557,7 +3557,7 @@ s=h
 s=sailor
 
 And on that night, Henry found the buccaneer drinking in a hovel on the beach.
-r=hovel;m:hovel=grippo;n:grippo=Grippo;s=
+r=hovel-mod-grippo;n:grippo=Grippo;s=
 
 The man was nearly black; two fat wrinkles cut each cheek as though a silken cord were pulled tight against the flesh until it disappeared.
 
@@ -3581,7 +3581,7 @@ Grippo had feared all semblance of authority since then.
 
 
 "Who are you?" he asked.
-s=grippo;b=hovel
+s=grippo;b=hovel-mod-grippo
 
 "I think I am going to make your fortune, Grippo," Henry said with assurance.
 s=h;e:h=s
@@ -4376,7 +4376,7 @@ s=h;b=dream
 s=f;e:f=
 
 "I know; I know how I must have changed so that even you laugh a little at the thought of my being in love. I could not now command the affection of the daughter of an Earl."
-s=h;e:h=t;b=hut-ext;m:hut-ext=liz;f:b:hut-ext=blur(10px)
+s=h;e:h=t;b=hut-ext-mod-liz;f:b:hut-ext-mod-liz=blur(10px)
 
 "The daughter of an Earl, sir?"
 s=f;e:f=s
@@ -4526,7 +4526,7 @@ s=;b=dream
 s=h;e:h=w
 
 He called young Coeur de Gris to him.
-s=;b=bristol-deck;m:bristol-deck=sea;c=f,h
+s=;b=bristol-deck-mod-sea;c=f,h
 
 "You have distinguished yourself in this fight, my friend."
 s=h
@@ -4706,7 +4706,7 @@ s=;b=think
 r=card
 
 Spring had come to Cambria, welling up out of the Indies and out of the hot, dry heart of Africa, and this the fifteenth Spring since Henry went away.
-a:r=old;b=farm-ext;m:farm-ext=spring
+a:r=old;b=farm-ext-mod-spring
 
 Old Robert liked to think, and then came curiously to believe, that his son sent the Spring to Cambria out of the tropic places.
 c=r;v=100,80
@@ -4742,7 +4742,7 @@ But Robert thought often of this abstract person, his son, of whom he heard wave
 
 
 With waking on the fine morning of the Spring, Robert had said, "I will climb up to see Merlin today. Strange how that old man lives under the growing pressure of his years. There must be more than a hundred of them now."
-s=r;b=farm-ext;c=r;e:r=;v=100,80
+s=r;b=farm-ext-mod-spring;c=r;e:r=;v=100,80
 
 "His body is a thin wisp — nothing more than a suggestion that here was once a body. But William says, if you can be picking thought out of William's speaking, that his voice is golden and strong as always, and that he still talks tremendous nonsense that would not be tolerated at London."
 
@@ -4751,7 +4751,7 @@ s=r;b=farm-ext;c=r;e:r=;v=100,80
 e:r=h
 
 The steep, rocky path was a thing of torture to him; more a cruel thing because of his memory of lithe, powerful legs, and lungs as tireless as bellows.
-s=;b=trail;m:trail=spring;c=
+s=;b=trail-mod-spring;c=
 
 Once he had led all comers in the mountain race, but now he climbed a bit, then rested on a stone, and climbed again — up and up into the cleft and over the rock shoulder.
 
@@ -5000,7 +5000,7 @@ e:r=c
 
 
 And as he went down the path, the hanging harps crooned after him the Sorcerer's Farewell.<e>Another productive conversation with Merlin, famous character of buccaneering.</e>
-c=;b=trail;s=
+c=;b=trail-mod-spring;s=
 
 ## Chapter IV
 r=card
@@ -5555,7 +5555,7 @@ e:h=
 s=saw
 
 "I hang deserters," Captain Morgan said, and he left the cabin.
-s=h;m:cabin-p=nomorgan
+s=h;b=cabin-p-mod-nomorgan
 
 Coeur de Gris remained to listen. He would report the temper of the men.
 s=
@@ -6140,7 +6140,7 @@ Soon, very soon, the blood was dripping down the beards of the famished men, the
 
 
 While the dark was down, the pirate scouts were ranging over the plain like werewolves; they slipped to the walls and counted the soldiers before the town.
-b=pwalls;m:pwalls=night
+b=pwalls-mod-night
 
 And early in the morning, Captain Morgan aroused his men and called them together to give them the orders for the day's fight.
 b=morgan-army
@@ -6305,7 +6305,7 @@ Some of them climbed into the trees and hid themselves among the leaves; some lo
 b=pjungle
 
 A crowd of shouting men poured through the undefended gate and up the broad street. At crossing alleys, part of the line changed its course, like a river flowing backwards into its tributaries. Now and then a party would detach itself from the main body and move on one of the imposing houses.
-b=pcity;m:pcity=looting
+b=pcity-mod-looting
 
 There would be kicks on the door, a rush, and the door would fold inward like the cover of an enormous book.
 
@@ -6323,7 +6323,7 @@ She seemed to resent their humanity. She withdrew her head as though she renounc
 s=
 
 In the afternoon a fire broke out. Tall flames lanced into the sky. A section caught, a street; half the city was burning.
-b=pplaza;m:pplaza=burning
+b=pplaza-mod-burning
 
 Henry Morgan went to the Palace of the Governor to establish his quarters, and there, in the doorway, stood Don Juan Perez de Guzman, with a naked rapier in his hand.
 b=ppalace;c=!gov,;x:gov=rapier;e:gov=n
@@ -6365,19 +6365,19 @@ Henry Morgan watched him drunkenly lurching out of the city.
 
 
 The black night came.
-c=;b=pplaza;m:pplaza=burning
+c=;b=pplaza-mod-burning
 
 Nearly all of the city was in flame, a garden of red fire.
 
 
 The tower of the Cathedral crashed down and threw a heaven of sparks into the air.<e>"Heaven of sparks" — I think that's genuinely alright prose, for once. Good job, Steinbeck.</e>
-b=pchurch;m:pchurch=flame
+b=pchurch-mod-flame
 
 Panama was dying in a bed of flame, and the buccaneers were murdering the people in the streets.
 
 
 All night the captain sat in the audience chamber while his men brought in the gathered plunder.
-b=serpent-chair;m:serpent-chair=h
+b=serpent-chair-mod-h
 
 They piled golden bars on the floor like cordwood, bars so heavy that two men carried each of them with difficulty.
 
@@ -6422,10 +6422,10 @@ s=h
 s=tort
 
 All through the night — With each confession of wealth concealed, the victim was led out by a party of searchers, and soon they would return, bearing cups and silver plates, jewels, and clothing of colored silk.
-b=pcity;s=
+b=pcity-mod-looting;s=
 
 The glowing treasure in the Hall of Audience was becoming one enormous heap.
-b=serpent-chair
+b=serpent-chair-mod-h
 
 And Captain Morgan, wearily:
 
@@ -6509,7 +6509,7 @@ A monkey no larger than a rabbit picked over the gravel of the path, looking for
 
 
 On one of the stone seats of the garden a woman was sitting.
-n:la=?;b=garden-seat;m:garden-seat=la
+n:la=?;b=garden-seat-mod-la
 
 She pulled a yellow flower to bits while she sang fragments of a tender, silly song—"I would pluck the flower of the day for you, my love, where it grows in the dawning."
 s=la;e:la=t
@@ -6560,7 +6560,7 @@ Although there was no sound, she rose and walked quickly toward the Hall of Audi
 c=la,;b=garden;e:la=
 
 Henry Morgan had turned slightly in his chair, and his turning allowed the sunlight to beat upon his eyelids. Suddenly he sat up and stared about him. He looked with satisfaction at the heap of treasure on the floor, then gazed full in the eyes of the woman standing under the broad arch.
-b=serpent-chair;m:serpent-chair=h,la;c=
+b=serpent-chair-mod-h-la;c=
 
 "And have you ruined our poor city enough for your satisfaction?" she asked.
 s=la;e:la=s
@@ -6602,7 +6602,7 @@ And her skin was white — not pink at all.
 
 
 "You are the Red Saint?"
-s=h;b=serpent-chair;c=
+s=h;b=serpent-chair-mod-h-la;c=
 
 He was not prepared for this change of idea. He was staggered at such a revolt against his preconceptions.
 s=
@@ -6641,7 +6641,7 @@ s=h;e:h=t
 
 
 His eyes had been half closed, and when he opened them there was a real woman before him, not the wraithlike Elizabeth.
-s=;b=serpent-chair
+s=;b=serpent-chair-mod-h-la
 
 And she was gazing at him with curiosity, and perhaps, he thought, with some affection.
 
@@ -6866,7 +6866,7 @@ n:du=Duenna
 e:la=t
 
 He went slowly back to his chair in the Hall of Audience. He was filled with a kind of shame for his manhood. It was as though she had plucked his rapier from its scabbard and scratched his face with it while he stood helpless before her.
-s=;c=;b=serpent-chair;m:serpent-chair=
+s=;c=;b=serpent-chair
 
 She had beaten him without apparent effort. Now he quailed before the knowledge of his men's laughter when they discovered his embarrassment. There would be snickering when his back was turned.
 
@@ -7172,7 +7172,7 @@ Henry Morgan turned and went back to his serpent chair.
 
 
 He was thinking of the little Cockney, Jones; thinking of the cold hand of epilepsy which had seized him in his last moment of life.
-b=serpent-chair;m:serpent-chair=h
+b=serpent-chair-mod-h
 
 The hand had been always behind him, a giant hand to wring the man's body until the white drops of agony oozed from his lips.
 
@@ -7205,10 +7205,10 @@ And how could he keep this young man from knowing his defeat, from hearing the a
 
 
 The pistol which had killed Jones was lying on the floor.
-b=serpent-chair
+b=serpent-chair-mod-h
 
 Henry picked it up and methodically went to loading it.
-b=serpent-chair
+
 
 He did not fear ridicule from Coeur de Gris, but rather sympathy and understanding. Henry did not want understanding now.
 
@@ -7250,7 +7250,7 @@ She might come, at last, to build on something he possessed.
 
 
 He thought of the last scene with her.
-b=serpent-chair
+b=serpent-chair-mod-h
 
 Now that he was calm, his wild action seemed the showing off of a thick-legged little boy.
 
@@ -7274,7 +7274,7 @@ He looked at the heap of treasure.
 s=f
 
 "Where have you been, Coeur de Gris?"
-s=h;c=f,h;e:h=g;b=serpent-chair;m:serpent-chair=
+s=h;c=f,h;e:h=g;b=serpent-chair
 
 "Been? Why, I have been drunk. It is good to be drunk after fighting."
 s=f
@@ -7433,7 +7433,7 @@ The limp body fell over to one side. Henry straightened it and braced it in an u
 b=f-chair
 
 Then he went back to his serpent chair.
-b=serpent-chair;m:serpent-chair=h
+b=serpent-chair-mod-h
 
 "I raised my hand like this—" he said, pointing the pistol at Coeur de Gris.
 s=h;e:h=c
@@ -7469,7 +7469,7 @@ e:h=c
 n:men2=Soldier
 
 He was interrupted by a tramp of feet on the stairs.
-n:men1=Soldier; s=;b=serpent-chair;m:serpent-chair=
+n:men1=Soldier; s=;b=serpent-chair
 
 A band of his men entered, driving in their midst a poor frightened Spaniard — a mud-draggled, terrified Spaniard.
 n:span=Spaniard;c=men2,span,men1,,;e:span=f;v=100,80
@@ -7685,7 +7685,7 @@ This night he was saddened by these barrels of liquor which were being drunk wit
 
 
 Henry Morgan was sitting alone in the Hall of Audience.
-b=serpent-chair;m:serpent-chair=h
+b=serpent-chair-mod-h
 
 He could barely hear the crying music of the dance.
 
@@ -7697,7 +7697,7 @@ One old woman had swallowed a diamond to save it, but the searchers dug for that
 b=missing
 
 Now a gray twilight was in the Hall of Audience.
-b=serpent-chair
+b=serpent-chair-mod-h
 
 All through the day Henry Morgan had been sitting in his tall chair, and the day had changed him.
 
@@ -7718,7 +7718,7 @@ Henry Morgan did not seem worthy, or even important. Those desires and ambitions
 
 
 And wonderment like the twilight was about him in the Hall of Audience.
-c=;b=serpent-chair
+c=;b=serpent-chair-mod-h
 
 As he sat in the half dark, the wrinkled duenna crept in and stood before him.
 
@@ -8270,7 +8270,7 @@ The buccaneers went out of ruined Panama. They carried all of the treasure with 
 b=pcity-ruins
 
 When at last Chagres was reached, they were exhausted; nevertheless, the following day was set for the division of spoils. In order that this might be facilitated, the whole of the treasure was stored in one ship, the great galleon which had been commanded by a Duke before the pirates captured it.
-b=pbeach;m:pbeach=treasure-ship
+b=pbeach-mod-treasure-ship
 
 From this center the plunder was to be divided. Captain Morgan was in good spirits. The journey was over, he told the men, and it was time for pleasure. He rolled out forty kegs of rum onto the beach.
 
@@ -8861,7 +8861,7 @@ e:king=s
 s=je
 
 Sir Henry Morgan was announced.
-n:h=Sir Henry Morgan; s=;m:king-lib=h
+n:h=Sir Henry Morgan; s=;b=king-lib-mod-h
 
 "Step in, sir. Step in!"
 s=king;e:king=h
@@ -8981,7 +8981,7 @@ s=h;e:h=c
 b=dream;e:h=t
 
 "One summer, while I was a lad, a little princess of France came to our mountains for the air."
-b=hut-ext;m:hut-ext=liz;f:b:hut-ext=blur(20px)
+b=hut-ext-mod-liz;f:b:hut-ext-mod-liz=blur(20px)
 
 "She had a small retinue, and being lively and restless and clever, she achieved some freedom."
 
@@ -9014,7 +9014,7 @@ e:h=t
 
 
 Henry lifted his eyes. The King was smiling ironically. John Evelyn drummed the table with his fingers.
-s=;b=king-lib
+s=;b=king-lib-mod-h
 
 "Yes?" said the King. "Yes?" He chuckled.
 s=king;e:king=s
@@ -9038,7 +9038,7 @@ s=king
 s=h
 
 He bowed himself from the room.
-s=;m:king-lib=
+s=;b=king-lib
 
 The King was smiling through his wine.
 
@@ -9392,7 +9392,7 @@ e:bur2=c
 
 
 He dropped a rose pearl on the table and turned quickly away.
-s=;m:judge-bench=
+s=
 
 After they had been led out, Sir Henry sat at his bench and stared at the pearl.
 o=pearl
