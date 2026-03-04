@@ -92,7 +92,7 @@ When she had come home this afternoon, raging over the price of a pair of shoes 
 
 
 “Her life is like a book crowded with mighty events. Every day she rises to the peak of some tremendous climax which has to do with buttons or a neighbor’s wedding.”
-t=r;z:r=,30,2;e:r=t
+t=r;z:r=,40,2;e:r=t
 
 “I think that when true tragedy comes in upon her, she will not see it over her range of anthills.”
 e:r=w
@@ -175,11 +175,14 @@ b=farm-fire
 “Robert, you will never be paying attention to the fire. You should be poking at it now and again.”
 s=m;e:m=t
 
-Such was her method. She poked a large fire to make it smaller, and, when it died, she stirred the embers violently to restore the flame.
+Such was her method.
 s=
 
+She poked a large fire to make it smaller, and, when it died, she stirred the embers violently to restore the flame.
+
+
 A faint sound of footsteps came along the high-road—a sound that might have been the wind or those walking things which cannot be seen.
-b=farm-door
+b=think
 
 The steps grew louder, then stopped in front of the door from whence came a timid knocking.
 
@@ -187,17 +190,23 @@ The steps grew louder, then stopped in front of the door from whence came a timi
 “Come!” Robert called.
 e:r=;s=r
 
-The door opened softly, and there, lighted against the black night, stood a bent, feeble man with eyes like weak flames. He paused on the threshold as though undecided, but in a moment advanced into the room, asking in a strange, creaking voice,
-n:d=?;s=;c=d,
+The door opened softly, and there, lighted against the black night, stood a bent, feeble man with eyes like weak flames.
+n:d=?;s=;c=d
+
+He paused on the threshold as though undecided,
+e:d=t;m=allowbreak
+
+but in a moment advanced into the room, asking in a strange, creaking voice,
+m=;c=;b=farm-fire
 
 “Will you be knowing me, I wonder, Robert Morgan? Will you be knowing me that have been out so long?”
-s=d
+s=d;e:d=;z:d=,45,3
 
 His words were a plea.
 s=
 
 Robert searched the shrunken face.
-c=d,r;e:r=w
+e:r=w
 
 “Know you?” he said. “I do not think—wait!—can it be Dafydd? our little farm lad Dafydd that went away to sea years past?”
 e:r=p;s=r
@@ -208,17 +217,23 @@ s=;e:d=w
 Now he chuckled.
 e:d=s
 
-“It’s Dafydd, sure, and rich—and cold.” He finished with a wistfulness like a recurring pain.
+“It’s Dafydd, sure, and rich—and cold.”
 s=d
+
+He finished with a wistfulness like a recurring pain.
+s=
 
 Dafydd was gray-white and toughened like a dry hide. The skin of his face was stiff and thick so that he seemed to change expression with slow, conscious effort.
 s=;e:d=
 
-“I’m cold, Robert,” his queer, dry voice went on. “I can’t seem ever to get warm again. But anyway I’m rich,”—as though he hoped these two might balance—“rich along with him they call Pierre le Grand.”<e>One of literature's great "anyway"s.</e>
-n:d=Dafydd;s=d;c=d,r
+“I’m cold, Robert,” his queer, dry voice went on.
+n:d=Dafydd;s=d;
+
+“I can’t seem ever to get warm again. But anyway I’m rich,”—as though he hoped these two might balance—“rich along with him they call Pierre le Grand.”<e>One of literature's great "anyway"s.</e>
+
 
 Young Henry had risen, and now he cried:
-s=;c=d,h;e:h=a
+s=;e:h=a
 
 “Where have you been to, man—where?”
 s=h
@@ -226,35 +241,41 @@ s=h
 “Where? Why, I’ve been out to the Indies, that’s where I’ve been; to Goaves and to Tortuga—that’s the turtle—and to Jamaica and the thick woods of Hispaniola for the hunting of cattle. I’ve been all there.”
 s=d
 
-“You’ll be sitting down, Dafydd,” Mother Morgan interrupted. She spoke as though he had never been away.
-s=m;c=,d,,h,m
+“You’ll be sitting down, Dafydd,” Mother Morgan interrupted.
+s=m
+
+She spoke as though he had never been away.
+s=
 
 “I’ll about getting something warm to drink. Will you look how Henry gobbles you with his eyes, Dafydd? Like as not he’ll be wanting to go to the Indies, too.”
-
+s=m
 
 To her, the words were a pleasant idiocy.
 s=
 
 Dafydd kept silence, though he appeared to be straining back at a desire to talk. Mother Morgan frightened him as she had when he was a towheaded farm boy.
-c=d,;e:d=f
+e:d=f
 
 Old Robert knew his embarrassment, and Mother, too, seemed to sense it, for when she had put a steaming cup in his hands she left the room.
 e:d=t
 
 Wrinkled old Gwenliana was in her seat before the fire, her mind lost in the swimming future.
-b=farm-fire-mod-g;c=
+b=g
 
 Her clouded eyes were veiled with tomorrow. Behind their vague blue surfaces seemed to crowd the mounting events and circumstances of the world.
-b=think;c=g;e:g=t
+
 
 She was gone out of the room—gone into pure Time, and that the future.
 
 
 Old Robert watched the door close behind his wife, then settled himself with turnings as a dog settles.
-c=;b=farm-door
+c=;b=farm-fire
 
-“Now, Dafydd,” he said, and peered smiling into the fire, while Henry, kneeling on the floor, gazed with awe at this mortal who held the very distances in his palm.
-b=farm-fire-mod-d-g-h-r;s=r
+“Now, Dafydd,” he said,
+;s=r;m=allowbreak;e:r=
+
+and peered smiling into the fire, while Henry, kneeling on the floor, gazed with awe at this mortal who held the very distances in his palm.
+s=;m=
 
 “Well, Robert—it’s about the green jungle I wanted to tell and the brown Indians that live in it, and about him they call Pierre le Grand.”
 e:d=;s=d
@@ -269,7 +290,7 @@ He was leaning forward eagerly.
 s=
 
 “I’ll tell you. We took the tall plate ship they call a galleon, and we with only pistols and the long knives they have for cutting trails in the jungle.”
-s=d;b=galleon;e:d=
+s=d;b=galleon;e:d=;f:b:galleon=blur(2px)
 
 “Twenty-four of us there was—only twenty-four and ragged—but, Robert, we did horrid things with those same long knives. It’s no good for a man that was a farm lad to be doing such things and then thinking about them.”
 e:d=u
@@ -284,7 +305,7 @@ e:d=t
 
 
 Dafydd ceased and looked at the floor.
-s=;b=farm-fire-mod-d-g-h-r;e:d=
+s=;b=farm-fire;e:d=
 
 “You see, I don’t want to be hurting you with these things, Robert, but it’s like something alive hidden in my chest under my ribs, and it’s biting and scratching to get out of me.”
 s=d
@@ -292,11 +313,17 @@ s=d
 “I’m rich of the venturing sure, but most times that doesn’t seem enough; I’m richer, maybe, than your own brother, Sir Edward.”
 e:d=s
 
-Robert was smiling with tightened lips. Now and then his eyes wandered to the boy where he knelt on the hearth. Henry was taut with attention, gluttonously feeding on the words. When Robert spoke, he avoided Dafydd’s eyes.
+Robert was smiling with tightened lips.
 s=
 
+Now and then his eyes wandered to the boy where he knelt on the hearth. Henry was taut with attention, gluttonously feeding on the words.
+
+
+When Robert spoke, he avoided Dafydd’s eyes.
+
+
 “Your soul’s burdening you,” he said. “You’d best have a talk with the Curate the morning—but about what I don’t know.”
-s=r;e:r=u
+s=r;e:r=t
 
 “No, no; It’s not my soul at all,” Dafydd went on quickly. “That soul leaks out of a man the very first thing in the Indies, and leaves him with a dry, shrunken feeling where it was.”
 s=d;e:d=
@@ -305,7 +332,7 @@ s=d;e:d=
 e:d=w
 
 “The crawling things there and the little flying beasts that come to your fire of nights, and the great pale flowers, all poisonous. They do horrible things to a man. My blood is like cold needles sliding in my veins the moment, and the fine fire before me.”
-e:d=u;b=jungle
+e:d=u;b=jungle;f:b:jungle=blur(2px)
 
 “All this—all—is because of the dank breathing of the jungle. You cannot sleep in it nor lie in it, nor live in it at all but it breathes on you and withers you.”
 e:d=m
@@ -314,10 +341,10 @@ e:d=m
 
 
 He rolled back his sleeve, and Robert in disgust motioned him to cover the sick white horror which festered on his arm.
-s=;b=missing
+s=;b=farm-fire
 
 “It was only a little scratch of an arrow—you could hardly see it; but it’ll be killing me before years, I guess. There’s other things in me, Robert. Even the humans are poisonous, and a song the sailors sing about that.”
-s=d;e:d=;b=farm-fire-mod-d-g-h-r
+s=d;e:d=;b=farm-fire
 
 Now young Henry started up excitedly.
 s=
@@ -328,35 +355,50 @@ s=h;e:h=e
 “Fight?” said Dafydd.
 s=d
 
-“Yes, they fight always; fight for a love that’s in it. When they do not be fighting the men of Spain, they’re at killing amongst themselves. Lithe as snakes they are, and quick and quiet and brown as ferrets; the very devil for getting out of sight before a man might get a shot at them.”
+“Yes, they fight always; fight for a love that’s in it. When they do not be fighting the men of Spain, they’re at killing amongst themselves.”
+b=jungle
+
+“Lithe as snakes they are, and quick and quiet and brown as ferrets; the very devil for getting out of sight before a man might get a shot at them.”
 
 
-“But they’re a brave, strong people with the fear in them for only two things—dogs and slavery.” Dafydd was immersed in his tale.
+“But they’re a brave, strong people with the fear in them for only two things—dogs and slavery.”
 e:d=t
 
-“Why, boy, can you think what they would be doing to a man that might get himself taken in a skirmish? They stick him full of long jungle thorns from his head to his toes, and on the thick end of every thorn a ball of fluff like wool.”
+Dafydd was immersed in his tale.
+s=
 
+“Why, boy, can you think what they would be doing to a man that might get himself taken in a skirmish? They stick him full of long jungle thorns from his head to his toes, and on the thick end of every thorn a ball of fluff like wool.”
+s=d
 
 “Then the poor captive man stands in a circle of naked savages while they set light to the fluff. And that Indian that does not be singing while he burns there like a torch, is cursed and called a coward. Now, can you imagine any white man doing that?”<e>Seems a lateral move from the thumb-hanging of some paragraphs back.</e>
 e:d=s
 
-“But dogs they fear, because the Spaniards hunt them with huge mastiffs when they’re at slave gathering for the mines; and slavery is horrible to them. To go chained body to body into the wet earth, year on the crown of year, until they die of the damp ague—rather would they be singing under the burning thorns, and dying in a flame.”
+“But dogs they fear, because the Spaniards hunt them with huge mastiffs when they’re at slave gathering for the mines; and slavery is horrible to them.”
 e:d=
 
-He paused and stretched his thin hands into the fireplace until they were nearly touching the blaze. The light which had come into his eyes as he talked died out again.
+“To go chained body to body into the wet earth, year on the crown of year, until they die of the damp ague—rather would they be singing under the burning thorns, and dying in a flame.”
+
+
+He paused and stretched his thin hands into the fireplace until they were nearly touching the blaze.
+s=;b=think
+
+The light which had come into his eyes as he talked died out again.
 s=
 
-“Oh, I’m tired, Robert—so very tired,” he sighed, “but there’s one thing I want to tell you before I sleep. Maybe the telling will ease me, and maybe I can speak it out and then forget about it for the one night.”
-s=d;e:d=w
+“Oh, I’m tired, Robert—so very tired,” he sighed, “but there’s one thing I want to tell you before I sleep.”
+s=d;e:d=w;b=farm-fire
+
+“Maybe the telling will ease me, and maybe I can speak it out and then forget about it for the one night.”
+
 
 “I must go back to the damned place. I can never stay away from the jungle any more, because its hot breath is on me. Here, where I was born, I shiver and freeze. A month would find me dead.”
 b=jungle
 
 “This valley where I played and grew and worked has cast me out for a foul, hot thing. It cleans itself of me with the cold.”<e>Steinbeck cheating on the Salinas Valley here.</e>
-b=wales-mod-night
+b=wales-mod-night;f:b:wales-mod-night=blur(2px)
 
 “Now will you be giving me a place to sleep, with thick covers to keep my poor blood moving; and in the morning I’ll be off again.”
-b=farm-fire-mod-d-g-h-r
+b=farm-fire
 
 He stopped and his face flexed with pain.
 s=
@@ -365,16 +407,16 @@ s=
 s=d;e:d=u
 
 Old Robert helped him from the room with a hand under his arm, then came and sat again by the fire.
-s=;b=farm-room
+s=
 
 He looked at the boy who lay unmoving on the floor.
-b=farm-fire-mod-g-h-r
+b=h
 
 “What are you thinking about now, son?” he asked very softly after a time.
 s=r;e:r=w
 
 And Henry drew his gaze back from the land beyond the blaze.
-s=
+s=;b=farm-fire
 
 “I’m thinking I’ll be wanting to go soon, father.”
 s=h;e:h=u
@@ -388,11 +430,14 @@ e:r=t
 “But aren’t you afraid of the knives, son, and the poisons, and the Indians? Do not these things put fear on you?”
 e:r=
 
-<e><a href="https://www.youtube.com/watch?v=LLXlRc54uxk">"Did you ever say that you can see why women find Sean Connery sexy?"</a></e>“No‑o‑o,” Henry said slowly.
-s=h;e:h=t
+“No‑o‑o,” Henry said slowly.
+s=h;e:h=w
 
-“Of course not—and how could they? The words have no meaning to you at all. But the sadness of Dafydd, and the hurt of him, and his poor, sick body—aren’t you afraid of those? Do you want to go about the world weighed down with such a heart?”
+“Of course not—and how could they? The words have no meaning to you at all.”
 s=r;e:r=h
+
+“But the sadness of Dafydd, and the hurt of him, and his poor, sick body—aren’t you afraid of those? Do you want to go about the world weighed down with such a heart?”
+e:r=t
 
 Young Henry considered long.
 s=;e:h=t
@@ -404,15 +449,21 @@ His father went on smiling valiantly.
 s=
 
 “When will you be off, Henry? It will be lonely here without you.”
-s=r
+s=r;e:r=h
 
-“Why, I’ll go, now, as soon as I may,” said Henry; and it seemed that he was the older and Robert a little boy.
-s=h;e:h=
+“Why, I’ll go, now, as soon as I may,” said Henry;
+s=h;e:h=c
 
-“Henry, will you do two things for me before you go? Will you be thinking tonight of the long sleeplessness I’ll have because of you, and of how lost my days will be. And will you remember the hours your mother will fret about your underclothing and the state of your religion.”
+and it seemed that he was the older and Robert a little boy.
+s=
+
+“Henry, will you do two things for me before you go?”
 s=r;e:r=
 
-“That’s the first thing, Henry; but second, will you go up to old Merlin on the crag-top tomorrow and tell him of your going and listen to his words? He is wiser than you or I may ever be.”<e>Steinbeck's obsession with Arthurian tales was lifelong (he died while working on his own retelling of them), which is why he chose to wedge Merlin into this unrelated pirate story.</e>
+“Will you be thinking tonight of the long sleeplessness I’ll have because of you, and of how lost my days will be. And will you remember the hours your mother will fret about your underclothing and the state of your religion.”
+
+
+“That’s the first thing, Henry; but second, will you go up to old Merlin on the crag-top tomorrow and tell him of your going and listen to his words? He is wiser than you or I may ever be.”<e>Steinbeck's obsession with Arthurian tales was lifelong — he died while working on his own retelling of them. Hence, his wedging Merlin into this unrelated pirate story.</e>
 e:r=h
 
 “There is a kind of magic he practices which may be a help to you. Will you do these two things, son?”
@@ -428,13 +479,16 @@ s=h;e:h=u
 s=r;e:r=u
 
 “But go to bed, Henry, and think and think when the light is out and the dark in around you.”
-e:r=;b=farm-room
+e:r=
 
 Old Robert sat dreaming in his chair after the boy had gone.
-s=;b=farm-fire-mod-g-r
+s=;b=r
 
-“Why do men like me want sons?” he wondered. “It must be because they hope in their poor beaten souls that these new men, who are their blood, will do the things they were not strong enough nor wise enough nor brave enough to do.”
-s=r;e:r=t
+“Why do men like me want sons?” he wondered.
+s=r;e:r=h
+
+“It must be because they hope in their poor beaten souls that these new men, who are their blood, will do the things they were not strong enough nor wise enough nor brave enough to do.”
+e:r=t
 
 “It is rather like another chance with life; like a new bag of coins at a table of luck after your fortune is gone. Perhaps the boy is doing what I might have done had I been brave enough years past.”
 
@@ -9908,4 +9962,4 @@ The fire went out of the ember with a dry, hard snap. There was no light anywher
 c=;f:b:grotto=blur(25px) brightness(50%)
 
 For a moment, Henry was conscious of the deep, mellow pulsation of the Tone.<e>The End. So little Elizabeth was the Rosebud of the story or something. And we had some happy fun morals along the way. So not Steinbeck's best work, but it wasn't completely awful. (Now his next book to enter public domain is a werewolf murder mystery, and that I expect to be awful.) The real moral of the story is: eventually Steinbeck did get better, and that's a lesson in perseverance for all of us.</e>
-z:a1=86;z:aged=93;z:bur1=81;z:bur2=105;z:c=90;z:c-amid=95;z:c-aold=95;z:cock=70;z:cook=95;z:dp=102;z:dg=97;z:doc=95;z:drunk=108;z:e=103;z:f=105;z:g=90;z:gov=95;z:grippo=105;z:h=91;z:h-a18=102;z:h-a30=102;z:h-aold=102;z:h-adeath=102;z:hal=110;z:ie=92;z:j=93;z:la=96;z:ladm=98;z:liz-aghost=75;z:m=90,,2;z:master=106;z:men1=97;z:men2=102;z:p=89;z:pris2=97;z:r2=97;z:r3=103;z:r4=98;z:span=96;z:t=106;z:w=92
+z:a1=86;z:aged=93;z:bur1=81;z:bur2=105;z:c=90;z:c-amid=95;z:c-aold=95;z:cock=70;z:cook=95;z:dp=102;z:dg=97;z:doc=95;z:drunk=108;z:e=103;z:f=105;z:g=90;z:gov=95;z:grippo=105;z:h=91,,2;z:h-a18=102;z:h-a30=102;z:h-aold=102;z:h-adeath=102;z:hal=110;z:ie=92;z:j=93;z:la=96;z:ladm=98;z:liz-aghost=75;z:m=90,,2;z:master=106;z:men1=97;z:men2=102;z:p=89;z:pris2=97;z:r2=97;z:r3=103;z:r4=98;z:span=96;z:t=106;z:w=92
