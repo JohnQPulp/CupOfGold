@@ -25,44 +25,47 @@ The afternoon passed slowly, procession-like with an end of evening, and on the 
 Night drew down like a black cowl, and Holy Winter sent his nuncio to Wales.
 b=wales-mod-night
 
-Beside the high-road which lined the valley, ran up through a cleft in the hills, and so out into the world, there stood an ancient farmhouse built of heavy stones and thatched. The Morgan who had built it played against Time and nearly won.
+Beside the high-road which lined the valley, ran up through a cleft in the hills, and so out into the world, there stood an ancient farmhouse built of heavy stones and thatched.
 b=farm-ext-mod-night
+
+The Morgan who had built it played against Time and nearly won.
+
 
 Inside the house a fire was burning on the hearth; an iron kettle hung over the blaze, and a black iron oven hid in the coals which fell about the edges of the flame.
 b=farm-fire
 
-The brisk firelight glinted on the tips of long-handled pikes in racks upon the walls, weapons unused in the hundred years since Morgan clamored in Glendowers’ ranks and trembled with rage at the flinty lines of Iolo Goch.<e>Steinbeck screwing over historical timelines from paragraph four of his book. (Take <i>that</i>, Owain Glyndŵr.) And the screwing will only continue from here.</e>
+The brisk firelight glinted on the tips of long-handled pikes in racks upon the walls, weapons unused in the hundred years since Morgan clamored in Glendowers’ ranks and trembled with rage at the flinty lines of Iolo Goch.<e>Steinbeck screwing over <a href="https://en.wikipedia.org/wiki/Owain_Glynd%C5%B5r">historical timelines</a> from paragraph four of his book. (And the screwing will only continue from here.)</e>
 
 
 The wide brass bindings of a great chest, which stood in a corner, sucked in the light and glowed resplendently.
 
 
 Papers there were in the chest, and parchments, and stiff untanned skins, written in English and Latin and the old Cumric tongue: Morgan was born, Morgan was married, Morgan became a knight, Morgan was hanged. Here lay the history of the house, shameful and glorious.
-b=think
+
 
 But the family was few now, and little enough likely to add records to the chest other than the simple chronicle: Morgan was born—and died.
 
 
 There was Old Robert, for instance, sitting in his high-backed chair, sitting and smiling into the fire. His smile was perplexity and a strange, passive defiance.
-b=farm-fire-mod-r
+b=r
 
 You would have said he sought to make that Fate which was responsible for his being, a little ashamed of itself by smiling at it.
 
 
 Often he wearily considered his existence, ringed around with little defeats which mocked it as street children torment a cripple.<e>Whereas <i>Cup of Gold</i> is ringed around by overwrought analogies.</e>
-c=r;b=think;e:r=w
+
 
 It was strange to Old Robert that he, who knew so much more than his neighbors, who had pondered so endlessly, should be not even a good farmer. Sometimes he imagined he understood too many things ever to do anything well.
 e:r=t
 
 And so Old Robert sipped the burned ale of his own experimenting and smiled into the fire.
-e:r=h
+e:r=h;b=farm-fire
 
 His wife would be whispering excuses for him, he knew, and the laborers in the fields removed their hats to Morgan, not to Robert.
 e:r=;c=
 
 Even his aged mother, Gwenliana, here beside him, shivering to the fire as though the very wind sounds about the house called in the cold to her, was not so judged incompetent. In the cottages there was a little fear of her and a great respect.
-b=farm-fire-mod-g-r
+b=g
 
 Any day when she sat in the garden holding her necromantic court, you might see some farm lad blushing and hugging his hat across his chest while he listened to Gwenliana’s magic. For many years, now, she had been practicing the second sight and taking pride in it.
 
@@ -71,46 +74,49 @@ And though the family knew her prophecies to be whole guesses whose shrewdness g
 
 
 When, after one of her mystic recitations, the scissors were not discovered under the second board of the shed floor, they pretended to find them there anyway, for, had she lost the robe of augury, there would have remained only a little wrinkled old woman soon to die.
-b=think;c=g
 
-This play of claque to a simpleton was a harsh tax on the convictions of Mother Morgan. It outraged her nature, for she was one who had, apparently, come into the world to be a scourge to all foolishness.
-c=,g,m
+
+This play of claque to a simpleton was a harsh tax on the convictions of Mother Morgan.
+b=think
+
+It outraged her nature, for she was one who had, apparently, come into the world to be a scourge to all foolishness.
+c=m;e:m=t;v=100,150
 
 Such matters as had so obviously no connection either with the church or with the prices of things were plainly nonsense.
-
+c=
 
 Old Robert had loved his wife so well and so long that he could think sharp things about her, and the thoughts could not injure his affection.
-c=r,,m;e:r=h
+b=farm-fire
 
 When she had come home this afternoon, raging over the price of a pair of shoes she hadn’t wanted anyway, he had considered:
 
 
-“Her life is like a book crowded with mighty events.”
-c=;b=farm-fire-mod-g-r;t=r
+“Her life is like a book crowded with mighty events. Every day she rises to the peak of some tremendous climax which has to do with buttons or a neighbor’s wedding.”
+t=r;z:r=,30,2;e:r=t
 
-“Every day she rises to the peak of some tremendous climax which has to do with buttons or a neighbor’s wedding.”
+“I think that when true tragedy comes in upon her, she will not see it over her range of anthills.”
+e:r=w
 
-
-“I think that when true tragedy comes in upon her, she will not see it over her range of anthills. Perhaps this is luck,” he thought, and then—“I wonder, now, how she would compare the king’s own death with the loss of one of the sow’s red pigs.”
+“Perhaps this is luck,” he thought, and then—“I wonder, now, how she would compare the king’s own death with the loss of one of the sow’s red pigs.”
 e:r=t
 
 Mother Morgan was too busy with the day itself to be bothered with the foolishness of abstractions.
-t=;b=think;c=m;e:r=
+t=
 
 Someone in the family had to be practical or the thatch would blow away—and what could you expect of a pack of dreamers like Robert and Gwenliana and her son Henry?
-c=r,g,h;e:r=h
+
 
 She loved her husband with a queer mixture of pity and contempt born of his failings and his goodness.
-c=r,,
+
 
 Young Henry, her son, she worshiped, though of course she could not trust him to have the least idea of what was to his benefit or conducive to his health.
-c=,,h
+
 
 And all of the family loved Mother Morgan and feared her and got in her way.
-c=r,g,h
+
 
 She had fed them and trimmed the lamp. Breakfast was on the fire. Now she searched about for something to mend, as though she did not mend everything the moment it was torn.
-c=;b=farm-fire-mod-g-h-m-r
+
 
 In the midst of her search for busyness she paused and glanced sharply at young Henry. It was the kind of harsh, affectionate look which says, “I wonder, now, if he is not in the way of catching cold there on the floor.”
 
@@ -119,10 +125,10 @@ And Henry squirmed, wondering what things he had neglected to do that afternoon.
 
 
 But immediately she caught up a cloth and went to dusting, and the boy was reassured.
-b=farm-fire-mod-g-h-r
+
 
 He lay propped on one elbow and stared past the fire into his thoughts.
-
+b=h
 
 The long gray afternoon, piercing to this mysterious night, had called up strong yearnings in him, the seeds of which were planted months before. It was a desire for a thing he could not name.
 
@@ -130,47 +136,44 @@ The long gray afternoon, piercing to this mysterious night, had called up strong
 Perhaps the same force moved him which collected the birds into exploring parties and made the animals nervously sniff upwind for the scent of winter.
 
 
-Young Henry was conscious, this night, that he had lived on for fifteen tedious years without accomplishing any single thing of importance.<e>And you, Steinbeck, in your late-20s, writing this. So it's inspirational that everyone has a chance to turn things around eventually.</e>
-b=think;c=h;e:h=u
+Young Henry was conscious, this night, that he had lived on for fifteen tedious years without accomplishing any single thing of importance.
+
 
 And had his mother known his feeling, she would have said, “He is growing.”
-c=m,
+
 
 And his father would have repeated after her, “Yes, the boy is growing.”
-c=m,r
+
 
 But neither would have understood what the other meant.
 
 
 Henry, if you considered his face, drew from his parents almost equally. His cheek bones were high and hard, his chin firm, his upper lip short and thin like his mother’s.
-c=h;e:h=
 
-But there, too, were the sensual underlip, and the fine nose, and the eyes which looked out on dreams; these were Old Robert’s features, and his was the thick, wiry hair coiled like black springs against the head.<e>Here I was confused why the image generator was refusing to make a Henry sprite until I saw I'd copy-pasted the phrase "sensual underlip". Damnit Steinbeck.</e>
+
+But there, too, were the sensual underlip, and the fine nose, and the eyes which looked out on dreams; these were Old Robert’s features, and his was the thick, wiry hair coiled like black springs against the head.
 
 
 But though there was complete indecision in Robert’s face, there was a great quantity of decision in Henry’s if only he could find something about which to decide.
 e:h=t
 
 Here were three before the fire, Robert and Gwenliana and young Henry, whose eyes looked out beyond the walls and saw unbodied things—looked into the night for the ghosts.
-c=;b=farm-fire-mod-g-h-r
+b=farm-fire
 
 It was a preternatural night; a time when you might meet corpse-candles gliding along the road, or come upon the ghost of a Roman legion marching at double quick to reach its sheltering city of Caerleon before the full storm broke.
-b=farm-ext-mod-night
+b=wales-mod-night
 
 And the little misshapen beings of the hills would be searching out deserted badger holes to cover them from the night. The wind would go crying after them through the fields.
 b=wales-mod-night
 
-<e>You may have noticed the art style inconsistency in the shading between this background and the previous. Now is as good a time as any to address that this visual novel adaptation is very much a prototype, the first of the PublicDomainPulp project. It was a deliberate choice using Steinbeck's own first novel for the site's first adaptation — it rhymes. In subsequent works, we will both of us learn and improve (hopefully). But for now, expect things to be messy (just look at the <a href="https://github.com/JohnQPulp/CupOfGold/commits/main/">Git history</a>), since at time of writing this, all the sprites and background images have already been generated — all 660 of them. And many mistakes were made in that process, some realized and partially addressed only towards the end. The plan is to avoid making those same mistakes in the future. But for now, both my editing and Steinbeck's prose can be rough around the edges together.</e>
-
-
 In the house it was quiet except for the snapping fire-noises and for the swishing sound of blown thatch. A log cracked on the hearth and out of the crevice a thin blaze leaped up and curled about the black kettle like a flower of flame.
-b=farm-fire-mod-g-h-r
+b=farm-fire
 
 Now Mother flurried to the fireplace.
-b=farm-fire-mod-g-h-m-r
+b=farm-fire
 
 “Robert, you will never be paying attention to the fire. You should be poking at it now and again.”
-s=m
+s=m;e:m=t
 
 Such was her method. She poked a large fire to make it smaller, and, when it died, she stirred the embers violently to restore the flame.
 s=
@@ -4742,7 +4745,7 @@ But Robert thought often of this abstract person, his son, of whom he heard wave
 
 
 With waking on the fine morning of the Spring, Robert had said, “I will climb up to see Merlin today. Strange how that old man lives under the growing pressure of his years. There must be more than a hundred of them now.”
-s=r;b=farm-ext-mod-spring;c=r;e:r=;v=100,80
+s=r;b=farm-ext-mod-spring;e:r=;v=100,80
 
 “His body is a thin wisp—nothing more than a suggestion that here was once a body. But William says, if you can be picking thought out of William’s speaking, that his voice is golden and strong as always, and that he still talks tremendous nonsense that would not be tolerated at London.”
 
@@ -9905,4 +9908,4 @@ The fire went out of the ember with a dry, hard snap. There was no light anywher
 c=;f:b:grotto=blur(25px) brightness(50%)
 
 For a moment, Henry was conscious of the deep, mellow pulsation of the Tone.<e>The End. So little Elizabeth was the Rosebud of the story or something. And we had some happy fun morals along the way. So not Steinbeck's best work, but it wasn't completely awful. (Now his next book to enter public domain is a werewolf murder mystery, and that I expect to be awful.) The real moral of the story is: eventually Steinbeck did get better, and that's a lesson in perseverance for all of us.</e>
-z:a1=86;z:aged=93;z:bur1=81;z:bur2=105;z:c=90;z:c-amid=95;z:c-aold=95;z:cock=70;z:cook=95;z:dp=102;z:dg=97;z:doc=95;z:drunk=108;z:e=103;z:f=105;z:g=90;z:gov=95;z:grippo=105;z:h=91;z:h-a18=102;z:h-a30=102;z:h-aold=102;z:h-adeath=102;z:hal=110;z:ie=92;z:j=93;z:la=96;z:ladm=98;z:liz-aghost=75;z:m=90;z:master=106;z:men1=97;z:men2=102;z:p=89;z:pris2=97;z:r2=97;z:r3=103;z:r4=98;z:span=96;z:t=106;z:w=92
+z:a1=86;z:aged=93;z:bur1=81;z:bur2=105;z:c=90;z:c-amid=95;z:c-aold=95;z:cock=70;z:cook=95;z:dp=102;z:dg=97;z:doc=95;z:drunk=108;z:e=103;z:f=105;z:g=90;z:gov=95;z:grippo=105;z:h=91;z:h-a18=102;z:h-a30=102;z:h-aold=102;z:h-adeath=102;z:hal=110;z:ie=92;z:j=93;z:la=96;z:ladm=98;z:liz-aghost=75;z:m=90,,2;z:master=106;z:men1=97;z:men2=102;z:p=89;z:pris2=97;z:r2=97;z:r3=103;z:r4=98;z:span=96;z:t=106;z:w=92
