@@ -1,5 +1,5 @@
-*Cup of Gold: A Life of Sir Henry Morgan, Buccaneer, with Occasional Reference to History* by John Steinbeck<e>Thought Steinbeck was all poverty and tragedy, did you? <i>No.</i> His first book is pirates. And it is… not good. And neither is this visual novel. (It's Public Domain Pulp's first VN, and I didn't know what I was doing.) You should probably just skip this one.</e>
-n:author=;b=title;t=author;h=no-speaker-counter
+<div class='center'><span class='big italics'>Cup of Gold: A Life of Sir Henry Morgan, Buccaneer, with Occasional Reference to History</span> by&nbsp;John&nbsp;Steinbeck</div><e>Thought Steinbeck was all poverty and tragedy, did you? <i>No.</i> His first book is pirates.</e>
+n:author=;b=title;t=author;z:author=,,2
 
 ## Chapter I
 t=;b=card
@@ -7,7 +7,7 @@ t=;b=card
 ### I
 
 
-All afternoon the wind sifted out of the black Welsh glens, crying notice that Winter was come sliding down over the world from the Pole; and riverward there was the faint moaning of new ice. It was a sad day, a day of gray unrest, of discontent.<e>So Steinbeck, you've included the Shakespearean phrase "winter... of discontent" in the first lines of your first novel. Lines you'll reuse 32 years from now as the title of <book>The Winter of Our Discontent</book>, your last (not counting your """nonfiction""" book <book>Travels with Charley</book>). So that's neat career bookending.</e>
+All afternoon the wind sifted out of the black Welsh glens, crying notice that Winter was come sliding down over the world from the Pole; and riverward there was the faint moaning of new ice. It was a sad day, a day of gray unrest, of discontent.<e>"Winter... of discontent" opens Steinbeck's first novel. That's some neat, Shakespearean <book>The Winter of Our Discontent|career bookending</book>.</e>
 b=wales
 
 The gently moving air seemed to be celebrating the loss of some gay thing with a soft, tender elegy.
@@ -31,7 +31,7 @@ b=farm-ext-mod-night
 Inside the house a fire was burning on the hearth; an iron kettle hung over the blaze, and a black iron oven hid in the coals which fell about the edges of the flame.
 b=farm-fire
 
-The brisk firelight glinted on the tips of long-handled pikes in racks upon the walls, weapons unused in the hundred years since Morgan clamored in Glendowers’ ranks and trembled with rage at the flinty lines of Iolo Goch.<e>Steinbeck impressively getting dates wrong already in paragraph four of his book (see Wikipedia article for Owain Glyndŵr). Calling out all the historical fudging would be overly pedantic, so going forward, just be aware that the "with Occasional Reference to History" part of the title does some heavy lifting.</e>
+The brisk firelight glinted on the tips of long-handled pikes in racks upon the walls, weapons unused in the hundred years since Morgan clamored in Glendowers’ ranks and trembled with rage at the flinty lines of Iolo Goch.<e>Steinbeck screwing over historical timelines from paragraph four of his book. (Take <i>that</i>, Owain Glyndŵr.) And the screwing will only continue from here.</e>
 
 
 The wide brass bindings of a great chest, which stood in a corner, sucked in the light and glowed resplendently.
