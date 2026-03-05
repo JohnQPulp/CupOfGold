@@ -4097,7 +4097,7 @@ The Free Brotherhood had grown to be a terrible thing since Pierre le Grand and 
 
 
 France and Britain and Holland had seen in these islands a good hermitage for their criminals, and for years they had unloaded worthless human freight on the Indies.
-
+b=map
 
 There was a time in those old nations when anyone who could not give a good, virtuous account of himself was crammed into a ship and sent off to be a bond-servant to any man who would pay a small sum for him.
 
@@ -4133,7 +4133,7 @@ But after a time these hunters came out of the woods in little, careful groups; 
 
 
 And finally thousands assembled in Tortuga, and from that spot of safety buzzed about the flanks of Spain.
-
+b=map2
 
 And Spain could not combat them. Did she hang ten, a hundred joined their ranks; so she fortified her towns and sent her treasures on the sea under the protection of warships filled with soldiers.
 
@@ -4193,7 +4193,7 @@ But L’Ollonais was not content with murdering the Spanish men.
 
 
 He went into the gentle country of Yucatan, where the people lived in ruined stone cities, and where the virgins went crowned with flowers.
-
+b=jungle
 
 They were a quiet people in Yucatan, and their race was dying in an inexplicable decay.
 
@@ -4211,10 +4211,10 @@ They built a fire and danced for hours, and then they burned the Frenchman’s b
 
 
 A lean French gentleman came into a tavern at Tortuga one night, and when they asked his name, seized a large rum keg and hurled it from him.
-
+b=map2
 
 “Bras de Fer,” he said, and no one ever questioned him farther.
-
+m=dialogue
 
 It was never known whether his name was hidden for a shame or a sorrow or a hatred, but all the Coast came to know of him as a great, brave captain.
 
@@ -4225,11 +4225,14 @@ These were men who made phrases to be repeated.
 “No prey, no pay,” the Exterminator had bawled, and now everyone was saying it.
 
 
-When Captain Lawrence, in a small boat, was assailed by two Spanish frigates, he said to his men, “You have too much experience not to be sensible of your danger, and too much courage to fear it.”
+When Captain Lawrence, in a small boat, was assailed by two Spanish frigates, he said to his men,
+
+
+“You have too much experience not to be sensible of your danger, and too much courage to fear it.”
 
 
 This was a fine saying, and on the strength of it his followers captured the two Spanish ships and took them home to Goaves.
-
+m=
 
 Not all were cruel or even violent men. Some had a curious streak of piety.
 
@@ -4246,7 +4249,10 @@ Captains of ships maintained the strictest discipline among their men, swiftly p
 There were no such riots at sea as were later tolerated by Kidd and Blackbeard and Lafitte.
 
 
-But out of the whole history of the Brotherhood, one man towered. There was a Dutchman named Edward Mansveldt. In bravery and in soldiery he was preeminent, for he had taken Granada and St. Augustine in Florida, and St. Catherine’s Isle. With a great fleet of ships he had gone cruising along the coasts of Darien and Castilla de Oro, taking what he might lay his hands on.
+But out of the whole history of the Brotherhood, one man towered. There was a Dutchman named Edward Mansveldt.
+
+
+In bravery and in soldiery he was preeminent, for he had taken Granada and St. Augustine in Florida, and St. Catherine’s Isle. With a great fleet of ships he had gone cruising along the coasts of Darien and Castilla de Oro, taking what he might lay his hands on.
 
 
 But there was a power of dream in him. Out of his mob of ragamuffin heroes he wanted to make a strong, durable nation, a new, aggressive nation in America. As more and more of the buccaneers flocked to his command, his dream solidified.
@@ -4262,7 +4268,7 @@ It would be started at St. Catherine’s Isle. He settled a body of his men the
 
 
 These were the men Henry Morgan had set about to lead. And, confidently, he saw no barrier, so only a man planned carefully and considered his chances.
-b=think;c=h;e:h=t
+
 
 These stories and these men were well enough, but they fell short in the large actions. They were improvident and vain. They might help him one day.
 c=
@@ -4316,13 +4322,13 @@ Then Captain Morgan, hanging aft, out of range of her broadside, poured shot int
 n:h=Captain Morgan
 
 It was the first prize of his planning.
-
+b=think
 
 A few days later he brought up with another ship and ran alongside to board.
 
 
 The Spanish crew was massed against the bulwarks to repel the attack.
-
+b=ganymede-battle
 
 And immediately the air was filled with clay powder pots which landed in the thick group and exploded.
 
@@ -4340,13 +4346,13 @@ One had only to do the unexpected thing quickly. This was the secret of successf
 
 
 Mansveldt was in Tortuga when Henry Morgan came, and his little eyes glittered as he looked at this plunder.
-b=island-harbor;n:man=Mansveldt;c=man,;e:man=s
+b=island-harbor;n:man=Mansveldt;e:man=s
 
 Soon he sent for this new leader.
 
 
 “You are Captain Morgan who took the four prizes in the harbor?”
-s=man;c=man,h
+s=man;z:man=,,5
 
 “Yes, sir, I am.”
 s=h
@@ -4354,7 +4360,7 @@ s=h
 “And how did you do this thing? The Spanish ships are strongly armed and wary.”
 s=man
 
-“I did it, sir, with my planning. Many nights have I considered how to do these things. I work with surprise, sir, when other men use only force.”<e>Here we see Henry's advanced technique of "planning" allowing him to outsmart everyone else. The only way Steinbeck could think of for how to make the narrative loosely follow Morgan's actual historical feats was to make every other character stupid.</e>
+“I did it, sir, with my planning. Many nights have I considered how to do these things. I work with surprise, sir, when other men use only force.”<e>The advanced technique of "planning". No further details necessary, Steinbeck.</e>
 s=h;e:h=s
 
 Mansveldt regarded him with admiration.
@@ -4372,7 +4378,7 @@ s=;e:h=h
 “I would like it, sir,” he said quickly.
 s=h
 
-The fleet sailed out, and Captain Morgan was Vice-Admiral.<e>It may be overly-fast pacing, but at least we're getting to the point.</e>
+The fleet sailed out, and Captain Morgan was Vice-Admiral.
 b=fleet;s=;c=
 
 There was a fine assault; the ships threw in their ragged hordes and slaughter walked on the walls.
@@ -4382,13 +4388,13 @@ The island could not withstand the fierceness of the attack, and finally the for
 
 
 Then the Dutch admiral drew up his government and left Henry Morgan in command while he went out to scour the world for recruits.
-b=think;c=man
+b=map2
 
 He and his ship were lost and never heard from again. It was said the Spaniards strangled him in Cuba.
 c=
 
 Captain Morgan was now the paramount leader of the Spanish Main.
-c=h;e:h=
+;e:h=
 
 Ships flew from the ways to join his fleets, to sail under his command and fight with him and share in his success.
 b=fleet;c=
@@ -4403,16 +4409,16 @@ When Captain Morgan’s ships sailed off the jungle was already creeping into th
 
 
 For ten years he sailed about the ocean, among the islands and along the green coasts of Tropic America, and his was the greatest name of all who had gone out for plunder.
-a:h=30;b=think;c=h
+a:h=30;b=map2
 
 The pirates of the world came flocking to his reputation. People cheered him in Tortuga and Goaves.
 c=
 
 Numberless men volunteered for every expedition. Now all the Brotherhood waited for Captain Morgan to open a keg of liquor in the streets or to run wild through the town.
-
+b=think
 
 He never did. Coldly he walked about, clad in a purple coat and gray silk stockings and gray shoes with bows.
-c=h;e:h=g
+c=h;e:h=g;v=100,140
 
 At his side hung a long rapier no thicker than a pencil, in a scabbard of gray silk.
 
@@ -4427,7 +4433,7 @@ c=
 r=card
 
 Ten years of fighting and plundering and burning, and he was thirty.
-b=think;c=h
+b=think;c=h;v=100,140
 
 His graying hair seemed to coil more closely to his head.
 
@@ -4442,13 +4448,13 @@ They had placed him in their fears beside Drake and L’Ollonais.
 
 
 He had gone out with Grippo in the *Ganymede*, assured that when his guns roared into a Spanish hull, when he stood embattled on a Spanish deck with cries and clash of iron weapons about him, there would come that flaming happiness his heart desired.
-b=ganymede-battle
+b=ganymede-battle;f:b:ganymede-battle=blur(3px)
 
 These things he had experienced, and there was not even content.
-b=think;c=h;e:h=c
+
 
 The nameless craving in him grew and flexed its claws against his heart.
-
+b=think
 
 He had thought the adulation of the Brotherhood might salve the wound of his desire; that when the pirates saw the results of his planning and marveled at them, he would be pleased and flattered.
 
@@ -4474,11 +4480,17 @@ b=dream
 Men caught the whispered name and listened carefully.
 
 
-“There is a woman in Panama and she is lovely as the sun. They call her the Red Saint in Panama. All men kneel to her.” Thus said the whispering. The voice grew and grew until men in the taverns drank to La Santa Roja. Young seamen whispered of her in the dog watch. “There is a woman in the Cup of Gold and all men fall before her as heathen kneel before the sun.”<e>We'll now have a second character for all the other characters to constantly obsess over.</e>
-b=pcity;f:b:pcity=blur(3px)
+“There is a woman in Panama and she is lovely as the sun. They call her the Red Saint in Panama. All men kneel to her.”
+m=dialogue;b=pcity;f:b:pcity=blur(3px)
+
+Thus said the whispering. The voice grew and grew until men in the taverns drank to La Santa Roja. Young seamen whispered of her in the dog watch.
+
+
+“There is a woman in the Cup of Gold and all men fall before her as heathen kneel before the sun.”
+
 
 They spoke softly of her in the streets of Goaves. No one had seen her; no one could tell the tint of her cheeks or the color of her hair.
-
+m=
 
 Yet, in a few years, every man in the wide, wild Main had drunk to the Red Saint, had dreamed of her; many had prayed to La Santa Roja.
 b=dream
@@ -4502,10 +4514,10 @@ He sent a messenger asking for a small sample of the weapons which had made this
 n:mes=Messenger
 
 Captain Morgan took the runner to a small room that had escaped the general fire.
-b=small-room;c=!mes,h;e:h=
+b=small-room;e:h=
 
 “Have you seen the woman whom they call the Red Saint in Panama?” he asked.
-s=h
+s=h;c=mes;z:mes=,,5
 
 “I have not seen her, no; but I have heard of her. The young men put only the Blessed Virgin before her in their worship. It is said that she is lovely as the sun.”
 s=mes
@@ -4516,11 +4528,17 @@ s=h
 “I do not know. I have only heard that she is lovely as the sun. They tell in Panama that she came from Cordova and has been to Paris. It is said her family is noble.”
 s=mes
 
-“They tell how she rides great horses, sitting astride, in a meadow guarded with a thick hedge. It is said that in her hand a rapier is a living thing, and that she can fence more skillfully than any man. These things she does in secret that no one may see the crime against her modesty.”
+“They tell how she rides great horses, sitting astride, in a meadow guarded with a thick hedge. It is said that in her hand a rapier is a living thing, and that she can fence more skillfully than any man.”
 
 
-“Ah, well!” said Captain Morgan, “if she be beautiful enough what need has she of modesty. This modesty is only a kind of beauty patch which is put on when there are visitors—an enthralling gesture. I should like to see her ride. And do you know nothing more of her?”
+“These things she does in secret that no one may see the crime against her modesty.”
+
+
+“Ah, well!” said Captain Morgan, “if she be beautiful enough what need has she of modesty.”
 s=h;e:h=s
+
+“This modesty is only a kind of beauty patch which is put on when there are visitors—an enthralling gesture. I should like to see her ride. And do you know nothing more of her?”
+
 
 “Only what they say in the taverns, sir—that she has stolen worship from the Blessed Saints.”
 s=mes
@@ -4532,7 +4550,7 @@ At last Henry shook his head, as though to disengage it of cloying thoughts.
 
 
 He drew a pistol from his belt and gave it to the messenger.
-n:gov=Governor Don Juan Perez de Guzman;c=!mes
+n:gov=Governor Don Juan Perez de Guzman
 
 “Take this to Don Juan Perez de Guzman, and say that this is a sample of the weapons we have used in laying Puerto Bello in the dust. But my other weapons are the strong hearts of my followers.”
 s=h;e:h=
@@ -4546,11 +4564,17 @@ s=mes
 And in a few days the runner came again, bringing the pistol back, and a large square emerald set in a ring.
 c=;s=;b=think
 
-“My master begs that you accept this stone as a token of his regard. He begs that you do not give yourself the trouble to come to Panama, for then his duty would overwhelm his admiration and force him to hang you to a tree.”
-s=mes;b=small-room;c=!mes,h
+“My master begs that you accept this stone as a token of his regard.”
+s=mes;b=small-room;c=h
 
-“It is a good message,” said the captain; “a good, brave message. I should like to meet with Don Juan if only at swords’ points. It has been long since anyone defied me. And did you learn more of La Santa Roja?”
+“He begs that you do not give yourself the trouble to come to Panama, for then his duty would overwhelm his admiration and force him to hang you to a tree.”
+
+
+“It is a good message,” said the captain; “a good, brave message.”
 s=h;e:h=
+
+“I should like to meet with Don Juan if only at swords’ points. It has been long since anyone defied me. And did you learn more of La Santa Roja?”
+
 
 “Only what they tell in the streets, sir. I inquired closely for your benefit. I was told that in the streets she wears a thick veil that none may see her face.”
 s=mes
@@ -4565,12 +4589,15 @@ s=h;e:h=g
 r=card
 
 Through all his life his will had been like an iron weathervane, steadfastly pointing, always, but never long in one direction.
-b=think;c=h;e:h=c
+b=think;e:h=c
 
 The Indies and the sea and pillage and glory all seemed to have failed him.
 
 
-He had touched all things and watched them pale and shrivel at his touch. And he was lonely.<e>Also lonely: those plunder victims.</e>
+He had touched all things and watched them pale and shrivel at his touch.
+
+
+And he was lonely.<e>Also lonely: those plunder victims.</e>
 e:h=u
 
 His men regarded him with respect and sullen awe. They were afraid of him, and this state did not feed his vanity as once it had.
@@ -4586,7 +4613,7 @@ He felt nothing but contempt for them.
 
 
 But there was one whom he had noticed, a young Frenchman who was called Coeur de Gris.
-n:f=Coeur de Gris;c=f
+n:f=Coeur de Gris;c=f;v=100,140
 
 Captain Morgan had seen him in action, leaping about the deck like a supple animal while his rapier flicked out in lithe tongues of silver fire.
 
@@ -4598,7 +4625,7 @@ And this young man answered his orders with a smile at Captain Morgan.
 e:f=s
 
 There was respect in his eyes, surely, but no fear, no jealousy, and no suspicion.
-
+c=
 
 “I wonder if this Coeur de Gris would be my friend,” mused Henry Morgan.
 s=h;c=;e:h=t
@@ -4607,10 +4634,10 @@ s=h;c=;e:h=t
 
 
 Captain Morgan sent for the young man, and when he was come, found difficulty in speaking to him.
-s=;b=small-room;c=f,h;e:f=;e:h=n;v=125,100
+s=;b=small-room;e:f=;e:h=n;v=100,140
 
 “Ah—how are you, Coeur de Gris?”
-s=h
+s=h;c=f
 
 The young man was overwhelmed by any show of warmth from this captain.
 s=;e:f=p
@@ -4693,8 +4720,11 @@ e:f=t
 “Bras de Fer found her soon afterwards.”
 
 
-“But you say she is a free woman,” said Henry Morgan, scandalized at this young man’s apparent lack of shame. “Surely she has given up this—this practice, now you are successful on the sea.”
+“But you say she is a free woman,” said Henry Morgan, scandalized at this young man’s apparent lack of shame.
 s=h;e:h=c
+
+“Surely she has given up this—this practice, now you are successful on the sea.”
+
 
 “You are taking home enough for both of you, and more.”
 e:f=
@@ -4754,7 +4784,7 @@ Captain Morgan had stepped to a cupboard and brought out some queer little jugs 
 s=;c=
 
 “I took these from a Spanish ship,” he said. “Will you drink with me, Coeur de Gris?”
-s=h;c=f,h;e:h=h
+s=h;e:h=h
 
 “I should be very much honored, sir.”
 s=f;e:f=h
@@ -4774,8 +4804,11 @@ s=h;e:h=d
 The young man’s eyes were glowing with the wine.
 s=;e:f=e
 
-“Heard of her!” he said softly. “Sir, I have dreamed of her and called to her in my sleep.”
+“Heard of her!” he said softly.
 s=f;e:h=h
+
+“Sir, I have dreamed of her and called to her in my sleep.”
+
 
 “Who has not? Who in all this quarter of the world has not heard of her, and yet who knows any single thing about her?”
 
@@ -4795,8 +4828,11 @@ e:f=s
 “Sir, I have heard a seaman all rotten with disease whispering to himself in the night, ‘If this thing were not on me, I would go adventuring for La Santa Roja.’”
 
 
-“My mother frets and frets there in Goaves, lest I go mad and run to her. She is terrified by this strange woman. ‘Go not near to her, my son,’ she says. ‘This woman is wicked; she is a devil; besides, she is without doubt a Catholic.’”
+“My mother frets and frets there in Goaves, lest I go mad and run to her. She is terrified by this strange woman.”
 e:f=h
+
+“‘Go not near to her, my son,’ she says. ‘This woman is wicked; she is a devil; besides, she is without doubt a Catholic.’”
+
 
 “And no one has ever seen her that we know of. We do not know certainly that there exists such a woman as the Red Saint in the Cup of Gold. Ah! she has spread the sea with dreams—with longing dreams.”
 
@@ -4807,8 +4843,11 @@ e:f=s
 Henry Morgan had filled the glasses again and again. He was slumped forward in his chair, and a little crooked smile was on his mouth.
 s=;c=
 
-“Yes,” he said rather thickly, “she is a danger to the peace of nations and to the peace of men’s minds. The matter is wholly ridiculous, of course. She is probably a shrewish bitch who takes her bright features from the legend.”<e>Language.</e>
+“Yes,” he said rather thickly, “she is a danger to the peace of nations and to the peace of men’s minds.”
 s=h;e:h=d
+
+“The matter is wholly ridiculous, of course. She is probably a shrewish bitch who takes her bright features from the legend.”
+
 
 “But how might such a legend be started? Your health, Coeur de Gris. You will be a good friend to me and true?”
 
@@ -4828,8 +4867,11 @@ s=h;e:h=u
 “No, sir, I do not think I have. Surely I have been assailed by regrets and little sorrows—everyone has; but mostly I have found only pleasure among women.”
 s=f
 
-“Ah, you are lucky,” the captain said. “You are filled with luck not to have known the pain. My own life was poisoned by love. This life I lead was forced on me by lost love.”
-s=h;b=dream
+“Ah, you are lucky,” the captain said. “You are filled with luck not to have known the pain.”
+s=h
+
+“My own life was poisoned by love. This life I lead was forced on me by lost love.”
+b=hut-ext-mod-liz;f:b:hut-ext-mod-liz=blur(10px)
 
 “Why, how was that, sir? Surely, I had not thought that you—”
 s=f;e:f=
@@ -4846,8 +4888,11 @@ s=h;e:h=c
 “I thought to run away with her to some new, lovely country, and sink her title in the sea behind us. Perhaps even now I might be living safe in Virginia, with little joys crowding my footstool.”
 
 
-“It is a great pity, sir.” Coeur de Gris was truly sorry for this man.
+“It is a great pity, sir.”
 s=f;e:f=c
+
+Coeur de Gris was truly sorry for this man.
+s=
 
 “Ah, well; her father was informed. On one dark night my arms were pinned to my sides, and she—oh, dear Elizabeth!—was torn away from me. They placed me, still bound, in a ship, and sold me in Barbados.”
 s=h
@@ -4888,11 +4933,14 @@ e:h=t
 And he remembered the hunger which had drawn him from Cambria, for it was duplicated and strengthened now.
 s=
 
-His thoughts were driving sleep away. When drowsiness crept in on the heels of exhaustion, La Santa Roja came in, too.
+His thoughts were driving sleep away.
 
+
+When drowsiness crept in on the heels of exhaustion, La Santa Roja came in, too.
+b=pcity
 
 “I will take Maracaibo,” he cried in desperation. “I will drown this lusting in a bowl of horror. I will pillage Maracaibo, tear it to pieces, and leave it bleeding in the sand.”
-s=h;b=small-room;f:b:small-room=
+s=h
 
 (There is a woman in the Cup of Gold, and they worship her for unnamable beauties.)
 s=;b=dream
@@ -4916,7 +4964,7 @@ Powder pots flew over the walls, tearing and maiming the defenders in their burs
 s=
 
 “Who are these wolves?” they cried. “Ah, brothers! we must fight until we die! We must ask no clemency, brothers. If we fall, our dear city—”
-
+m=dialogue
 
 Ladders rose against the fort, and a wave of roaring men swarmed over the walls.
 
@@ -4951,7 +4999,7 @@ s=;b=dream
 “Have you scratched out every grain of gold? Place the city at ransom! We must have riches after pain.”
 s=h;b=city-looting
 
-A fleet of Spanish ships came sailing to the rescue.<e>"Sailing to the rescue" is an interesting way to describe it, when the city has already been plundered.</e>
+A fleet of Spanish ships came sailing to the rescue.<e>"Sailing to the rescue"</e>
 s=
 
 “A Spanish squadron coming? We will fight them! No, no; we shall run from them if we can get away. Our hulls lag in the water with their weight of gold.”
@@ -4982,10 +5030,10 @@ s=h;e:h=s
 s=;b=dream
 
 “Ah, God! then if I must, I must. But I fear I go to my death. It is a dreadful thing to be attempting. If this is my desire, I must, though I die.”
-s=h;e:h=w
+s=h;e:h=w;b=fleet
 
 He called young Coeur de Gris to him.
-s=;b=bristol-deck-mod-sea;c=f,h
+s=;
 
 “You have distinguished yourself in this fight, my friend.”
 s=h
@@ -5026,8 +5074,11 @@ s=h;e:h=g
 “How may you do this thing? The city is strongly guarded with walls and troops, and the way across the isthmus is nigh impassable but for the burro trail. How will you do this thing?”
 s=f
 
-“I must take Panama. I must capture the Cup of Gold.” The captain’s jaw set fiercely.
+“I must take Panama. I must capture the Cup of Gold.”
 s=h
+
+The captain’s jaw set fiercely.
+s=
 
 Now Coeur de Gris was smiling quietly.
 s=;e:f=s
@@ -5072,7 +5123,7 @@ e:h=t
 
 
 Young Coeur de Gris stood musing by the mast.
-s=;c=f,;e:f=t
+s=;e:f=t
 
 “Our captain, our cold captain, has been bitten by this great, nebulous rumoring. How strange this pattern is! It is as though the Red Saint had been stolen from my arms.”
 s=f
@@ -5087,10 +5138,13 @@ Sir Edward Morgan led forces against St. Eustatius, and, while the battle raged
 b=action
 
 The Lieutenant-Governor set his lips in a straight, hard line, and crumpled to the ground.
+b=think
 
-
-“My white breeches will be ruined,” he thought. “Why did the devil have to do it, just when we were getting on so nicely. I should have got special thanks from his Majesty, and now I shall not be here to receive them. Heaven! he chose a painful place!”
+“My white breeches will be ruined,” he thought.
 b=think;t=e;e:e=c
+
+“Why did the devil have to do it, just when we were getting on so nicely. I should have got special thanks from his Majesty, and now I shall not be here to receive them. Heaven! he chose a painful place!”
+
 
 And then the full tragedy struck him.
 t=
@@ -5152,8 +5206,11 @@ s=
 Finally words were forced from Sir Edward’s lips.
 
 
-“I have heard that you can tell a gentleman by the way he dies—but I should like to groan. Robert would have groaned if he had wished. Of course, Robert was queer—but then—he was my own brother—he would have shrieked if he had felt like it.”
+“I have heard that you can tell a gentleman by the way he dies—but I should like to groan. Robert would have groaned if he had wished.”
 s=e
+
+“Of course, Robert was queer—but then—he was my own brother—he would have shrieked if he had felt like it.”
+
 
 “Elizabeth, will you—please—leave the room. I am sorry—but I must groan. Never speak of it—Elizabeth—you promise—never—never to speak of it?”<e>Get a load of this jerk failing at <i>ars moriendi</i>.</e>
 
@@ -5168,22 +5225,25 @@ Spring had come to Cambria, welling up out of the Indies and out of the hot, dry
 a:r=old;b=farm-ext-mod-spring
 
 Old Robert liked to think, and then came curiously to believe, that his son sent the Spring to Cambria out of the tropic places.
-c=r;v=100,80
+
 
 There was a green fur climbing up the hills, and the trees were testing new, fragile leaves in the winds.
 c=
 
-Old Robert’s face had grown more set. Around his mouth lived less a smile and more a grimace, as though some ancient, anguished smile had frozen there.
-c=r;e:r=c
+Old Robert’s face had grown more set.
+b=think
+
+Around his mouth lived less a smile and more a grimace, as though some ancient, anguished smile had frozen there.
+c=r;e:r=c;v=100,140
 
 Ah! the years had been lonely, barren things, with nothing left in their arms for him.
 
 
 He knew the meaning, now, of Gwenliana’s words—that age brought nothing with it save a cold, restless waiting; a dull expectancy of a state that might not be imagined with any assurance.
-b=think;v=
+b=think
 
 Perhaps he waited for the time when Henry would come to him again. But that could scarcely be so.
-c=h;f:c:h=blur(10px)
+
 
 He was not at all sure that he wanted to see Henry any more. It would be disturbing.
 c=
@@ -5192,7 +5252,7 @@ When one is old, one hates disturbing things.
 
 
 For a long time he had wondered, “What is Henry doing now? what seeing now?”
-b=dream
+b=farm-fire
 
 And then the boy had faded slightly, had come to be like people in old books—not quite real, yet real enough to be remembered.
 
@@ -5200,14 +5260,20 @@ And then the boy had faded slightly, had come to be like people in old books—n
 But Robert thought often of this abstract person, his son, of whom he heard wavering rumors now and again.
 
 
-With waking on the fine morning of the Spring, Robert had said, “I will climb up to see Merlin today. Strange how that old man lives under the growing pressure of his years. There must be more than a hundred of them now.”
-s=r;b=farm-ext-mod-spring;e:r=;v=100,80
+With waking on the fine morning of the Spring, Robert had said,
+b=farm-ext-mod-spring;e:r=;v=100,80
+
+“I will climb up to see Merlin today. Strange how that old man lives under the growing pressure of his years. There must be more than a hundred of them now.”
+s=r
 
 “His body is a thin wisp—nothing more than a suggestion that here was once a body. But William says, if you can be picking thought out of William’s speaking, that his voice is golden and strong as always, and that he still talks tremendous nonsense that would not be tolerated at London.”
 
 
-“It is amazing how this road-mender has his whole life curled like a kitten around four days in London. But I must be going to Merlin. It is not likely that I shall go again.”<e>So William the road-mender is the <book>A Confederacy of Dunces|Ignatius Reilly</book> of this book? Well why can't he be the main character then.</e>
+“It is amazing how this road-mender has his whole life curled like a kitten around four days in London.”<e>So William the road-mender is the <book>A Confederacy of Dunces|Ignatius Reilly</book> of this book. The book should've been about him.</e>
 e:r=h
+
+“But I must be going to Merlin. It is not likely that I shall go again.”
+
 
 The steep, rocky path was a thing of torture to him; more a cruel thing because of his memory of lithe, powerful legs, and lungs as tireless as bellows.
 s=;b=trail-mod-spring;c=
@@ -5219,7 +5285,7 @@ It was noon when he came at last to Crag-top.
 b=crag-ext;e:r=c
 
 Merlin met him at the door before he had time to knock, and Merlin had no more changed than the harps and spearheads hanging to his walls.
-c=,w,,
+b=crag
 
 He seemed to have discarded time like a garment. Merlin came to Robert with no surprise.
 
@@ -5228,13 +5294,13 @@ It was as though he had known of this slow pilgrimage a thousand years before th
 
 
 “It is very long, Robert, since you climbed the path to me, and long since I went down it.”
-s=w
+s=w;c=w;v=100,130,40
 
 And “down, down” sang the harps. He spoke the language of the strings, and they responded like a distant choir in high mass of the mountains.
-s=;c=;v=130,100;b=crag
+s=;c=;b=crag;c=
 
 “But it’s an old man who climbs to you now, Merlin. The trail is a beast enemy to wrestle with. You seem no older. I wonder when you will come to die. Do not your years sometimes argue that question with you?”
-s=r;c=w,r
+s=r;c=w
 
 “Why, to speak truthfully, Robert, I have taken it in my mind several times—but always there were too many things to think about. I could not take the time to die. If I did, I might not be able to think ever again.”
 s=w
@@ -5296,11 +5362,14 @@ s=w
 “Robert, did I not hear a long time past that you were roving in your mind? Surely William stopped by and told me you had grown insane. Did you not do reprehensible things in your rose garden?”
 e:r=
 
-Robert smiled bitterly. “That was one of this God’s tricks,” he said.
-s=r;e:r=s
+Robert smiled bitterly.
+e:r=s;s=
+
+“That was one of this God’s tricks,” he said.
+s=r
 
 “I will tell you how it was. One day, when I was pulling the dead leaves from my roses, it came upon me to make a symbol. This is no unusual thing.”
-
+b=farm-plants;f:b:farm-plants=blur(3px);c=
 
 “How often do men stand on hill tops with their arms outstretched, how often kneel in prayer and cross themselves. I pulled a bloom and threw it into the air, and the petals showered down about me.”
 e:r=t
@@ -5318,10 +5387,10 @@ e:r=t
 
 
 Merlin was shaking with a silent glee.
-s=
+s=;b=crag
 
 “Oh, Robert! Robert! why must you blame the world when it protects itself against you? I think God and the world are one to you.”
-s=w
+s=w;c=w
 
 “If there were ten people in the valley below who liked the look of rose leaves on the ground, you would only be a very queer person, interesting and something of a curiosity.”
 e:r=
@@ -5446,7 +5515,10 @@ e:r=t
 “Perhaps she read his desire, Robert, and sensed the strength of his desire. I taught old Gwenliana many things which had to do with magic; she was very apt at reading signs—and faces.”
 s=w;e:r=
 
-Old Robert rose to stretch himself. “Ah, well—I must be going now. It takes a weary time for such an aged man to be getting down the path. It will be night when I am home again.”
+Old Robert rose to stretch himself.
+s=
+
+“Ah, well—I must be going now. It takes a weary time for such an aged man to be getting down the path. It will be night when I am home again.”
 s=r
 
 “Here is William coming with his pick which was an appendage born to him. I will be going down a bit in his company and learning the way of things at London. You must love words, Merlin, to be making so many of them; and I must love pain, to be engendering it against myself.”
@@ -5458,8 +5530,8 @@ e:r=c
 “I think you work a subtle conjuring with the soft voice of you, and your harps.”
 
 
-And as he went down the path, the hanging harps crooned after him the Sorcerer’s Farewell.<e>Another productive conversation with Merlin, famous character of buccaneering.</e>
-c=;b=trail-mod-spring;s=
+And as he went down the path, the hanging harps crooned after him the Sorcerer’s Farewell.<e>Another productive conversation with Merlin, famous figure of buccaneering.</e>
+c=;b=think;s=
 
 ## Chapter IV
 r=card
@@ -10364,4 +10436,4 @@ The fire went out of the ember with a dry, hard snap. There was no light anywher
 c=;f:b:grotto=blur(25px) brightness(50%)
 
 For a moment, Henry was conscious of the deep, mellow pulsation of the Tone.<e>The End. So little Elizabeth was the Rosebud of the story or something. And we had some happy fun morals along the way. So not Steinbeck's best work, but it wasn't completely awful. (Now his next book to enter public domain is a werewolf murder mystery, and that I expect to be awful.) The real moral of the story is: eventually Steinbeck did get better, and that's a lesson in perseverance for all of us.</e>
-z:a1=86;z:bur1=81;z:bur2=105;z:c=90;z:c-amid=95;z:c-aold=95;z:cock=70;z:cook=95,,5;z:dp=102;z:dg=97;z:doc=95;z:drunk=102,,9;z:e=103,45,1;z:f=105;z:gov=95;z:grippo=105;z:h=91,,2;z:h-a18=102,,3;z:h-a30=102;z:h-aold=102;z:h-adeath=102;z:hal=110,,16;z:ie=92;z:j=93,,1;z:la=96;z:ladm=98;z:liz-aghost=75;z:m=90,,2;z:men1=97;z:men2=102;z:p=89,,2;z:pris2=97;z:r2=97;z:r3=103;z:r4=98;z:span=96;z:t=106,,1;z:w=92,,4,80
+z:a1=86;z:bur1=81;z:bur2=105;z:c=90;z:c-amid=95;z:c-aold=95;z:cock=70;z:cook=95,,5;z:dp=102;z:dg=97;z:doc=95;z:drunk=102,,9;z:e=103,45,1;z:f=105,,7;z:gov=95;z:grippo=105;z:h=91,,2;z:h-a18=102,,3;z:h-a30=102,,3;z:h-aold=102;z:h-adeath=102;z:hal=110,,16;z:ie=92;z:j=93,,1;z:la=96;z:ladm=98;z:liz-aghost=75;z:m=90,,2;z:men1=97;z:men2=102;z:p=89,,2;z:pris2=97;z:r2=97;z:r3=103;z:r4=98;z:span=96;z:t=106,,1;z:w=92,,4,80
