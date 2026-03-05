@@ -5536,7 +5536,7 @@ c=;b=think;s=
 ## Chapter IV
 r=card
 
-Panama was a great, lovely city in 1670 when Henry Morgan determined on its destruction; a rich, strong city, and justly called the Cup of Gold.<e>So there's that long-awaited specific date, only halfway through the book. And also the definition for "Cup of Gold", only mentioned 9 times previously. Steinbeck you suck.</e>
+Panama was a great, lovely city in 1670 when Henry Morgan determined on its destruction; a rich, strong city, and justly called the Cup of Gold.<e>So there's that long-awaited specific date, only halfway through the book. And also the definition for "Cup of Gold", only mentioned nine times previously. (Steinbeck, you suck.)</e>
 b=pcity;f:b:pcity=blur(3px)
 
 No place in all the raw New World could compare with it in beauty and in wealth.
@@ -5632,7 +5632,7 @@ But when the peoples of Nicaragua and Peru and Darien had become gangs of whimpe
 These were the merchants, keenly decisive when there was a farm to be wrested by law from its owner, or when the price of food was raised for outland colonists, but fearful and cowardly when steel was rattling about on steel.
 
 
-The merchant class soon dominated all the isthmus.<e>It is said Steinbeck was influenced by his time in Manhattan when it came to describing Panama City. No further comment.</e>
+The merchant class soon dominated all the isthmus.<e>It is said Steinbeck was influenced by his time in Manhattan when it came to describing Panama City.</e>
 
 
 Some of the soldiers had died; others grew restless in security and marched away to new, dangerous lands, leaving the battle of foodstuffs and extravagances in the hands of the traders who doled out flour and wine, and gathered, in return, jewels and bars of gold for their coffers.
@@ -5683,11 +5683,8 @@ o=pcoat
 Above all was the north star of discovery, while the Lions and Castles of the twin Spanish kingdoms circled around the shield.
 
 
-Truly Panama was one of the greatest cities in the world.
+Truly Panama was one of the greatest cities in the world.<e>The reader may find it helpful as the story goes on to note the location of Panama City and the "R. de Chagre" on the map here.</e>
 o=
-
-<e>The reader may find it helpful as the story goes on to note the location of Panama City and the "R. de Chagre" on the map here.</e>
-
 
 The center of the Cup of Gold was a broad, paved plaza with a raised stand in the middle where music was played in the evening.
 b=pplaza
@@ -5695,7 +5692,7 @@ b=pplaza
 While it played, the people strolled about, proving their positions by those to whom they spoke; the merchant aristocracy was very tender in its pride.
 
 
-A man might argue over the price of flour like a Jew in the daytime, but at night, in the Plaza, he bowed stiffly to acquaintances not so rich as he, and imperceptibly fawned on those richer.<e>Every old novel needs its obligatory Jew-bashing asides (red meat for the audience), but it's a bit funny coming from the guy who goes on to write <book>East of Eden</book>.</e>
+A man might argue over the price of flour like a Jew in the daytime, but at night, in the Plaza, he bowed stiffly to acquaintances not so rich as he, and imperceptibly fawned on those richer.<e>Pretty mild as far as 1920s Jew-bashing went, but still funny coming from the guy who would go on to write <book>East of Eden</book>.</e>
 
 
 They had grown soft in their security. The city was considered impregnable.
@@ -5726,7 +5723,7 @@ God was good, and business—well, terrible; no money any more, and the farmers 
 
 
 Don Juan Perez de Guzman was Governor of the Cup of Gold—a quiet nobleman whose life was devoted to being a complete gentleman and nothing else.
-b=ppalace;c=gov
+b=ppalace
 
 He drilled his little army, changed his uniforms, and looked with care to the marriages of his relatives.
 
@@ -5764,8 +5761,11 @@ One day the news crept into Panama that the terrible Morgan was coming in conque
 At first there was amused unbelief, but when more messengers came in, the city roused itself to frantic activity.
 
 
-The people rushed to the churches, confessed, kissed relics, and rushed home again. Hundreds of priests marched in procession bearing the Host through the streets. The dark brotherhood fiercely whipped themselves and dragged the heavy cross about for everyone to see.<e>It's just, there's a surprising amount of whipping in this book when you note every instance. We've passed by a whole bunch already.</e>
+The people rushed to the churches, confessed, kissed relics, and rushed home again. Hundreds of priests marched in procession bearing the Host through the streets.
 b=pchurch
+
+The dark brotherhood fiercely whipped themselves and dragged the heavy cross about for everyone to see.<e>It's just, there's a surprising amount of whipping in this book when you note every instance. We've passed by a whole bunch already.</e>
+
 
 The broken walls went unmended; the rusty cannons were not replaced.
 
@@ -5780,10 +5780,10 @@ Grave men discussed such possibilities in the streets.
 n:dg=Don Guierrmo;b=pcity
 
 “The blessing of the day, Don Pedro.”
-s=dg;c=!dg,
+s=dg
 
 “The Virgin’s blessing, Don Guierrmo.”
-s=dp;c=!dg,dp
+s=dp;
 
 “What is your thought of these robbers?”
 s=dg
@@ -5801,10 +5801,10 @@ And later:
 s=;c=
 
 “You say you had it of Don Guierrmo? Surely he would not tell a questionable thing—a man of his wealth.”
-n:d3=Another Guy;s=d3;c=!d3,
+n:d3=Another Guy;s=d3;z:d3=,45,5
 
 “I repeat only what he said—that Morgan could fire bullets from his fingertips—that he breathed out sulphurous flames. Don Guierrmo was certain of it.”
-s=dp;c=!d3,dp
+s=dp
 
 “I must tell my wife of this, Don Pedro.”
 s=d3
@@ -5819,16 +5819,16 @@ They could not believe; and yet they must believe, for the pirates were already 
 
 
 At last, under pressure, Don Juan dragged himself from church long enough to send five hundred soldiers for an ambush on the road across the isthmus.
-b=ppalace;c=,gov
+b=ppalace
 
 A young officer craved audience.
-n:po=Officer;c=!po,gov;e:po=e
+n:po=Officer;e:po=e
 
 “Well, young man,” the Governor began, “what is your wish?”
 s=gov
 
 “If we had bulls, sir—if we had great numbers of wild bulls,” the officer cried excitedly.
-s=po
+s=po;z:po=,47,7
 
 “Get them! Have the whole country scoured for bulls! Let the men gather a thousand of them! But what are we going to do with them?”
 s=gov;e:gov=e
@@ -5900,13 +5900,13 @@ Even to the wooded islands where men lived like apes, went his invitation to the
 
 
 “Every man will be rich if we succeed”; so ran the message.
-
+m=dialogue
 
 “This will be the most powerful blow ever struck by the Brotherhood. We will carry terror to the inmost heart of Spain. Our fleet gathers on the south side of Tortuga by October.”
 
 
 And soon the ships and men poured to the place of rendezvous; enormous new vessels with white sails and carven prows, ships bristling with brass cannons, old rotting hulks, their bottoms so foul with weeds that they moved through the water like logs.
-b=tortuga-fleet
+b=tortuga-fleet;m=
 
 There came sloops and long canoes and flatboats, forced through the water with sweeps.
 
@@ -5986,7 +5986,7 @@ It had been commanded by a Duke before it fell into the pirates’ hands.
 The cabin resembled a large drawing-room, paneled in dark oak, its walls drawing slightly inward at the top.
 
 
-Across the ceiling were heavy beams carved with vines and delicate, slim leaves.<e>Uh… unreliable narrator.</e>
+Across the ceiling were heavy beams carved with vines and delicate, slim leaves.
 
 
 On one wall had been the painted arms of Spain, but a dagger had scraped and scratched it nearly out of sight.
@@ -5999,7 +5999,7 @@ They waited impatiently for his communication.
 
 
 There was the short, serious Captain Sawkins, whose eyes burned with the fervor of Puritanism.
-n:saw=Captain Sawkins; a:grippo=old; b=think;c=saw;e:saw=g
+n:saw=Captain Sawkins; a:grippo=old; b=think;c=saw;e:saw=g;v=100,130,55
 
 He justified his murders with Scripture and offered prayers of thanksgiving from a gun carriage after a successful rape.<e>I mean this guy's a real jerk.</e>
 n:r1=Holbert or Tegna or Sullivan or Meyther
@@ -6013,7 +6013,7 @@ n:r3=Holbert or Tegna or Sullivan or Meyther
 Lately he had reasoned that he might flee his sins by a general confession and reconfirmation in his mother church, and this he intended to do when one more expedition should provide him with a golden candlestick to bear to the confessing priest by way of peace offering.
 n:r4=Holbert or Tegna or Sullivan or Meyther;e:grippo=c
 
-Holbert and Tegna, Sullivan and Meyther, sat on stools surrounding Captain Morgan.<e>Turns out if you ask the image generator to make four generic pirate dickheads without any other details to go on, they all end up looking pretty similar.</e>
+Holbert and Tegna, Sullivan and Meyther, sat on stools surrounding Captain Morgan.
 n:bur1=The Burgundian;c=r1,r2,r3,r4
 
 In a dark corner were two whom the whole Brotherhood knew as inseparables.
@@ -6055,14 +6055,17 @@ A man who brought a ship might draw such and such rent; a carpenter with tools w
 Then he came to the rewards to the first man to sight an enemy; the first to kill a Spaniard; the first into the city. The articles were finished.
 
 
-“Now, sign,” demanded Captain Morgan, and the men shuffled to the table and inscribed their names or marks.
-s=h;e:h=g
+“Now, sign,” demanded Captain Morgan,
+s=h;e:h=g;m=allowbreak
+
+and the men shuffled to the table and inscribed their names or marks.
+m=;s=
 
 When they were seated again, Sawkins spoke out.
 s=
 
 “The rewards are four times as great as custom demands. Why is that?”
-s=saw
+s=saw;z:saw=,,3
 
 Sawkins’ training had made him abhor waste.
 s=
@@ -6073,8 +6076,11 @@ s=h;e:h=t
 “They will need urging—for we go to Panama.”
 
 
-“Panama!” It was almost a groan that answered him.
+“Panama!”
 s=saw;e:saw=c
+
+It was almost a groan that answered him.
+s=
 
 “Yes, Panama. You have signed articles—and I hang deserters. Look to the spirits of your men.”
 s=h
@@ -6085,8 +6091,11 @@ e:h=
 “But—Panama—” Sawkins began.
 s=saw
 
-“I hang deserters,” Captain Morgan said, and he left the cabin.
-s=h;b=cabin-p-mod-nomorgan
+“I hang deserters,” Captain Morgan said,
+s=h;b=cabin-p-mod-nomorgan;m=allowbreak
+
+and he left the cabin.
+m=;s=
 
 Coeur de Gris remained to listen. He would report the temper of the men.
 s=
@@ -6106,8 +6115,8 @@ s=
 The room filled with nervous, quick conversation.
 
 
-“Money? They walk on it. I have heard that the Cathedral—”<e>I dunno. It's one of these guys. Steinbeck didn't label this dialogue.</e>
-s=r1
+“Money? They walk on it. I have heard that the Cathedral—”
+s=r1;z:r1=,,3
 
 “But the jungle is impassable.”
 s=r2
@@ -6148,11 +6157,14 @@ s=
 “There would be no need,” he said.
 s=bur2;e:bur2=
 
-“My friend is very capable. Why, I could tell a tale—” He turned to The Burgundian.
+“My friend is very capable. Why, I could tell a tale—”
 
+
+He turned to The Burgundian.
+s=
 
 “Have I your permission, Emil?”
-
+s=bur2
 
 The Burgundian seemed trying to get through the wall, but he did manage a nod.
 n:bur1=Emil, The Burgundian;e:bur1=;s=
@@ -6163,7 +6175,7 @@ s=bur2
 “There were four friends in Burgundy; three who squeezed a little sour milk from the dugs of art, and one who had possessions.”
 e:bur2=t;b=dream
 
-“Also there was a lovely girl in Burgundy; beautiful, accomplished, a veritable Circe, most lovely in the country. And the four friends all fell in love with this sweet exquisite.”<e><book>Circe</book> is a bad book. But <book>The Odyssey</book> is a good book. And <book>The Iliad</book> is mid. Those are my takes.</e>
+“Also there was a lovely girl in Burgundy; beautiful, accomplished, a veritable Circe, most lovely in the country. And the four friends all fell in love with this sweet exquisite.”
 
 
 “Each one gave her the gifts which were most dear to himself. The first folded his soul in a sonnet and laid it at her feet. The second filled a viol with her name; and I—the third, I mean—painted the rosy image of her face.”
@@ -6184,8 +6196,11 @@ e:bur2=s
 “Now, soon after this marriage, Delphine gave evidence of greater virtues than anyone had suspected.”
 e:bur2=t
 
-“Not only was this paragon a perfect wife, but she was also the discreet and delightful mistress—not to one, but to all three—of the husband’s friends. And Emil, the husband, did not mind. He loved his friends. Why not? They were his true friends, but poor.”<e>I'd just read Gogol's <book>Dead Souls</book> prior to this, and there were weird cucking asides (jokes?) in that book too. I guess it's just a thing in these old books? Not a whole lot else to do?</e>
-e:bur2=s;c=bur1;e:bur1=h
+“Not only was this paragon a perfect wife, but she was also the discreet and delightful mistress—not to one, but to all three—of the husband’s friends.”
+e:bur2=s;
+
+“And Emil, the husband, did not mind. He loved his friends. Why not? They were his true friends, but poor.”<e>Eh. <book>Dead Souls</book> had better cucking jokes.</e>
+c=bur1;e:bur1=h;v=100,150,40
 
 “Ah, where is a force so blind, so idiotic, as public opinion!”
 e:bur2=t
@@ -6196,8 +6211,11 @@ c=
 “This hydra of a Public Opinion—consider to yourselves what it did!”
 e:bur2=
 
-“It forced Emil to challenge his three friends. Even then, all might have ended with the kiss, the embrace—‘my honor is whole again, dear friend’—if it had not been for Emil’s deplorable habit of leaving his rapier point in putrefying meat.”
+“It forced Emil to challenge his three friends.”
 c=bur1;e:bur1=c
+
+“Even then, all might have ended with the kiss, the embrace—‘my honor is whole again, dear friend’—if it had not been for Emil’s deplorable habit of leaving his rapier point in putrefying meat.”
+
 
 “Two of the men died, and I lost my arm.”
 c=;e:bur2=t
@@ -6208,10 +6226,16 @@ c=;e:bur2=t
 “Here is Emil, beside me—lover, swordsman, artist, landowner. The Public Opinion—But I have strayed from the tale in my hatred of this force.”
 c=bur1
 
-“What I wanted to tell you is that Emil asks no consideration, no quarter at all. I know it appears that a swarm of hungry ants has been feasting on his spirit; but let great beauty be placed before him, let the Red Saint be mirrored in those eyes, and you shall see and remember what I say.”
+“What I wanted to tell you is that Emil asks no consideration, no quarter at all.”
 e:bur1=t
 
-“He is quiet; he is subtle; he is an artist. Where other men cry ‘Virility! Force! Rape!’—Emil carries a rose pearl in his pocket as an aphrodisiac.”<e>That is more subtle than shouting "Rape!" now that I think about it. You get a wider worldview, reading books.</e>
+“I know it appears that a swarm of hungry ants has been feasting on his spirit; but let great beauty be placed before him, let the Red Saint be mirrored in those eyes, and you shall see and remember what I say.”
+
+
+“He is quiet; he is subtle; he is an artist.”
+
+
+“Where other men cry ‘Virility! Force! Rape!’—Emil carries a rose pearl in his pocket as an aphrodisiac.”<e>That is more subtle than shouting "Rape!" now that I think about it. You get a wider worldview, reading books.</e>
 e:bur2=s
 
 ### II
@@ -6250,7 +6274,7 @@ The English shouted tuneless chanteys, swaying their bodies to preserve the rhyt
 And Chagres twisted on ahead in loops and tremendous horseshoe turns.
 
 
-The yellow water, like a frightened, leprous woman, timidly caressed the hulls.<e>I once read a book that had the phrase "as white as the ivory-colored china in the dining room". So it could always be worse I suppose — at least Steinbeck isn't restating the color in his comparison.</e>
+The yellow water, like a frightened, leprous woman, timidly caressed the hulls.
 
 
 On this Chagres you might pole your boat all day, and at night make your camp not half a mile by straight line from the starting place.
@@ -6307,7 +6331,7 @@ The long line of boats writhed up the river like a tremendous jointed snake.
 The long ardent day fell back toward evening, and no human had been seen along the river banks.
 
 
-This was a serious matter, for there was no food in the barges. There was no room for food. Every inch was needed for men and weapons. As it was, the water washed over the low decks of the artillery rafts.<e>Put a pin in those artillery rafts.</e>
+This was a serious matter, for there was no food in the barges. There was no room for food. Every inch was needed for men and weapons. As it was, the water washed over the low decks of the artillery rafts.
 
 
 It was well known that many plantations bordered the river, whereat a hungry army might refresh itself, and this knowledge had sent the pirates foodless toward Panama.
@@ -6334,7 +6358,7 @@ The hungry men went back to their boats. Ah, well; they must go hungry today.
 Hunger was a part of war, a matter to be expected and endured.
 
 
-Tomorrow, surely, they would come on houses where wine was stored, cold and delicious; corrals where fat cows nodded stupidly, waiting to be slaughtered.<e>Again, per Wikipedia, there really was starvation during the real-life version of this march. But Steinbeck's "surely" is still doing quite the heavy lifting.</e>
+Tomorrow, surely, they would come on houses where wine was stored, cold and delicious; corrals where fat cows nodded stupidly, waiting to be slaughtered.<e>The starvation really happened, per Wikipedia. But Steinbeck's "surely" is still doing quite the heavy lifting.</e>
 b=dream
 
 A buccaneer—a true buccaneer—would sell out his life for a cup of sour wine or a bit of converse with one of the brown women of half-Spain.
@@ -6395,7 +6419,7 @@ Now the men were dragging themselves nearer and nearer to Panama. Their enthusia
 
 
 From the first he had led them, but now, at the head of the exhausted troops, Henry Morgan himself was beginning to doubt whether he wished very greatly to go to Panama.
-b=think;c=h;e:h=c
+b=think
 
 He tried to remember the force which had started him on his way, the magnet of unseen beauty.
 
@@ -6410,10 +6434,10 @@ One failure, one moment of indecision, would scatter his successes like pigeons.
 
 
 Coeur de Gris was beside him as he had been from the beginning, a haggard Coeur de Gris now, who lurched a little as he walked.
-b=chagres;c=f,;e:f=w;v=100,75
+b=chagres
 
 Captain Morgan looked with pity and pride at his lieutenant.
-e:h=w;c=f,h
+e:h=w;
 
 He saw the eyes like shallow crystal, and a wild light in them as of approaching madness.
 
@@ -6431,10 +6455,10 @@ It struck the ground and then slowly rose again, burdened with dampness and the 
 
 
 Once Coeur de Gris was driven to his knees by the heat, but immediately he rose to trudge onward.
-b=chagres;c=f,
+b=chagres;
 
 Henry Morgan saw his staggering walk, and glanced at the trail ahead with indecision.
-c=f,h
+
 
 “Perhaps we should be resting here,” he said. “The men are exhausted.”
 s=h
@@ -6445,7 +6469,10 @@ s=f
 “If we stop here, the men will only be weaker when we start again.”
 
 
-Henry Morgan mused: “I wonder why you are so avid in my mission. You move forward when even I begin to doubt myself. What is it that you expect to find in Panama, Coeur de Gris?”
+Henry Morgan mused:
+s=
+
+“I wonder why you are so avid in my mission. You move forward when even I begin to doubt myself. What is it that you expect to find in Panama, Coeur de Gris?”
 s=h;e:h=
 
 “I expect to find nothing,” the young man said. “Are you trying to trap me into a statement of disloyalty? I know the prize is yours before we arrive. I admit it, sir.”
@@ -6467,16 +6494,22 @@ His voice was as bitter as his words, and now he was pressing his palms against 
 s=;c=
 
 “It is true,” the captain murmured. “It is true that I want the woman; but that is still more strange.”
-s=h;c=h;e:h=t;v=100,90
+s=h;e:h=t;v=100,90
 
-“Strange?” Wild resentment broke out in Coeur de Gris. He shouted, “Strange? Why is it strange to be lusting after a woman who is known to be beautiful? Would you call each one of these men strange, or every male thing on earth strange?”
-s=f;c=f
+“Strange?”
+s=f
+
+Wild resentment broke out in Coeur de Gris. He shouted,
+s=
+
+“Strange? Why is it strange to be lusting after a woman who is known to be beautiful? Would you call each one of these men strange, or every male thing on earth strange?”
+s=f
 
 “Or are you endowed with a godlike lust? Do you bear the body of a Titan? Strange! Yes, surely, my Captain; copulation and its contemplation are things completely unique among men!”<e>This is the best rant of the book, and of course Coeur de Gris is the best character for it. But there's still all that load-bearing stupidity that was required for these lines to land.</e>
 
 
 Henry Morgan was bewildered, but there was a little terror in him also.
-s=;c=h;e:h=f
+s=;e:h=f
 
 He seemed to have witnessed the walking of a loathsome, unbelievable ghost.<e>What.</e>
 
@@ -6485,7 +6518,7 @@ Could it be that these men felt as he did?
 c=
 
 “But I think there is more than lust,” he said.
-s=h;c=f,h;v=100,75
+s=h;;v=100,75
 
 “You cannot understand my yearning. It is as though I strove for some undreamed peace. This woman is the harbor of all my questing.”
 e:h=c
@@ -6502,17 +6535,20 @@ e:h=t
 “I mourned, in the old time, when each satisfaction died in my arms. Is it any wonder they all died? I did not know the secret. No, you cannot understand my yearning.”
 
 
-Coeur de Gris was grasping his aching temples between his hands. “I do not understand!” he cried scornfully.
+Coeur de Gris was grasping his aching temples between his hands.
+s=
+
+“I do not understand!” he cried scornfully.
 s=f
 
 “Do you think I do not understand? I know; to your mind your feelings are new things, discoveries of fresh importance. Your failures are unprecedented.”
 n:cock=Cockney Jones
 
 “This gigantic conceit will not allow you to believe that this Cockney behind you—yes, he who sometimes rolls on the ground in fits—might have the same hopes and despairs as yourself.”
-e:h=f;c=,f,,h,cock
+e:h=f
 
 “You cannot believe that these men feel as deeply as you do. I suppose it would surpass your wildest thought if I should say I want the woman as much as you do, or that I could be telling sweet sentences to La Santa Roja, perhaps, better than you could.”
-c=f,h
+
 
 Captain Morgan had flushed under the lash of words.
 s=
@@ -6533,7 +6569,7 @@ He walked on silently for a little distance, then suddenly he screamed and fell 
 s=;c=
 
 For a full minute Captain Morgan looked at him. Then a great, harsh wave seemed to break forth in his chest.<e>TODO: Insert one minute stopwatch.</e>
-c=h;v=100,90
+;v=100,90
 
 He knew that minute how much he had come to love the young lieutenant, knew that he could not bear to lose young Coeur de Gris.
 
@@ -6541,7 +6577,13 @@ He knew that minute how much he had come to love the young lieutenant, knew that
 Now he had dropped to his knees beside the silent figure.
 c=
 
-“Water!” he cried to the nearest buccaneer, and when the fellow only stared at him: “Water! bring water—water!”
+“Water!” he cried to the nearest buccaneer,
+s=h;m=allowbreak
+
+and when the fellow only stared at him:
+s=;m=
+
+“Water! bring water—water!”
 s=h
 
 His hand was hysterically jerking at a pistol in his belt. They brought him water in a hat.
@@ -6559,7 +6601,7 @@ s=f;e:f=w
 “Lie still, boy! Lie quietly! You must not move yet. I am afraid. In a moment I thought you were dead, and all the world shriveled. Lie quietly!”
 s=h
 
-“Now I am glad. You must not move. Now we will take the Cup of Gold together, and it shall be a chalice of two handles.”<e>Oh that's dirty, Steinbeck.</e>
+“Now I am glad. You must not move. Now we will take the Cup of Gold together, and it shall be a chalice of two handles.”<e>That's dirty, Steinbeck.</e>
 
 
 He lifted Coeur de Gris and carried him to the shade of a huge tree.
@@ -6619,7 +6661,10 @@ s=h
 “Yes, perhaps he does.”
 s=f
 
-“Remember, he married her to save her name, and kept her with him when he found what that name was. And you will see him bashfully claim a crucifix at the division of spoil. He will take her a crucifix from Panama. Think, man! He is a Separatist from the church. He abhors crucifixes!”<e>Ha ha ha? (What are we talking about?)</e>
+“Remember, he married her to save her name, and kept her with him when he found what that name was. And you will see him bashfully claim a crucifix at the division of spoil. He will take her a crucifix from Panama.”
+
+
+“Think, man! He is a Separatist from the church. He abhors crucifixes!”<e>Ha ha ha? (What are we talking about?)</e>
 
 
 ### III
@@ -6641,7 +6686,7 @@ And the word “gold,” though it had lost its meaning of reality, was more imp
 
 
 On the eighth morning a scout came to Captain Morgan.
-n:scout=Scout;b=chagres;c=scout,h;e:scout=w;e:h=w;v=100,75
+n:scout=Scout;b=chagres;;e:scout=w;e:h=w;v=100,75
 
 “The way is blocked, sir.”
 s=scout
@@ -6701,7 +6746,7 @@ The captain rubbed their avarice:
 
 
 “Gold and jewels past hope of counting are in the city. Every man of you will be rich if we succeed.”
-s=h;b=pcity
+s=h;b=pcity;f:b:pcity=blur(3px)
 
 Their hunger:
 s=
@@ -6712,8 +6757,11 @@ s=h;e:h=c
 Their lust:
 s=
 
-“Women slaves there are in the city, and thousands of other women, God knows! Your difficulty will be only in judging which to choose from the multitude that will fall to us. These are not grubby field women, but great ladies who lie in silken beds. How will your skins feel in beds like those, do you suppose?”
+“Women slaves there are in the city, and thousands of other women, God knows! Your difficulty will be only in judging which to choose from the multitude that will fall to us.”
 s=h
+
+“These are not grubby field women, but great ladies who lie in silken beds. How will your skins feel in beds like those, do you suppose?”
+
 
 And last, because he knew them very well, he raised the standard of their vanity.
 s=
@@ -6736,8 +6784,8 @@ s=h;e:h=c
 “The troops will be drawn up in a line, if I know these Spanish captains. They like to make as great a show as possible. Your orders are to fire at their center, all of you; and when that center is weakened, then charge and split them.”
 
 
-They moved out on the plain, a dense cloud of men. Two hundred marksmen walked in advance, while the rest were grouped behind.<e>I think the action here speaks for itself. So enjoy some abstract line-art as the background for this scene.</e>
-s=;b=action
+They moved out on the plain, a dense cloud of men. Two hundred marksmen walked in advance, while the rest were grouped behind.
+s=;b=think
 
 Now Don Juan, the Governor of Panama, stood with his neat army, a long line of foot soldiers in companies of two files. He looked at the rough formation of the enemy with contempt. Almost gaily he signaled for the first advance.
 
@@ -6775,7 +6823,7 @@ Rodriguez turned in his saddle and looked proudly at the hurtling troop behind h
 Every saber was lined along a horse’s neck. Rodriguez turned again to look once more at his lovely Panama before the shock.
 
 
-And then the whole troop rode headlong into a marsh. They knew it was there, but in the enthusiasm of the moment, in the excitement of their figures, they had forgotten about it. In a second the horse of Panama was a broken jumble of men and fallen beasts. They were flies caught in a green flypaper.<e>Very contrived from a story perspective, but apparently something like this actually happened too. But you've got to sell it better, Steinbeck.</e>
+And then the whole troop rode headlong into a marsh. They knew it was there, but in the enthusiasm of the moment, in the excitement of their figures, they had forgotten about it. In a second the horse of Panama was a broken jumble of men and fallen beasts. They were flies caught in a green flypaper.<e>Very contrived from a story perspective, but apparently something like this actually happened too. Steinbeck needs to sell it better though.</e>
 
 
 Don Juan looked dazedly at the pile of writhing, mangled bodies out on the plain, and then he burst into sobs like a child who has seen his bright toy broken in the road.
@@ -6791,7 +6839,7 @@ The young lieutenant who had brought up the cattle finally made himself heard.
 n:lu=Lieutenant
 
 “Turn loose the bulls—the bulls,” he cried, over and over, until the others were shouting it also.
-s=lu;e:lu=i
+s=lu;e:lu=i;z:lu=,,9
 
 The Indians who held the bulls tore out the nose rings and began prodding the great beasts forward with their goads.
 s=
@@ -6809,7 +6857,7 @@ The bulls galloped slowly toward the rough line of the buccaneers.
 s=
 
 Suddenly the two hundred marksmen knelt and fired—fired quickly, like men hunting game. A kicking, bellowing wall seemed to rise up in the path of the running animals. Those of the herd that were not crippled halted in their tracks, sniffed the blood, milled, and then stampeded in terror back on the Spanish ranks.
-
+b=action
 
 The officer was right. Where they passed, nothing remained except buttons and broken weapons and bloody turf.
 
@@ -6832,7 +6880,7 @@ The men of Spain held ground for a little while, but then their hearts broke und
 Little knots of buccaneers pursued them, spitting those who fell exhausted. Soon the defending troops were scattered.
 
 
-Some of them climbed into the trees and hid themselves among the leaves; some lost themselves in the mountains and were never found. The Cup of Gold lay helpless before Henry Morgan.<e>Wait it's already over? What about all that artillery.</e>
+Some of them climbed into the trees and hid themselves among the leaves; some lost themselves in the mountains and were never found. The Cup of Gold lay helpless before Henry Morgan.
 b=pjungle
 
 A crowd of shouting men poured through the undefended gate and up the broad street. At crossing alleys, part of the line changed its course, like a river flowing backwards into its tributaries. Now and then a party would detach itself from the main body and move on one of the imposing houses.
@@ -6847,8 +6895,11 @@ The men would crowd through the entrance—cries and a scream or two.
 An old woman leaned from a window and looked with curiosity at the invaders. Then disappointment showed in her face.
 n:oldw=Old Woman
 
-“Hi!” she screamed to a window across the way. “Look at this, will you! These thieves look very much like our own Spaniards. They are not devils at all, but only men.”
-s=oldw;e:oldw=c
+“Hi!” she screamed to a window across the way.
+s=oldw;e:oldw=c;z:oldw=,55,3,95
+
+“Look at this, will you! These thieves look very much like our own Spaniards. They are not devils at all, but only men.”
+
 
 She seemed to resent their humanity. She withdrew her head as though she renounced them for being only men.
 s=
@@ -6857,24 +6908,30 @@ In the afternoon a fire broke out. Tall flames lanced into the sky. A section ca
 b=pplaza-mod-burning
 
 Henry Morgan went to the Palace of the Governor to establish his quarters, and there, in the doorway, stood Don Juan Perez de Guzman, with a naked rapier in his hand.
-b=ppalace;c=!gov,;x:gov=rapier;e:gov=n
+b=ppalace
 
 “I am the Governor,” he said brokenly. “My people looked to me to defend them against this scourge. I have failed—but perhaps I can manage to kill you.”
-s=gov
+s=gov;x:gov=rapier;e:gov=n;v=100,140
 
 Henry Morgan looked at the ground. Something about this hysterical man unnerved him.
-s=;c=!gov,h;e:h=c
+s=;e:h=c
 
 “I did not set the fire,” he said. “Some of your own slaves did that out of revenge, I think.”
 s=h
 
-Don Juan moved forward with his drawn rapier. “Defend yourself!” he cried.
+Don Juan moved forward with his drawn rapier.
+s=
+
+“Defend yourself!” he cried.
 s=gov
 
 Captain Morgan did not change his position.
 s=
 
-The sword dropped from the Governor’s hand. “I am a coward—a coward,” he cried.
+The sword dropped from the Governor’s hand.
+s=
+
+“I am a coward—a coward,” he cried.
 s=gov;e:gov=u;x:gov=;e:h=p
 
 “Why did I not strike without speaking? Why did you not oppose me? Ah, I am a coward! I waited too long.”
@@ -6901,7 +6958,7 @@ c=;b=pplaza-mod-burning
 Nearly all of the city was in flame, a garden of red fire.
 
 
-The tower of the Cathedral crashed down and threw a heaven of sparks into the air.<e>"Heaven of sparks" — I think that's genuinely alright prose, for once. Good job, Steinbeck.</e>
+The tower of the Cathedral crashed down and threw a heaven of sparks into the air.
 b=pchurch-mod-flame
 
 Panama was dying in a bed of flame, and the buccaneers were murdering the people in the streets.
@@ -6928,11 +6985,17 @@ n:tort=Buccaneer;s=tort
 Prisoners were brought in to be put to the torture with a thumbscrew taken from the Spanish prison.
 s=
 
-“Kneel! Your wealth?” Silence. “Turn, Joe!”
+“Kneel! Your wealth?”
+s=tort
+
+Silence.
+s=
+
+“Turn, Joe!”
 s=tort
 
 “Mercy! Mercy! I will lead you; I swear it. A cistern near my house.”
-n:pris1=Prisoner;s=pris1;e:pris1=f
+n:pris1=Prisoner;s=pris1;e:pris1=f;z:pris1=93,60
 
 Another—
 s=
@@ -6970,8 +7033,11 @@ s=tort
 “Where is Coeur de Gris?”
 s=h
 
-“I think he is drunk, sir, but—” He looked away from Henry Morgan.
+“I think he is drunk, sir, but—”
 s=tort
+
+He looked away from Henry Morgan.
+s=
 
 “But what? What do you mean?” the captain cried.
 s=h;e:h=g
@@ -6992,7 +7058,7 @@ s=h
 s=tort
 
 There was a clash of golden service thrown on the pile.
-s=;b=action
+s=;b=think
 
 ### IV
 r=card
@@ -10436,4 +10502,4 @@ The fire went out of the ember with a dry, hard snap. There was no light anywher
 c=;f:b:grotto=blur(25px) brightness(50%)
 
 For a moment, Henry was conscious of the deep, mellow pulsation of the Tone.<e>The End. So little Elizabeth was the Rosebud of the story or something. And we had some happy fun morals along the way. So not Steinbeck's best work, but it wasn't completely awful. (Now his next book to enter public domain is a werewolf murder mystery, and that I expect to be awful.) The real moral of the story is: eventually Steinbeck did get better, and that's a lesson in perseverance for all of us.</e>
-z:a1=86;z:bur1=81;z:bur2=105;z:c=90;z:c-amid=95;z:c-aold=95;z:cock=70;z:cook=95,,5;z:dp=102;z:dg=97;z:doc=95;z:drunk=102,,9;z:e=103,45,1;z:f=105,,7;z:gov=95;z:grippo=105;z:h=91,,2;z:h-a18=102,,3;z:h-a30=102,,3;z:h-aold=102;z:h-adeath=102;z:hal=110,,16;z:ie=92;z:j=93,,1;z:la=96;z:ladm=98;z:liz-aghost=75;z:m=90,,2;z:men1=97;z:men2=102;z:p=89,,2;z:pris2=97;z:r2=97;z:r3=103;z:r4=98;z:span=96;z:t=106,,1;z:w=92,,4,80
+z:a1=86;z:bur1=81;z:bur2=105;z:c=90;z:c-amid=95;z:c-aold=95;z:cock=70;z:cook=95,,5;z:dp=102,45,5;z:dg=97,,8;z:doc=95;z:drunk=102,,9;z:e=103,45,1;z:f=105,,7;z:gov=95,42,4;z:grippo=105;z:h=91,,2;z:h-a18=102,,3;z:h-a30=102,,3;z:h-aold=102;z:h-adeath=102;z:hal=110,,16;z:ie=92;z:j=93,,1;z:la=96;z:ladm=98;z:liz-aghost=75;z:m=90,,2;z:men1=97;z:men2=102;z:p=89,,2;z:pris2=97;z:r2=97,,5;z:r3=103,45,6;z:r4=98,,5;z:span=96;z:t=106,,1;z:w=92,,4,80
