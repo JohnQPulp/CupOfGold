@@ -1630,7 +1630,7 @@ b=think
 ## Chapter II
 r=card
 
-For more than a century Britain had watched with impatience while Spain and Portugal, with the permission of the Pope, divided the New World and patrolled their property to keep out interlopers.<e>Good ol' Library of Congress maps gallery. Good public domain stuff there. Just slap a filter on it, and it's VN-ready.</e>
+For more than a century Britain had watched with impatience while Spain and Portugal, with the permission of the Pope, divided the New World and patrolled their property to keep out interlopers.
 b=map
 
 It was a bitter thing to England there imprisoned by the sea. But finally Drake had burst the barrier and sailed the forbidden oceans in his little *Golden Hind*.
@@ -1687,11 +1687,11 @@ But the slums of London bred new slaves quickly enough, God knew! and the king w
 England was becoming a sea power with her governors and palaces and clerks in the New World, and ships of manufactured things were sailing out of Liverpool and Bristol in ever increasing numbers.
 
 
-### I<e>I guess that was Chapter 2, Section 0? Strange system, Steinbeck.</e>
+### I
 r=card
 
 With breaking day, Henry was in the outskirts of Cardiff, all his terror gone and a new blossoming wonder in him.
-b=city;c=h;e:h=e;v=100,75
+b=city
 
 For it was an unbelievable thing, this city of houses, rank on rank—no two of them exactly alike—the lines of them stretching out endlessly like an army in the mud.
 c=
@@ -1700,7 +1700,7 @@ He had never considered such magnitude when people spoke of cities.
 
 
 The shops were opening their shutters, putting their goods on display, and Henry stared wide-eyed into every one as he passed.
-c=h;e:h=a
+e:h=a
 
 Down a long street he went until he came at last to the docks with their fields of masts like growing wheat, and their clouds and cobwebs of brown rigging in an apparent frenzy of disorder.
 b=docks;c=
@@ -1709,7 +1709,7 @@ There was loading of bundles and barrels and slaughtered animals into some of th
 
 
 A tremendous bustle of excitement lived about the docks. The boy felt that holiday tingle which had come to him when men were putting up pavilions for a fair at home.
-c=h
+
 
 A loud song burst out of a ship just getting underway, and the words were clear, beautiful foreign words. The water slapping smooth hulls was a joy to him to the point of pain.
 
@@ -1748,10 +1748,10 @@ Henry entered and found a large apartment crowded with people. Of a fat man in a
 b=inn
 
 “Have you money?” the host asked suspiciously.
-n:host=Host; s=host; e:host=g;v=75,115
+n:host=Host; s=host; e:host=g;v=75,115;z:host=,45,2,90
 
 Henry let the light fall on a gold piece in his hand, and, as he had made the sign of power, the apron was bowing and gently pulling him by the arm.
-s=;c=h;x:h=gold
+s=;x:h=gold
 
 Henry ordered his breakfast and stood looking around the inn.
 c=
@@ -1781,31 +1781,34 @@ These looked for security to three man-o’-war’s men wearing the King’s uni
 
 
 Young Henry lost himself in the lovely clamor of the room. He was hearing new speech and seeing new sights: the earrings of the Genoese; the short knife-like swords of the Dutch; the colors of faces from beet red to wind-bitten brown.
-x:h=;c=h
+x:h=
 
 All day he might have stood there with no knowledge in him of the passing of time.
 
 
 A big hand took his elbow, a hand gloved in calluses; and Henry looked down into the broad, guileless face of an Irish seaman.
-n:t=?;c=t;e:t=h
+n:t=?;e:t=h
 
 “Will you be sitting here, young man, alongside of an honest sailor out of Cork named Tim?”
 s=t
 
 As he spoke he squeezed violently against his neighbor, flinging him sideways and leaving a narrow space on the bench end for the boy. There are no men like the Irish for being brutally gentle.
-s=;c=h;e:h=n
+s=;e:h=n
 
 And Henry, as he took the seat, did not know that the sailor out of Cork had seen his gold piece.
 c=
 
 “Thank you,” he said. “And where is it that you go sailing?”
-s=h;b=inn-seat-mod-h-t
+s=h
 
 “Ah! any place that ships go I do be sailing,” replied Tim.
 n:t=Tim; s=t
 
-“I’m an honest sailor out of Cork with no fault on me save never having the shine of a coin to my pocket. And I wonder, now, how I’m to be paying for the fine breakfast, and me with never a shine,” he said slowly and emphatically.
+“I’m an honest sailor out of Cork with no fault on me save never having the shine of a coin to my pocket.”
 e:t=
+
+“And I wonder, now, how I’m to be paying for the fine breakfast, and me with never a shine,” he said slowly and emphatically.
+
 
 “Why, if you have no money, I’ll buy your breakfast—so you will be telling me of the sea and ships.”
 s=h;e:h=e
@@ -1828,7 +1831,10 @@ s=h;e:h=
 “The Indies? Why, so am I, tomorrow in the morning; and for Barbados with knives and sickles and dress goods for the plantations. It’s a good ship—a Bristol ship—but the master’s a hard man all stiff with religion out of the colony at Plymouth.”
 s=t;e:t=
 
-“Hellfire he roars at you and calls it prayer and repentance, but I’m thinking there’s joy in all the burning to him. We’ll all burn a good time if he has his way. I do not understand the religion of him; there’s never an Ave Mary about it, and so how can it be religion at all?”
+“Hellfire he roars at you and calls it prayer and repentance, but I’m thinking there’s joy in all the burning to him. We’ll all burn a good time if he has his way.”
+
+
+“I do not understand the religion of him; there’s never an Ave Mary about it, and so how can it be religion at all?”
 
 
 “Do you think—do you think, perhaps—I could go in your ship with you?” Henry asked chokingly.
@@ -1837,14 +1843,23 @@ s=h;e:h=n
 The lids drew down over the ingenuous eyes of Tim.
 s=
 
-“If it was ten pound you had,” he said slowly, and then, seeing the sorrow on the boy’s face, “five, I mean—”
-s=t;e:t=t
+“If it was ten pound you had,” he said slowly,
+s=t;e:t=t;m=allowbreak
+
+and then, seeing the sorrow on the boy’s face,
+s=;m=
+
+“five, I mean—”
+s=t;e:t=
 
 “I have something over four, now,” Henry broke in, with sadness.
 s=h;e:h=u
 
-“Well, and four might do it, too. You give me your four pound, and I’ll be talking with the master. It’s not a bad man when you get to be knowing him, only queer and religious. No, don’t be looking at me like that. You come along with me. I wouldn’t run off with the four pound of a boy that bought my breakfast at all.”
+“Well, and four might do it, too. You give me your four pound, and I’ll be talking with the master. It’s not a bad man when you get to be knowing him, only queer and religious.”
 s=t;e:t=h
+
+“No, don’t be looking at me like that. You come along with me. I wouldn’t run off with the four pound of a boy that bought my breakfast at all.”
+
 
 His face bloomed with a great smile.
 s=
@@ -1864,7 +1879,10 @@ s=
 “Why, if there was ever a name to me but Tim you might find it kicking around in a wheel rut at Cork. The father and mother of me did not wait to be telling me my name. But Tim was on me without giving.”
 s=t
 
-“Tim is a kind of free name that you can just take and no one to mention it, like the little papers the Dissenters be leaving in the streets, and they scuttling off not to be seen with them. You can breathe Tim like the air, and no one to put hand on you.”
+“Tim is a kind of free name that you can just take and no one to mention it, like the little papers the Dissenters be leaving in the streets, and they scuttling off not to be seen with them.”
+
+
+“You can breathe Tim like the air, and no one to put hand on you.”
 
 
 Breakfast over, they went into the street, busy with the trade of carters and orange boys and peddling old women.
@@ -1894,11 +1912,14 @@ A black Sheban queen she was, among the dull brown boats of the harbor.
 “Oh, it’s a grand ship—a fine ship,” cried Henry, wonder-struck.
 s=h
 
-Tim was proud. “But only come aboard of her, and see the fittings—all new. I’ll be talking with the master about you.”
+Tim was proud.
+s=
+
+“But only come aboard of her, and see the fittings—all new. I’ll be talking with the master about you.”
 s=t
 
 Henry stood in the waist while the big seaman walked aft and pulled his cap before a lean skeleton of a man in a worn uniform.
-s=;b=bristol-deck;c=h;e:h=a;v=
+s=;b=bristol-deck;e:h=a;v=
 
 “I have a boy,” he said, though Henry could not hear; “a boy that’s set his heart on the Indies, and I’m thinking you might be liking to take him, sir.”
 s=t;c=;e:t=n
@@ -1907,16 +1928,22 @@ The hungry master scowled at him.
 s=
 
 “Is he a strong boy who might be some good in the Islands, Bo’s’n? So many of them die within the month, and there you have trouble the next trip.”
-n:master=Master; s=master;e:master=g
+n:master=Master; s=master;e:master=g;z:master=106,,7
 
 “He is there, behind me, sir. You can see him yourself, standing there—and very well made and close knit he is too.”
 s=t
 
 The hungry master appraised Henry, running his eyes from the sturdy legs to the full chest. His approval grew.
-s=;c=,h;e:h=h
+s=;;e:h=h
 
-“He is a strong boy, all right; and good work for you, Tim. You shall have drink money of it and a little extra ration of rum at sea. But does he know anything about the arrangement?”<e>The original line before Steinbeck's sponsorship deal fell through was "You shall have drink money of it and a little extra ration of Captain Morgan™ Genuine Quality Signature Spiced Rum (Caribbean Rum with Spice and Other Natural Flavors) at sea".</e>
+“He is a strong boy, all right; and good work for you, Tim.”
 s=master;e:master=s;c=
+
+“You shall have drink money of it and a little extra ration of rum at sea.”<e>The original line before Steinbeck's sponsorship deal fell through was "You shall have drink money of it and a little extra ration of Captain Morgan™ Genuine Quality Signature Spiced Rum (Caribbean Rum with Spice and Other Natural Flavors) at sea".</e>
+
+
+“But does he know anything about the arrangement?”
+e:master=
 
 “Never a bit.”
 s=t;e:t=u
@@ -1928,12 +1955,12 @@ The master smiled and paced away from Tim.
 s=
 
 “You can be going with us in the ship,” the sailor cried, and Henry could not move for his pleasure.
-s=t;c=t,h;e:t=h;e:h=e
+s=t;e:t=h;e:h=e
 
 “But,” Tim continued seriously, “the four pound is not enough for passage. You’ll be working a bit in the galley and we sailing.”
 e:t=
 
-“Anything,” Henry said, “anything I’ll do, so only I can go with you.”<e>Adding to Henry Morgan's whiny characterization, Steinbeck has also made him an idiot.</e>
+“Anything,” Henry said, “anything I’ll do, so only I can go with you.”
 s=h;e:h=h
 
 “Then let’s ourselves go ashore and have a toast to a fine, free voyage; *uisquebaugh* for me, and that same grand wine for you.”
@@ -1945,23 +1972,32 @@ s=;c=;b=city
 After a time they sang together, beating out the measures with their hands and smiling foolishly at each other. But at length the warm wine of Oporto filled the boy with a pleasant sadness.
 
 
-He felt that there were tears coming to his eyes, and he was rather glad of it. It would show Tim that he had his sorrows—that he was not just a feather-head boy with a craving to go to the Indies. He would reveal his depths.
+He felt that there were tears coming to his eyes, and he was rather glad of it. It would show Tim that he had his sorrows—that he was not just a feather-head boy with a craving to go to the Indies.
 
 
-“Do you know, Tim,” he said, “there was a girl I came away from, and she was named Elizabeth. Her hair was gold—gold like the morning. And on the night before I came away, I called to her and she came to me in the dark; the dark was all about us like a tent, and cold.”
-s=h;e:h=u;b=hut-ext-mod-liz;f:b:hut-ext-mod-liz=blur(3px)
+He would reveal his depths.
+b=hut-ext-mod-liz;f:b:hut-ext-mod-liz=blur(3px)
+
+“Do you know, Tim,” he said, “there was a girl I came away from, and she was named Elizabeth.”
+s=h;e:h=u;
+
+“Her hair was gold—gold like the morning. And on the night before I came away, I called to her and she came to me in the dark; the dark was all about us like a tent, and cold.”
+
 
 “She cried and cried for me to stay, even when I told her of the fine things and the trinkets and the silks I would bring back to her in a little time. She would not be comforted at all, and it’s a sad thing on me to be thinking of her crying there for my leaving.”
 e:h=u
 
 The full tears came into his eyes.
-s=
+s=;b=city;
 
 “I know,” said Tim softly. “I know it’s a sad thing to a man to be leaving a girl and running off to sea. Haven’t I left hundreds of them—and all beautiful? But here’s another cup to you, boy.”
 s=t;b=city;e:t=d;e:h=b
 
-“Wine is better to a woman than all the sweet pastes of France, and a man drinking it. Wine makes every woman lovely. Ah! if the homely ones would only put out a little font of wine in the doors of their houses like the holy water to a church, there would be more marriage in the towns.”
+“Wine is better to a woman than all the sweet pastes of France, and a man drinking it. Wine makes every woman lovely.”
 e:t=s
+
+“Ah! if the homely ones would only put out a little font of wine in the doors of their houses like the holy water to a church, there would be more marriage in the towns.”
+
 
 “A man would never know the lack they had for looks. But have another cup of the grand wine, sad boy, and it may be a princess, and you leaving her behind you.”
 
@@ -2008,8 +2044,8 @@ It was cold; the freezing shrouds twanged in the wind like great harp strings pl
 Four wild days the persistent storm chased them out to sea with the ship in joy at the struggle. The seamen gathered in the forecastle to boast of her fleetness and the tight shape of her.
 
 
-And in this time Henry exulted like a young god. The wind’s frenzy was his frenzy.<e>Hadn't quite figured out how to make the image generator not cut off the sides of images yet.</e>
-b=bristol-deck-mod-h-storm
+And in this time Henry exulted like a young god. The wind’s frenzy was his frenzy.
+
 
 He would stand on the deck, braced against a mast, face into the wind, cutting it with his chin as the prow cut the water, and a chanting exultation filled his chest to bursting—joy like a pain.
 
@@ -2027,7 +2063,7 @@ Here was the intoxication of the winds, a desire which satisfied desire while it
 
 
 Then, as quickly as the devil servants of the year had rushed at them, they slunk away, leaving a clear, clean sea. The ship rode under full sail before the eternal trade wind.
-b=bristol-deck-mod-sea
+b=bristol-deck-mod-sailors-sea
 
 It is a fresh, fair wind out of heaven, breathed by the God of Navigation for the tall ships with sails.
 
@@ -2044,8 +2080,11 @@ An aged seaman was sitting on a hatch plaiting a long splice. His fingers seemed
 Instead, his small blue eyes, after the manner of sailors’ eyes, looked out beyond the end of things.
 
 
-“So you would know the secrets of the lines?” he said, without moving his gaze from the horizon. “Well, you must just watch. It’s so long I’ve been doing it that my old head has forgotten how; only my fingers remember. If I think what I’m doing I get muddled up. Will you be a sailor and go aloft one day?”
-n:aged=Aged Seaman; s=aged
+“So you would know the secrets of the lines?” he said, without moving his gaze from the horizon.
+n:aged=Aged Seaman; s=aged;z:aged=93,55,2
+
+“Well, you must just watch. It’s so long I’ve been doing it that my old head has forgotten how; only my fingers remember. If I think what I’m doing I get muddled up. Will you be a sailor and go aloft one day?”
+
 
 “Why, I’d like to, if I could learn the workings,” Henry said.
 s=h;e:h=h
@@ -2065,8 +2104,11 @@ s=aged;e:aged=w
 The skull-faced master stood before his crew, armed with his God. The men looked fearfully at him, as small birds gaze at an approaching snake, for his faith was in his eyes and words of fury fell from his thin lips.
 b=bristol-sermon;s=
 
-“God has struck you with only the title of his shattering might,” he shouted. “He has shown you the strength of His little finger that you may repent before you go screaming in hellfire.”
+“God has struck you with only the title of his shattering might,” he shouted.
 n:master=The Master; s=master;e:master=m
+
+“He has shown you the strength of His little finger that you may repent before you go screaming in hellfire.”
+
 
 “Hear the name of the Lord in the frightful wind and repent you of your whorings and your blasphemies! Ah! He will punish you even for the wicked thoughts in your heads.”
 
@@ -2080,8 +2122,11 @@ n:master=The Master; s=master;e:master=m
 He swung his arms wildly and spoke of the poor lonely dead, suffering and burning for dear human faults; and at last he sent his men terrified away.
 s=
 
-“That is not so,” said the old sailor fiercely to Henry. “Do not be taking stock in his crazy talk. Who made the storm—God or devil—made it for itself and took joy of it.”
+“That is not so,” said the old sailor fiercely to Henry.
 e:aged=g;s=aged
+
+“Do not be taking stock in his crazy talk. Who made the storm—God or devil—made it for itself and took joy of it.”
+
 
 “What being could hurl the wind so would not be bothering himself about a chip of a boat floating in immensity. I know I would not, if I were that god or devil.”
 
@@ -2108,7 +2153,7 @@ To his lips came the peculiar, clean swearing of sailors; phrases of filth and b
 
 
 And in the nights he lay back quietly while the men talked of wonders seen and imagined; of mile-long serpents which coiled about ships and crushed and swallowed them, and of turtles so huge that they had trees and streams and whole villages on their backs and only sank once in five hundred years.
-b=bristol-beds
+b=bristol-hull
 
 Under the swinging lamps they told how Finns could whistle up a deadly storm for their revenge; how there were sea-rats that swam to the ships and gnawed holes through the planking until the ships sank.
 
@@ -2146,11 +2191,17 @@ e:t=t
 “The captain scowled around, but there was the crew scowling back at him; so he pulled up his shoulders and laughed—a nasty kind of laugh.”
 e:t=s
 
-“‘How will you be deciding?’ he asks, thinking there would be a grand fight over the woman. But the bo’s’n slipped some dice out of his pocket and threw them on the deck.”
+“‘How will you be deciding?’ he asks, thinking there would be a grand fight over the woman.”
 
 
-“‘We’ll use these!’ he says, and in a minute every man of the crew was on his knees and reaching for the dice. But I was taking a long sight of the woman there alone.”
+“But the bo’s’n slipped some dice out of his pocket and threw them on the deck.”
+
+
+“‘We’ll use these!’ he says, and in a minute every man of the crew was on his knees and reaching for the dice.”
 e:t=t
+
+“But I was taking a long sight of the woman there alone.”
+
 
 “I says to myself, ‘That do be a hard kind of woman, and one that might be doing cruel things to hurt the man she hated. No, my boy,’ I says, ‘you’d best not be coming in on the game.’”
 e:t=g
@@ -2158,7 +2209,10 @@ e:t=g
 “But just then the dark woman ran to the rail and picked a round shot out of the racks and jumped overside, hugging it in her arms. That was all! We ran to the rail and looked—but only a few bubbles there were to show.”
 b=galleon;e:t=t
 
-“Well, it was two nights later, the afterwatch was for running into the fo’c’sle and the hair bristling up on his head. ‘There’s a white thing, and it swimming after us,’ he says, ‘and the looks on it like the woman that went overboard.’”
+“Well, it was two nights later, the afterwatch was for running into the fo’c’sle and the hair bristling up on his head.”
+
+
+“‘There’s a white thing, and it swimming after us,’ he says, ‘and the looks on it like the woman that went overboard.’”
 b=dream-mod-swimming;f:b:dream-mod-swimming=blur(10px)
 
 “Of course we ran and looked over the taffrail, and I could see nothing at all; but the others said there was a thing with long white hands reaching out for our stern post, not swimming but just dragging after us like the ship was lodestone and it a bit of iron.”
@@ -2177,10 +2231,10 @@ e:t=u
 
 
 “Well, three of us came floating ashore on an extra spar, and two of them crazed—poor souls—and wild like cats. I never did be hearing whether any others were saved or not, but I’m thinking not.”
-b=dream;f:b:dream=;f:b:galleon=
+b=bristol-hull
 
 “And that’s the nearest I’ve ever seen with my eyes the things you do be talking of. But they say on clear nights in the Indian Ocean you can be seeing the poor murdered Hindu ghosts chasing the dead da Gama about in the sky.”
-b=bristol-beds
+
 
 “And I have heard that these same Hindus are a very unfruitful people to pick out, and you going in for murder.”
 e:t=s
@@ -2189,7 +2243,7 @@ e:t=s
 r=card
 
 From the first day, the cook had taken it upon himself to instruct young Henry. The man seemed to crave to give information. It was a wistful instruction, as though he feared every minute to be contradicted.
-n:cook=Cook;b=bristol-deck-mod-sea;c=cook,
+n:cook=Cook;b=bristol-deck-mod-sailors-sea
 
 He was a gray man, the cook, with sad brown eyes like a dog’s eyes. There was something of a priest about him, and something of a dull lecturer, and something of a thug.
 
@@ -2201,7 +2255,7 @@ No one would ever give him a chance to prove himself trustworthy, because the wh
 
 
 Now they had sailed into a warm sea, and a warm wind drove them on. Henry and the cook would stand at the rail, watching the triangle fins of sharks cut back and forth across their wake waiting for refuse.
-c=cook,h;e:cook=
+;e:cook=
 
 They saw little brown clusters of weed go floating by, and the leisurely, straight swimming pilot fish on the point of the prow.
 c=;b=bristol-wide
@@ -2209,20 +2263,29 @@ c=;b=bristol-wide
 Once the cook pointed to the brown birds with long, slender wings following them; hanging, hovering, dipping, swaying, always flying, never resting.
 
 
-“See these restless ones,” the man said. “Like questing souls they are indeed, and some say they are the souls of sailors drowned, souls so thick with sins that they never rest from one year to another.”
+“See these restless ones,” the man said.
 n:cook=Cook; s=cook
 
-“Others swear that these birds lay their eggs in floating nests built on planks of lost ships; and others, still, that they have no nests at all but are born full grown of the white lip of a wave and instantly start their lifelong flight. Ay! the restless ones.”
+“Like questing souls they are indeed, and some say they are the souls of sailors drowned, souls so thick with sins that they never rest from one year to another.”
+
+
+“Others swear that these birds lay their eggs in floating nests built on planks of lost ships; and others, still, that they have no nests at all but are born full grown of the white lip of a wave and instantly start their lifelong flight.”
+
+
+“Ay! the restless ones.”
 
 
 The ship started a school of fliers that skipped along the wave tops like shining silver coins.
 s=
 
-“These are the ghosts or treasures lost at sea,” the cook went on, “the murder things, emeralds and diamonds and gold; the sins of men, committed for them, stick to them and make them haunt the ocean. Ay! it’s a poor thing if a sailor will not make a grand tale about it.”
+“These are the ghosts or treasures lost at sea,” the cook went on, “the murder things, emeralds and diamonds and gold; the sins of men, committed for them, stick to them and make them haunt the ocean.”
 s=cook;e:cook=t
 
+“Ay! it’s a poor thing if a sailor will not make a grand tale about it.”
+
+
 Henry pointed to a great tortoise asleep on the surface.
-s=
+s=;b=bristol-deck-mod-sailors-sea
 
 “And what is the tale of the turtles?” he asked.
 s=h
@@ -2230,17 +2293,29 @@ s=h
 “Nothing; only food. It is not likely that a man will be making romances about the thing he eats. Such things are too close to him, and the romance contaminated out of them.”
 e:cook=;s=cook
 
-“But these same beasts have been the saving of a number of ships, and the means of making flesh on some that might otherwise be white bones on the deck of a derelict. The meat of turtles is sweet and good. Sometimes when the buccaneers are not in the way of getting wild beef, they stock their ships with these and so sail.”
+“But these same beasts have been the saving of a number of ships, and the means of making flesh on some that might otherwise be white bones on the deck of a derelict.”
 
 
-The sun had rushed below the water as they spoke. Far off, one black cloud whipped out tongue after tongue of dazzling lightning, but all the sky save that one spot was silken blue-black, littered with swarm of stars.
+“The meat of turtles is sweet and good.”
+
+
+“Sometimes when the buccaneers are not in the way of getting wild beef, they stock their ships with these and so sail.”
+
+
+The sun had rushed below the water as they spoke.
 s=;b=bristol-wide-mod-night
+
+Far off, one black cloud whipped out tongue after tongue of dazzling lightning, but all the sky save that one spot was silken blue-black, littered with swarm of stars.
+s=;
 
 “You promised to speak with me of those same buccaneers,” Henry begged; “they whom you call the Brethren of the Coast. Tell me, did you ever sail with them?”
 s=h;e:h=c
 
-The cook shifted uneasily. “There’s peace between Spain and England,” he said. “I would not be breaking the King’s peace. No, I never sailed with them; no. But I have heard things which may be true.”
-s=cook;e:cook=t
+The cook shifted uneasily.
+s=;e:cook=t
+
+“There’s peace between Spain and England,” he said. “I would not be breaking the King’s peace. No, I never sailed with them; no. But I have heard things which may be true.”
+s=cook
 
 “I have heard that the buccaneers are great fools. They plunder rich prizes and then throw their gains to the tavern hosts and brothel keepers of Tortuga and Goaves, like children throwing sand from them when they are tired of playing. Oh! great fools, I think.”
 
@@ -2285,7 +2360,7 @@ s=cook
 s=h;e:h=w
 
 —
-s=
+s=;b=card
 
 In a few days they were coming close to land. One morning the pale ghost of a mountain was sitting on the edge of the circle.
 b=bristol-wide-mod-tropics
@@ -2323,7 +2398,10 @@ It was thickly covered with a tangling, fierce growth, vines and creepers and a 
 Henry saw it with eyes that looked out on enchantment.
 
 
-They passed that island, and another and another, until, at last, in the blackness of a tropic early morning, the ship came in to Barbados. Its anchors splashed into the sea and went tugging down with the hawser flying behind them.
+They passed that island, and another and another, until, at last, in the blackness of a tropic early morning, the ship came in to Barbados.
+b=think
+
+Its anchors splashed into the sea and went tugging down with the hawser flying behind them.
 b=bristol-deck-mod-barbados-sailors
 
 On the shores there was lettuce green jungle as on the little islands, and farther back, plantations with straight laid rows and white houses with red roofs; farther still, the red soil showing like wounds through the jungle of the hills; and far behind, mountains that rose sharp and hard with the appearance of strong gray teeth.
@@ -2333,10 +2411,10 @@ Small dugout boats came to them, bearing rich fruits and piles of trussed up fow
 
 
 Shining black men sang rich cadenced chants as they pulled at the oars, and Henry, close against the rail, was overjoyed with the new land. It was more than he had hoped. The sight brought happy, silly tears to his eyes.
-c=h,;e:h=e
+e:h=e
 
 Tim was standing near, looking crestfallen and sad. At length he came and stood in front of Henry.
-c=h,t;e:t=u
+e:t=u
 
 “It’s grieving me to be hurting a fine boy that bought my breakfast,” he said. “It’s grieving me so I can’t sleep.”
 s=t
@@ -2350,8 +2428,8 @@ s=t
 “And if I had a business or position I might be talking how a man must live. But I have no religion in me at all, save only an Ave Mary or a *miserere dominie* in storms; and as to position, why, I’m only a poor sailor out of Cork, and it does be grieving me to hurt a boy that bought my breakfast, and me a stranger.”
 
 
-He was watching a long canoe that drew near to them, six strong Caribs rowing it.<e>Steinbeck says six, but the image shows seven. So Steinbeck's an unreliable narrator.</e>
-s=;c=;b=canoe
+He was watching a long canoe that drew near to them, six strong Caribs rowing it.
+s=;c=;
 
 In the stern sat a little, nervous Englishman, whose face had not tanned with the years but had grown redder and redder until the tiny veins seemed to be running on the outside of his skin.
 n:j=?
@@ -2360,19 +2438,19 @@ In the little man’s pale eyes there was the light of perpetual indecision and 
 
 
 “These it is, now,” cried Tim; “and you will not be thinking too badly about me, will you, Henry—seeing the grief it does me?”
-s=t;b=bristol-deck-mod-barbados-sailors;c=h,t
+s=t;b=bristol-deck-mod-barbados-sailors
 
 The captain was shouting, “Galley boy! Oh, galley boy! Morgan! Aft!”
 s=master
 
 Henry went back to where the Englishman and the captain were standing.
-s=;c=master,j,,;b=bristol-aft
+s=;b=bristol-aft
 
 He was amazed when the little colonist gingerly felt his arms and shoulders.
-c=master,j,,h;e:h=f
+e:h=f
 
 “I might give ten,” he said to the captain.
-s=j
+s=j;c=master;v=100,150
 
 “Twelve!” the captain snapped.
 s=master;e:master=m
@@ -2383,10 +2461,13 @@ s=j
 “Well, you may have him for eleven, but, as God sees me, he’s worth more. Look at the knit of him and the broad shoulders. He won’t die like so many. No, sir, he’s worth more, but you may have him for eleven.”
 s=master;e:master=
 
-“Well, if you really think so,” the planter said hesitantly; and he began pulling money out of his pockets, money that was mixed with tangled string, and pieces of chalk, and a bit of a quill pen, and a broken key.
+“Well, if you really think so,” the planter said hesitantly;
 s=j;e:j=n
 
-The master drew a paper from his pocket and showed it to the boy—an order of indenture for five years, with the name “Henry Morgan” nicely filled in, and the British seal at the bottom.<e>You may quibble with the image, but remember: Henry can't read. So the paper could say anything.</e>
+and he began pulling money out of his pockets, money that was mixed with tangled string, and pieces of chalk, and a bit of a quill pen, and a broken key.
+s=;c=
+
+The master drew a paper from his pocket and showed it to the boy—an order of indenture for five years, with the name “Henry Morgan” nicely filled in, and the British seal at the bottom.
 s=;o=indenture
 
 “But I don’t want to be sold,” cried Henry. “I didn’t come to be sold. I want to make my fortune and be a sailor.”
@@ -2399,15 +2480,24 @@ s=master;e:master=h
 
 
 He pushed Henry soothingly along the deck in front of him.
-s=;b=bristol-deck-mod-barbados-sailors;c=
+s=;c=
 
-At last the boy found his voice. “Tim,” he cried, “Tim. They’re selling me, Tim. Oh, Tim, come to me!” But there was no answer.
-s=h;e:h=b
-
-Tim heard, and he was sobbing in his hammock like a small, whipped child.<e>I'd say this book has three main recurring themes: whipping, milk, and snake women. It's left to the reader to decide how those pieces fit together.</e>
+At last the boy found his voice.
 s=
 
-And Henry, as he climbed over the side ahead of his new master, felt nothing at all. But for a little catching in his throat, there was no sharp feeling in him—only a heavy, sodden dullness.<e>Also, Merlin's a dick for not giving Henry a heads-up.</e>
+“Tim,” he cried, “Tim. They’re selling me, Tim. Oh, Tim, come to me!”
+s=h;e:h=b
+
+But there was no answer.
+s=
+
+Tim heard, and he was sobbing in his hammock like a small, whipped child.<e>This book has three main motifs: whipping, milk, and snake women. It's left as an exercise to the reader to fit those pieces together.</e>
+s=;b=bristol-hull
+
+And Henry, as he climbed over the side ahead of his new master, felt nothing at all.
+b=think
+
+But for a little catching in his throat, there was no sharp feeling in him—only a heavy, sodden dullness.
 
 
 ### III
@@ -2417,7 +2507,7 @@ So Henry Morgan came to be living in Barbados by authority of a white paper whic
 n:j=James Flower;b=think
 
 James Flower was not a hard man, and certainly he was not a very brilliant man.
-c=j
+c=j;v=100,150
 
 His whole life had been a hunger for ideas—any ideas—the creation of them. He wanted to conceive ideas, to warm them to throbbing life, then to hurl them on an astonished world.
 e:j=t
@@ -2435,7 +2525,7 @@ His mother wrote poetry which was a kind of summary of the sermons. Her verses w
 n:jf=Father Flower
 
 James Flower had been reared in an atmosphere of—
-n:jm=Mother Flower
+n:jm=Mother Flower;z:jm=90,,1
 
 “I must be walking to my publisher’s now, Helen!”
 s=jf
@@ -2488,25 +2578,31 @@ Had he only known it, this was the one spontaneous idea of his life.
 The matter was hushed up by an archdeacon who was related to his mother.
 b=think
 
-James Flower’s small fortune was invested in a plantation in Barbados, and he was sent to live there. Clearly, he did not fit in with orthodoxy and pentameters.
+James Flower’s small fortune was invested in a plantation in Barbados, and he was sent to live there.
 b=plantation
 
+Clearly, he did not fit in with orthodoxy and pentameters.
+e:j=w
+
 And so he had grown wistfully old, on the island.
-c=j;e:j=w
+
 
 His library was the finest in the Indies, and, as far as information went, he was the most learned man anywhere about.
 c=;b=library
 
 But his learning formed no design of the whole. He had learned without absorbing, remembered without assimilating. His mind was a sad mass of unrelated facts and theories.
-c=j;e:j=c;v=100,125
+e:j=c
 
 In his brain, as on his shelves, Caesar’s *Commentaries* stood shoulder to shoulder with Democritus and a treatise on spontaneous generation.
 
 
 James Flower, who had cried to be a creator, became a quiet, kindly little gentleman, somewhat ineffectual and very inefficient. In his later years he had begun to mistake convictions for ideas.
-c=;b=think
+c=
 
-If a man stated any belief loudly enough he frightened James Flower, for, he said to himself, “Here is one of those divinely endowed creatures who control the fire I lack altogether.”
+If a man stated any belief loudly enough he frightened James Flower, for, he said to himself,
+b=think
+
+“Here is one of those divinely endowed creatures who control the fire I lack altogether.”
 s=j;e:j=p;c=j
 
 ### IV
@@ -2531,10 +2627,10 @@ Then, after a little, they either signed new papers of indenture, or went maraud
 
 
 The overseer had been one of them, and now that he commanded those who had been his fellows, he inflicted suffering in memory of his own pain.
-n:o=Overseer;b=think;c=o;e:o=g
+n:o=Overseer
 
 James Flower brought Henry to the shore, and something in the boy’s silent misery touched the planter. He had never been able to think of his slaves as men before.
-b=plantation;c=j,h;e:h=u
+
 
 He had blindly followed the injunctions of the shrewd elder Cato in dealing with his slaves.<e>If Cato the Elder said it, then it's based.</e>
 e:j=t
@@ -2554,7 +2650,7 @@ s=h
 “I do not intend that you shall toil in the fields. I wanted you—I wanted a boy to be about the house now I am growing old. I wanted a—a kind of companion who would talk with me and hear me talk.”
 s=j
 
-“The other planters come to the house and drink my wine, but when they leave I think they laugh at me and laugh at my books—my lovely books.”<e>NEEEEERRRRDDDDDDDD</e>
+“The other planters come to the house and drink my wine, but when they leave I think they laugh at me and laugh at my books—my lovely books.”
 e:j=w
 
 “And so you will sit with me in the evenings, perhaps, and we will talk of the things in books. Your father was a gentleman, I think. You have the look.”
@@ -2584,7 +2680,7 @@ He was accustomed to stand and gaze at it, head cocked to one side, as an artist
 The planter and the boy seated themselves.
 
 
-The slaves were herded into the square. And Henry saw a naked black figure squirm and writhe at the end of a rope while the Negroes rocked themselves back and forth on the ground and moaned; while the white slaves gritted their teeth and cursed harshly to keep from shrieking.<e>Seeing as how I'd like to not get my image generator account banned…</e>
+The slaves were herded into the square. And Henry saw a naked black figure squirm and writhe at the end of a rope while the Negroes rocked themselves back and forth on the ground and moaned; while the white slaves gritted their teeth and cursed harshly to keep from shrieking.
 b=missing
 
 The Caribs squatted on their hams and watched with no particular interest and no fear.
@@ -2596,8 +2692,11 @@ Thus they might squat and watch the fire which cooked their food.
 When it was all over, and the black victim hung limply by his crooked neck, the planter looked down and saw that Henry was crying nervously.
 
 
-“I know it is bad the first time,” he said gently. “When I first saw it, I did not sleep for a good while. But after a little, when you have seen five—ten—a dozen—go out in this way, you will come to have no feeling about it, and no more thought of it than of a chicken flopping about with a wrung neck.”
-s=j;b=square-rev;c=j,h;e:h=b;e:j=
+“I know it is bad the first time,” he said gently.
+s=j;b=square-rev;c=j;e:h=b;e:j=;v=100,150
+
+“When I first saw it, I did not sleep for a good while. But after a little, when you have seen five—ten—a dozen—go out in this way, you will come to have no feeling about it, and no more thought of it than of a chicken flopping about with a wrung neck.”
+
 
 Henry’s breath still came in little miserable chokes.
 s=
@@ -2626,14 +2725,20 @@ s=h
 “All of these things, and, oh! many thousands of things more.”
 s=j;e:j=h
 
-After a time Henry begged, “Would you be teaching me the languages of the books, sir? There must be things there I should like to read for myself.”
+After a time Henry begged,
+s=
+
+“Would you be teaching me the languages of the books, sir? There must be things there I should like to read for myself.”
 s=h;e:h=n
 
 James Flower was delighted. In teaching this boy the things he had read, he had come nearer to satisfaction than ever before. His heart was warm toward the young slave.
 s=
 
-“The Latin and the Greek!” he cried with enthusiasm. “You shall learn them from me; and the Hebrew, too, if you wish.”<e>Timshel learn Hebrew. (This is a good <book>East of Eden</book> joke, but don't look up the word and spoil it for yourself if you haven't read it yet.)</e>
+“The Latin and the Greek!” he cried with enthusiasm.
 s=j;e:j=e
+
+“You shall learn them from me; and the Hebrew, too, if you wish.”<e><book>East of Eden|Timshel</book> learn Hebrew.</e>
+
 
 “I want to read the books of war and sailing,” young Henry said. “I want to read of those old wars you speak of, for one day I shall be a buccaneer and take a Spanish town.”
 s=h;e:h=t
@@ -2666,10 +2771,13 @@ One evening, after Henry had been there a year, he gained the paramount respect 
 
 
 “Have you considered these ancient wars?” Henry asked. “I have been reading of Alexander and Xenophon and Caesar in their wars.”
-c=h,j;s=h;v=100,125
+s=h;v=100,125
 
-“And the thought is on me that battle and tactics—that is, successful tactics—are nothing more than a glorified trickery. The force is necessary, and the arms, of course; but the war is really won by the man who sits back, like one cheating at cards, and confounds the enemy with his trickery.”<e>Steinbeck with the "this f&#9472;&#9472;&#9472;&#9472;&#9472; sucks actually" to the Battle of Alesia.</e>
+“And the thought is on me that battle and tactics—that is, successful tactics—are nothing more than a glorified trickery.”
 e:h=t
+
+“The force is necessary, and the arms, of course; but the war is really won by the man who sits back, like one cheating at cards, and confounds the enemy with his trickery.”<e>Enlightening analysis, Steinbeck.</e>
+
 
 “Have you considered that, sir? Anyone who can guess the minds of ordinary generals, as I can guess the minds of the slaves, can win battles. Such a man would have only to shun what was expected of him. Isn’t that the secret of tactics, sir?”
 e:h=
@@ -2678,40 +2786,46 @@ e:h=
 s=j;e:j=c
 
 And that awe he felt for people of ideas went out to Henry. But the planter took great comfort in telling himself that, after all, he was the teacher who had awakened these ideas.
-s=;c=,j
+s=;
 
 —
 r=card
 
 Two years after Henry had come, the overseer was released by the years from his bondage. He found his freedom too strong a drug for the mind that had been used to outside control.
-b=plantation;n:o=overseer;c=o;e:o=m
+b=square-rev;e:o=m
 
-That mind snapped, and fury flooded in on him, so that he went shouting along the roads, striking at every passerby. And in the night his mania became a terrible, frantic thing.
+That mind snapped, and fury flooded in on him, so that he went shouting along the roads, striking at every passerby.
 b=square-rev;c=
+
+And in the night his mania became a terrible, frantic thing.
+b=think
 
 He rolled on the ground under his gallows, and bloody foam frothed from his mouth while the slaves looked on in terror.
 
 
 At length he arose, with ragged hair and maniac, flaming eyes.
-c=o;e:o=i
 
-He seized a torch and rushed into the fields.<e>He could be carrying a bucket too. Steinbeck never said he's <i>not</i> carrying a bucket.</e>
-b=cane;x:o=torch
+
+He seized a torch and rushed into the fields.
+b=cane
 
 And Henry Morgan shot him dead as he entered the close growing rows of cane.
-c=h;x:h=gun;e:h=c
+c=h;x:h=gun;e:h=c;v=100,150,40
 
-“Who knows the work as well as I do, and whom can you trust more, sir?” young Henry asked the planter. “I have learned things in the books and from my watching that will make this plantation a hundred times more productive.”
-r=library;c=j;e:j=t;s=h;v=100,125
+“Who knows the work as well as I do, and whom can you trust more, sir?” young Henry asked the planter.
+r=library;e:j=t;s=h;v=100,125
+
+“I have learned things in the books and from my watching that will make this plantation a hundred times more productive.”
+
 
 Thus he became much more than the overseer.
 s=;c=
 
-Henry removed the gallows from the square, and after that the hanging was done secretly, in the night.<e>Wait what is this pacing.</e>
+Henry removed the gallows from the square, and after that the hanging was done secretly, in the night.
 b=square-mod-nogallows
 
 This was not kindness. He knew, out of his own reasoning, that the unknown thing can never become the normal thing; that unseen punishments could be far more horrible to the remaining slaves than those seen under the light of the sun.
-c=h;e:h=c
+e:h=c
 
 Henry had learned many things in dealing with the slaves. He knew that he must never let them see what he was thinking, for then, in some ineffable way, they had a hold on him which would be difficult to shake off.
 c=;b=plantation-mod-men
@@ -2729,10 +2843,10 @@ When he said things as though he meant them, nearly all acted as though he meant
 
 
 And, most important of his lessons—if he were perfectly honest and gave a strict accounting in nine consecutive dealings, then the tenth time he might steal as much as he wished, and no one would dream of suspecting him, so only he had brought the nine times forcibly enough to the attention of all men.
-b=think;c=h;e:h=t
+;e:h=t
 
 A growing pile of golden coins in a box under his bed gave ample proof of the validity of this last lesson.
-o=coinbox;c=
+c=
 
 And he followed all his teachings. He never gave any man the least hold on him, nor insight into his motives and means and abilities and shortcomings.
 o=;b=plantation-mod-men
@@ -2744,7 +2858,7 @@ These rules he gleaned gradually from his life, until he was master of the plant
 
 
 James Flower was deliciously happy—happier than he had ever been—for this boy had lifted the hideous weight of the plantation from his shoulders.
-b=veranda;c=j;e:j=h
+;e:j=h
 
 He need think no more of the matters of tilling the soil.
 
@@ -2758,8 +2872,11 @@ Often he felt a slight irritation at the careless person who had made notes in h
 And Henry Morgan had got himself a great plantation and a great power.
 c=;b=plantation-mod-men
 
-Under his captaincy the earth flowered and increased. He was making the land give four times as much as it had before.<e>Steinbeck pulling numbers out of his ass.</e>
-b=cane
+Under his captaincy the earth flowered and increased.
+
+
+He was making the land give four times as much as it had before.<e>Steinbeck pulling numbers out of his ass.</e>
+
 
 The slaves worked deliriously under the whips which followed them to the fields, but there was nothing personal in the whips.
 b=plantation-mod-men
@@ -2777,13 +2894,13 @@ It was not stealing, but only a kind of commission for his success.
 
 
 The little pile of golden coins grew and grew for the time when Henry Morgan should go a-buccaneering and take a Spanish town.
-b=dream
+
 
 ### V
 r=card
 
 Henry had served three years, and, though he was only eighteen, he was grown and strong.
-a:h=18;c=h;b=think
+a:h=18;c=h;b=think;v=100,140
 
 His crisp black hair seemed to curl more tightly to his head, and his mouth, from dealing with the slaves, was more firm than ever.
 
@@ -2792,7 +2909,7 @@ He gazed about him and knew that he should be satisfied, but his eyes had never 
 e:h=g
 
 A little hectoring wish ran through his waking and dreaming like a thin red line.
-c=;b=dream
+c=
 
 He must get back to the sea and ships. The sea was his mother and his mistress, and the goddess who might command and find him ready and alert for service.
 
@@ -2810,16 +2927,16 @@ But this was the play of a child, he thought, and it was not preparing him to be
 
 
 It was necessary for him to learn avidly, for in the near future he must go a-buccaneering and take a Spanish town.
-b=dream
+
 
 This was the silver throne of all his desire.
 
 
 And so, one evening—
-
+b=library
 
 “There is a thing I should like to be speaking of, sir.”
-s=h;b=library-mod-j;e:h=
+s=h;e:h=
 
 James Flower raised his eyes from his book and laid his head back in the chair.
 s=
@@ -2873,7 +2990,7 @@ Now he could have run away from Barbados and gone to plundering in the staunch *
 b=think
 
 His hoard was not great enough and he was too young; and in addition, he felt a curious, shamefaced love for James Flower.
-c=j;e:j=h
+e:j=h
 
 Henry was content for a little while.
 c=
@@ -2900,19 +3017,19 @@ He thought it was plunder that called him: the beautiful things of silk and gold
 
 
 Henry went to the brown women and the black in the slave huts, striving to dull his hungering if he could not satisfy it; and they received him, cow-eyed and passive, anxious to please.
-b=square-rev;c=h;e:h=c
+b=square-rev;e:h=c
 
 They hoped that of his favor they might receive more food or a jug of rum as a gift.
 c=
 
 Each time, he came away with disgust and a little pity for their poor, hopeful prostitution.
-c=h;e:h=r
+e:h=r
 
 Once, in the slave dock at Port Royal, he found Paulette and bought her for a servant in the house.
-n:p=Paulette;b=think;c=p
+n:p=Paulette;b=think
 
 She was lithe, yet rounded; fierce and gentle in a moment.
-
+c=p;v=100,140,40
 
 Poor little slave of the jumbled bloods, she was Spanish and Carib and Negro and French. The heritage of this ragbag ancestry was hair like a cataract of black water, eyes as blue as the sea, set in oriental slits, and a golden, golden skin.<e>…Oriental?</e>
 
@@ -2936,7 +3053,7 @@ He built for her a tiny, vine-clad house roofed with banana leaves and there he 
 b=banana-house
 
 At first Paulette was only grateful to him for bringing her to a lazy, easy life, with comfort and days of little toil, but later she fell frenziedly in love with him.
-c=p;e:p=l;v=60,80
+e:p=l;v=60,80
 
 She watched his face like a quick terrier, waiting to jump with wild pleasure at one word or fall fawning in the dust at another.
 
@@ -2948,13 +3065,13 @@ Sometimes she put out cups of milk for the winged Jun-Jo-Bee which keeps men tru
 
 
 With the frantic, tender arts of her mixed bloods, she strove to hold him surely in her sight.
-c=p,;e:p=c;e:h=t
+e:p=c;e:h=t
 
 From her body and her hair there came a rich orient odor, for she rubbed herself with sandalwood and myrrh.
 
 
 When he was gloomy—
-c=p,h
+
 
 “Do you love Paulette?” she would ask. “Do you love Paulette? Are you sure you love Paulette?”
 s=p;e:p=l
@@ -2966,34 +3083,34 @@ And his eyes would go wandering to the sea below, seeking and seeking along the 
 s=;e:h=w
 
 “But do you surely, surely love Paulette? Come, kiss the little breasts of your own Paulette.”
-s=p;c=;b=missing
+s=p;c=
 
-“Yes, surely I love Paulette. There! I have kissed them and the charm is made. Now do be still a little.”
-s=h
+“Yes, surely I love Paulette.”
+s=h;e:h=t
+
+“There! I have kissed them and the charm is made. Now do be still a little.”
+
 
 “Hear the pounding of the frogs. I wonder what startled the old bearded monkey in the tree there; some slave, perhaps, out stealing fruit.”
-c=p,h;b=banana-house
+b=banana-house
 
 And his eyes would go wandering restlessly to sea.
 s=
 
-As the year went on, the soil of her love thrust up strong vines of choking fear.
-c=
-
-She knew that when he finally deserted her she would be far more than just alone.
-c=p;e:p=f
+As the year went on, the soil of her love thrust up strong vines of choking fear. She knew that when he finally deserted her she would be far more than just alone.
+c=;b=think
 
 She might be forced to kneel in the field rows and dig about the plants with her fingers as the other women did.
 
 
-And then, one day, she would be led to the hut of a great Negro with powerful muscles, and he would bruise her little golden body in his beast’s clutch and make her pregnant of a black child—a strong, black child that could toil and strain in the sun when it was grown.<e>What an odd thing to say.</e>
-c=;b=missing
+And then, one day, she would be led to the hut of a great Negro with powerful muscles, and he would bruise her little golden body in his beast’s clutch and make her pregnant of a black child—a strong, black child that could toil and strain in the sun when it was grown.<e>What an odd thing to write.</e>
+c=
 
 This happened to all the other slave women of the island.
 
 
 The half of her mind that was very old shuddered at this thought, and that same old mind knew well that Henry would leave her one day.
-b=banana-house;c=p
+b=banana-house
 
 Then, to her child’s mind, appeared the doorway for the passage of her fright.
 
@@ -3005,25 +3122,31 @@ For those strange beings, wives, were, in some curious way, by some divine inten
 
 
 Ah! she had seen them in Port Royal, surrounded by their men to keep foul contact off, breathing through scented cloths to deaden the vile smells, and sometimes with little pellets of cotton in their ears to stop the cursing of the streets from entering.
-b=island-town;c=
+b=island-town;c=;f:b:island-town=blur(3px)
 
 And Paulette knew—had she not been told?—that in their homes they lay in great, soft beds, and languidly gave orders to their slaves.
-b=dream
-
-This was the blessed state she dared to hope for. And her body was not enough, she knew.
 
 
-Often it failed in its soft potency. If she fed him full of love, he did not come again to her bower for a time; and when she refused him to make his passion mount, either he went sullenly away or laughed and flung her roughly on the low, palm couch.<e>A reminder this book was given a children's pirate-storybook cover when it first came out. Shockingly, it did not become the next runaway hit.</e>
+This was the blessed state she dared to hope for.
+
+
+And her body was not enough, she knew.
+b=think
+
+Often it failed in its soft potency.
+
+
+If she fed him full of love, he did not come again to her bower for a time; and when she refused him to make his passion mount, either he went sullenly away or laughed and flung her roughly on the low, palm couch.<e>A reminder this book was given a children's pirate-storybook cover when it first came out.</e>
 
 
 She must cast about for some compelling force, some very powerful means to make him marry her.
-b=think;c=p;e:p=c;v=
+b=think;e:p=c;v=
 
 When Henry went away with cocoa for Port Royal, she was scarcely sane.
 e:p=i
 
 She knew his love for the ship, his passion for the sea, and she was furiously jealous of them.
-c=;b=elizabeth
+c=;b=elizabeth;f:b:elizabeth=blur(3px)
 
 In her mind she saw him fondle the wheel with the strong, dear touch of lover’s fingers. Ah! she could scratch and tear that wheel which robbed her.
 b=elizabeth-wheel;f:b:elizabeth-wheel=blur(5px)
@@ -3032,13 +3155,13 @@ She must make him love Paulette more than the ships, more than the sea, or anyth
 
 
 Then she could walk haughtily among the huts and spit at the slaves; then she need never think of grubbing in the earth or bearing strong black children; then she would have red cloth to wear, and a silver chain to go about her neck.
-b=square-rev
+b=square-rev;f:b:square-rev=blur(3px)
 
 It was even possible that once in a long while her dinner might be brought to her while she lay in bed, pretending to be ill.
-b=dream
+
 
 She wriggled her toes in delight at such a thought, and made up the insulting things she would say to one fat Negress with a spiteful tongue, when only she should be a wife.
-b=think
+
 
 That old, fat wretch had called Paulette a slut before a gathering.
 
@@ -3047,19 +3170,22 @@ Paulette had pulled out lots of hair before she could be held with her arms to h
 
 
 Paulette would have her whipped on the cross.
-e:p=m;c=p
+e:p=m
 
 While Henry was away a trading ship came into port, and Paulette went to the beach to see the things she brought and to watch the wind-brown sailors come ashore.
 c=;b=beach
 
-And one of them, a great, broad Irishman, laden with black rum, pursued and captured her against a pile of boxes.<e>Look, we're almost through the "Scene Missing"-heavy part of the book. Just not quite yet.</e>
-n:ie=Irishman;b=missing
+And one of them, a great, broad Irishman, laden with black rum, pursued and captured her against a pile of boxes.
+n:ie=Irishman;
 
 Strong and quick, she struggled to elude him, but he held her tightly, swaying though he was.
 
 
-“I’ve caught a fairy to mend my shoes,” he laughed, and peered into her face. “Sure enough, ’tis a fairy.”
+“I’ve caught a fairy to mend my shoes,” he laughed, and peered into her face.
 s=ie;e:ie=s
+
+“Sure enough, ’tis a fairy.”
+
 
 And then he saw that she was small and very beautiful, and he spoke tenderly and low.
 s=
@@ -3070,11 +3196,14 @@ s=ie
 “Come off and marry me, and you shall have anything ’tis in the power of a sailor to give you.”
 
 
-“No!” she cried. “No!” and slipped under his arm and away.
+“No!” she cried.
 s=p;e:p=f
 
+“No!” and slipped under his arm and away.
+s=;m=dialogue
+
 The sailor sat in the sand staring dully before him.
-s=;b=beach;c=ie;e:ie=u
+s=;b=beach;e:ie=u;m=
 
 “’Twas a dream,” he whispered; “’twas only a dream from the spirits. There’s no such thing to be happening to a poor sailor.”
 s=ie
@@ -3092,10 +3221,10 @@ Oh, surely, stranger things had been!
 
 
 She laid her snare for him on his first night back from sea—a large stone flagon filled with Peruvian wine, and a priest, bribed with a stolen coin, waiting in the shadow of a tree.
-
+b=banana-house
 
 Henry was very tired. He had gone out short-handed and helped to work the ship himself.
-b=banana-house;c=,h;e:h=w;v=60,80
+;;e:h=w;v=60,80
 
 The little vine-clothed hut was a pleasant, restful place to him.
 
@@ -3110,13 +3239,16 @@ She brought the wine and filled a cup for him.
 e:h=w
 
 “Do you love Paulette?”
-s=p;c=p,h;e:p=l
+s=p;;e:p=l
 
 “Ah, yes! as God sees me, I love Paulette; dear, sweet Paulette.”
 s=h
 
-Another cup, and still, persistently—“Are you so sure you love Paulette?”<e>Between this and <book>A Farewell to Arms</book>, 1929's a good year for interminable awful cutesy talk.</e>
-s=p
+Another cup, and still, persistently—
+s=;m=nospace;m=allowbreak
+
+“Are you so sure you love Paulette?”<e>Between this and <book>A Farewell to Arms</book>, 1929 was a good year for interminable awful "cutesy" dialogue.</e>
+s=p;m=
 
 “Paulette is a little star hanging to my breast by a silver chain.”
 s=h;e:h=t
@@ -3137,7 +3269,7 @@ Another and another and another; then his arms fell away from her and his hands 
 
 
 “Oh! do you love Paulette?” for Henry had grown morose and strange and cold.
-s=p;c=p,h;e:p=f;e:h=u
+s=p;;e:p=f;e:h=u
 
 “I shall tell you of an old time,” he said hoarsely.
 s=h
@@ -3167,7 +3299,7 @@ e:h=u
 e:h=b
 
 And he was weeping softly by her side.
-b=banana-house;s=;c=p,h;e:p=p
+b=banana-house;s=;;e:p=p
 
 Paulette was bewildered by the change in him. She stroked his hair and his eyes, until his breath came more calmly. Then she began again, with almost helpless patience, like a teacher questioning a dull child.
 
@@ -3205,17 +3337,26 @@ s=p;e:p=p
 “And where is this soul of yours that I have never seen it or heard it at all? And if they cannot be seen, or heard, or touched, how do you know she had this soul?”
 e:h=g;e:p=f
 
-“Hush!” he cried furiously. “Hush! or I box your mouth and have you whipped on the cross. You speak of things beyond you. What can you know of love that lies without your fleshly juggling?”
+“Hush!” he cried furiously.
 s=h
 
-### VI<e>Well that was weighty dialogue there, Steinbeck. But I guess as long as the next line isn't complete tonal whiplash—</e>
+“Hush! or I box your mouth and have you whipped on the cross.”
+
+
+“You speak of things beyond you. What can you know of love that lies without your fleshly juggling?”
+
+
+### VI
 r=card
 
-Christmas came to the Hot Tropics, the fourth Christmas of Henry’s servitude. And James Flower brought him a small box done up with colored string.<e>Damnit, Steinbeck.</e>
-b=library-mod-h-j;e:j=h
+Christmas came to the Hot Tropics, the fourth Christmas of Henry’s servitude. And James Flower brought him a small box done up with colored string.
+b=library-christmas;e:j=h
 
-“It is a gift of the season,” he said, and his eyes sparkled with delight while Henry untied the package.
-s=j
+“It is a gift of the season,” he said,
+s=j;m=allowbreak
+
+and his eyes sparkled with delight while Henry untied the package.
+s=;m=
 
 There was a little teakwood box, and in it, lying on the scarlet silk of its lining, the torn fragments of his slavery.
 s=;o=torn-paper-in-box
@@ -3262,17 +3403,20 @@ s=j;e:j=w
 “I don’t quite know what I shall do without you.”
 
 
-Henry’s mind carried him back to that old time, with Robert smiling into the fire and saying these same words—“It will be so lonely here without you, son.”
-s=;b=farm-fire;f:b:farm-fire=blur(5px)
+Henry’s mind carried him back to that old time, with Robert smiling into the fire and saying these same words—
+s=;b=farm-fire;f:b:farm-fire=blur(5px);m=allowbreak;m=nospace
+
+“It will be so lonely here without you, son.”
+m=;m=dialogue
 
 He wondered if his mother still sat coldly upright and silent. Surely she would have got over it. People always got over the things they feared so much.
-
+m=
 
 And then he thought of small Paulette who would be crying with terror in her hut when he told her.
-b=banana-house
+b=banana-house;f:b:banana-house=blur(3px)
 
 “There is a little servant girl,” he said; “little Paulette.”
-s=h;b=library-mod-h-j;e:h=
+s=h;b=library-christmas;e:h=
 
 “I have protected her. And if I have ever pleased you, will you do these things for me?”
 
@@ -3283,8 +3427,11 @@ e:h=t
 “Will you do these things for me surely?”
 e:h=
 
-“Of course I will,” James Flower said. “Ah, but it has been good to have you here, Henry—good to hear your voice in the evening.”
+“Of course I will,” James Flower said.
 s=j;e:j=w
+
+“Ah, but it has been good to have you here, Henry—good to hear your voice in the evening.”
+
 
 “What will I do in the evening now? There is none to take your place, for you have very truly been my son.”
 
@@ -3401,16 +3548,16 @@ b=island-town
 s=h
 
 “His palace is yonder, young man, and who knows he may be in it.”
-s=
+s=;m=dialogue
 
 His palace—it was like a British gentleman become an official far from home. It was like the man Robert Morgan had described. His letters dated from the Palace of the Lieutenant-Governor.
-b=palace-ext
+m=
 
 Henry found the palace, a low grubby house with walls of whitewashed mud and a roof of red tiles badly molded.
-c=,h;v=120,80
+b=palace-ext
 
 There was a gaudy halberdier standing at the door, holding his great, ineffectual weapon rigidly before him, the while he maintained a tortured decorum in the face of a swarm of enemy flies.
-n:hal=Halberdier;c=hal,h;e:hal=g
+n:hal=Halberdier;e:hal=g
 
 The halberd lowered across the pathway as Henry approached.
 
@@ -3430,7 +3577,10 @@ s=
 “Get out of my way, you damned pup,” he cried. “Get out of my way or I’ll see you hanged.”
 s=h;e:h=m;e:hal=f
 
-The man cowered and almost dropped his weapon. “Yes, sir. I’ll send your word, sir.”
+The man cowered and almost dropped his weapon.
+s=
+
+“Yes, sir. I’ll send your word, sir.”
 s=hal
 
 He blew a little silver call, and when a servant in green lace came to the door, he said:
@@ -3449,7 +3599,7 @@ From some place beyond the curtained doorway there came the thin twanging of a h
 
 
 The servant took Henry’s letter and left him alone.
-c=h;e:h=n
+;e:h=n
 
 And he felt very much alone.
 
@@ -3461,22 +3611,22 @@ The British arms were embroidered on the curtains of the door, the lion on one s
 o=arms;c=
 
 When the curtains hung straight the design was complete. In this room, Henry began to fear his uncle.
-o=;n:e=Sir Edward Morgan;c=h
+o=;n:e=Sir Edward Morgan
 
 But all these thoughts of his were shocked from his brain when Sir Edward appeared.
-c=!e
+b=think
 
 It was his father as he remembered him, and yet never his father.
-
+c=e;v=100,130
 
 Old Robert would never have had a mustache like an eyelash, and nothing in Robert’s life could have made him pinch his lips together until they were as thin as the mustache.
 
 
 These two might have been born alike as beans, but each had created his own mouth.
-c=!e,h;e:h=j
+e:h=j;c=
 
 Robert had spoken truth; this man was his strutting counterpart.
-
+b=palace
 
 But Sir Edward was like an actor, who, though cast in a ridiculous role, yet makes his part seem the correct thing and all others absurd.
 
@@ -3526,8 +3676,11 @@ s=;b=farm-fire;c=;f:b:farm-fire=blur(5px)
 He did not feel very badly about it, and yet the words sounded such tremendous things, such final things.
 
 
-This was the end of something that might never be again. “My mother is dead,” he murmured. “And my father?”
-s=h;b=palace;c=!e,h
+This was the end of something that might never be again.
+b=palace
+
+“My mother is dead,” he murmured. “And my father?”
+s=h;b=palace
 
 “I have heard that your father does peculiar things in his rose garden. Squire Rhys wrote me of it.”
 s=e
@@ -3544,14 +3697,20 @@ e:e=g
 “And do you think he is really insane, Uncle?”
 s=h;e:h=n
 
-“I do not know,” Sir Edward said, and added with a touch of impatience, “I merely quoted Squire Rhys’ letter.”
+“I do not know,” Sir Edward said,
+s=e;m=allowbreak
+
+and added with a touch of impatience,
+s=;m=
+
+“I merely quoted Squire Rhys’ letter.”
 s=e
 
 “My position does not allow me time for vain conjecture—nor much time for idle conversation,” he said pointedly.
 
 
 The methodic twanging of the harp had ceased, and now the curtain of the door was thrust aside and a slender girl entered the room.
-n:c=Elizabeth;s=;c=!c
+n:c=Elizabeth;s=
 
 It was difficult to see her in this dark place.
 
@@ -3563,7 +3722,7 @@ Even her hair was pale fragile gold. Altogether she seemed a wan, tired echo of 
 
 
 The girl was startled at seeing Henry there, and he found that he was a little afraid of her in the same manner that he was growing to fear Sir Edward.
-c=!c,!e,,h,;e:c=j;e:e=
+;e:c=j;e:e=
 
 She looked at Henry as though he were some distasteful food which only the strict rules of courtesy prevented her from pushing away from her place.
 e:c=g
@@ -3571,11 +3730,14 @@ e:c=g
 “Your cousin Henry,” Sir Edward said shortly; and, “My motherless daughter, Elizabeth.”<e>Elizabeth #4. (Only a third the way through the book btw.)</e>
 s=e
 
-Then, nervously, as though no good could possibly come of this contact, “Hadn’t you better practice your music a little longer, my dear?”
-e:e=n
+Then, nervously, as though no good could possibly come of this contact,
+s=
+
+“Hadn’t you better practice your music a little longer, my dear?”
+s=e;e:e=n
 
 She dropped a suggestion of a curtsey to Henry, and in a voice like her father’s, greeted him.
-s=;c=!c
+s=;
 
 “How d’ye do. Yes, sir, I think I had better practice. That last piece is difficult but beautiful.”
 s=c;e:c=
@@ -3587,7 +3749,7 @@ Henry gripped his resolve, though he was afraid of this man.
 
 
 “There is a thing I wish to speak of, sir. I want to go a-buccaneering, Uncle—on the sea, in a great ship with guns.”
-c=h;s=h;e:h=
+s=h;e:h=
 
 “And when I have taken prizes, and a cloud of men gather to my reputation, then I would be capturing a Spanish town for plunder and ransom.”
 
@@ -3629,7 +3791,7 @@ The harp was no longer sounding. At the beginning of the boy’s outburst, Sir E
 s=;c=
 
 And when the harp had been silenced, Sir Edward looked uneasily toward the door.
-c=!e,h;e:e=n;e:h=
+e:e=n;e:h=
 
 Now he seemed to bring his interest back to Henry.
 e:e=g
@@ -3659,10 +3821,10 @@ s=
 s=e
 
 And he went through the curtained doorway.
-s=;c=,h
+s=
 
 In the street, Henry walked moodily along.
-r=palace-ext
+b=island-town
 
 He saw his cousin a short distance ahead of him, a tall Negro attendant upon her.
 b=island-town
@@ -3670,20 +3832,29 @@ b=island-town
 He continued slowly that she might leave him behind, but the girl lagged on her way.
 
 
-“Perhaps she wishes to speak with me,” Henry thought, and quickened his steps to come up with her.
-t=h;e:h=t
+“Perhaps she wishes to speak with me,” Henry thought,
+t=h;e:h=t;m=allowbreak
 
-He saw, incredulously, what the darkened room had hidden. She was only a little girl, not more than fourteen at the most. Elizabeth looked up as he came beside her.
-t=;c=!c,h;e:h=p;e:c=n;v=100,80
+and quickened his steps to come up with her.
+m=;t=
+
+He saw, incredulously, what the darkened room had hidden.
+b=think
+
+She was only a little girl, not more than fourteen at the most.
+t=;c=c;e:h=p;e:c=n;v=100,150
+
+Elizabeth looked up as he came beside her.
+c=;b=island-town
 
 “Do you find interesting things to be doing here in the Indies?” Henry asked.
-s=h;e:h=
+s=h;e:h=;b=island-town;c=
 
 “As many as one might expect,” she replied. “We have been here a good while, you know.”
 s=c;e:c=
 
 And touching her slave’s arm with her little parasol, she turned into a crossing street, and left young Henry looking after her.
-s=;c=,h
+s=;
 
 He was bitter against these proud relatives who seemed to edge away from him as though he were foul.
 e:h=g
@@ -3722,7 +3893,7 @@ Near the waterfront he came to a kind of tavern with a great crowd gathered in f
 b=tavern-ext
 
 Standing in the center of the way was a cask of wine with its head staved in, and a big, drunken man in crazy laces and a plumed hat strutted beside it.
-n:drunk=?;c=drunk,;e:drunk=d
+n:drunk=?;e:drunk=d
 
 He passed out cups and basins and even hats full of wine to the reaching men.
 
@@ -3731,7 +3902,7 @@ Now and then he called for a toast and a cheer, and his crowd screamed its accla
 e:drunk=h
 
 Young Henry sought to pass them in his misery.
-c=drunk,h;e:h=u
+e:h=u
 
 “Come drink my health, young man.”
 s=drunk
@@ -3760,11 +3931,14 @@ s=h
 And while he drank, an idea came to him.
 s=
 
-“Let me speak to you alone, Captain Dawes, sir,” and he tugged the pirate into the tavern door.
-r=tavern;s=h
+“Let me speak to you alone, Captain Dawes, sir,”
+;s=h;m=allowbreak
+
+and he tugged the pirate into the tavern door.
+r=tavern;m=;s=
 
 “About your next trip—” he began.
-c=drunk,h;e:drunk=m
+e:drunk=m
 
 “My next trip and hell!” the captain roared.
 n:drunk=Captain Dawes;s=drunk
@@ -3775,8 +3949,11 @@ e:h=c
 “Wait till the prize is spent and the wounds healed. Wait till I’ve drained Port Royal dry of wine, and then come talking about the next trip.”
 
 
-He rushed back into the street crowd. “Boys!” he yelled.
-b=tavern-ext;e:drunk=d;c=drunk
+He rushed back into the street crowd.
+b=tavern-ext;e:drunk=d;s=
+
+“Boys!” he yelled.
+s=drunk
 
 “Boys, you have not drunk my health for hours. Come, shout together now, and then we will sing!”
 
@@ -3785,13 +3962,13 @@ Henry walked onward in despair. In the harbor a number of ships were lying at an
 s=;b=island-harbor;c=
 
 He approached a sailor sitting in the sand.
-n:sailor=Sailor;c=sailor,h
+n:sailor=Sailor
 
 “That one’s fast,” he said, to open the acquaintance.
 s=h
 
 “Aye, good enough.”
-s=sailor
+s=sailor;z:sailor=,,2
 
 “Are there any buccaneers of note in this town?” Henry asked.
 s=h
@@ -3851,7 +4028,7 @@ s=grippo;e:grippo=j
 e:grippo=
 
 Once in Saint Malo he had been accosted thus, and afterwards they had whipped him on the cross until a hundred sagging mouths opened on his body and every one laughed blood.
-s=;b=missing
+s=
 
 Grippo had feared all semblance of authority since then.
 
@@ -3898,8 +4075,14 @@ s=
 “Give me money,” he cried out.
 s=grippo;e:grippo=e
 
-“Quick! give me the money.” Then—“Oloto! Oloto! bring white wine—white wine—for the love of Christ.”
+“Quick! give me the money.”
 
+
+Then—
+s=;m=allowbreak;m=nospace
+
+“Oloto! Oloto! bring white wine—white wine—for the love of Christ.”
+s=grippo;m=
 
 ## Chapter III
 r=card
@@ -10181,4 +10364,4 @@ The fire went out of the ember with a dry, hard snap. There was no light anywher
 c=;f:b:grotto=blur(25px) brightness(50%)
 
 For a moment, Henry was conscious of the deep, mellow pulsation of the Tone.<e>The End. So little Elizabeth was the Rosebud of the story or something. And we had some happy fun morals along the way. So not Steinbeck's best work, but it wasn't completely awful. (Now his next book to enter public domain is a werewolf murder mystery, and that I expect to be awful.) The real moral of the story is: eventually Steinbeck did get better, and that's a lesson in perseverance for all of us.</e>
-z:a1=86;z:aged=93;z:bur1=81;z:bur2=105;z:c=90;z:c-amid=95;z:c-aold=95;z:cock=70;z:cook=95;z:dp=102;z:dg=97;z:doc=95;z:drunk=108;z:e=103;z:f=105;z:gov=95;z:grippo=105;z:h=91,,2;z:h-a18=102;z:h-a30=102;z:h-aold=102;z:h-adeath=102;z:hal=110;z:ie=92;z:j=93;z:la=96;z:ladm=98;z:liz-aghost=75;z:m=90,,2;z:master=106;z:men1=97;z:men2=102;z:p=89;z:pris2=97;z:r2=97;z:r3=103;z:r4=98;z:span=96;z:t=106;z:w=92,,4,80
+z:a1=86;z:bur1=81;z:bur2=105;z:c=90;z:c-amid=95;z:c-aold=95;z:cock=70;z:cook=95,,5;z:dp=102;z:dg=97;z:doc=95;z:drunk=102,,9;z:e=103,45,1;z:f=105;z:gov=95;z:grippo=105;z:h=91,,2;z:h-a18=102,,3;z:h-a30=102;z:h-aold=102;z:h-adeath=102;z:hal=110,,16;z:ie=92;z:j=93,,1;z:la=96;z:ladm=98;z:liz-aghost=75;z:m=90,,2;z:men1=97;z:men2=102;z:p=89,,2;z:pris2=97;z:r2=97;z:r3=103;z:r4=98;z:span=96;z:t=106,,1;z:w=92,,4,80
