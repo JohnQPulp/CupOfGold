@@ -9016,7 +9016,7 @@ Great ladies, dressed in the silken stuffs of China, were there because, after a
 Sailors were there because he was a sailor; little boys because he was a pirate; young girls because he was a hero; business men because he was rich; gangs of slaves because they had a holiday.
 
 
-There were prostitutes with berry juice squeezed on their lips, and with restless eyes searching the faces of unaccompanied men; and there were girl children whose hearts mothered the sacred little hope that the great man might just possibly look in their direction and find the understanding he must crave.<e>"girl children"?</e>
+There were prostitutes with berry juice squeezed on their lips, and with restless eyes searching the faces of unaccompanied men; and there were girl children whose hearts mothered the sacred little hope that the great man might just possibly look in their direction and find the understanding he must crave.
 
 
 In the crowd were sailors whose pride lay in the fact that they had heard Captain Morgan curse; tailors who had fitted breeches to his legs.
@@ -9079,10 +9079,19 @@ b=royal-pier
 And immediately he had stepped up, the pikemen formed about the official party and with weapons lowered forced a rough passage among the fighting, craning spectators.
 n:cav=Cavalier
 
-Henry glanced with apprehension at the soldiers who surrounded him. “Am I under arrest?” he asked of the cavalier who walked beside him.
-s=h;b=royal-pier;c=,cav,h;e:cav=h
+Henry glanced with apprehension at the soldiers who surrounded him.
 
-“Under arrest!” The man laughed. “No! We couldn’t arrest you if we would. The mob would tear us to pieces.”<e>Confusing could/would sentence. It does technically make sense though once you parse it out.</e>
+
+“Am I under arrest?” he asked of the cavalier who walked beside him.
+s=h;b=royal-pier;e:cav=h
+
+“Under arrest!”
+s=cav;z:cav=,,9
+
+The man laughed.
+s=
+
+“No! We couldn’t arrest you if we would. The mob would tear us to pieces.”<e>Confusing could/would sentence. It does technically make sense though once you parse it out.</e>
 s=cav
 
 “And if we did succeed in the arrest, they would rip out the stones of the jail with their fingers to free you.”
@@ -9098,7 +9107,7 @@ They arrived at the mansion of the Governor.
 s=;b=gov-mansion;c=
 
 “Captain Morgan,” said Governor Moddyford, when they were alone, “I don’t know whether my news is good or bad.”
-s=govm;c=govm,h;e:govm=t
+s=govm;e:govm=t;z:govm=92,,4
 
 “Word of your conquest has come to the ears of the King. Both of us are ordered to England.”
 e:h=c
@@ -9136,8 +9145,11 @@ And then, “Surely, Sir Charles; I have enough to buy the King’s favor though
 “They say the King is a good man and a judge of fine women, and I never knew one such not to need money.”
 e:h=s
 
-“There is another thing, Captain,” said the Governor uneasily. “Your uncle was killed some time ago. His daughter is here in my house.”
+“There is another thing, Captain,” said the Governor uneasily.
 s=govm;e:govm=n;e:h=c
+
+“Your uncle was killed some time ago. His daughter is here in my house.”
+
 
 “Sir Edward was nearly penniless when he died. Of course, you understand, we would like to have her stay here with us always, but I do not think she is quite happy.”
 
@@ -9148,7 +9160,10 @@ s=govm;e:govm=n;e:h=c
 “Sir Edward died nobly and was commended by the King, but after all the commendation of the Crown cannot be spent.”
 
 
-Henry smiled. “My uncle would have died nobly.”
+Henry smiled.
+s=
+
+“My uncle would have died nobly.”
 e:h=s;s=h
 
 “I am sure this uncle of mine made every move in his life—yes, even to the paring of his nails—as though the complete peerage were looking on, ready to make critical comments.”
@@ -9163,8 +9178,11 @@ e:h=s
 “Ah, that man! His life was a fine, simple part, and he was very true to it.”
 
 
-Henry spoke laughingly. “I hated my uncle. I think he frightened me. He was one of the few people I feared. But tell me how he died.”
+Henry spoke laughingly.
+s=
 
+“I hated my uncle. I think he frightened me. He was one of the few people I feared. But tell me how he died.”
+s=h
 
 “It is whispered that he groaned once. I traced the rumor and found that some servant had been hiding behind a curtain. He doubtless told of it.”
 s=govm
@@ -9221,7 +9239,7 @@ Meanwhile, in another room Lady Moddyford was earnestly talking to Elizabeth.
 n:ladm=Lady Moddyford;b=gov-mansion2
 
 “I find I must speak to you as a mother, my dear, a mother who is looking to your future.”
-s=ladm;c=!c,!ladm;e:c=n;e:ladm=h
+s=ladm;e:c=n;e:ladm=h
 
 “There is absolutely no doubt that your cousin will look out for you; but would you be happy that way?—just hanging to his purse-strings, I mean?”
 
@@ -9235,8 +9253,11 @@ s=ladm;c=!c,!ladm;e:c=n;e:ladm=h
 “Why don’t you marry your cousin? If nothing else came of it, you would be the one woman on earth who could not criticize her husband’s relatives.”
 
 
-“But what are you suggesting, Lady Moddyford?” Elizabeth put in meekly. “Isn’t it some kind of crime to marry one’s cousin?”<e>Well we're still ten years shy of <i>Gone With the Wind</i>, so I'd say the public will roll with it. (See also: like half of all public domain texts.)</e>
+“But what are you suggesting, Lady Moddyford?” Elizabeth put in meekly.
 s=c
+
+“Isn’t it some kind of crime to marry one’s cousin?”<e>In 1929? Nah, we're still ten years shy of <i>Gone With the Wind</i>.</e>
+
 
 “Not a bit of it, my dear. There is nothing in church or state to forbid it, and I, myself, would favor such a marriage.”
 s=ladm
@@ -9268,13 +9289,19 @@ s=ladm;e:ladm=t
 “And I shall arrange matters so that no one will get in your way. You may trust me for that.”
 e:ladm=h
 
-Elizabeth had made up her mind. “I know; I shall play for him. I have heard how music affects these fierce men.”
+Elizabeth had made up her mind.
+s=
+
+“I know; I shall play for him. I have heard how music affects these fierce men.”
 s=c;e:c=h
 
 “I shall play him my new pieces—‘The Elves’ Concourse,’ and ‘God Bears the Weary Soul to Rest.’”
 e:ladm=
 
-“No,” broke in Lady Moddyford. “No, I wouldn’t do that if I were you. He might not like fine music. There are better ways.”
+“No,” broke in Lady Moddyford.
+s=ladm;e:c=n
+
+“No, I wouldn’t do that if I were you. He might not like fine music. There are better ways.”
 s=ladm;e:c=n
 
 “But you said those pieces were very pretty; you said it yourself. And haven’t I read how music soothes men until they can hardly bear it?”
@@ -9304,20 +9331,20 @@ e:ladm=t
 “No, I can’t think what we should do without protection. Sir Charles has a man in the garden all the time looking for snakes.”
 
 
-“And do you know, I have always liked snakes. I had three of them for pets when I was a little girl.”<e>Steinbeck just obsessed with the whole snake thing.</e>
+“And do you know, I have always liked snakes. I had three of them for pets when I was a little girl.”
 e:ladm=h
 
 The next morning Lady Moddyford brought them together, and, as soon as she gracefully could, left them alone.
 s=;c=;b=gov-mansion
 
 Elizabeth looked fearfully at her cousin.
-c=!c,h;e:c=f;e:h=
+e:c=f;e:h=;c=c;v=,130
 
 “You have done great, terrible things on the ocean, Captain Morgan—enough to freeze one thinking about them,” she said falteringly.
-s=c
+s=c;
 
 “The deeds were not great, nor very dreadful. Nothing is as good or as bad as the telling of it.”
-s=h
+s=h;
 
 And he thought, “I was wrong about her—very wrong. She is not supercilious at all.”
 s=;t=h;e:h=t
@@ -9325,13 +9352,19 @@ s=;t=h;e:h=t
 “It must have been her father—the devil—who gave me a wrong impression of her. She is quite nice.”
 
 
-“I am sure yours were great, if your modesty would let you admit it,” she was saying demurely. “Do you know, I used to tremble at the tales they told of you, and hope that you were not in need or trouble.”
+“I am sure yours were great, if your modesty would let you admit it,” she was saying demurely.
 t=;s=c;e:c=n;e:h=
+
+“Do you know, I used to tremble at the tales they told of you, and hope that you were not in need or trouble.”
+
 
 “Did you? Why did you? I didn’t think you ever noticed me.”
 s=h
 
-Her eyes had filled with tears. “I have had trouble, too.”
+Her eyes had filled with tears.
+s=;e:c=b
+
+“I have had trouble, too.”
 s=c;e:c=b
 
 “I know. They told me about your trouble, and I was sorry for you, little cousin Elizabeth.”
@@ -9340,10 +9373,13 @@ s=h;e:h=w
 “I hope you will let me help you in your trouble. Won’t you sit here beside me, Elizabeth?”
 
 
-She looked shyly at him. “I’ll play for you, if you like,” she said.
+She looked shyly at him.
+s=;c=
+
+“I’ll play for you, if you like,” she said.
 s=c;e:c=n
 
-“Ye-es—yes, do.”<e>Fanfic grammar.</e>
+“Ye-es—yes, do.”
 s=h
 
 “Now this is ‘The Elves’ Concourse.’ Listen! You can hear their little feet pattering on the grass. Everybody says it is very sweet and pretty.”
@@ -9433,8 +9469,11 @@ s=h
 Again her fingers worked over the strings.
 s=
 
-“It is very beautiful, and sad,” said Henry, when it was finished. “I liked it wonderfully well, but don’t you think, Elizabeth—don’t you think that sixth string from the end might be a little—tighter?”
+“It is very beautiful, and sad,” said Henry, when it was finished.
 s=h;e:h=c
+
+“I liked it wonderfully well, but don’t you think, Elizabeth—don’t you think that sixth string from the end might be a little—tighter?”
+
 
 “Oh, I wouldn’t have it touched for the world!” she cried. “Before we came out from England, Papa had a man—a harp man—go over the whole thing thoroughly.”
 s=c;e:c=u
@@ -9451,8 +9490,11 @@ s=c
 “I just have deep feelings like that. I can’t help it.”
 
 
-“No, of course I am not angry.” She was so little and so helpless, he thought.
+“No, of course I am not angry.”
 s=h;e:h=
+
+She was so little and so helpless, he thought.
+s=
 
 “Where will you be going, now that you are rich and famous and covered with honors?”
 s=c;e:c=n
@@ -9469,8 +9511,11 @@ s=c
 “Yes,” said Henry.
 s=h
 
-“Papa’s death was a great shock,” she said, and again the tears were in her eyes. “It’s a terrible thing to be left alone and nearly no—no relatives or friends.”
+“Papa’s death was a great shock,” she said, and again the tears were in her eyes.
 s=c;e:c=b
+
+“It’s a terrible thing to be left alone and nearly no—no relatives or friends.”
+
 
 “Of course, the Moddyfords have been lovely to me, but they couldn’t be like my own people. Oh, dear! I have been so lonely.”
 
@@ -9497,12 +9542,18 @@ She had sprung away from him.
 s=;e:c=f
 
 “But what are you suggesting? What is this thing you are proposing to me?” she cried. “Isn’t it some sin—some crime—for cousins to marry?”
-s=c;e:c=f;c=!c,
+s=c;e:c=f
 
 “Marry?”
-s=h;e:h=p;c=!c,h
+s=h;e:h=p
 
-“Oh!” She blushed, and her eyes glittered again with her quick tears. “Oh! I am ashamed. You did mean marry, didn’t you? I am ashamed.”
+“Oh!”
+s=c
+
+She blushed, and her eyes glittered again with her quick tears.
+s=
+
+“Oh! I am ashamed. You did mean marry, didn’t you? I am ashamed.”
 s=c
 
 Her agitation was pitiful.
@@ -9541,11 +9592,14 @@ n:king=King Charles II;b=king-lib
 On a table beside the two men were bottles and glasses.
 
 
-“I knighted him this afternoon,” the King was saying. “He got pardon and a knighthood for two thousand pounds.”
-s=king
+“I knighted him this afternoon,” the King was saying.
+s=king;z:king=104,,8
+
+“He got pardon and a knighthood for two thousand pounds.”
+
 
 “Well, two thousand pounds—” murmured John Evelyn. “Certain tradesmen will, perhaps, bless his knighthood.”
-s=je;e:je=c
+s=je;e:je=c;z:je=95,,1
 
 “But that’s not it, John. I could have got twenty. He took about a million out of Panama.”
 s=king
@@ -9637,7 +9691,7 @@ s=king
 He motioned a servant to keep Henry’s glass filled.
 s=
 
-“I have heard of a certain woman in Panama. Tell us about her.”<e>Whenever <s>Poochie's</s> Ysobel's not on screen, even the king needs to ask about her.</e>
+“I have heard of a certain woman in Panama. Tell us about her.”<e>Whenever Ysobel's not on screen, even the king should be asking, "Where's Ysobel?"</e>
 s=king
 
 Henry drained his glass. His face was becoming flushed.
@@ -9655,10 +9709,13 @@ s=h
 “Should I get the woman or the hundred thousand?”
 e:h=t
 
-The King leaned forward in his chair. “Which did you take? Tell me quickly.”
+The King leaned forward in his chair.
+s=
+
+“Which did you take? Tell me quickly.”
 s=king
 
-“I remained in Panama for a while,” said Henry. “What would Your Majesty have done in my place? I got both. Perhaps I got even more than that. Who knows but my son will inherit the silver mines eventually.”<e>If I can give one positive for Steinbeck's Morgan characterization, it's the constant fabulizing. It's endearing.</e>
+“I remained in Panama for a while,” said Henry. “What would Your Majesty have done in my place? I got both. Perhaps I got even more than that. Who knows but my son will inherit the silver mines eventually.”
 s=h;e:h=s
 
 “I would have done that,” cried the King. “You are right. I would have done just that. It was clever, sir. A toast, Captain—to foresight.”
@@ -9718,8 +9775,11 @@ e:h=t
 Henry lifted his eyes. The King was smiling ironically. John Evelyn drummed the table with his fingers.
 s=;b=king-lib-mod-h
 
-“Yes?” said the King. “Yes?” He chuckled.
+“Yes?” said the King. “Yes?”
 s=king;e:king=s
+
+He chuckled.
+s=
 
 “Ah, I am old—old,” Henry moaned. “It is a lie. She was a peasant child, the daughter of a cottager.”
 s=h;e:h=u
@@ -9769,7 +9829,7 @@ s=je
 “You make him Lieutenant-Governor. In this you are like the multitude. You believe that if a man do one thing magnificently, he should be able to do all things equally well.”
 
 
-“If a man be eminently successful in creating an endless line of mechanical doodads of some excellence, you conceive him capable of leading armies or maintaining governments.”<e>"Doodads"? Steinbeck, you're no Twain. At least not yet. But also is this line some sort of obscure political swipe?</e>
+“If a man be eminently successful in creating an endless line of mechanical doodads of some excellence, you conceive him capable of leading armies or maintaining governments.”<e>"doodads"</e>
 e:je=c
 
 “You think that because you are a good king you should be as good a lover—or vice-versa.”
@@ -9823,8 +9883,11 @@ Throughout the room an orchestra of flies sang their symphony of boredom. The dr
 Court officials went about sleepily, and the cases moved on.
 
 
-“It was the fifteenth of the month, my lord. Williamson went to the Cartwright property for the purpose of determining—determining to his own satisfaction, my lord, whether the tree stood as described. It was while he was there—”
-s=co
+“It was the fifteenth of the month, my lord.”
+s=co;z:co=96,55,3
+
+“Williamson went to the Cartwright property for the purpose of determining—determining to his own satisfaction, my lord, whether the tree stood as described. It was while he was there—”
+
 
 The case sang to its monotonous conclusion. Sir Henry, behind his broad table, stirred sleepily.
 s=
@@ -9833,7 +9896,7 @@ Now the guards brought in a sullen vagrant, clothed in rags of old sail.
 n:a1=Vagrant
 
 “Charged with stealing four biscuits and a mirror from So-and-So, my lord.”
-s=guard
+s=guard;z:guard=98,,5
 
 “The proof?”
 s=h
@@ -9934,8 +9997,11 @@ n:bur2=Tall Man;s=
 “We plead guilty, my lord.”
 s=bur2
 
-“You plead guilty?” Sir Henry cried in amazement. “But no pirate pleads guilty. It is a case unprecedented.”
+“You plead guilty?” Sir Henry cried in amazement.
 s=h;e:h=j
+
+“But no pirate pleads guilty. It is a case unprecedented.”
+
 
 “We plead guilty, my lord.”
 s=bur2
@@ -9976,8 +10042,11 @@ s=h;e:h=s
 “I do not kill ferociously any more, but coldly, and because I have to.”
 
 
-Sir Henry raised his voice. “Let the court be cleared, but guard the doors! I wish to speak privately with the prisoners.”
-e:h=
+Sir Henry raised his voice.
+s=
+
+“Let the court be cleared, but guard the doors! I wish to speak privately with the prisoners.”
+e:h=;s=h
 
 When they were alone he began:
 s=
@@ -9985,7 +10054,10 @@ s=
 “I know well that I am changed, but tell me what is the change you see.”
 s=h
 
-The Burgundians looked at each other. “You speak, Emil.”
+The Burgundians looked at each other.
+s=
+
+“You speak, Emil.”
 n:bur2=Antoine, The Other Burgundian;s=bur2;e:bur2=
 
 “You are changed, sir, in this way. Once you knew what you were doing. You were sure of yourself.”
@@ -9997,7 +10069,10 @@ s=bur2
 “It is possible to trust one man. But now you are several men. If we should trust one of you, we should be in fear of the others.”
 
 
-Sir Henry laughed. “That is more or less true. It is not my fault, but it is true. Civilization will split up a character, and he who refuses to split goes under.”
+Sir Henry laughed.
+s=
+
+“That is more or less true. It is not my fault, but it is true. Civilization will split up a character, and he who refuses to split goes under.”
 s=h;e:h=s
 
 “We have forgotten about civilization, thanks to our Mother,” Antoine muttered fiercely.
@@ -10030,17 +10105,26 @@ e:h=t
 “As long as I do what is expected of me, I shall remain the Judge. When I change, for whatever motive, I may myself be hanged.”
 e:h=c
 
-“That is so, sir. I remember.” He turned to his friend who stood shaking in the grip of horror.
+“That is so, sir. I remember.”
 s=bur2
 
-“You see, such is the case, Emil. He does not like to tell us this thing because it hurts him.”
+He turned to his friend who stood shaking in the grip of horror.
+s=
 
+“You see, such is the case, Emil. He does not like to tell us this thing because it hurts him.”
+s=bur2
 
 “Perhaps he punishes himself in this manner for something he had done or failed to do. Perhaps he remembers Chagres, Emil.”
 e:bur2=g
 
-“Chagres!” Sir Henry bent forward with excitement. “What happened after I sailed away? Tell me!”<e>I mean maybe my understanding of the timeline is off, but shouldn't Henry have heard of the aftermath by now?</e>
+“Chagres!”
 s=h;e:h=j
+
+Sir Henry bent forward with excitement.
+s=
+
+“What happened after I sailed away? Tell me!”
+s=h
 
 “You were cursed, sir, as it is given to few men to be cursed. You were tortured in men’s minds. They feasted on your heart and sent your soul to hell.”
 s=bur2;e:bur2=c
@@ -10054,8 +10138,11 @@ s=h
 “They scattered and died, poor little children.”
 s=bur2
 
-“Anyway, I should have hated to fall in with those poor little children! Tell me,” Sir Henry’s voice had become wistful, “tell me about Panama.”
-s=h;e:h=t
+“Anyway, I should have hated to fall in with those poor little children!”
+s=h
+
+“Tell me,” Sir Henry’s voice had become wistful, “tell me about Panama.”
+e:h=t
 
 “We did go there, didn’t we? We really captured Panama, didn’t we, and looted it? It was I who led you, wasn’t it?”
 
@@ -10069,8 +10156,11 @@ s=h
 “I would like to stay and talk to you of that old time, but my wife expects me. She is apt to fuss if I am late for luncheon.”
 
 
-He spoke jocosely. “When would you like to be hanged?”
-e:h=s
+He spoke jocosely.
+s=
+
+“When would you like to be hanged?”
+e:h=s;s=h
 
 The Burgundians were whispering together.
 s=
@@ -10081,8 +10171,11 @@ s=bur2
 “We do not wish to put you to the trouble, but if you insist—any time there is a man and a rope idle.”
 
 
-Antoine approached the table. “Emil wishes to offer one last compliment. It is a gift for your wife—a gift the history of which alone would make it valuable.”
-e:bur2=c
+Antoine approached the table.
+s=
+
+“Emil wishes to offer one last compliment. It is a gift for your wife—a gift the history of which alone would make it valuable.”
+e:bur2=c;s=bur2
 
 “Emil has treasured this gift to the end, and of this talisman he has reaped a harvest—for talismanic it is, in truth, sir.”
 
@@ -10108,8 +10201,8 @@ b=palace-ext
 Lady Morgan would not have felt right if a detail had been changed. She met Henry at the door.
 n:c=Lady Elizabeth Morgan
 
-“We are to have dinner with the Vaughns. And what am I to do about the coachman? He’s drunk.”<e>Uh, it's a magic collar thing that Elizabeth is wearing. That's why it fades in and out. Steinbeck just forgot to mention it.</e>
-s=c;c=!c,h;e:h=w;e:c=c
+“We are to have dinner with the Vaughns. And what am I to do about the coachman? He’s drunk.”
+s=c;e:h=w;e:c=c
 
 “I’ve told you and told you to lock your closet, but you will not pay attention to me. He sneaked into the house and got a bottle off your shelf. He must have done that.”
 
@@ -10129,7 +10222,19 @@ s=c;e:h=w
 “Up to? Why, I have been holding court.”
 s=h
 
-“I suppose you got this in court!” Her face lighted up. “I know! You suspected my displeasure at your actions last night. You were practically intoxicated, if you must know the truth; and all the people were staring at you and whispering. Don’t say a word. I saw them and I saw you. And now you want to bribe my feeling—my decency.”<e>Nag nag nag. Henry sure knows how to pick 'em.</e>
+“I suppose you got this in court!”
+s=c
+
+Her face lighted up.
+s=
+
+“I know! You suspected my displeasure at your actions last night. You were practically intoxicated, if you must know the truth; and all the people were staring at you and whispering.”
+s=c
+
+“Don’t say a word. I saw them and I saw you.”
+
+
+“And now you want to bribe my feeling—my decency.”<e>Nag nag nag. Henry sure knows how to pick 'em.</e>
 s=c
 
 “Suspected your displeasure! My dear, I suspected it all the way home with you, and nearly all night after I got here.”
@@ -10150,7 +10255,10 @@ s=c
 “Listen to me, Elizabeth, please. I tried two pirates this morning and they gave it to me.”
 s=h;e:h=c
 
-She smiled a superior smile. “They gave it to you? Why? Did you release them? It would be like you to release them.”
+She smiled a superior smile.
+s=
+
+“They gave it to you? Why? Did you release them? It would be like you to release them.”
 s=c;e:c=s
 
 “Sometimes I think you would still be one of them if it weren’t for me. You never seem to realize, Henry, that it is really I who have made you what you are—a knight and a gentleman.”
@@ -10225,17 +10333,17 @@ It was disquieting.
 ### IV
 r=card
 
-Sir Henry Morgan lay in an enormous bed; a bed so wide that his body, under the coverlid, seemed a snow-covered mountain range dividing two great plains.<e>Uh, the bed width. It's amazing how the unreliable narration really ramps up towards the end.</e>
+Sir Henry Morgan lay in an enormous bed; a bed so wide that his body, under the coverlid, seemed a snow-covered mountain range dividing two great plains.
 a:h=death;b=death-bed
 
 From the walls about the room the shiny eyes of his ancestors regarded him.
 
 
 On their faces were smirks which said, “Ah, yes! A knight, to be sure—but we know how you bought your knighthood.”
-
+m=dialogue
 
 The air in the room was heavy and thick and hot. So always the air seems in a room where a man is about to die.
-
+m=
 
 Sir Henry was staring at the ceiling. For an hour he had been puzzled with this mysterious ceiling.
 
@@ -10258,8 +10366,11 @@ s=doc;e:doc=c
 “I could bleed him again, I suppose, but we have taken a great deal of blood already, and it seems to do no good. However, if he begins to sink, I shall try it again.”
 
 
-“Then he will die?” Lady Morgan asked. Henry thought she showed more curiosity than sorrow.
+“Then he will die?” Lady Morgan asked.
 s=c;e:c=t
+
+Henry thought she showed more curiosity than sorrow.
+s=
 
 “Yes, he will die unless God intervenes. Only God can be sure of his patients.”
 s=doc
@@ -10291,13 +10402,16 @@ s=h;e:h=w
 “This woman loves me, and I have never known it. I cannot know this kind of love. Her eyes—her eyes—this is something far beyond my comprehension. Can she have loved me always?”
 
 
-He looked again. “She is very near to God. I think women are nearer to God than men.”
+He looked again.
+s=
 
+“She is very near to God. I think women are nearer to God than men.”
+s=h
 
 “They cannot talk about it, but, Christ! how it shines in their eyes. And she loves me.”
 
 
-“During all her hectoring and badgering and browbeating, she has loved me—and I have never known it.”<e>Some final whipping, as we near the end.</e>
+“During all her hectoring and badgering and browbeating, she has loved me—and I have never known it.”<e>Some final whipping at the end.</e>
 
 
 “But what would I have done if I had known it?”
@@ -10343,22 +10457,31 @@ Suddenly Henry remembered a moment of his childhood. He was being tortured with 
 s=;b=dream
 
 She stroked his wrist with her finger tips. “This is all nonsense,” she was saying.
+m=dialogue
+
+He remembered how she said it.
 
 
-He remembered how she said it. “This is all nonsense. God is Love. He will not let little boys suffer. Now repeat after me—‘The Lord is my shepherd. I shall not want.’”
+“This is all nonsense. God is Love. He will not let little boys suffer. Now repeat after me—‘The Lord is my shepherd. I shall not want.’”
 
 
-It was as though she administered a medicine. In the same tone she would have commanded, “Come, take this oil!”
+It was as though she administered a medicine.
+
+
+In the same tone she would have commanded, “Come, take this oil!”
 
 
 Henry felt the warm fingers of the Vicar creep to his wrist and begin a stroking movement.
-b=death-bed
+b=death-bed;m=
 
 “‘The Lord is my shepherd. I shall not want,’” Henry droned sleepily.
 s=h
 
-“‘He maketh me to lie down in green pastures—’” The stroking continued, but more harshly.
+“‘He maketh me to lie down in green pastures—’”
 
+
+The stroking continued, but more harshly.
+s=
 
 The Vicar’s voice became more loud and authoritative. It was as though, after years of patient waiting, the Church had at last got Henry Morgan within its power.
 s=
@@ -10367,12 +10490,15 @@ There was something almost gloating about the voice.
 
 
 “Have you repented your sins, Sir Henry?”
-s=vicar
+s=vicar;z:vicar=,,1
 
 “My sins? No, I had not thought of them. Shall I repent Panama?”
 s=h
 
-The Vicar was embarrassed. “Well, Panama was a patriotic conquest. The King approved. Besides, the people were Papists.”
+The Vicar was embarrassed.
+s=
+
+“Well, Panama was a patriotic conquest. The King approved. Besides, the people were Papists.”
 s=vicar;e:vicar=n
 
 “But what are my sins, then?” Henry went on. “I remember only the most pleasant and the most painful among them.”
@@ -10405,7 +10531,7 @@ s=h
 “You must search in your heart for greed and lust and spite. You must drive wickedness from your heart.”
 s=vicar
 
-“But, sir, I don’t remember ever having been consciously wicked. I have done things which seemed wicked afterwards, but while I was doing them I always had some rather good end in view.”<e>Just as good as Dostoevsky.</e>
+“But, sir, I don’t remember ever having been consciously wicked. I have done things which seemed wicked afterwards, but while I was doing them I always had some rather good end in view.”
 s=h
 
 Again he was conscious that he wasn’t really speaking.
@@ -10447,7 +10573,10 @@ s=
 “He will not answer me,” the Vicar was saying. “I am perplexed for his soul.”
 s=vicar
 
-Then he heard his wife speaking to him. “You must pray, dear. Everyone does. How can you get to heaven if you do not pray?”
+Then he heard his wife speaking to him.
+s=
+
+“You must pray, dear. Everyone does. How can you get to heaven if you do not pray?”
 s=c;e:c=u
 
 There she was again, intent on making a contract with God. But Henry did not want to look at her.
@@ -10457,10 +10586,10 @@ Naive though her philosophy was, her eyes were as deep and as sad as the limitle
 
 
 He wanted to say, “I won’t want to get to heaven once I am dead. I won’t want them to disturb me.”
-
+m=dialogue
 
 They made such a commotion about this death.
-
+m=
 
 The doctor had come back into the room.
 
@@ -10514,7 +10643,7 @@ When he knew their identity, the faceless little creatures turned on him and clu
 
 
 “Why did you do me?” one cried.
-
+m=dialogue
 
 “I do not know; I do not remember you.”
 s=h
@@ -10544,10 +10673,13 @@ Then he saw that the little beings were crouching before an approaching form.
 s=;f:b:grotto=blur(15px)
 
 They turned toward the form and cowered, and at length fell on their knees before it and raised trembling arms in gestures of supplication.
+a:liz=ghost;c=liz;v=,150,10;f:c:liz=blur(15px)
 
+Henry strained his attention toward the figure.
+f:c:liz=blur(5px)
 
-Henry strained his attention toward the figure. Why, it was Elizabeth coming toward him—little Elizabeth, with golden hair and a wise young look on her face.<e>I think it should have been Elizabeth the ship that came back to him in the end.</e>
-a:liz=ghost;c=liz
+Why, it was Elizabeth coming toward him—little Elizabeth, with golden hair and a wise young look on her face.<e>I think it should have been Elizabeth the ship that came back to him in the end.</e>
+a:liz=ghost;c=liz;f:c:liz=
 
 She was girdled with cornflowers, and her eyes were strangely puzzled and bright.
 
@@ -10606,5 +10738,8 @@ s=;f:c:liz=blur(30px) hue-rotate(325deg) brightness(50%)
 The fire went out of the ember with a dry, hard snap. There was no light anywhere.
 c=;f:b:grotto=blur(25px) brightness(50%)
 
-For a moment, Henry was conscious of the deep, mellow pulsation of the Tone.<e>The End. So little Elizabeth was the Rosebud of the story or something. And we had some happy fun morals along the way. So not Steinbeck's best work, but it wasn't completely awful. (Now his next book to enter public domain is a werewolf murder mystery, and that I expect to be awful.) The real moral of the story is: eventually Steinbeck did get better, and that's a lesson in perseverance for all of us.</e>
-z:a1=86;z:bur1=81,,5;z:bur2=105;z:c=90;z:c-amid=95;z:c-aold=95;z:cock=70;z:cook=95,,5;z:dp=102,45,5;z:dg=97,,8;z:doc=95;z:drunk=102,,9;z:e=103,45,1;z:f=105,,7;z:gov=95,42,4;z:grippo=105;z:h=91,,2;z:h-a18=102,,3;z:h-a30=102,,3;z:h-aold=102;z:h-adeath=102;z:hal=110,,16;z:ie=92;z:j=93,,1;z:la=96,36,,93;z:ladm=98;z:liz-aghost=75;z:m=90,,2;z:men1=97;z:men2=102,,3;z:p=89,,2;z:pris2=97;z:r2=97,,5;z:r3=103,45,6;z:r4=98,,5;z:span=96,40;z:t=106,,1;z:w=92,,4,80
+For a moment, Henry was conscious of the deep, mellow pulsation of the Tone.
+
+
+<e>The End. So little Elizabeth was the Rosebud of the story or something. And we had some happy fun morals along the way. So not Steinbeck's best work, but it wasn't completely awful. And the real takeaway of the book is: eventually Steinbeck did get better, and that's a lesson in perseverance for all of us.</e>
+b=title;z:a1=86,40,2;z:bur1=81,,5;z:bur2=105;z:c=90;z:c-amid=95;z:c-aold=95;z:cock=70;z:cook=95,,5;z:dp=102,45,5;z:dg=97,,8;z:doc=95,,4;z:drunk=102,,9;z:e=103,45,1;z:f=105,,7;z:gov=95,42,4;z:grippo=105;z:h=91,,2;z:h-a18=102,,3;z:h-a30=102,,3;z:h-aold=102,,3;z:h-adeath=102,,3;z:hal=110,,16;z:ie=92;z:j=93,,1;z:la=96,36,,93;z:ladm=103,55,9;z:liz-aghost=75;z:m=90,,2;z:men1=97;z:men2=102,,3;z:p=89,,2;z:pris2=97;z:r2=97,,5;z:r3=103,45,6;z:r4=98,,5;z:span=96,40;z:t=106,,1;z:w=92,,4,80
