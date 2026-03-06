@@ -767,7 +767,7 @@ Merlin was old now; his hair and long, straight beard were white and soft as spr
 
 
 The pathway narrowed on young Henry as he climbed.
-b=high-trail
+b=think
 
 Its inward side was a stone wall cutting into the heavens knife-like, and the misshapen, vague images along the way made it seem the rock temple of some old, crude god whose worshipers were apes.
 c=
@@ -1037,7 +1037,7 @@ Henry looked back once as the black silhouette of the house sank behind the crag
 b=crag-ext-night;s=;e:h=w;v=100,75
 
 The boy quickened his steps down the path. All below was a black lake; and the farm lights stars’ reflections in its deep. The wind had died, leaving a thick silence on the hills.
-b=high-trail-night;e:h=c
+b=think;e:h=c
 
 Everywhere the sad, soundless ghosts flitted about their haunting. Henry walked carefully, his eyes on the path which glimmered pale blue before him.
 
@@ -1451,7 +1451,7 @@ s=
 r=card
 
 All night Old Robert tossed nervously in his bed, and his wife lay motionless beside him.
-b=farm-bedroom
+b=think
 
 At last, when the darkness was changing to silver gray in the window, she rose quietly.
 
@@ -2153,7 +2153,7 @@ To his lips came the peculiar, clean swearing of sailors; phrases of filth and b
 
 
 And in the nights he lay back quietly while the men talked of wonders seen and imagined; of mile-long serpents which coiled about ships and crushed and swallowed them, and of turtles so huge that they had trees and streams and whole villages on their backs and only sank once in five hundred years.
-b=bristol-hull
+b=think
 
 Under the swinging lamps they told how Finns could whistle up a deadly storm for their revenge; how there were sea-rats that swam to the ships and gnawed holes through the planking until the ships sank.
 
@@ -2231,7 +2231,7 @@ e:t=u
 
 
 “Well, three of us came floating ashore on an extra spar, and two of them crazed—poor souls—and wild like cats. I never did be hearing whether any others were saved or not, but I’m thinking not.”
-b=bristol-hull
+b=think
 
 “And that’s the nearest I’ve ever seen with my eyes the things you do be talking of. But they say on clear nights in the Indian Ocean you can be seeing the poor murdered Hindu ghosts chasing the dead da Gama about in the sky.”
 
@@ -2492,7 +2492,7 @@ But there was no answer.
 s=
 
 Tim heard, and he was sobbing in his hammock like a small, whipped child.<e>This book has three main motifs: whipping, milk, and snake women. It's left as an exercise to the reader to fit those pieces together.</e>
-s=;b=bristol-hull
+s=;b=think
 
 And Henry, as he climbed over the side ahead of his new master, felt nothing at all.
 b=think
@@ -5222,7 +5222,7 @@ s=;b=think
 r=card
 
 Spring had come to Cambria, welling up out of the Indies and out of the hot, dry heart of Africa, and this the fifteenth Spring since Henry went away.
-a:r=old;b=farm-ext-mod-spring
+a:r=old;b=think
 
 Old Robert liked to think, and then came curiously to believe, that his son sent the Spring to Cambria out of the tropic places.
 
@@ -5261,7 +5261,7 @@ But Robert thought often of this abstract person, his son, of whom he heard wave
 
 
 With waking on the fine morning of the Spring, Robert had said,
-b=farm-ext-mod-spring;e:r=;v=100,80
+b=think;e:r=;v=100,80
 
 “I will climb up to see Merlin today. Strange how that old man lives under the growing pressure of his years. There must be more than a hundred of them now.”
 s=r
