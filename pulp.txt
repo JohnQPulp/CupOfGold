@@ -7108,8 +7108,11 @@ A monkey no larger than a rabbit picked over the gravel of the path, looking for
 On one of the stone seats of the garden a woman was sitting.
 n:la=?;b=garden-seat-mod-la
 
-She pulled a yellow flower to bits while she sang fragments of a tender, silly song—“I would pluck the flower of the day for you, my love, where it grows in the dawning.”
-s=la;e:la=t
+She pulled a yellow flower to bits while she sang fragments of a tender, silly song—
+m=allowbreak;m=nospace
+
+“I would pluck the flower of the day for you, my love, where it grows in the dawning.”
+s=la;e:la=t;m=
 
 Her eyes were black, but opaque. They were the rich, sheening, shallow black of a dead fly’s wings, and under the lids there were sharp little lines.
 s=
@@ -7135,7 +7138,10 @@ The little monkey came at a funny, crooked gallop along the path.
 He stopped in front of the woman and raised his black paws above his head as though in prayer.
 
 
-The woman spoke softly to him. “You have learned your lesson well, Chico. Your teacher was a Castilian with a fearful mustache. I am well acquainted with him.”
+The woman spoke softly to him.
+
+
+“You have learned your lesson well, Chico. Your teacher was a Castilian with a fearful mustache. I am well acquainted with him.”
 s=la;e:la=s
 
 “Do you know, Chico, he wants what he considers my honor. He will not be satisfied until he has added my honor to his own, and then he will be almost boastful.”
@@ -7154,7 +7160,7 @@ She laughed and glanced again toward the doorway.
 s=
 
 Although there was no sound, she rose and walked quickly toward the Hall of Audience.
-c=la,;b=garden;e:la=
+b=garden;e:la=
 
 Henry Morgan had turned slightly in his chair, and his turning allowed the sunlight to beat upon his eyelids. Suddenly he sat up and stared about him. He looked with satisfaction at the heap of treasure on the floor, then gazed full in the eyes of the woman standing under the broad arch.
 b=serpent-chair-mod-h-la;c=
@@ -7174,7 +7180,10 @@ He remembered that he was surprised.<e>He remembered that he was surprised.</e>
 “Who are you?” he demanded.
 s=h;e:h=c
 
-She moved a step into the hail. “My name is Ysobel. It was said that you sought me.”<e>Note that Ysobel, anglicized as Isabel ("ISABEl"), is a cousin name to Elizabeth ("elIZABEth"). So this is Elizabeth #5.</e>
+She moved a step into the hail.
+s=
+
+“My name is Ysobel. It was said that you sought me.”<e>Note that Ysobel, anglicized as Isabel ("ISABEl"), is a cousin name to Elizabeth ("elIZABEth"). So this is Elizabeth #5.</e>
 s=la
 
 “Sought you?”
@@ -7190,7 +7199,7 @@ He had prepared a picture in his mind, a picture of a young girl with blue, sera
 s=;b=dream
 
 These eyes did not fall. Under their soft black surfaces they seemed to be laughing at him, making light of him.
-b=think;c=la
+b=think;c=la;v=100,130
 
 This woman’s face was sharp, almost hawk-like. She was beautiful, truly, but hers was the harsh, dangerous beauty of lightning.
 
@@ -7285,8 +7294,11 @@ e:h=t
 “He lies confounded by the stars of this new system.”
 
 
-“Why do I tell you these things, Ysobel—knowing you will understand them? You must understand them. Perhaps I know by the dark, sweet music of your eyes. Perhaps I can read the throbbing heartbeats on your lips. Your beating heart is a little drum urging me to battle with your fears. Your lips are like twin petals of a red hibiscus.”
+“Why do I tell you these things, Ysobel—knowing you will understand them? You must understand them. Perhaps I know by the dark, sweet music of your eyes. Perhaps I can read the throbbing heartbeats on your lips.”
 e:h=h
+
+“Your beating heart is a little drum urging me to battle with your fears. Your lips are like twin petals of a red hibiscus.”
+
 
 “And if I find you lovely, am I to be put in fear by a dull circumstance?”
 
@@ -7342,8 +7354,11 @@ e:la=t
 “He would take me through the streets and his eyes would say, ‘See what I have married! No ordinary man could marry such a woman; but then, I am not an ordinary man.’”
 
 
-“He was afraid of me—a little man, and afraid of me. He would say, ‘With your permission, my dear, I shall exercise the prerogative of a husband.’”<e>See what I mean about the whipping in this book?</e>
+“He was afraid of me—a little man, and afraid of me.”
 e:la=g
+
+“He would say, ‘With your permission, my dear, I shall exercise the prerogative of a husband.’”<e>See what I mean about the whipping in this book?</e>
+
 
 “Ah, the contempt I have for him!”
 
@@ -7387,7 +7402,7 @@ s=la;e:la=
 “While you wrenched at my clothing, I would picture you fawning before me, blurting out your words.”
 
 
-“And I should laugh, I’m afraid. I might even protect myself—and you, who should be somewhat an authority on rape, must know the consequence of that.”<e>Steinbeck, I don't understand what this is supposed to mean. By "consequence", do you mean moral consequences, like a much dumber <book>Crime and Punishment</book>? Or do you actually just mean physical consequences ­— as in, Morgan will lose if he tries to assault her? Because that's also stupid.</e>
+“And I should laugh, I’m afraid. I might even protect myself—and you, who should be somewhat an authority on rape, must know the consequence of that.”
 e:la=s
 
 “No, you have failed—and I am sorry of your failure.”
@@ -7451,7 +7466,7 @@ s=;b=garden
 s=la;c=la
 
 “Get to your cell,” he ordered her.
-s=h;c=h
+s=h
 
 “Oh—and Captain Morgan, you will find an old woman on the steps of the palace.”
 s=la;c=la;e:la=
@@ -7490,10 +7505,10 @@ A shrill woman’s voice, piercing, insistent—it seemed to be digging at a tre
 
 
 “I have been honest in my being, and that is a black lie on the soul. Forgive my body its humanity. Forgive my mind which knows its limitations. Pardon my soul for being anchored this little time to both. *Ora pro nobis.*”
-s=la;b=garden
+m=dialogue;b=garden
 
 The mad, endless rosary cankered in Henry’s brain.
-s=;b=serpent-chair
+s=;b=serpent-chair;m=
 
 At last he seized his rapier and his hat and ran from the hall into the street.
 b=ppalace
@@ -7544,7 +7559,7 @@ A few buccaneers were poking about in the ashes, looking for melted plate which 
 b=proad-ruin
 
 Turning a corner, Henry came upon the little Cockney Jones, and saw him quickly thrust something into his pocket.
-c=cock,h
+
 
 A flame of rage arose in Captain Morgan. Coeur de Gris had said that there was no difference between this epileptic dwarf and Henry Morgan.
 e:h=m
@@ -7556,22 +7571,25 @@ The cruel desire made the captain’s lips grow thin and white.
 e:h=g
 
 “What have you in your pocket?”
-s=h;e:cock=n
+s=h;e:cock=n;c=cock;v=100,130,30
 
 “Nothing—nothing, sir.”
 s=cock
 
-“Let me see what you have in your pocket.” The captain was pointing a heavy pistol.<e>And now for Henry's famous disappearing sword trick. (Oops.)</e>
+“Let me see what you have in your pocket.”
 s=h;x:h=pistol
+
+The captain was pointing a heavy pistol.
+s=
 
 “It’s nothing, sir—only a little crucifix! I found it.”
 s=cock
 
 He drew out a golden cross studded with diamonds, and on it a Christ of ivory.
-s=
+s=;c=
 
 “You see, it’s for my wife,” the Cockney explained.
-s=cock
+s=cock;c=cock
 
 “Ah! for your Spanish wife!”
 s=h
@@ -7589,7 +7607,7 @@ s=;e:cock=f
 s=cock
 
 Then he seemed to be clutched by invisible, huge fingers.
-s=;c=;b=action
+s=;c=;b=think
 
 His arms dropped stiffly to his sides, his lips sagged open, and a dull, imbecilic light came into his eyes.
 
@@ -7601,16 +7619,16 @@ Captain Morgan fired.
 b=action
 
 For a moment the Cockney seemed to grow smaller. His shoulders drew in until they nearly covered his chest, like short wings.
-
+b=think
 
 His hands clenched, and then the whole contracted mass fell to the ground, convulsing like a thick, animate jelly.
-b=proad-ruin;c=,h
+
 
 His lips drew back from his teeth in a last idiot snarl.
 
 
 Henry Morgan stirred the body with his foot, and a change stirred in his mind. He had killed this man.
-x:h=;e:h=c
+x:h=;e:h=c;b=proad-ruin
 
 It was his right to kill, to burn, to plunder—not because he was ethical nor even because he was clever, but because he was strong.<e>Your self-insert sure grew up to be clever and strong, Steinbeck.</e>
 
@@ -7621,11 +7639,11 @@ c=;b=pcity-ruins
 There was no will in Panama save Henry Morgan’s will.
 
 
-He could slaughter every human in the country if he so chose. All this was true.
+He could slaughter every human in the country if he so chose. All this was true. No one would deny it.
 
 
-No one would deny it. But in the palace back there was a woman who held his power and his will in contempt, and her contempt was a stronger weapon than his will.
-b=garden
+But in the palace back there was a woman who held his power and his will in contempt, and her contempt was a stronger weapon than his will.
+b=garden;f:b:garden=blur(3px)
 
 She fenced at his embarrassment and touched him at her convenience. But how could that be? he argued.
 
@@ -7649,36 +7667,45 @@ In the Hall of Audience he threw off his pistols, but the gray rapier remained a
 b=serpent-chair
 
 Ysobel was kneeling before a holy picture in her little whitewashed cell when Henry Morgan burst upon her.
-c=,,,h;e:h=m;b=cell2
+e:h=m;b=cell2;v=100,130
 
 The dried duenna shrank into a corner at the sight of him, but Ysobel regarded him intently, noted his flushed face, his half-closed, fierce eyes.
-c=!du,,,h;e:du=f
+e:du=f
 
-She heard his heavy breathing, and with a smile of comprehension rose to her feet. Her laughter rang banteringly as she drew a pin from her bodice and assumed the position of a fencer.<e>Now I know Steinbeck said "pin", but it wouldn't be cooler if she was holding a big-ass dagger instead.</e>
-e:la=s;x:la=pin;c=!du,la,,h
+She heard his heavy breathing, and with a smile of comprehension rose to her feet.
+
+
+Her laughter rang banteringly as she drew a pin from her bodice and assumed the position of a fencer.
+c=la;e:la=s;x:la=pin
 
 One foot forward, her left arm held behind her for balance, the pin pointed before her like a foil.
 
 
 “En garde!” she cried.
-s=la;c=!du,la,,h
+s=la
 
 Then the captain rushed at her. His arms encircled her shoulders and his hands were tearing at her clothing.
 s=;c=;b=action
 
 Ysobel stood quite still, but one hand darted about with its pin—striking, striking—like a small white serpent.<e>The snake-women theme has already come up a few times in this book, and obviously Steinbeck goes on to revive the idea in his much-improved <book>East of Eden</book>, but since the description here is specifically a "white serpent", I feel the need to accuse him of ripping off that most famous work of Bram Stoker's: <book>Lair of the White Worm</book>.</e>
-c=la;b=cell2;v=100,120
+
 
 Little spots of blood appeared on Henry’s cheeks, on his throat.
-c=h;x:h=blood
+c=h;x:h=blood;b=cell2
 
-“Your eyes next, Captain,” she said quietly, and stabbed him thrice on the cheekbone.
-s=la;c=la
+“Your eyes next, Captain,” she said quietly,
+s=la;m=allowbreak
 
-Henry released her and stepped away, wiping his bloody face with the back of his hand. Ysobel laughed at him.
-s=;c=h;e:h=f
+and stabbed him thrice on the cheekbone.
+b=action;m=;s=;c=
 
-A man may beat—may subject to every violation—a woman who cries and runs away, but he is helpless before one who stands her ground and only laughs.<e>Again Steinbeck, do you really mean this literally? Because saying something in an overwrought poetic way doesn't suddenly make it make sense.</e>
+Henry released her and stepped away, wiping his bloody face with the back of his hand.
+s=;e:h=f;b=cell2
+
+Ysobel laughed at him.
+
+
+A man may beat—may subject to every violation—a woman who cries and runs away, but he is helpless before one who stands her ground and only laughs.<e>Stating something in a poetic way doesn't suddenly mean it makes sense.</e>
 c=
 
 “I heard a shot,” she said. “I thought perhaps you had killed someone to justify your manhood. But your manhood will suffer now, will it not?”
@@ -7690,29 +7717,35 @@ s=la;c=la
 Her tone was gloating and cruel.
 s=
 
-Henry’s hand slipped to his side, and the lean rapier crept from its sheath like a frozen serpent.<e>And for Henry's next trick: he materializes a new sword from the aether. (Oops.)</e>
-c=,la,,h;x:h=blood,rapier;e:h=m;v=
+Henry’s hand slipped to his side, and the lean rapier crept from its sheath like a frozen serpent.
+x:h=blood,rapier;e:h=m;c=
 
 The light licked viciously along its lank blade. At last the needle point came out, and the steel turned and pointed at the woman’s breast.
 
 
-Ysobel grew sick with terror. “I am a sinner,” she said.
-s=la;e:la=f
+Ysobel grew sick with terror.
+;e:la=f
 
-Then a dawning relief came into her face. She motioned the aged duenna to her and spoke in rapid, clattering Spanish.
-s=;e:la=t
+“I am a sinner,” she said.
+s=la;c=la
+
+Then a dawning relief came into her face.
+s=;e:la=t;
+
+She motioned the aged duenna to her and spoke in rapid, clattering Spanish.
+c=
 
 “It is true,” said the old woman. “It is true.”
-s=du;c=!du,la,,h
+s=du;z:du=,,5,92
 
 At the end of her speaking, Ysobel thriftily drew aside the webby lace of her mantilla that it might not be spotted with blood.
-s=;x:la=mantillaless
+s=;x:la=mantillaless;c=la
 
 The duenna began interpreting.
-e:du=c
+e:du=c;c=
 
 “Sir, my mistress says that a true Catholic who dies at the hand of an infidel goes to heaven. This is true.”
-s=du;e:h=g
+s=du;e:h=g;c=du
 
 “Further, she says that a Catholic woman who dies protecting her holy marriage vow goes straightway to heaven. This also is true.”
 
@@ -7724,13 +7757,16 @@ e:du=t
 e:du=c
 
 Ysobel spoke to her again.
-s=;e:h=n
+s=;e:h=n;c=
 
 “My mistress bids you strike; more, she urges it, pleads for the blow. The angels are hovering about her head. She sees the great light, and the holy music is sounding in her ears.”
-s=du
+s=du;c=du
 
-The rapier point lowered. Henry Morgan turned away and gazed out into the sunlit garden.
-s=;b=garden;c=;x:h=blood
+The rapier point lowered.
+c=;s=
+
+Henry Morgan turned away and gazed out into the sunlit garden.
+s=;b=garden;c=;x:h=blood;f:b:garden=
 
 Little Chico came galloping along the path and sat down in the open doorway.
 
@@ -7744,11 +7780,11 @@ The lean rapier made a sharp swishing sound as it drove into its scabbard.
 And Captain Morgan stooped to pick up the tiny monkey. He walked away stroking Chico’s head with his forefinger.
 
 
-### V<e>Well since <i>It's a Wonderful Life</i> came up earlier, by point of analogy: imagine if in that movie, if George turned down Potter's job offer not because of how it'd be a betrayal to his friends and morals, but because he was just too physically weak to give Potter a firm handshake. That's this book's morals.</e>
+### V
 r=card
 
 Henry Morgan lifted a golden cup from the heap of loot.
-b=serpent-chair;x:h=cup;c=h
+b=serpent-chair;x:h=cup;c=h;v=,130
 
 It was a lovely, slender chalice with long curved handles and a rim of silver.
 
@@ -7775,7 +7811,7 @@ The hand had been always behind him, a giant hand to wring the man’s body unti
 
 
 Henry wondered, now, why he had wanted to hurt the little man, to torture him, and finally to kill him.
-b=think;c=cock;e:cock=
+b=think;e:cock=
 
 Jones had been shadowed through all his life by a sleepless tormentor.
 
@@ -7817,7 +7853,7 @@ It would be the pity of a young, handsome man who condones the amorous failure o
 
 
 And then, Coeur de Gris was something like a woman for knowing things—something like Ysobel.
-
+b=think
 
 He gathered information with a mysterious hidden eye.
 
@@ -7831,7 +7867,7 @@ c=
 Perhaps, after a long time, she would fall in love with him, but not, surely, because of merits in himself.
 
 
-Her contempt had convinced him that he had no merits; that he was a monstrous being, set apart from other men by unmentionable ugliness.<e>I guess this book has a fourth theme: weird (sexual?) shame. Which ties back into the young Henry of Chapter 1. So I don't really like it, but at least Steinbeck is trying for some cohesive idea.</e>
+Her contempt had convinced him that he had no merits; that he was a monstrous being, set apart from other men by unmentionable ugliness.
 
 
 She had not said so much, but she had intimated it.
@@ -7862,7 +7898,7 @@ He rammed a bullet into the muzzle of his pistol.
 
 
 A draggled, unkempt figure came through the doorway. It was Coeur de Gris, a red-eyed, mud-spattered Coeur de Gris with the blood of the battle still on his face.
-c=f,;x:f=blood;v=100,80
+x:f=blood;v=100,80
 
 He looked at the heap of treasure.
 
@@ -7871,13 +7907,16 @@ He looked at the heap of treasure.
 s=f
 
 “Where have you been, Coeur de Gris?”
-s=h;c=f,h;e:h=g;b=serpent-chair
+s=h;e:h=g;b=serpent-chair
 
 “Been? Why, I have been drunk. It is good to be drunk after fighting.”
 s=f
 
-He smiled wryly and licked his lips. “It is not so good to stop being drunk. That is like childbirth—necessary, but unpleasant and unornamental.”
-e:f=s
+He smiled wryly and licked his lips.
+s=
+
+“It is not so good to stop being drunk. That is like childbirth—necessary, but unpleasant and unornamental.”
+e:f=s;s=f
 
 “I wanted you by my side,” said Henry Morgan.
 s=h
@@ -7888,8 +7927,11 @@ s=f
 “You see, sir, I did not want to remember your reason for being alone.”
 e:f=t
 
-He paused. “It was told me, sir, that the Red Saint is here.”
+He paused.
+s=
 
+“It was told me, sir, that the Red Saint is here.”
+s=f
 
 Coeur de Gris laughed at his own ill-concealed emotion. He changed his manner with an effort of will.
 s=;e:f=s
@@ -7910,10 +7952,10 @@ There was a sharp crash and a white billow of smoke.
 b=action;c=
 
 Coeur de Gris stood as he was.
-b=serpent-chair;x:f=blood,blood2;e:f=j;c=f,h
+b=serpent-chair;x:f=blood,blood2;e:f=j;b=think
 
 He seemed to be intently listening to some distant, throbbing sound.
-
+c=f;v=100,130
 
 Then a grimace of terror spread on his face.
 e:f=f
@@ -7921,23 +7963,26 @@ e:f=f
 His fingers frantically explored his breast and followed a trickle of blood to its source, a small hole in his lung. The little finger edged into the hole.
 
 
-Coeur de Gris smiled again. He was not afraid of certain things.
+Coeur de Gris smiled again.
 e:f=s
 
-Now that he knew, he was not frightened any more.
-
+He was not afraid of certain things. Now that he knew, he was not frightened any more.
+c=
 
 Captain Morgan stared stupidly at the pistol in his hand.
-c=
+c=;b=serpent-chair
 
 He seemed surprised to discover it there, startled at its presence.
 
 
 Coeur de Gris laughed hysterically.
-c=f;v=100,120
 
-“My mother will hate you,” he cried ruefully. “She will practice all her ancient curses upon you. My mother—” he choked over his breath.
+
+“My mother will hate you,” he cried ruefully.
 s=f
+
+“She will practice all her ancient curses upon you. My mother—” he choked over his breath.
+
 
 “Do not tell her. Make some gleaming lie. Build my poor life up to a golden minaret. Do not let it stop like a half-finished tower. But, no—you need build only a foundation.”
 e:f=t
@@ -7945,8 +7990,11 @@ e:f=t
 “If you give her that, she will continue the structure of heroic memory. She will make for me a tomb of white, inaccurate thoughts.”
 
 
-His throat filled with blood. “Why did you do it, sir?”
-e:f=c
+His throat filled with blood.
+s=
+
+“Why did you do it, sir?”
+s=f;e:f=c
 
 The captain looked up from his pistol.
 s=
@@ -7957,7 +8005,10 @@ s=h;x:h=;e:h=j
 He saw the bloody lips, the torn breast; he started up from his chair and then fell back again.
 s=
 
-Misery was writing lines about his eyes. “I do not know,” he said.
+Misery was writing lines about his eyes.
+s=
+
+“I do not know,” he said.
 s=h;e:h=u
 
 “I must have known, but I have forgotten.”
@@ -8000,7 +8051,7 @@ s=f;e:f=g
 e:f=c
 
 His wrists weakened and he fell to his side and lay there coughing at the obstruction in his throat.
-s=
+s=;b=think
 
 Then, for a time, there was no sound in the room save his uneven gasping for breath.
 
@@ -8021,7 +8072,7 @@ The streaming rays of the sun made the treasure on the floor glow like a mass of
 
 
 His eyes wandered to the body in front of him. He shuddered.
-
+b=think
 
 And then he went to Coeur de Gris, picked him up, and sat him in a chair.
 
@@ -8069,7 +8120,7 @@ He was interrupted by a tramp of feet on the stairs.
 n:men1=Soldier; s=;b=serpent-chair
 
 A band of his men entered, driving in their midst a poor frightened Spaniard—a mud-draggled, terrified Spaniard.
-n:span=Spaniard;c=men2,span,men1,,;e:span=f;v=100,80
+n:span=Spaniard;e:span=f;v=100,80
 
 The lace had been torn from his neck, and a little stream of blood ran from one sleeve.
 
@@ -8077,7 +8128,10 @@ The lace had been torn from his neck, and a little stream of blood ran from one 
 “Here is a Spaniard, sir,” the leader said. “He came to the city bearing a white flag. Shall we respect the white flag, sir? He has silver on his saddle. Shall we kill him, sir? Perhaps he is a spy.”
 s=men2
 
-Henry Morgan ignored the speech. Instead he pointed to the body in the chair.
+Henry Morgan ignored the speech.
+s=
+
+Instead he pointed to the body in the chair.
 s=;c=;b=f-chair
 
 “That is only a dead thing,” he announced. “That is not Coeur de Gris. I sent Coeur de Gris away. He will be back soon.”
@@ -8096,13 +8150,16 @@ s=;b=serpent-chair
 s=h
 
 “This Spaniard, sir; what shall we do with him? Shall we kill him?”
-s=men2;c=men2,span,,,
+s=men2
 
 “What Spaniard?”
-s=h;c=men2,span,,,h
+s=h;
 
-“Why, this one before you, sir.” He shoved the man forward. Henry seemed to awaken from a deep dream.
-s=men2;c=men2,,span,,h
+“Why, this one before you, sir.”
+s=men2
+
+He shoved the man forward. Henry seemed to awaken from a deep dream.
+s=
 
 “What do you want?” he asked harshly.
 s=h;e:h=g
@@ -8113,8 +8170,11 @@ s=
 “It—it is my wish and the wish of my padrone to have speech with one Captain Morgan, if he will have the goodness. I am a messenger, Señor—not a spy, as these—these gentlemen suggest.”
 s=span
 
-“What is your message?” Henry’s voice had become weary.
+“What is your message?”
 s=h;e:h=w
+
+Henry’s voice had become weary.
+s=
 
 The messenger took reassurance from his changed tone.
 s=;e:span=
@@ -8134,7 +8194,10 @@ s=h;e:h=t
 “She is the Doña Ysobel Espinoza, Valdez y los Gabilanes, Señor. The simple people of the city have called her La Santa Roja.”
 n:Ysobel=Doña Ysobel Espinoza; s=span
 
-Henry Morgan regarded him for a long time. “Yes, I have her,” he said finally.
+Henry Morgan regarded him for a long time.
+s=
+
+“Yes, I have her,” he said finally.
 s=h
 
 “She is in a cell. What does her husband wish?”
@@ -8149,14 +8212,20 @@ s=h;e:h=t
 “What would Your Excellency suggest?”
 s=span
 
-“Twenty thousand pieces of eight,” Henry said quickly. The messenger was staggered.
+“Twenty thousand pieces of eight,” Henry said quickly.
 s=h;e:span=j
 
-“Twenty thous—*viente mil*—” He translated fully to comprehend the enormity of the amount.
+The messenger was staggered.
+s=
+
+“Twenty thous—*viente mil*—”
 s=span
 
-“I perceive that Your Excellency also wants the woman.”
+He translated fully to comprehend the enormity of the amount.
+s=
 
+“I perceive that Your Excellency also wants the woman.”
+s=span
 
 Henry Morgan looked at the body of Coeur de Gris.
 s=;c=;b=f-chair
@@ -8165,7 +8234,7 @@ s=;c=;b=f-chair
 s=h
 
 Now the messenger was relieved.
-s=;b=serpent-chair;c=men2,,span,,h
+s=;b=serpent-chair
 
 He had been prepared to think this great man a great idiot.
 
@@ -8231,7 +8300,7 @@ They, dear economists, were gaining back some of the lost treasure, using a weap
 
 
 In a corner of the warehouse sat The Burgundian and his one-armed protector.
-c=bur1,bur2,,;e:bur2=s
+e:bur2=s
 
 “See, Emil! That one there—Consider to yourself her hips now!”
 s=bur2
@@ -8267,9 +8336,9 @@ About him the dancers rocked and the air was reeking with the shrill cries of th
 s=;c=
 
 Captain Sawkins glowered at the dancers. He firmly believed that to dance was to go to hell by a short route.
-c=saw;e:saw=g
+e:saw=g
 
-Beside him, Captain Zeigler sadly watched the flow of liquor. This Zeigler was called the Tavern Keeper of the Sea.<e>The first and only appearance for four lines of a "Captain Zeigler" will not be earning him his own sprite.</e>
+Beside him, Captain Zeigler sadly watched the flow of liquor. This Zeigler was called the Tavern Keeper of the Sea.
 c=
 
 It was his practice, after a raid, to keep the men at sea until they had spent their plunder buying the rum which he supplied.
@@ -8288,10 +8357,10 @@ He could barely hear the crying music of the dance.
 
 
 Throughout the day little bands of men had come in, bearing bits of belated treasure dug from the earth or drawn with iron hooks from the cisterns.
-
+b=think
 
 One old woman had swallowed a diamond to save it, but the searchers dug for that, too, and found it.
-b=missing
+
 
 Now a gray twilight was in the Hall of Audience.
 b=serpent-chair-mod-h
@@ -8309,7 +8378,7 @@ In the years of his life and of his adventuring, he had believed so completely i
 
 
 But today he had considered himself, and, in the gray twilight, he was bewildered at the sight of Henry Morgan.
-c=h;e:h=t
+e:h=t
 
 Henry Morgan did not seem worthy, or even important. Those desires and ambitions toward which he had bayed across the world like a scenting hound, were shabby things now he looked inward at himself.
 
@@ -8356,7 +8425,10 @@ s=la;e:la=r
 “Yes.”
 s=h
 
-She pointed to a chair and forced Henry to seat himself. “You did not understand me,” she said.
+She pointed to a chair and forced Henry to seat himself.
+s=
+
+“You did not understand me,” she said.
 s=la;c=;e:la=c
 
 “You could not understand me. You must know something of the life I have traveled. I must tell you this thing, and then you will understand me, and then—”
@@ -8410,7 +8482,7 @@ e:la=t
 “When I spoke to one of the sisters about this night she said, ‘it is wicked to hear such things, and more wicked to think of them. You must do penance for your curious ears. What gate did you say?’”
 e:la=c
 
-“The fishmonger would cry, ‘Come, little gray angels, and look on my basket of catch. Come out of your holy prison, little gray angels.’”<e>Wait what.</e>
+“The fishmonger would cry, ‘Come, little gray angels, and look on my basket of catch. Come out of your holy prison, little gray angels.’”
 
 
 “One night I climbed over the wall and went away from the city. I do not mean to tell you of my journeying, but only of the day when I came to Paris.”
@@ -8441,16 +8513,16 @@ e:la=c
 
 
 Her eyes were on fire.
-s=
+s=;b=cell2
 
 “I walked back to Cordova, and my feet were torn. I did penance until my body was torn, but I could not drive out all the devil. I was exorcised, but the devil was deep in me. Can you understand that, Captain?”
 s=la;e:la=t
 
 She looked into Henry’s face and saw that he had not been listening.<e>He's probably also still hung up on that "fishmonger" line.</e>
-s=;c=,h;e:h=w;b=cell2
+s=;;e:h=w;
 
 She stood beside him and moved her fingers in his graying hair.
-c=!la,h;e:la=c
+e:la=c
 
 “You are changed,” she said.
 s=la
@@ -8563,7 +8635,10 @@ s=h;e:la=
 “Go back to your husband’s scented hands.”
 
 
-She smiled and raised her eyes to the holy picture on the wall. “Peace go with you, dear fool,” she murmured. “Ah, I too have lost my youth.”
+She smiled and raised her eyes to the holy picture on the wall.
+s=
+
+“Peace go with you, dear fool,” she murmured. “Ah, I too have lost my youth.”
 s=la;e:la=s
 
 “I am old—old—for I cannot console myself with the thought of what you have missed.”
@@ -8573,10 +8648,10 @@ s=la;e:la=s
 r=card
 
 Henry Morgan stood in the doorway of the Hall of Audience and watched a little troupe of Spaniards ride through the streets toward the palace. The troupe was surrounded on all sides by a mob of buccaneers.
-b=ppalace
+b=cavalcade
 
 First in the line came the messenger, but a changed messenger. Now he was dressed in scarlet silk. The plume of his hat and his sword’s scabbard were white in token of peace.
-c=span;x:span=silk
+;x:span=silk
 
 Behind him rode six soldiers in silver breastplates and the Spanish helmets which looked like half mustard seeds.
 c=;b=cavalcade
@@ -8587,26 +8662,32 @@ The last soldier led a riderless white mare with crimson trappings and a line of
 Following the mare were six mules bearing heavy leathern bags, and the group was rear-guarded by six more soldiers.
 
 
-The cavalcade drew up before the palace. The messenger leaped from his horse and bowed to Henry Morgan.
-b=ppalace;c=,h
+The cavalcade drew up before the palace.
+b=ppalace
+
+The messenger leaped from his horse and bowed to Henry Morgan.
+
 
 “I have here the ransom,” he said.
-s=span;c=span,h;e:span=w
+s=span;e:span=w;v=100,130
 
 He looked worried and tired. The weight of his mission was riding heavily on his spirit.
 s=
 
 At his command the soldiers carried the leather bags into the Hall of Audience, and only when they were all deposited with the rest of the treasure did the anxiety leave his face.
-c=;b=serpent-chair;v=100,80
+c=;b=serpent-chair
 
 “Ah,” he said, “it is good. It is the treasure. Twenty thousand pieces of eight—not one lost by the wayside. I invite you to count them, Señor.”
-s=span;c=span,;e:span=
+s=span;e:span=
 
-He whipped a little dust from his foot. “If my men could have refreshments, Señor; wine—” he suggested.
+He whipped a little dust from his foot.
+s=
 
+“If my men could have refreshments, Señor; wine—” he suggested.
+s=span
 
 “Yes. Yes.”
-s=h;c=span,h
+s=h
 
 Henry motioned to one of his followers.
 s=
@@ -8648,7 +8729,7 @@ He flung the coins into a heap and patiently set about to rebuild them. Enough t
 
 
 Now Ysobel came from the patio and stood beside him.
-c=la;e:la=a
+e:la=a
 
 “What an amount of money,” she said.
 s=la
@@ -8662,8 +8743,11 @@ s=h
 “But what a very great deal! Am I worth that much, do you think?”
 s=la
 
-“To your husband you are. He paid it for you.” He moved ten towers into a line.
+“To your husband you are. He paid it for you.”
 s=h
+
+He moved ten towers into a line.
+s=
 
 “And to you—how much? How many of these golden chips?”
 s=la;e:la=s
@@ -8687,7 +8771,7 @@ s=h
 s=la;e:la=s
 
 Henry Morgan said, “If I were ever captured and a ransom demanded for me, I would not be worth a copper penny. These dogs of mine would laugh and shrug.”
-c=,h;s=h;e:h=c
+;s=h;e:h=c
 
 “A new captain would raise to lead them, and I—well, I would be subject to the pleasure of my captors, and I think I could foretell their pleasure.”
 
@@ -8698,8 +8782,8 @@ e:h=t
 “The builder of your Cathedral is forgotten even now, but I, who burned it, may be remembered for a hundred years or so. And that may mean something or other about mankind.”
 
 
-“But what is there about me that is worth all this gold?” she insisted.<e>It's her charming personality.</e>
-s=la;c=la,h
+“But what is there about me that is worth all this gold?” she insisted.<e>Charming personality.</e>
+s=la
 
 “Is it my arms, do you suppose? My hair? Or is it that I am the embodiment of my husband’s vanity?”
 
@@ -8728,20 +8812,26 @@ s=la;e:la=s
 “No; I am not even bitter. The food that bitterness feeds on is gone out of me.”
 s=h;e:la=
 
-“I am going now,” she said softly and wistfully. “Have you nothing more to say to me about myself? Nothing more to ask of me?”
+“I am going now,” she said softly and wistfully.
 s=la;e:la=w
 
-“Nothing,” he answered, and immediately went to piling the coins again.
-s=h;e:h=;c=la,
+“Have you nothing more to say to me about myself? Nothing more to ask of me?”
+
+
+“Nothing,” he answered,
+s=h;e:h=;m=allowbreak;
+
+and immediately went to piling the coins again.
+s=;m=
 
 The messenger entered from the street.
-s=;c=span,la,,,;e:span=h
+e:span=h;s=
 
 He had drunk deeply, for the removed burden of his mission had made him joyous.
 
 
 He bowed to Ysobel and to Henry Morgan; bowed warily, with an eye to his balance.
-c=span,la,,h,
+
 
 “We must go, Señor,” he announced loudly. “The way is long.”
 s=span
@@ -8759,7 +8849,7 @@ But then she bent her head over the mare’s neck; she was intently studying the
 
 
 The messenger had remained standing at Henry’s side in the doorway.
-b=ppalace;c=span,h
+b=ppalace
 
 Together they watched the fluid line of riders swing away while the sunlight glinted on the soldiers’ armor.
 
@@ -8768,7 +8858,7 @@ In the center of the troupe, the white mare seemed a pearl in a setting of silve
 
 
 The messenger put his hand on Henry’s shoulder.
-b=ppalace;c=span,h
+b=ppalace
 
 “We know how to understand each other, we men of responsibilities,” he said drunkenly.
 s=span;e:h=g
@@ -8776,7 +8866,10 @@ s=span;e:h=g
 “It is not as though we were children to have secrets. We are men, brave men and strong. We may confide in each other. You may tell me the thing nearest your heart if you wish, Señor.”
 
 
-Henry shook the hand from his shoulder. “I have nothing to tell you,” he said brusquely.
+Henry shook the hand from his shoulder.
+s=
+
+“I have nothing to tell you,” he said brusquely.
 s=h
 
 “Ah; but then I will tell you something. Perhaps you wondered why the husband of this woman was willing to pay such a vast sum for her. She is only a woman, you say.”
@@ -8791,14 +8884,20 @@ s=span
 “Now if she were killed or carried off—But you understand, Señor—Poof! The fortune into the King’s arms!”
 
 
-He laughed at the cleverness of his reasoning. “We understand each other, Señor. We have tough skulls—not the soft heads of chickens.”
+He laughed at the cleverness of his reasoning.
+s=
+
+“We understand each other, Señor. We have tough skulls—not the soft heads of chickens.”
+s=span
+
+“Twenty thousand—it is nothing to be reckoned against ten silver mines. Ah, yes; we understand each other, we men of responsibilities.”
 
 
-“Twenty thousand—it is nothing to be reckoned against ten silver mines. Ah, yes; we understand each other, we men of responsibilities.”<e>Narratively, this twist is fine. But in the context of the story, why would the messenger tell him this now?</e>
+He clambered into his saddle and rode away still laughing.
+s=
 
-
-He clambered into his saddle and rode away still laughing. Henry Morgan saw him join the undulating cavalcade; and now there was a ruby with the pearl in the silver setting.
-s=;c=,h
+Henry Morgan saw him join the undulating cavalcade; and now there was a ruby with the pearl in the silver setting.
+s=;
 
 Captain Morgan went back to the treasure.
 b=serpent-chair;c=
@@ -8831,10 +8930,10 @@ t=h;e:h=c
 e:h=t
 
 “But other men have a share in this gold,” part of his brain argued.
-t=
+t=;m=dialogue
 
 “No, my dear conscience; we have an end of acting now. I have put on new glasses; rather they have been locked about my head, and I must order my life in accordance with the world I see through these new lenses.”
-t=h
+t=h;m=
 
 “I see that honesty—public honesty—may be a ladder to a higher, more valuable crime; veracity a means to more subtle dissimulation.”
 
@@ -8842,8 +8941,11 @@ t=h
 “No; these men have no rights they can enforce. These men were too free with the rights of others to deserve consideration.”
 
 
-He stumbled happily on the thought. “They steal, and so shall their plunder be stolen.”
-e:h=s
+He stumbled happily on the thought.
+t=
+
+“They steal, and so shall their plunder be stolen.”
+e:h=s;t=h
 
 “But I said I was finished with evasions and conscience drugging. What have I to do with right, now—or reason, or logic, or conscience? I want this money.”
 e:h=c
@@ -8866,8 +8968,11 @@ r=card
 The buccaneers went out of ruined Panama. They carried all of the treasure with them across the isthmus on the backs of mules.
 b=pcity-ruins
 
-When at last Chagres was reached, they were exhausted; nevertheless, the following day was set for the division of spoils. In order that this might be facilitated, the whole of the treasure was stored in one ship, the great galleon which had been commanded by a Duke before the pirates captured it.
+When at last Chagres was reached, they were exhausted; nevertheless, the following day was set for the division of spoils.
 b=pbeach-mod-treasure-ship
+
+In order that this might be facilitated, the whole of the treasure was stored in one ship, the great galleon which had been commanded by a Duke before the pirates captured it.
+
 
 From this center the plunder was to be divided. Captain Morgan was in good spirits. The journey was over, he told the men, and it was time for pleasure. He rolled out forty kegs of rum onto the beach.
 
@@ -10502,4 +10607,4 @@ The fire went out of the ember with a dry, hard snap. There was no light anywher
 c=;f:b:grotto=blur(25px) brightness(50%)
 
 For a moment, Henry was conscious of the deep, mellow pulsation of the Tone.<e>The End. So little Elizabeth was the Rosebud of the story or something. And we had some happy fun morals along the way. So not Steinbeck's best work, but it wasn't completely awful. (Now his next book to enter public domain is a werewolf murder mystery, and that I expect to be awful.) The real moral of the story is: eventually Steinbeck did get better, and that's a lesson in perseverance for all of us.</e>
-z:a1=86;z:bur1=81;z:bur2=105;z:c=90;z:c-amid=95;z:c-aold=95;z:cock=70;z:cook=95,,5;z:dp=102,45,5;z:dg=97,,8;z:doc=95;z:drunk=102,,9;z:e=103,45,1;z:f=105,,7;z:gov=95,42,4;z:grippo=105;z:h=91,,2;z:h-a18=102,,3;z:h-a30=102,,3;z:h-aold=102;z:h-adeath=102;z:hal=110,,16;z:ie=92;z:j=93,,1;z:la=96;z:ladm=98;z:liz-aghost=75;z:m=90,,2;z:men1=97;z:men2=102;z:p=89,,2;z:pris2=97;z:r2=97,,5;z:r3=103,45,6;z:r4=98,,5;z:span=96;z:t=106,,1;z:w=92,,4,80
+z:a1=86;z:bur1=81,,5;z:bur2=105;z:c=90;z:c-amid=95;z:c-aold=95;z:cock=70;z:cook=95,,5;z:dp=102,45,5;z:dg=97,,8;z:doc=95;z:drunk=102,,9;z:e=103,45,1;z:f=105,,7;z:gov=95,42,4;z:grippo=105;z:h=91,,2;z:h-a18=102,,3;z:h-a30=102,,3;z:h-aold=102;z:h-adeath=102;z:hal=110,,16;z:ie=92;z:j=93,,1;z:la=96,36,,93;z:ladm=98;z:liz-aghost=75;z:m=90,,2;z:men1=97;z:men2=102,,3;z:p=89,,2;z:pris2=97;z:r2=97,,5;z:r3=103,45,6;z:r4=98,,5;z:span=96,40;z:t=106,,1;z:w=92,,4,80
