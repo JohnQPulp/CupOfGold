@@ -8,7 +8,7 @@ You can read it in a few ways:
 * Locally at http://localhost:1929/vn/cupofgold running https://github.com/JohnQPulp/PublicDomainPulp (ASP.NET/C#) from source
 * Locally via static html file using the tool https://github.com/JohnQPulp/Pulpifier (C#) from source
 
-![Preview](images/preview.webp)
+![Preview](images/preview.avif)
 
 ### License Information
 
