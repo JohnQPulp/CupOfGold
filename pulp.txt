@@ -1,4 +1,4 @@
-<div class='center'><span class='big italics'>Cup of Gold: A Life of Sir Henry Morgan, Buccaneer, with Occasional Reference to History</span> by&nbsp;John&nbsp;Steinbeck</div><e>Thought Steinbeck was all poverty and tragedy, did you? <i>No.</i> His first book is pirates.</e>
+Cup of Gold<br>A Life of Sir Henry Morgan, Buccaneer, with Occasional Reference to History<br>John Steinbeck<e>Thought Steinbeck was all poverty and tragedy, did you? <i>No.</i> His first book is pirates.</e>
 n:author=;b=title;t=author;z:author=,,2;h=no-speaker-counter
 
 ## Chapter I
