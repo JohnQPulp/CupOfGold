@@ -295,7 +295,7 @@ s=;m=
 “Well, Robert—it’s about the green jungle I wanted to tell and the brown Indians that live in it, and about him they call Pierre le Grand.”
 e:d=;s=d
 
-“But, Robert, there’s something gone out of me like a little winking light. I used to lie on the deck of ships at night and think and think how I’d talk arid boast when only I came home again—but it’s more like a child, I am, come home to cry.”
+“But, Robert, there’s something gone out of me like a little winking light. I used to lie on the deck of ships at night and think and think how I’d talk and boast when only I came home again—but it’s more like a child, I am, come home to cry.”
 
 
 “Can you understand that, Robert? Can you understand that at all?”
@@ -730,7 +730,7 @@ r=card
 Young Henry turned soon from the road to climb up a broad trail which soared to Crag-top and then over the wild mountains.
 n:w=Merlin;b=trail;e:h=c;v=100,100,40
 
-Its windings could be seen from below until it disappeared into the great deft.
+Its windings could be seen from below until it disappeared into the great cleft.
 
 
 And on the topmost point of the trail dwelt Merlin; Merlin whom the farm boys might have jeered at and stoned on his infrequent journeys down the path had they believed him harmless.<e>That jeerer's name? <book>A Connecticut Yankee in King Arthur's Court|Samuel Clemens</book>.</e>
@@ -1738,7 +1738,7 @@ Now the crimps were coming out of their holes, and the sniffling gamblers who pr
 Seamen on shore leave rubbed their puffed eyes and looked into the sky for weather signs as they lounged against the walls. Henry wondered what these men had seen in the sailing days of their lives.
 
 
-He stepped aside for a line of carts and tumbrels leaded with boxes and bales for the ships, and immediately had to dodge another line coming away, loaded with goods from across the sea.
+He stepped aside for a line of carts and tumbrels loaded with boxes and bales for the ships, and immediately had to dodge another line coming away, loaded with goods from across the sea.
 
 
 He came at last to a busy inn. “The Three Dogs” it was called, and there they were on the sign looking very like three startled dromedaries.
