@@ -8192,7 +8192,7 @@ s=span
 s=h;e:h=t
 
 “She is the Doña Ysobel Espinoza, Valdez y los Gabilanes, Señor. The simple people of the city have called her La Santa Roja.”
-n:Ysobel=Doña Ysobel Espinoza; s=span
+s=span
 
 Henry Morgan regarded him for a long time.
 s=
